@@ -1,5 +1,14 @@
+import json
+
 
 class URLIndex: 
+    
+    ''' HARDCODED FOLDER/FILENAMES FOR PERSISTENT STORAGE '''
+    FOLDER:str = "index_jsons/"
+    INDEX_JSON:str = FOLDER + "index.json"
+    NUM_TERMS_JSON:str = FOLDER + "url_num_terms.json"
+    HYPERLINKS_JSON:str = FOLDER + "hyperlinks.json"
+    URLS_JSON:str = FOLDER + "urls.json"
     
     ''' index:dict[str, dict[int,int]] - Index of the terms and their frequencies (key:val == term:[{url_id,frequency}])
         Ex: {
@@ -100,7 +109,7 @@ class URLIndex:
         # Adding the data from the new URL
         self.urls.append(url)                       # Add the url to self.urls
         self.url_num_terms[this_id] = num_terms     # Save the number of terms 
-        self.url_hyperlinks[this_id] = hyperlinks   # Save the hyperlinks
+        if not this_id in self.url_hyperlinks: self.url_hyperlinks[this_id] = hyperlinks   # Save the hyperlinks
         
         # Add the tokenized content for this url to self.index
         for t in tokenized_content: 
@@ -119,4 +128,12 @@ class URLIndex:
                 self.index[t] = curr_val    
         
         return True
-        
+    
+    ''' to_json(folder_path:str) - convert this URL index instance to permenant storage in JSON format 
+        NOTE: uses the hardcoded folder/filenames in this class 
+    '''
+    def to_json(self) -> None: 
+        json.dump(self.index, open(URLIndex.INDEX_JSON, "w"))
+        json.dump(self.url_num_terms, open(URLIndex.NUM_TERMS_JSON, "w"))
+        json.dump(self.url_hyperlinks, open(URLIndex.HYPERLINKS_JSON, "w"))
+        json.dump(self.urls, open(URLIndex.URLS_JSON, "w"))
