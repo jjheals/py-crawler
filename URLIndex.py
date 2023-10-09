@@ -112,11 +112,8 @@ class URLIndex:
                 curr_val = self.index[t]  # Get the current value (url_ids and term freq) for this token in self.index
                 
                 # Check if this url_id already exists in the dict for this token
-                # If this url_id DOES exist already, add 1 to the term frequency 
-                if this_id in curr_val: curr_val[this_id] = curr_val[this_id] + 1   
-                
-                # If this url_id does NOT exist already, then add it with "1" as the term frequency
-                else: curr_val[this_id] = 1                      
+                if this_id in curr_val: curr_val[this_id] += 1  # If this url_id DOES exist already, add 1 to the term frequency
+                else: curr_val[this_id] = 1                     # If this url_id does NOT exist already, then add it with "1" as the term frequency           
                 
                 # Replace this value in self.index with the updated value
                 self.index[t] = curr_val    

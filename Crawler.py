@@ -46,8 +46,9 @@ class Crawler:
         # Perform stemming
         # DO SOMETHING 
         
-        # Remove stop words 
-        # DO SOMETHING ... 
+        # Stop words
+        stop_words = set(nltk.corpus.stopwords.words('english'))            # Get a set of stop words to remove (the, a, an, and, in, ...)
+        tokens = [token for token in tokens if token not in stop_words]     # Remove stop words from the list of tokens 
         
         return tokens    
             
