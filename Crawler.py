@@ -1,9 +1,8 @@
 import requests 
 from bs4 import BeautifulSoup
-import nltk
-import random as rand
 import numpy as np
-from re import sub, compile, match
+from re import sub, compile
+import json
 
 from URLIndex import URLIndex
 
@@ -16,17 +15,25 @@ class Crawler:
             }
     tele_factor:int = 0.1
     
+    # json filenames 
+    index_json:str = 'index.json'
+    urls_json:str = 'urls.json'
+    num_terms_json:str = 'num_terms.json'
+    outbound_links_json:str = 'outbound_links.json'
+    
     # DYNAMIC ATTRIBUTES 
-    index:dict[str,list[int]]   # Index of terms 
-    page_rank_matrix:np.array   # Page rank matrix
-    page_ranks:list[float]      # Precomputed page ranks for each URL where indices correspond to self.urls
-    urls:list[str]              # List of URLs
+    index:dict[str,dict[int,int]]   # Index of terms with values as a dictionary of {key,val} -> {url_id,term_freq}
+    urls:list[str]                  # List of URLs
+    num_terms:list[int]             # List of the number of terms in each URL where indices correspond to self.urls
+    outbound_links:list[list[str]]  # List of lists of outbound links off each URL in self.urls 
     
     def __init__(self):
         self.index = {}             
         self.page_rank_matrix = []   
         self.page_ranks = []        
-        self.urls = []              
+        self.urls = []      
+        self.num_terms = []
+        self.outbound_links = {}        
         
         
     ''' index_url(url)
@@ -42,8 +49,6 @@ class Crawler:
     '''
     def index_url(self, url, tag:str='link') -> int:
          
-        outbound_links:dict[int, list[str]] = {}  # Dict keeping track of the outbound links off the index AND off each frontier to construct matrix later
-
         # Get all the frontiers off the index
         try: 
             response = requests.get(url, headers=Crawler.headers)   # Fetch the HTML content
@@ -70,65 +75,14 @@ class Crawler:
         print(f"FRONTIERS:")
         for f in frontiers: print(f)
         
-        outbound_links[0] = frontiers.copy()
+        self.outbound_links[0] = frontiers.copy()   # Save the outbound links from the index in self.outbound_links
         
-        # Visit all the hyperlinks off this page and get their links
-        while frontiers: 
-            frontier_info = self.parse_url_content(frontiers.pop())
-            
-            # Check if we got a valid response - we've seen the frontier before if not
-            if frontier_info[0] >= 0: outbound_links[frontier_info[0]] = frontier_info[1]
-        
-        print("OUTBOUND_LINKS: ")
-        for k,v in outbound_links.items(): print(f"{k} | {v}")
-        
-        # ---- Calculate the page ranks matrix (self.pageRanks) using the outbound_links dict ---- # 
-        
-        # Initialize self.pageRanks to have all the proper number of rows and columns
-        n:int = len(outbound_links)                     # x == number of URLs we're indexing (including the index) 
-        self.page_rank_matrix = np.zeros((n,n))         # Create a square n * n matrix to avoid index out of bounds errors when adding rows
-        
-        # Formatting the tele matrix
-        tele_matrix = np.ones((n,n))                        # Tele matrix to sum with page rank matrix 
-        tele_matrix = tele_matrix * (self.tele_factor/n)    # Dividnig by the sum (n) and multiplying by the scaler alpha (tele factor)
+        # Visit all the hyperlinks off this page and parse the content
+        # NOTE: parse_url_content adds the outbound links from the frontier to self.outbound_links
+        while frontiers: self.parse_url_content(frontiers.pop())
 
-        # Traverse through outbound_links and convert each key:val into a row in self.pageRanks 
-        # NOTE: v == list[str] of the outbound links for url_id k[int]
-        #   > Normalize each entry at the same time by adding each cell as 1/(num outlinks for this row)
-        #   > Multiply the tele factor (alpha) at the same time, instead of distributing it after 
-        for k,v in outbound_links.items(): 
-            these_outlinks:list[int] = [self.urls.index(out_link) for out_link in v] # Convert the list of outbound links (as strings) to the correspondnig URL indices 
-            this_row:list[int] = list(np.zeros(len(self.urls)))                      # Start with an array of 0s representing NO outlinks
-            
-            # Traverse these_outlinks and set the indices corresponding to the outlinks in these_outlinks to 1/(num outlinks)
-            for i in these_outlinks: this_row[i] = round((1-self.tele_factor)*(1/len(these_outlinks)), 2)            
-            self.page_rank_matrix[k, :] = this_row                                 
-        
-        self.page_rank_matrix = self.page_rank_matrix + tele_matrix             # Sum the page rank matrix with the tele matrix 
-        self.page_rank_matrix = np.round(self.page_rank_matrix, decimals=3)     # Round the values 
-        
-        # Compute the page ranks for each page and store in self.page_ranks by summing the columns of the matrix
-        self.calc_page_ranks()
-        
-        # Return the length of outbound links, since that is the number of urls we visited
-        return len(outbound_links)
-    
-    ''' calc_page_ranks() 
-        
-        PURPOSE: 
-            Calculate the page ranks for each page and stores in self.page_ranks
-
-        RETURNS: 
-            None
-    '''
-    def calc_page_ranks(self) -> None: 
-        x0 = np.zeros(len(self.urls))
-        x0[0] = 1
-        X = [x0]
-        
-        for i in range(1, len(self.urls)): X.append(np.round(np.dot(X[i-1], self.page_rank_matrix), 3))
-        self.page_ranks = X[len(X)-1]
-        
+        # Return the length of the first value in self.outbound_links, since that is the number of urls off the index
+        return len(self.outbound_links[0])
     
     ''' parse_url_content(url) 
         
@@ -139,15 +93,15 @@ class Crawler:
             url (str) - url 
         
         RETURNS: 
-            tuple(frontier's url id, list of frontiers off this url)
+            (int) The URL id in self.urls, i.e. the index, if successful; -1 if error
     '''
     def parse_url_content(self, url) -> (int, list[str]): 
         
         # Check if we've seen this URL before - return if we have
-        if url in self.urls: return (-1, [])
+        if url in self.urls: return -1
         
         # Define the regex pattern for valid URLs
-        pattern = re.compile(Crawler.url_regex_pattern)
+        pattern = compile(Crawler.url_regex_pattern)
         
         try: 
             response = requests.get(url, headers=Crawler.headers) # Fetch the HTML content
@@ -158,24 +112,32 @@ class Crawler:
         
         except requests.exceptions.RequestException as e:
             print(f"Error fetching the content for {url}: {e}")
-            return []
+            return -1
         except Exception as e:
             print(f"Error: {e}")
-            return []
+            return -1
         
         # Find links in the content
         frontiers = [f"{link.get('href')}" for link in soup.find_all('a') if pattern.match(str(link.get('href')))]
         
-        # Remove duplicates in the frontiers list by casting to a set and back to list
-        frontiers = list(set(frontiers))           
+        frontiers = list(set(frontiers))            # Remove duplicates in the frontiers list by casting to a set and back to list  
+        self.outbound_links[url_id] = frontiers     # Add the outbound links for this frontier to self.outbound_links
         
-        # Tokenize the content and add tokens to self.index
-        tokens:list[str] = self.tokenize(soup.text)      
+        # ---- Tokenization ---- #
+        tokens:list[str] = self.tokenize(soup.text)     # Tokenize the content 
+        self.num_terms.append(len(tokens))              # Record the number of terms in self.num_terms
+        
+        # Add the tokens and corresponding term freqs to self.index
         for t in tokens: 
-            try: self.index[t].append(url_id) 
-            except KeyError: self.index[t] = [url_id] 
-            
-        return url_id, frontiers
+            if t in self.index:             # If token exists in the index  
+                if url_id in self.index[t]:     # If this url id exists for this token
+                        self.index[t][url_id] += 1  # Increment term count 
+                else:                           # If this url id does note exist for this token
+                    self.index[t][url_id] = 1       # Add it w/ term frequency of 1
+            else:                           # If token does not exist in the index
+                self.index[t] = {url_id:1}      # Add it with a dictionary containing just this url id and 1 for term frequency 
+                
+        return url_id
     
     ''' tokenize(text)
         
@@ -192,12 +154,31 @@ class Crawler:
         tokens = []
         
         # Replace any special chars in the content with spaces to act as delimeters 
-        pattern:str = r'[^a-zA-Z0-9\s]'     # Pattern of plaintext characters (a-z, A-Z, 0-9, no special chars)
-        text = sub(pattern, ' ', text)      # Substitute all matches with spaces  
-        text = sub(r'html\r\n', '', text) 
+        pattern:str = r'[^a-zA-Z0-9\s]+'     # Pattern of plaintext characters (a-z, A-Z, 0-9, no special chars)
+        text = sub(pattern, ' ', text)     # Substitute all matches with spaces  
+        text = sub(r'html\r\n', '', text)
+        text = sub(r'\n+', ' ', text)
         
         # Split the text on spaces, convert to lower, and strip whitespace from each token 
-        tokens = [s.lower().strip() for s in text.split(' ') if not s.isspace() and s]
+        tokens = [s.lower().strip() for s in text.split(' ') if s.strip()]
         
         return tokens
     
+    ''' to_jsons(dir)
+    
+        PURPOSE: 
+            Convert the local data in the crawler to jsons in the specified directory
+        
+        PARAMETERS: 
+            (str) dir - directory path to save the jsons
+            *(int) indent - optional specify the indent for the json dumps. default = 4
+            
+        RETURNS: 
+            None
+    '''
+    def to_jsons(self, dir:str, indent:int=4) -> None:
+        json.dump(self.index, open(f'{dir}/{Crawler.index_json}', 'w'), indent=indent)                      # Saving self.index
+        json.dump(self.urls, open(f'{dir}/{Crawler.urls_json}', 'w'), indent=indent)                        # Saving self.urls
+        json.dump(self.num_terms, open(f'{dir}/{Crawler.num_terms_json}', 'w'), indent=indent)              # Saving self.num_terms
+        json.dump(self.outbound_links, open(f'{dir}/{Crawler.outbound_links_json}', 'w'), indent=indent)    # Saving self.outbound_links
+        
