@@ -1,6 +1,5 @@
 import requests 
 from bs4 import BeautifulSoup
-import numpy as np
 from re import sub, compile
 import json
 
