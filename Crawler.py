@@ -3,8 +3,6 @@ from bs4 import BeautifulSoup
 from re import sub, compile
 import json
 
-from URLIndex import URLIndex
-
 class Crawler: 
     
     # STATIC ATTRIBUTES 
@@ -12,7 +10,6 @@ class Crawler:
     headers:dict[str,str] = { 
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'              
             }
-    tele_factor:int = 0.1
     
     # json filenames 
     index_json:str = 'index.json'
@@ -39,10 +36,12 @@ class Crawler:
 
         PURPOSE: 
             Visit the index url and then all frontiers off it. DO NOT visit links off frontiers.
+            NOTE: assumes the index is an xml (i.e. an RSS feed)
             
         PARAMETERS: 
             url (str) - base (index) url
-
+            *tag (str) - optional specify the name of the tag in the XML content that denotes links to articles. default = 'link'
+                         
         RETURNS: 
             The number of pages indexed (int)    
     '''
@@ -68,13 +67,8 @@ class Crawler:
         #       for faster lookup and a more detailed summary with returns from indexing 
         articles = soup.find_all('item')
                 
-        # Extract the links to the articles 
-        frontiers = [l.find(tag).text for l in articles]
-        
-        print(f"FRONTIERS:")
-        for f in frontiers: print(f)
-        
-        self.outbound_links[0] = frontiers.copy()   # Save the outbound links from the index in self.outbound_links
+        frontiers = [l.find(tag).text for l in articles]    # Extract the links to the articles 
+        self.outbound_links[0] = frontiers.copy()           # Save the outbound links from the index in self.outbound_links
         
         # Visit all the hyperlinks off this page and parse the content
         # NOTE: parse_url_content adds the outbound links from the frontier to self.outbound_links
@@ -94,7 +88,7 @@ class Crawler:
         RETURNS: 
             (int) The URL id in self.urls, i.e. the index, if successful; -1 if error
     '''
-    def parse_url_content(self, url) -> (int, list[str]): 
+    def parse_url_content(self, url) -> int: 
         
         # Check if we've seen this URL before - return if we have
         if url in self.urls: return -1
@@ -155,7 +149,7 @@ class Crawler:
         # Replace any special chars in the content with spaces to act as delimeters 
         pattern:str = r'[^a-zA-Z0-9\s]+'     # Pattern of plaintext characters (a-z, A-Z, 0-9, no special chars)
         text = sub(pattern, ' ', text)     # Substitute all matches with spaces  
-        text = sub(r'html\r\n', '', text)
+        text = sub(r'html\r\n', ' ', text)
         text = sub(r'\n+', ' ', text)
         
         # Split the text on spaces, convert to lower, and strip whitespace from each token 
@@ -169,8 +163,8 @@ class Crawler:
             Convert the local data in the crawler to jsons in the specified directory
         
         PARAMETERS: 
-            (str) dir - directory path to save the jsons
-            *(int) indent - optional specify the indent for the json dumps. default = 4
+            dir (str) - directory path to save the jsons
+            *indent (int) - optional specify the indent for the json dumps. default = 4
             
         RETURNS: 
             None
