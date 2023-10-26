@@ -1,0 +1,8 @@
+{
+    "https://www.bleepingcomputer.com/feed/": {
+        "feed_title": "Bleeping Computer",
+        "feed_link": "https://www.bleepingcomputer.com/feed/",
+        "feed_desc": "BleepingComputer - All Stories",
+        "article_link_tag": "link"
+    }
+}

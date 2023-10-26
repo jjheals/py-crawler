@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from re import sub, compile
 import json
+from Paths import Paths 
 
 class Crawler: 
     
@@ -23,7 +24,7 @@ class Crawler:
     num_terms:list[int]             # List of the number of terms in each URL where indices correspond to self.urls
     outbound_links:list[list[str]]  # List of lists of outbound links off each URL in self.urls 
     
-    def __init__(self, load_storage:str='jsons'):
+    def __init__(self, load_storage:str='jsons', auto_index_feeds:bool=False):
         self.index = {}             
         self.page_ranks = []        
         self.urls = []      
@@ -35,6 +36,13 @@ class Crawler:
             self.urls = json.load(open(f'{load_storage}/{Crawler.urls_json}', 'r'))
             self.num_terms = json.load(open(f'{load_storage}/{Crawler.num_terms_json}', 'r'))
             self.outbound_links = json.load(open(f'{load_storage}/{Crawler.outbound_links_json}', 'r'))
+        
+        if auto_index_feeds: 
+            feeds:dict = json.load(open(Paths.FEEDS_JSON, 'r'))
+            for l,f in feeds.items(): 
+                print(f"Indexing {f['feed_title']} ({l})")
+                self.index_url(l, tag=f["article_link_tag"])
+        
               
     ''' index_url(url)
 
@@ -50,7 +58,8 @@ class Crawler:
             The number of pages indexed (int)    
     '''
     def index_url(self, url, tag:str='link') -> int:
-         
+        orig_num_urls = len(self.urls)  # Number of URLS originally to calc how many new ones we index
+        
         # Get all the frontiers off the index
         try: 
             response = requests.get(url, headers=Crawler.headers)   # Fetch the HTML content
@@ -70,8 +79,13 @@ class Crawler:
         #       similar to how the previous RSS feed script did. The attributes can then be stored 
         #       for faster lookup and a more detailed summary with returns from indexing 
         articles = soup.find_all('item')
-                
-        frontiers = [l.find(tag).text for l in articles]    # Extract the links to the articles 
+        
+        try:    
+            frontiers = [l.find(tag).text for l in articles]    # Extract the links to the articles 
+        except AttributeError: 
+            print(f"ERROR: AttributeError in Crawler.index_url for url \"{url}\". Appears to be an invalid tag given.")
+            return -1
+        
         #self.outbound_links[0] = frontiers.copy()           # Save the outbound links from the index in self.outbound_links
         
         # Visit all the hyperlinks off this page and parse the content
@@ -79,7 +93,7 @@ class Crawler:
         while frontiers: self.parse_url_content(frontiers.pop())
 
         # Return the length of the first value in self.outbound_links, since that is the number of urls off the index
-        return len(self.outbound_links[0])
+        return len(self.urls) - orig_num_urls
     
     ''' parse_url_content(url) 
         
