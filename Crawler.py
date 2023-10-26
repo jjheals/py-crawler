@@ -23,15 +23,19 @@ class Crawler:
     num_terms:list[int]             # List of the number of terms in each URL where indices correspond to self.urls
     outbound_links:list[list[str]]  # List of lists of outbound links off each URL in self.urls 
     
-    def __init__(self):
+    def __init__(self, load_storage:str='jsons'):
         self.index = {}             
-        self.page_rank_matrix = []   
         self.page_ranks = []        
         self.urls = []      
         self.num_terms = []
-        self.outbound_links = {}        
+        self.outbound_links = {}  
         
-        
+        if load_storage:
+            self.index = json.load(open(f'{load_storage}/{Crawler.index_json}', 'r'))      
+            self.urls = json.load(open(f'{load_storage}/{Crawler.urls_json}', 'r'))
+            self.num_terms = json.load(open(f'{load_storage}/{Crawler.num_terms_json}', 'r'))
+            self.outbound_links = json.load(open(f'{load_storage}/{Crawler.outbound_links_json}', 'r'))
+              
     ''' index_url(url)
 
         PURPOSE: 
@@ -52,7 +56,7 @@ class Crawler:
             response = requests.get(url, headers=Crawler.headers)   # Fetch the HTML content
             response.raise_for_status()                             # Check if the request was successful
             soup = BeautifulSoup(response.text, 'xml')              # Parse the HTML
-            self.urls.append(url)                                   # Save the index as the first URL in urls
+            #self.urls.append(url)                                   # Save the index as the first URL in urls
 
         except requests.exceptions.RequestException as e:
             print(f"Error fetching the content for {url}: {e}")
@@ -68,7 +72,7 @@ class Crawler:
         articles = soup.find_all('item')
                 
         frontiers = [l.find(tag).text for l in articles]    # Extract the links to the articles 
-        self.outbound_links[0] = frontiers.copy()           # Save the outbound links from the index in self.outbound_links
+        #self.outbound_links[0] = frontiers.copy()           # Save the outbound links from the index in self.outbound_links
         
         # Visit all the hyperlinks off this page and parse the content
         # NOTE: parse_url_content adds the outbound links from the frontier to self.outbound_links
