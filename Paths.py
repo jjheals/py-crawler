@@ -1,9 +1,6 @@
 
 class Paths: 
     
-    # Directory containing all the json files with data
-    JSONS_DIR:str = 'data/jsons'
-    
     # File containing the RSS feeds to index in json format
     FEEDS_JSON:str = 'rss_feed/feeds.json'
     

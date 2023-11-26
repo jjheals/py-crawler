@@ -21,9 +21,9 @@ class RSS_Feed:
             'feed_desc': self.feed_desc
         }
         
-        existing_feeds = json.load(open(f'{Paths.FEEDS_JSON}/{RSS_Feed.json_filename}', 'r'))
+        existing_feeds = json.load(open(Paths.FEEDS_JSON, 'r'))
         existing_feeds[self.feed_link] = d
-        json.dump(existing_feeds, open(f'{Paths.FEEDS_JSON}/{RSS_Feed.json_filename}', 'w'), indent=4)
+        json.dump(existing_feeds, open(Paths.FEEDS_JSON, 'w'), indent=indent)
         
 class RSS_Article: 
     
