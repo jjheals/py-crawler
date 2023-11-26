@@ -13,34 +13,33 @@ class Crawler:
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'              
             }
     
-    # json filenames 
-    index_json:str = 'index.json'
-    articles_json:str = 'articles.json'
-    seen_article_links_json:str = 'seen_article_links.json'
-    
     # DYNAMIC ATTRIBUTES 
     index:dict[str,dict[int,int]]   # Index of terms with values as a dictionary of {key,val} -> {url_id,term_freq}
     articles:list[RSS_Article]      # List of articles as RSS_Article objects
     seen_article_links:list[str]    # List of all article links that have been parsed
     
-    def __init__(self, load_storage:str=Paths.JSONS_DIR, auto_index_feeds:bool=False):
+    def __init__(self, load_storage:bool=True, auto_index_feeds:bool=False):
         self.index = {}             
         self.page_ranks = []        
         self.articles = []      
         self.outbound_links = {}  
         self.seen_article_links = []
         
+        # If configured, load the already stored data to add to
         if load_storage:
-            self.index = json.load(open(f'{load_storage}/{Crawler.index_json}', 'r'))  
-                
-            tmp_articles = json.load(open(f'{load_storage}/{Crawler.articles_json}', 'r'))
-            for a in tmp_articles: self.articles.append(RSS_Article())
+            self.index = json.load(open(Paths.INDEX_JSON, 'r'))                         # Load the index
+            self.seen_article_links = json.load(open(Paths.SEEN_ARTICLES_JSON, 'r'))    # Load the seen articles 
             
-            self.num_terms = json.load(open(f'{load_storage}/{Crawler.num_terms_json}', 'r'))
-            self.outbound_links = json.load(open(f'{load_storage}/{Crawler.outbound_links_json}', 'r'))
+            # Load the stored articles
+            tmp_articles = json.load(open(Paths.ARTICLES_JSON, 'r'))
+            for a in tmp_articles: self.articles.append(RSS_Article.article_from_dict(a))
         
+        # If configured, auto index the feeds in Paths.FEEDS_JSON
         if auto_index_feeds: 
+            # Get the feeds
             feeds:dict = json.load(open(Paths.FEEDS_JSON, 'r'))
+            
+            # Iterate through and index the feeds 
             for l,f in feeds.items(): 
                 print(f"Indexing {f['feed_title']} ({l})")
                 self.index_url(l, tag=f["article_link_tag"])
@@ -124,7 +123,7 @@ class Crawler:
         frontiers = [f"{link.get('href')}" for link in soup.find_all('a') if pattern.match(str(link.get('href')))]
         
         frontiers = list(set(frontiers))       # Remove duplicates in the frontiers list by casting to a set and back to list  
-        article.outbound_links = frontiers     # Add the outbound links for this frontier to self.outbound_links
+        article.outbound_links = frontiers     # Add the outbound links for this frontier to the article's outbound links
         
         # ---- Tokenization ---- #
         tokens:list[str] = self.tokenize(soup.text)     # Tokenize the content 
@@ -158,7 +157,7 @@ class Crawler:
             A list of terms contained within the text
     '''
     @staticmethod
-    def tokenize(text):
+    def tokenize(text) -> list[str]:
         tokens = []
         
         # Replace any special chars in the content with spaces to act as delimeters 
@@ -178,18 +177,20 @@ class Crawler:
             Convert the local data in the crawler to jsons in the specified directory
         
         PARAMETERS: 
-            dir (str) - directory path to save the jsons
             *indent (int) - optional specify the indent for the json dumps. default = 4
             
         RETURNS: 
             None
+        
+        NOTE: will override the existing data if this Crawler instance did not previously load the 
+              existing storage. 
     '''
-    def to_jsons(self, dir:str, indent:int=4) -> None:
-        json.dump(self.index, open(f'{dir}/{Crawler.index_json}', 'w'), indent=indent)                              # Saving self.index
-        json.dump(self.seen_article_links, open(f'{dir}/{Crawler.seen_article_links_json}', 'w'), indent=indent)    # Saving self.seen_article_links
+    def to_jsons(self, indent:int=4) -> None:
+        json.dump(self.index, open(Paths.INDEX_JSON, 'w'), indent=indent)                         # Saving self.index
+        json.dump(self.seen_article_links, open(Paths.SEEN_ARTICLES_JSON, 'w'), indent=indent)    # Saving self.seen_article_links
         
         # Saving self.articles
         articles_as_dicts = [a.to_dict() for a in self.articles]
-        json.dump(articles_as_dicts, open(f'{dir}/{Crawler.articles_json}', 'w'), indent=indent)  
+        json.dump(articles_as_dicts, open(Paths.ARTICLES_JSON, 'w'), indent=indent)  
         
         
