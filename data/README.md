@@ -1,6 +1,6 @@
 # Data directory
 
-This directory contains all the data collected from the Crawler.
+This directory contains all the data collected from the Crawler. Note that the data structures are all dictionaries/json for efficiency purposes; the only potential downside is loading the data into memory at runtime, though the time for this is negligant comapred to the time to collect the data. In short, we are sacrificing storage for efficiency since storage is essentially endless (at least for the purposes of this application). 
 
 ## Contents
 
@@ -57,9 +57,9 @@ The structure of the index can be thought of a 2-tiered dictionary, where the ou
 
 Using dictionaries has immense benefits over other data structures, since under-the-hood, python dictionaries are hash tables and can be queried in O(1) (constant) time. Thus, when querying the index, a user can retrieve the article IDs and corresponding term frequencies (to be used for ranking) for a given term in constant time. 
 
-##### seen_article_links.json
+#### seen_article_links.json
 
-
+[seen_article_links.json](jsons/seen_article_links.json) contains a single 1-dimensional list of all the seen and parsed article links. This is leveraged primarily to quickly check if an article has been seen before to avoid unnecessary re-parsing of articles at runtime. 
 
 
 
