@@ -31,4 +31,40 @@ The [jsons/](jsons/) dictionary contains various json files with data structures
 
 ##### index.json
 
+[index.json](jsons/index.json) is an inverted index of all the terms seen in all parsed articles (all articles in [articles.json](#####articles.json)) in the following format: 
+
+    { 
+        "term1" : { 
+                    "x" : term1/x,
+                    "y" : term1/y,
+                    ...
+                },
+        "term2" : { 
+                    "i" : term2/i,
+                    "j" : term2/j,
+                    "x" : term2/x,
+                    ...
+                },
+        ...
+    }
+
+    Where: 
+        termX       => (str) an arbitrary term in the index, i.e. any term seen in at least one article
+        x,y,i,j,... => ((str) int) article IDs, i.e. indices in articles.json, for articles containing at least one occurance of the respective term
+        termX/P     => (int) the number of times that termX appears in article P (where P is an arbitrary article ID as described above)
+
+The structure of the index can be thought of a 2-tiered dictionary, where the outer dictionary contains keys with the terms and the inner dictionary contains keys as integers (in string format, i.e. wrapped in " ") representing article IDs, and the terminating values (the innermost values, i.e. the values of the inner dictionary) represent the number of times that the outer key (term) appears in the inner key (article). 
+
+Using dictionaries has immense benefits over other data structures, since under-the-hood, python dictionaries are hash tables and can be queried in O(1) (constant) time. Thus, when querying the index, a user can retrieve the article IDs and corresponding term frequencies (to be used for ranking) for a given term in constant time. 
+
 ##### seen_article_links.json
+
+
+
+
+
+
+
+
+
+
