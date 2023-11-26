@@ -23,7 +23,11 @@ The article_contents/ directory contains the raw, non-tokenized content for each
 
 #### DIRECTORY: jsons/
 
+The [jsons/](jsons/) dictionary contains various json files with data structures for different elements of data. 
+
 ##### articles.json
+
+[articles.json](jsons/articles.json) contains a list of dictionaries (serialized into json format for storage) where each dictionary corresponds to an RSS_Article object (see [RSS.py](../rss_feed/RSS.py) for more context). The index for each dictionary (for each article) represents that article's ID for the rest of the data structures. This saves storage space and improves efficiency by allowing an arbitrary number of articles to be stored and referenced with a single integer.
 
 ##### index.json
 
