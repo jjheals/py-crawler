@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from re import sub, compile
 import json
-from Paths import Paths 
+from config.Paths import Paths 
 from rss_feed.RSS import *
 
 class Crawler: 

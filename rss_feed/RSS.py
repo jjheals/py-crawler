@@ -1,5 +1,5 @@
 import json
-from Paths import Paths
+from config.Paths import Paths
 
 class RSS_Feed: 
 
@@ -49,7 +49,7 @@ class RSS_Article:
         self.outbound_links = out_links
     
     @staticmethod
-    def article_from_dict(d:dict): 
+    def article_from_dict(d:dict) -> object: 
         return RSS_Article(d[RSS_Article.dict_title], d[RSS_Article.dict_link], d[RSS_Article.dict_pub_date], [], num_terms=d[RSS_Article.dict_num_terms])
     
     def to_dict(self) -> dict: 

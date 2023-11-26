@@ -44,3 +44,20 @@ To improve efficiency at runtime, the crawler stores additional information in t
     |-- testing.ipynb
     
 
+## Requirements
+
+The NLTK stopwords package is required for the stemming portion of tokenization. To install:  
+
+    #!/usr/bin/env python3
+    
+    import nltk
+    import ssl
+
+    try:
+        _create_unverified_https_context = ssl._create_unverified_context
+    except AttributeError:
+        pass
+    else:
+        ssl._create_default_https_context = _create_unverified_https_context
+
+    nltk.download('stopwords')
