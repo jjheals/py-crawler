@@ -46,6 +46,8 @@ To improve efficiency at runtime, the crawler stores additional information in t
 
 ## Requirements
 
+### NLTK 
+
 The NLTK stopwords package is required for the stemming portion of tokenization. To install:  
 
     #!/usr/bin/env python3
@@ -61,3 +63,13 @@ The NLTK stopwords package is required for the stemming portion of tokenization.
         ssl._create_default_https_context = _create_unverified_https_context
 
     nltk.download('stopwords')
+
+### Python Packages 
+
+A complete list of the required python packages can be found in [requirements.txt](requirements.txt). These packages can be installed in a virtual env automatically (depending on environment) or can be installed via pip: 
+
+    pip install [package_name]
+    OR
+    python3 pip install [package_name]
+
+The pip command is dependent on your environment and may vary. 
