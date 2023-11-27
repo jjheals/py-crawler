@@ -10,5 +10,29 @@
         "feed_link": "https://hnrss.org/newest",
         "feed_desc": "Hacker News RSS",
         "article_link_tag": "link"
+    },
+    "https://www.cisa.gov/news.xml": { 
+        "feed_title": "CISA News",
+        "feed_link": "https://www.cisa.gov/news.xml",
+        "feed_desc": "CISA News",
+        "article_link_tag": "link"
+    },
+    "https://api.msrc.microsoft.com/update-guide/rss": { 
+        "feed_title": "MSRC Security Update Guide",
+        "feed_link": "https://api.msrc.microsoft.com/update-guide/rss",
+        "feed_desc": "MSRC Security Updates",
+        "article_link_tag": "link"
+    },
+    "https://www.nist.gov/news-events/cybersecurity/rss.xml": {
+        "feed_title": "NIST Cybersecurity News and Events",
+        "feed_link": "https://www.nist.gov/news-events/cybersecurity/rss.xml",
+        "feed_desc": "NIST Cyber News and Events",
+        "article_link_tag": "link"
+    },
+    "https://www.nist.gov/news-events/information%20technology/rss.xml": { 
+        "feed_title": "NIST Information Technology News and Events",
+        "feed_link": "https://www.nist.gov/news-events/information%20technology/rss.xml",
+        "feed_desc": "NIST IT News and Events",
+        "article_link_tag": "link"
     }
 }
