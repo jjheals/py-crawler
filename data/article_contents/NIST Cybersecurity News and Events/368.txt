@@ -1,0 +1,915 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4th Multi-cloud Conference and Workshop | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/events/2023/05/4th-multi-cloud-conference-and-workshop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Our Organization
+
+
+Office of the Director
+
+
+Budget & Planning
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EVENTS
+
+
+4th Multi-cloud Conference and Workshop
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read the Code of Conduct for NIST Conferences.
+
+
+
+
+
+
+
+
+              May 24 - 25, 2023
+
+
+
+
+Herbert C. Hoover Federal Building 
+1401 Constitution Avenue NW 
+Washington, DC 20230 
+
+
+Registration is now closed.
+In-Person Attendees: Information regarding "Know Before You Go" and Arrival instructions will be sent out on May 19, 2023 by email. In response to many requests we have added a View-Only Option: A live stream will be available on the event page for May 25th only, as a view-only option (in real time but without an opportunity to provide comments or ask questions). Registration is not required for the view-only option. Please bookmark this page today if you plan to watch the live-streamed conference on May 25th. 
+
+
+Registration Contact
+
+
+
+Karen M. Startsman
+
+karen.startsman@nist.gov
+
+
+    (301) 975-6602
+  
+
+
+
+
+
+Technical Contact
+
+
+
+David Ferraiolo
+
+david.ferraiolo@nist.gov
+
+
+    (301) 975-3046
+  
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+This year’s Multi-Cloud Conference hosted by NIST, Department of Commerce (DOC), and Tetrate will focus on delivering Zero Trust Architecture (ZTA) through application-tier and network-tier policies in a high-assurance service mesh operating environment. This makes the enforcement of consistent, enterprise-wide policy a reality irrespective of service or application location, whether on-premises or across multiple clouds.  
+We’ll look at security challenges that public agencies face and provide insight and know-how to address them to ensure that your agency’s security posture can protect against threats. We will also discuss critical tools for achieving high assurance security for cloud-native applications, including API gateways and infrastructure for assigning tamper-proof cryptographic identities to applications. We will further discuss techniques for instilling trust in the entire application life cycle, such as securing supply chain artifacts, policy and infrastructure as code, continuous authorization to operate, and observability strategies. 
+The conference program features both leadership and actionable insight from experts in service mesh, ZTA, identity-centric security, open-source software development, and emerging NIST Special Publications. Presentations will cover a wide range of topics, including: 
+
+NIST recommendations for realizing zero trust principles in cloud-native applications and for securing artifacts in software supply chains 
+
+
+Approaches for authentication and access control for users, services, and devices in cloud-native applications in multi-cloud environments 
+
+
+The role of open source in cloud-native application security and compliance 
+
+
+Best practices and common pitfalls for implementing ZTA 
+
+Policymakers, entrepreneurs, students, and cybersecurity professionals are encouraged to attend! 
+workshop information - may 24, 2023
+Free 2-hour Service Mesh Training 
+WORKSHOP REGISTRATION IS NOW CLOSED.  CAPACITY HAS BEEN REACHED.
+CONFERENCE REGISTRATION REMAINS OPEN.
+Name: Introduction to Service Mesh with Istio and Envoy 
+Location:  Ronald Reagan Building and International Trade Center, 1300 Pennsylvania Ave, Suite 700, Washington, DC 20004
+Session 1: 1:00 - 2:45PM EDT (max 55 registrants) 
+Session 2: 3:00 - 4:45PM EDT (max 55 registrants) 
+A service mesh is a modern and powerful tool for implementing the tenets of zero trust. It provides dynamic, behavior-based security to protect microservices, APIs, and data, including end-to-end encryption, attribute-based access control (ABAC), API threat detection and protection, and full audit histories with dashboards for continuous proof of compliance.  
+In this workshop, you will learn the basics of service mesh and get hands-on training with Istio, Kubernetes, and other tools to build in-app and user-level security permissions, encryption in transit, and enhanced identity and access controls, as well as provide runtime observability – all of which are necessary for achieving zero trust security in practice.  
+Between exercises, we will present the theory behind how the service mesh works, and you will have virtual access to service mesh experts to answer your questions throughout the workshop. With this knowledge and your practical experience, you will be able to: 
+
+Understand service mesh and the capabilities it offers to manage microservices 
+
+
+Understand the high-level architecture and components of technology solutions (e.g., Istio)  
+
+
+Install the Istio service mesh on top of a Kubernetes cluster 
+
+
+Interact with the service mesh using the istioctl command line tool 
+
+
+Use Istio dashboards to monitor and debug microservices 
+
+Presenters:  
+
+Matt Turner, Software Engineer, Tetrate  
+
+
+Zack Butcher, Founding Engineer, Tetrate 
+
+
+
+
+
+
+
+
+
+    Agenda
+  
+
+
+
+
+ 4th Multi-Cloud Conferece Final Agenda.pdf
+
+
+
+
+
+
+
+
+
+
+
+
+    Security Instructions
+  
+
+
+Department of Commerce facilities are routinely open to the public for official business during regular business hours.  Controlled access to certain areas of the building will be always instituted during events/meeting to ensure protection of personnel and property. 
+Entry, Identification, Inspection, and Controlled Movement protocol for Visitors during Special Events 
+Visitors must arrive and register at the HCHB main lobby, visitors’ entrance. 
+The event sponsor is responsible to confirm the visitors are authorized for access to attend their event/meeting.  
+Visitors are required to present current picture identification upon arrival to the Protective Security Officer. 
+All visitors will be screened. 
+Personal articles such as briefcases, purses, and hand carried items will also be inspected. 
+Visitors will be issued temporary visitor identification badges. 
+Badges are required to be always visible on the torso above the waist.  
+Visitors are only allowed in the area of the event/meeting. 
+
+
+
+
+
+
+
+
+Information technology, Cloud computing and virtualization, Cybersecurity and Identity and access management
+
+
+
+
+
+
+
+
+
+Read the Code of Conduct for NIST Conferences.
+
+
+
+
+
+
+
+
+              May 24 - 25, 2023
+
+
+
+
+Herbert C. Hoover Federal Building 
+1401 Constitution Avenue NW 
+Washington, DC 20230 
+
+
+Registration is now closed.
+In-Person Attendees: Information regarding "Know Before You Go" and Arrival instructions will be sent out on May 19, 2023 by email. In response to many requests we have added a View-Only Option: A live stream will be available on the event page for May 25th only, as a view-only option (in real time but without an opportunity to provide comments or ask questions). Registration is not required for the view-only option. Please bookmark this page today if you plan to watch the live-streamed conference on May 25th. 
+
+
+Registration Contact
+
+
+
+Karen M. Startsman
+
+karen.startsman@nist.gov
+
+
+    (301) 975-6602
+  
+
+
+
+
+
+Technical Contact
+
+
+
+David Ferraiolo
+
+david.ferraiolo@nist.gov
+
+
+    (301) 975-3046
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsInformation Technology LaboratoryComputer Security Division
+
+
+
+
+
+
+
+
+
+
+Related Event
+
+
+DevSecOps and ZTA for Cloud-Native Applications - Third Annual Multi-Cloud Conference and Workshop (virtual)
+DevSecOps and Zero Trust Architecture (ZTA) for Multi-Cloud Environments
+
+
+
+
+
+
+
+
+
+
+
+
+  Created March 24, 2023, Updated June 23, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

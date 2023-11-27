@@ -1,0 +1,781 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CISA Issues Request for Comment on Software Identification Ecosystem Analysis White Paper | CISA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+ 
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+ A .gov website belongs to an official government organization in the United States.
+              
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+ A lock (LockA locked padlock) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cybersecurity & Infrastructure Security Agency
+ America's Cyber Defense Agency
+
+
+
+Search
+
+
+
+ 
+
+
+Menu
+
+
+
+
+
+
+Close
+
+
+ 
+
+
+
+
+Topics
+
+
+
+Topics
+
+
+
+
+
+Cybersecurity Best Practices
+
+
+
+
+
+
+Cyber Threats and Advisories
+
+
+
+
+
+
+Critical Infrastructure Security and Resilience
+
+
+
+
+
+
+Election Security
+
+
+
+
+
+
+Emergency Communications
+
+
+
+
+
+
+Industrial Control Systems
+
+
+
+
+
+
+Information and Communications Technology Supply Chain Security
+
+
+
+
+
+
+Partnerships and Collaboration
+
+
+
+
+
+
+Physical Security
+
+
+
+
+
+
+Risk Management
+
+
+
+
+
+
+        How can we help?
+       
+GovernmentEducational InstitutionsIndustryState, Local, Tribal, and TerritorialIndividuals and FamiliesSmall and Medium BusinessesFind Help LocallyFaith-Based CommunityExecutives
+
+
+
+
+
+Spotlight
+
+
+
+
+Resources & Tools
+
+
+
+Resources & Tools
+
+
+
+
+
+All Resources & Tools
+
+
+
+
+
+
+Services
+
+
+
+
+
+
+Programs
+
+
+
+
+
+
+Resources
+
+
+
+
+
+
+Training
+
+
+
+
+
+
+Groups
+
+
+
+
+
+
+
+
+News & Events
+
+
+
+News & Events
+
+
+
+
+
+News
+
+
+
+
+
+
+Events
+
+
+
+
+
+
+Cybersecurity Alerts & Advisories
+
+
+
+
+
+
+Directives
+
+
+
+
+
+
+Request a CISA Speaker
+
+
+
+
+
+
+Congressional Testimony
+
+
+
+
+
+
+
+
+Careers
+
+
+
+Careers
+
+
+
+
+
+Benefits & Perks
+
+
+
+
+
+
+HireVue Applicant Reasonable Accommodations Process
+
+
+
+
+
+
+Hiring
+
+
+
+
+
+
+Resume & Application Tips
+
+
+
+
+
+
+Students & Recent Graduates
+
+
+
+
+
+
+Veteran and Military Spouses
+
+
+
+
+
+
+Work @ CISA
+
+
+
+
+
+
+
+
+About
+
+
+
+About
+
+
+
+
+
+Culture
+
+
+
+
+
+
+Divisions & Offices
+
+
+
+
+
+
+Regions
+
+
+
+
+
+
+Leadership
+
+
+
+
+
+
+Doing Business with CISA
+
+
+
+
+
+
+Site Links
+
+
+
+
+
+
+Reporting Employee and Contractor Misconduct
+
+
+
+
+
+
+CISA GitHub
+
+
+
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+Report a Cyber Issue
+
+
+
+
+
+America's Cyber Defense Agency
+
+
+
+
+
+
+Breadcrumb
+
+
+Home
+
+
+News & Events
+
+
+News
+
+
+
+
+
+
+
+Share:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Press Release
+
+CISA Issues Request for Comment on Software Identification Ecosystem Analysis White Paper
+
+
+
+ReleasedOctober 26, 2023
+
+
+
+ Related topics: 
+
+Cybersecurity Best Practices 
+
+
+
+
+
+
+
+
+
+
+
+
+WASHINGTON – The Cybersecurity and Infrastructure Security Agency (CISA) is announcing a request for comment on our analysis or approaches in “Software Identification Ecosystem Option Analysis,” white paper that was published today outlining a collective, community goal for a more harmonized software identification ecosystem that can be used across the complete, global software space for all key cybersecurity use cases.The white paper identifies two requirements that are lacking across a sufficient percentage of software used in modern enterprises:Timely availability of software identifiers across all software items, andSoftware identifiers that support both precision and grouping."A more robust software identifier ecosystem must be established for a harmonized software identification ecosystem that facilitates greater automation, inventory visibility, and the multifaceted value proposition of SBOM's broad adoption," said Sandy Radesky, Associate Director for Vulnerability Management. "In our ongoing pursuit to transform vulnerability management, our draft white paper seeks to catalyze community discussion and action by presenting our analysis and paths aimed to address key challenges to software identification. We strongly encourage this community to review the paper and provide input that can help collectively strengthen and improve vulnerability management for all organizations."CISA and HSSEDI (Homeland Security Systems Engineering and Development Institute) experts identified three features that are important for a software identifier ecosystem:An identifier scheme with properties common to the SBOM and vulnerability management use cases, such as software name and version.A global authority that establishes common rules, assigns responsibilities, and identifies and addresses issues for the identifier generators would likely improve the overall accuracy and robustness of the software identifier ecosystem.The paper presents six potential paths along with benefits, challenges and community or authority structures that would be needed to develop and sustain the identifier format ecosystem. It also offers potential software identifier formats that appear to be the most promising as starting points. These options are provided to the community as starting points to refine the merits of various operational models.For more information, visit Federal Register: Request for Comment on Software Identification Ecosystem Option Analysis. Comments are requested on or before December 11, 2023.  
+
+
+
+
+
+
+
+
+
+Related Articles
+
+
+
+
+
+
+Nov 26, 2023
+
+Press Release
+
+
+
+DHS CISA and UK NCSC Release Joint Guidelines for Secure AI System Development
+ 
+
+
+
+
+
+
+
+Nov 14, 2023
+
+Press Release
+
+
+
+DHS Cybersecurity and Infrastructure Security Agency Releases Roadmap for Artificial Intelligence 
+ 
+
+
+
+
+
+
+
+Nov 09, 2023
+
+Press Release
+
+
+
+CISA Signs Memorandum of Understanding with the Republic of Korea to Share Cyber Threat Information and Cybersecurity Best Practices 
+ 
+
+
+
+
+
+
+
+Nov 07, 2023
+
+Press Release
+
+
+
+DHS Unveils New Shields Ready Campaign to Promote Critical Infrastructure Security and Resilience
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+Topics
+
+
+Spotlight
+
+
+Resources & Tools
+
+
+News & Events
+
+
+Careers
+
+
+About
+
+
+
+
+
+
+
+
+
+Cybersecurity & Infrastructure Security Agency
+ 
+
+
+
+Facebook
+
+
+Twitter
+
+
+LinkedIn
+
+
+YouTube
+
+
+Instagram
+
+
+RSS
+
+
+
+CISA Central
+888-282-0870
+Central@cisa.dhs.gov
+
+
+
+
+
+
+
+
+
+
+DHS Seal
+
+CISA.gov
+An official website of the U.S. Department of Homeland Security
+
+
+
+
+About CISA
+
+
+Accessibility
+
+
+Budget and Performance
+
+
+DHS.gov
+
+
+FOIA Requests
+
+
+No FEAR Act
+
+
+Office of Inspector General
+
+
+Privacy Policy
+
+
+Subscribe
+
+
+The White House
+
+
+USA.gov
+
+
+Website Feedback
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

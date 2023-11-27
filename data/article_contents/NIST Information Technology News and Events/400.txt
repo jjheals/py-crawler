@@ -1,0 +1,768 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST Seeks Input on Implementation of National Standards Strategy for Critical and Emerging Technology | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2023/09/nist-seeks-input-implementation-national-standards-strategy-critical-and
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Our Organization
+
+
+Office of the Director
+
+
+Budget & Planning
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS
+
+
+
+NIST Seeks Input on Implementation of National Standards Strategy for Critical and Emerging Technology
+
+
+September 07, 2023
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  Have a Nice Day Photo/Shutterstock
+
+        
+
+
+
+The comment period for this Request for Information has been extended through Dec. 22, 2023. Submit comments via the Federal Register notice.
+
+GAITHERSBURG, Md. — The U.S. Department of Commerce’s National Institute of Standards and Technology (NIST) has published a Request for Information seeking public input on how best to implement the U.S. Government National Standards Strategy for Critical and Emerging Technology (USG NSSCET). 
+“It is critical to our economy and national security that we have high quality standards for the critical and emerging technologies that will transform the way we live and work,” said Under Secretary of Commerce for Standards and Technology and NIST Director Laurie E. Locascio. “We are asking experts and stakeholders to share their best ideas for implementing a national strategy that will strengthen U.S. leadership and competitiveness in each of these sectors.”
+The strategy promotes technologically sound standards that help American industry compete internationally on a level playing field and is intended to support and complement existing private sector-led activities. The strategy focuses on critical and emerging technologies including, among others:
+Communication and networking technologies
+Semiconductors and microelectronics
+Artificial intelligence and machine learning
+Biotechnologies
+Positioning, navigation and timing services
+Digital identity infrastructure and distributed ledger technologies
+Clean energy generation and storage
+Quantum information technologies
+NIST is seeking information that will support the development of the most effective implementation plan for the USG NSSCET, which was published in May. The agency is seeking public input on the best ways to partner with relevant stakeholders, remove barriers to participation in international standards development, and enhance the U.S. government’s support for an international standards system that is open, consensus-based, and led by the private sector. 
+The RFI poses several questions in each of four broad categories: investment, participation, workforce, and integrity and inclusivity. While specifically seeking input on these topics, NIST welcomes all responses that stakeholders believe will support a robust and successful implementation of the strategy.
+All submissions received in response to this RFI will be posted on the NIST website. Responses are due by 11:59 p.m. Eastern time on Dec. 22, 2023 (extended from 5 p.m. Eastern time on Nov. 6, 2023). Full details on responding can be found in the Federal Register notice.  
+NIST will hold a series of listening sessions and stakeholder events about the USG NSSCET while the RFI is open. For event announcements and other information about the USG NSSCET, visit www.standards.gov.
+
+
+
+
+
+Advanced communications, Bioscience, Electronics, Energy, Environment, Information technology, Manufacturing, Physics, Quantum information science, Standards and Transportation
+
+
+
+
+
+
+
+
+Media Contact
+
+
+
+
+Rich Press
+
+richard.press@nist.gov
+
+
+    (301) 975-0501
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsLaboratory ProgramsStandards Coordination OfficeDirector's OfficeDirector's Office
+
+
+
+
+
+
+
+
+
+
+
+
+Related Links
+
+
+U.S. Government National Standards Strategy for Critical and Emerging Technology
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released September 7, 2023, Updated November 21, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

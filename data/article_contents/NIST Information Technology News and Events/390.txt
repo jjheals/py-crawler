@@ -1,0 +1,889 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHIPS R&D Digital Twin Technical Standards Workshop | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/events/2023/12/chips-rd-digital-twin-technical-standards-workshop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Our Organization
+
+
+Office of the Director
+
+
+Budget & Planning
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EVENTS
+
+
+CHIPS R&D Digital Twin Technical Standards Workshop
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read the Code of Conduct for NIST Conferences.
+
+
+
+
+
+
+workshop
+
+
+
+
+              December 14 - 15, 2023
+
+
+
+
+NIST's National Cybersecurity Center of Excellence (NCCoE)
+9700 Great Seneca Highway
+Rockville, MD 20850
+
+
+Register Now
+
+
+The in-person registration fee is $25.00 and includes all-day beverage service. Virtual registration is free.
+Registration for in-person attendance closes on December 7, 2023.
+
+
+Registration Contact
+
+
+
+Sabina Mohan
+
+sabina.mohan@nist.gov
+
+
+    (301) 975-2002
+  
+
+
+
+
+
+Technical Contact
+
+
+
+Yaw S. Obeng
+
+yaw.obeng@nist.gov
+
+
+    (301) 975-8093
+  
+
+
+Jan Obrzut
+
+jan.obrzut@chips.gov
+
+
+    (301) 975-6845
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  Andrew Kim
+
+        
+
+
+
+Technical standards for digital twin capabilities in the semiconductor and microelectronics industry will be the subject of a December workshop sponsored by the CHIPS Research and Development Office. The workshop will be a hybrid in-person and virtual event from 8:30 a.m. to 5:30 p.m. Eastern Time December 14, 2023, and 8:30 am to 12:30 pm December 15, 2023.  
+The event will focus on the potential for digital twin applications—including modeling, simulation, and co-simulation—to support reliable, resilient and high-quality manufacturing processes and enable trusted supply chains.
+Technical experts from industry, academia, standards setting organizations, and industry alliances, both domestic and abroad, are encouraged to participate and contribute to identifying community priorities for specific standards efforts. Factors to be considered in identifying digital twin standards priorities include potential for broad impact, feasibility for accelerated development, and suitability for various standards development channels, including through alliances, incubators and accelerators, and standards setting organizations.
+This one and one-half day hybrid event provides an opportunity to network and exchange ideas with thought leaders across the sector. The morning of Day One features plenary and panel sessions with exemplary keynote and guest speakers. Breakout sessions the afternoon of Day One and the morning of Day Two provide an opportunity for participants to collaborate and discuss key topics that will shape future digital twin standards activities. Key findings will be published in a post-workshop report and will inform standards planning efforts across the semiconductor innovation ecosystem and within the CHIPS R&D Office.
+We encourage interested stakeholders, industry representatives, and standards setting organizations to participate actively in this pivotal event. We also invite international attendees, as fostering global collaboration and enriching the discussions on advancing semiconductor standards and innovation is paramount to success. Join us at the CHIPS R&D Digital Twin Technical Standards Workshop as we collaboratively shape the future of semiconductor and microelectronics standards, foster innovation, and advance the industry as a whole. Finally, we note that a related workshop focused on chiplet interface technical standards will be held Dec. 12-13 at the same site. Information regarding this related workshop (separate registration required) can be found on the chips.gov website for those who may want to attend both events. 
+
+
+
+
+
+
+
+    Agenda
+  
+
+
+December 14, 2023 8:30am-5:00pm ET
+December 15, 2023 8:30am-12:30pm ET
+
+
+
+
+
+
+
+
+
+    Security Instructions
+  
+
+
+*Visitor Access Requirement:
+For Non-US Citizens:  Please have your valid passport for photo identification.
+For US Permanent Residents: Please have your green card for photo identification.
+For US Citizens: Please have your state-issued driver's license. Regarding Real-ID requirements, all states are in compliance or have an extension through May 2025.
+NIST also accepts other forms of federally issued identification in lieu of a state-issued driver's license, such as a valid passport, passport card, DOD's Common Access Card (CAC), Veterans ID, Federal Agency HSPD-12 IDs, and Military Dependents ID.
+
+
+
+
+
+
+
+Electronics, Semiconductors, Information technology, Artificial intelligence, Complex systems, Manufacturing, Factory operations planning and control, Process measurement and control, Quality assurance, Supply chain, Standards, Documentary standards and Frameworks
+
+
+
+
+
+
+
+
+
+Read the Code of Conduct for NIST Conferences.
+
+
+
+
+
+
+workshop
+
+
+
+
+              December 14 - 15, 2023
+
+
+
+
+NIST's National Cybersecurity Center of Excellence (NCCoE)
+9700 Great Seneca Highway
+Rockville, MD 20850
+
+
+Register Now
+
+
+The in-person registration fee is $25.00 and includes all-day beverage service. Virtual registration is free.
+Registration for in-person attendance closes on December 7, 2023.
+
+
+Registration Contact
+
+
+
+Sabina Mohan
+
+sabina.mohan@nist.gov
+
+
+    (301) 975-2002
+  
+
+
+
+
+
+Technical Contact
+
+
+
+Yaw S. Obeng
+
+yaw.obeng@nist.gov
+
+
+    (301) 975-8093
+  
+
+
+Jan Obrzut
+
+jan.obrzut@chips.gov
+
+
+    (301) 975-6845
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersDirector's OfficeCHIPS Research & Development Program Office
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Created October 17, 2023, Updated October 31, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

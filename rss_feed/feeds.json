@@ -6,7 +6,7 @@
         "article_link_tag": "link"
     },
     "https://hnrss.org/newest": { 
-        "feed_title": "Hacker News: Newest",
+        "feed_title": "Hacker News - Newest",
         "feed_link": "https://hnrss.org/newest",
         "feed_desc": "Hacker News RSS",
         "article_link_tag": "link"

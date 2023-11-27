@@ -1,0 +1,768 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST Revises SP 800-171 Guidelines for Protecting Sensitive Information | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2023/05/nist-revises-sp-800-171-guidelines-protecting-sensitive-information
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Our Organization
+
+
+Office of the Director
+
+
+Budget & Planning
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS
+
+
+
+NIST Revises SP 800-171 Guidelines for Protecting Sensitive Information
+
+
+Draft Revision 3 aligns the publication’s language with NIST’s 800-53 catalog of cybersecurity safeguards.
+
+
+May 10, 2023
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  Shutterstock/ACTS DATA STOCK
+
+        
+
+
+The National Institute of Standards and Technology (NIST) has updated its draft guidelines for protecting sensitive unclassified information, in an effort to help federal agencies and government contractors more consistently implement cybersecurity requirements.
+The revised draft guidelines, Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations (NIST Special Publication [SP] 800-171 Revision 3), will be of particular interest to the many thousands of businesses that contract with the federal government. Federal rules that govern the protection of controlled unclassified information (CUI), which includes such sensitive data as health information, critical energy infrastructure information and intellectual property, reference the SP 800-171 security requirements. Systems that store CUI often support government programs containing critical assets, such as design specifications for weapons systems, communications systems and space systems.
+The changes are intended in part to help these businesses better understand how to implement the specific cybersecurity safeguards provided in a closely related NIST publication, SP 800-53 Rev. 5. The authors have aligned the language of the two publications, so that businesses can more readily apply SP 800-53’s catalog of technical tools, or “controls,” to achieve SP 800-171’s cybersecurity outcomes. 
+According to NIST’s Ron Ross, the update is designed to help maintain consistent defenses against high-level threats to information security. 
+“Many of the newly added requirements specifically address threats to CUI, which recently has been a target of state-level espionage. We want to implement and maintain state-of-the-practice defenses because the threat space is changing constantly,” said Ross, a NIST Fellow and one of the publication’s authors. “We tried to express those requirements in a way that shows contractors what we do and why in federal cybersecurity. There’s more useful detail now with less ambiguity.” 
+NIST is requesting public comments on the draft guidelines by July 14, 2023.
+Notable updates in the draft include: 
+Changes to reflect the state-of-practice cybersecurity controls;
+Revised criteria used by NIST to develop security requirements;
+Increased specificity and alignment of the security requirements in SP 800-171 Rev. 3 with SP 800-53 Rev. 5, to aid in implementation and assessment; and
+Additional resources to help implementers understand and analyze the proposed updates.  
+Ross said that the end goal of the changes was to simplify the ecosystem of NIST cybersecurity publications while providing a better set of requirements. 
+“Protecting CUI, including intellectual property, is critical to the nation’s ability to innovate — with far-reaching implications for our national and economic security,” he said. “We need to have safeguards that are sufficiently strong to do the job.” 
+NIST also anticipates releasing at least one more draft version of SP 800-171 Rev. 3 before publishing the final in early 2024. Following the publication of the final version, the authors plan to revise the set of supporting NIST publications on protecting controlled unclassified information, including SPs 800-171A (security requirement assessment), SP 800-172 (enhanced security requirements) and SP 800-172A (enhanced security requirement assessment). 
+NIST is planning a webinar for June 6, 2023, to introduce the changes made to SP 800-171. Registration information will be posted next week on the Protecting CUI project site.
+
+
+
+
+
+Information technology, Complex systems and Cybersecurity
+
+
+
+
+
+
+
+
+Media Contact
+
+
+
+
+Chad Boutin
+
+charles.boutin@nist.gov
+
+
+    (301) 975-4261
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsInformation Technology LaboratoryComputer Security DivisionSecurity Engineering and Risk Management Group
+
+
+
+
+
+
+
+
+
+
+
+Related Links
+
+
+SP 800-171 Rev. 3
+SP 800-53 Rev. 5
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released May 10, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,519 @@
+
+
+
+
+
+
+
+
+
+AirJet makes a MacBook Air perform like a MacBook Pro | Macworld
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+g
+
+
+
+
+
+English US EditionEditionEnglish UKEnglish US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spanish 
+
+ 
+
+
+Mac
+iPhone
+iPad
+Apple Watch
+Apple TV
+More
+
+Accessories
+Apple
+Audio
+Security
+Software
+
+
+Best Picks
+Reviews
+Deals
+Opinion
+Rumors
+Newsletter
+Digital Magazine – Subscribe
+Digital Magazine – Log In
+ 
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+Menu
+ 
+
+
+
+
+
+
+
+
+Mac
+iPhone
+iPad
+Apple Watch
+Apple TV
+More
+
+Accessories
+Apple
+Audio
+Security
+Software
+
+
+Best Picks
+Reviews
+Deals
+Opinion
+Rumors
+Newsletter
+Digital Magazine – Subscribe
+Digital Magazine – Log In
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+Type your search and hit enter
+
+
+
+
+
+
+
+			HOT TOPICS		
+
+Cyber Monday Deals
+Smart Answers
+M3 MacBook Air
+Vision Pro
+New iPad Air
+iPad mini 7
+Next Mac Pro
+Best Mac antivirus
+Best Mac VPN
+ 
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+When you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence.
+
+
+
+
+
+Home / Mac / News 
+
+
+
+					News
+				
+AirJet makes a MacBook Air perform like a MacBook Pro 
+				Super-slim cooling chip fits in Apple's thinnest laptop.			
+
+ 
+
+ By Roman Loyola  
+
+ Senior Editor,    Macworld NOV 27, 2023 6:15 am PST 
+
+
+
+
+
+
+
+
+ 
+Image: Foundry 
+
+
+
+
+
+
+Most Macs use fans to help the System on a Chip maintain an optimal operating temperature. These fans are bulky and noisy, but Frore Systems has developed a new cooling system called AirJet that’s super thin–thin enough to fit in a current MacBook Air and boost its performance while under heavy load.
+Since the MacBook Air doesn’t have a fan for the SoC, its performance will throttle down during processor-intensive work to maintain a proper operating temperature. The M2 13-inch MacBook Pro, on the other hand, has a fan that expels excessive heat so the chip can keep chugging along.
+
+The AirJet is what Frore calls a “solid-state active cooling chip” that measures 27.5 by 41.5 by 2.8 mm, a lot smaller and thinner than a typical computer fan. It’s so thin that Frore was able to take an M2 15-inch MacBook Air and fit a set of AirJet chips inside the laptop. AirJet can keep the MacBook Air temperature at a proper level so the chip doesn’t have to throttle down. Using the Cinebench R23 benchmark, an off-the-shelf M2 MacBook Air was 7 percent slower than the M2 MacBook Pro. But the modified M2 MacBook Air with an AirJet setup matched the Cinebench score of the MacBook Pro. The video below by our sister site, PCWorld, explains how it works.
+
+
+
+How is AirJet able to be so thin? The company has a blog post that goes into greater detail on how AirJet works, but essentially, inside it are several different materials used to vibrate membranes. This creates back pressure to pull in air through intakes on the case of the device, such as a laptop. While heat is being moved from the chip to a fin stack, the air is then used by AirJet to expel the heat out of a vent. In the MacBook Air demonstration, Frore added intake vents near the hinge and used the speaker holes as exhaust.
+
+
+
+
+AirJet isn’t a consumer product–consumers can’t buy it and modify their own MacBook Air, nor does Frore plan to create a kit for consumer sale. Frore’s MacBook Air demo is a proof of concept that it can be beneficial in a MacBook. Its thin form factor could open up possibilities with Apple products; for example, if Apple were to use AirJet instead of the fans it uses in the 14- and 16-inch MacBook Pro, it could free up space that the company can use for, say, a bigger battery. Another example is with the Mac Studio, which, as you can see in iFixit’s Mac Studio teardown, has a gigantic heat sink and two large fans–AirJet could allow Apple to create a smaller cooling system, thereby shrinking the Mac Studio.
+
+For more information about AirJet, check out the slideshow below and the links to more coverage by PCWorld:
+
+AirJet teardown: See inside the solid-state cooling revolution
+Lab tour! Go inside AirJet’s futuristic solid-state laptop cooling tech
+
+
+Inside a 15-inch M2 MacBook Air with the AirJet and fin stack installed.
+The modification uses a fin stack to draw heat away from the M2 and to the AirJet cooling system.
+In order to install the AirJet, Frore modified a MacBook Air with air intake vents.
+The M2 MacBook Pro’s Cinebench R23 score is 8711.
+An unmodified M2 MacBook Air posted a Cinebench R23 score of 8238.
+With an AirJet installed, the M2 MacBook Air’s score (8720) equaled that of the M2 MacBook Pro (8711).
+
+
+ 
+
+
+		Author: Roman Loyola, Senior Editor		
+
+
+
+
+
+Roman has covered technology since the early 1990s. His career started at MacUser, and he's worked for MacAddict, Mac|Life, and TechTV.
+
+
+
+
+
+
+
+
+
+
+ Recent stories by Roman Loyola:
+
+
+
+									If you’re waiting for a 5G MacBook, it’s coming–but not for a while								
+
+
+
+									After 3 years, Apple’s cheapest MacBook is a terrible value								
+
+
+
+									MacBook Pro comparison: 14- vs 16-inch MacBook Pro								
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			Macworld is your best source for all things Apple. We give you the scoop on what's new, what's best and how to make the most out of the products you love.	
+			
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+POLICIES
+
+Privacy Policy
+Cookie Policy
+Copyright Notice
+European Privacy Settings
+Member Preferences
+Editorial Independence
+Licensing & Eprints
+California: Do not sell my Personal Info
+
+
+ABOUT
+
+About Us
+Contact Us
+Advertise
+Ad Choices
+Foundry Careers
+Smart Answers
+
+
+ 
+
+
+				More from Macworld 
+
+Macworld Sweden
+Macwelt Germany 
+
+
+
+
+
+
+
+					Subscribe 
+
+
+
+
+Subscribe to the Macworld Digital Magazine
+Manage Subscription
+Newsletter 
+
+
+
+
+
+
+
+
+ 
+
+
+Copyright © 2023 IDG Communications, Inc. 
+
+
+
+Explore the Foundry Network +
+PCWorldTechHiveTechAdvisor 
+
+
+
+
+Top Of Page
+
+
+
+
+
+					Do Not Sell My Info				
+
+
+
+					Privacy Settings				
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+

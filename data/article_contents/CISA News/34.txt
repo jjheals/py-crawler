@@ -1,0 +1,781 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CISA Launches Critical Infrastructure Security and Resilience Month 2023 | CISA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+ 
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+ A .gov website belongs to an official government organization in the United States.
+              
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+ A lock (LockA locked padlock) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cybersecurity & Infrastructure Security Agency
+ America's Cyber Defense Agency
+
+
+
+Search
+
+
+
+ 
+
+
+Menu
+
+
+
+
+
+
+Close
+
+
+ 
+
+
+
+
+Topics
+
+
+
+Topics
+
+
+
+
+
+Cybersecurity Best Practices
+
+
+
+
+
+
+Cyber Threats and Advisories
+
+
+
+
+
+
+Critical Infrastructure Security and Resilience
+
+
+
+
+
+
+Election Security
+
+
+
+
+
+
+Emergency Communications
+
+
+
+
+
+
+Industrial Control Systems
+
+
+
+
+
+
+Information and Communications Technology Supply Chain Security
+
+
+
+
+
+
+Partnerships and Collaboration
+
+
+
+
+
+
+Physical Security
+
+
+
+
+
+
+Risk Management
+
+
+
+
+
+
+        How can we help?
+       
+GovernmentEducational InstitutionsIndustryState, Local, Tribal, and TerritorialIndividuals and FamiliesSmall and Medium BusinessesFind Help LocallyFaith-Based CommunityExecutives
+
+
+
+
+
+Spotlight
+
+
+
+
+Resources & Tools
+
+
+
+Resources & Tools
+
+
+
+
+
+All Resources & Tools
+
+
+
+
+
+
+Services
+
+
+
+
+
+
+Programs
+
+
+
+
+
+
+Resources
+
+
+
+
+
+
+Training
+
+
+
+
+
+
+Groups
+
+
+
+
+
+
+
+
+News & Events
+
+
+
+News & Events
+
+
+
+
+
+News
+
+
+
+
+
+
+Events
+
+
+
+
+
+
+Cybersecurity Alerts & Advisories
+
+
+
+
+
+
+Directives
+
+
+
+
+
+
+Request a CISA Speaker
+
+
+
+
+
+
+Congressional Testimony
+
+
+
+
+
+
+
+
+Careers
+
+
+
+Careers
+
+
+
+
+
+Benefits & Perks
+
+
+
+
+
+
+HireVue Applicant Reasonable Accommodations Process
+
+
+
+
+
+
+Hiring
+
+
+
+
+
+
+Resume & Application Tips
+
+
+
+
+
+
+Students & Recent Graduates
+
+
+
+
+
+
+Veteran and Military Spouses
+
+
+
+
+
+
+Work @ CISA
+
+
+
+
+
+
+
+
+About
+
+
+
+About
+
+
+
+
+
+Culture
+
+
+
+
+
+
+Divisions & Offices
+
+
+
+
+
+
+Regions
+
+
+
+
+
+
+Leadership
+
+
+
+
+
+
+Doing Business with CISA
+
+
+
+
+
+
+Site Links
+
+
+
+
+
+
+Reporting Employee and Contractor Misconduct
+
+
+
+
+
+
+CISA GitHub
+
+
+
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+Report a Cyber Issue
+
+
+
+
+
+America's Cyber Defense Agency
+
+
+
+
+
+
+Breadcrumb
+
+
+Home
+
+
+News & Events
+
+
+News
+
+
+
+
+
+
+
+Share:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Press Release
+
+CISA Launches Critical Infrastructure Security and Resilience Month 2023
+
+
+
+ReleasedNovember 01, 2023
+
+
+
+ Related topics: 
+
+Critical Infrastructure Security and Resilience 
+
+
+
+
+
+
+
+
+
+
+
+
+This November CISA is asking everyone to “Resolve to be Resilient”WASHINGTON – Today, the Cybersecurity and Infrastructure Security Agency (CISA) announced the kickoff of Critical Infrastructure Security and Resilience Month. Yesterday, the White House issued a Presidential Proclamation to commemorate November as Critical Infrastructure Security and Resilience Month and called on Americans to recognize the importance of this month to enhance our collective national security and resilience.“The safety and security of our nation depends in large part on the resilience of our critical infrastructure. All critical infrastructure owners and operators must prepare for potential disruption—be able to respond with agility and to recover rapidly to minimize impacts to the services Americans rely on every hour of every day,” said CISA Director Jen Easterly. “This Critical Infrastructure Security and Resilience Month, we are asking everyone to resolve to be more resilient by taking actionable steps to plan and exercise to withstand the impact of disruption.”This November, CISA is asking everyone to Resolve to be Resilient by preparing and investing in resilience today, so that, as a nation, we can recover quickly in the event of an incident tomorrow.  We are highlighting practices critical infrastructure organizations can implement to recover rapidly in the aftermath of any significant disruption:Assess Your Risk. Organizations should identify their most critical functions and assets, define dependencies that enable the continuity of these functions, and consider the full range of threats that could undermine functional continuity.Make a Plan and Exercise It. Organizations should perform dedicated resilience planning, determine the maximum downtime acceptable for customers, develop recovery plans to regain functional capabilities within the maximum downtime, and test those plans under real-life conditions to ensure the ability to operate through disruption.Continuously Improve and Adapt. Organizations should be prepared to regularly adapt to changing conditions and threats. This starts with fostering a culture of continuous improvement, based on lessons learned from exercises and real-world incidents, and evolving cross-sector risks.We encourage you to visit CISA’s Critical Infrastructure Security and Resilience Month webpage for more information, resources and toolkit: cisa.gov/CISR. Be sure to follow us on social media and join the Resolve to #BeResilient conversation.  
+
+
+
+
+
+
+
+
+
+Related Articles
+
+
+
+
+
+
+Nov 26, 2023
+
+Press Release
+
+
+
+DHS CISA and UK NCSC Release Joint Guidelines for Secure AI System Development
+ 
+
+
+
+
+
+
+
+Nov 14, 2023
+
+Press Release
+
+
+
+DHS Cybersecurity and Infrastructure Security Agency Releases Roadmap for Artificial Intelligence 
+ 
+
+
+
+
+
+
+
+Nov 09, 2023
+
+Press Release
+
+
+
+CISA Signs Memorandum of Understanding with the Republic of Korea to Share Cyber Threat Information and Cybersecurity Best Practices 
+ 
+
+
+
+
+
+
+
+Nov 07, 2023
+
+Press Release
+
+
+
+DHS Unveils New Shields Ready Campaign to Promote Critical Infrastructure Security and Resilience
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+Topics
+
+
+Spotlight
+
+
+Resources & Tools
+
+
+News & Events
+
+
+Careers
+
+
+About
+
+
+
+
+
+
+
+
+
+Cybersecurity & Infrastructure Security Agency
+ 
+
+
+
+Facebook
+
+
+Twitter
+
+
+LinkedIn
+
+
+YouTube
+
+
+Instagram
+
+
+RSS
+
+
+
+CISA Central
+888-282-0870
+Central@cisa.dhs.gov
+
+
+
+
+
+
+
+
+
+
+DHS Seal
+
+CISA.gov
+An official website of the U.S. Department of Homeland Security
+
+
+
+
+About CISA
+
+
+Accessibility
+
+
+Budget and Performance
+
+
+DHS.gov
+
+
+FOIA Requests
+
+
+No FEAR Act
+
+
+Office of Inspector General
+
+
+Privacy Policy
+
+
+Subscribe
+
+
+The White House
+
+
+USA.gov
+
+
+Website Feedback
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

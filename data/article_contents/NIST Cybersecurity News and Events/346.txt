@@ -1,0 +1,768 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST Publishes Guide to Operational Technology (OT) Security | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2023/09/nist-publishes-guide-operational-technology-ot-security
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Our Organization
+
+
+Office of the Director
+
+
+Budget & Planning
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UPDATES
+
+
+
+NIST Publishes Guide to Operational Technology (OT) Security
+
+
+September 28, 2023
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  Smart Connected Systems Division, NIST
+
+        
+
+
+
+The impact of cybersecurity breaches on infrastructure control system owners/operators is more significant and visible than ever before. Whether you work for an infrastructure owner/operator or are a consumer of an infrastructure service, the events of the past few months/years have made it clear that cybersecurity is a critical factor in ensuring the safe and reliable delivery of goods and services. For infrastructure control system owners/operators, it can be challenging to address the range of cybersecurity threats, vulnerabilities, and risks that can negatively impact their operations, especially with limited resources.
+Operational Technology (OT) encompasses a broad range of programmable systems and devices that interact with the physical environment (or manage devices that interact with the physical environment). These systems and devices detect or cause a direct change through the monitoring and/or control of devices, processes, and events. Examples include industrial control systems (ICS), building automation systems, transportation systems, physical access control systems, physical environment monitoring systems, and physical environment measurement systems. OT can be found in all critical infrastructures.
+To assist OT system owners/operators, NIST has published Special Publication (SP) 800-82r3 (Revision 3), Guide to Operational Technology (OT) Security, which provides guidance on how to improve the security of OT systems while addressing their unique performance, reliability, and safety requirements. SP 800-82r3 provides an overview of OT and typical system topologies, identifies typical threats to organizational mission and business functions supported by OT, describes typical vulnerabilities in OT, and provides recommended security safeguards and countermeasures to manage the associated risks.  SP 800-82 has been downloaded more than 3 million times since its initial release in 2006, this is the third revision of NIST SP 800-82, with a new title reflecting an expanded scope. SP 800-82r3 was produced through a collaborative effort of the NIST Smart Connected Systems Division's Networked Control Systems Group and the NIST Computer Security Division. 
+Updates in this revision include:
+New title
+Expansion in scope from ICS to OT
+Updates to OT threats and vulnerabilities
+Updates to OT risk management, recommended practices, and architectures
+Updates to current activities in OT security
+Updates to security capabilities and tools for OT
+Additional alignment with other OT security standards and guidelines, including the Cybersecurity Framework (CSF)
+New tailoring guidance for SP 800-53r5 security controls, including an OT overlay that provides tailored security control baselines for low-impact, moderate-impact, and high-impact OT systems
+In addition to SP 800-82r3, a collection of NIST resources for OT cybersecurity can be found at the Operational Technology Security website.
+
+
+
+
+
+Advanced communications, Information technology, Cyber-physical systems, Smart cities, Cybersecurity, Cybersecurity education and workforce development, Identity and access management, Risk management, Securing emerging technologies, Trustworthy networks, Trustworthy platforms, Internet of Things (IoT), Infrastructure, Standards, Documentary standards and Frameworks
+
+
+
+
+
+
+
+
+Technical Contact
+
+
+
+
+Keith A. Stouffer
+
+keith.stouffer@nist.gov
+
+
+    (301) 975-3877
+  
+
+
+Victoria Yan Pillitteri
+
+victoria.pillitteri@nist.gov
+
+
+    (301) 975-8542
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsCommunications Technology LaboratorySmart Connected Systems DivisionNetworked Control Systems GroupInformation Technology LaboratoryComputer Security DivisionSecurity Engineering and Risk Management Group
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released September 28, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,767 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST Researchers Explain the Value of Standards-based Sensors in EE Times University Course | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2023/09/nist-researchers-explain-value-standards-based-sensors-ee-times-university
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Our Organization
+
+
+Office of the Director
+
+
+Budget & Planning
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UPDATES
+
+
+
+NIST Researchers Explain the Value of Standards-based Sensors in EE Times University Course
+
+
+September 01, 2023
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  CTL
+
+        
+
+
+NIST’s Eugene Song and Kang Lee presented on how standards and interoperability empower smart sensing in a course titled, “Mastering IoT Design: Sense, Process, Connect, Part 1: Empowering Smart Sensing with Standards and Interoperability,” conducted by EE Times University.
+Lee noted that sensors in Internet of Things (IoT) applications are ubiquitous – in aircraft, automobiles, and manufacturing. In homes, sensors detect smoke, indoor temperature changes, and outside motions etc. In healthcare, sensors measure body temperature, blood glucose concentrations, and heart rate, etc.
+Such IoT application trends drive sensor requirements for IoT applications, stated Lee. Vendors and users need assurances that they will sense what they are supposed to, protect personal data, interoperate with networks, and more. Meeting these requirements also means overcoming diverse challenges related to their use, such as energy efficiency, environmental factors, and ensuring affordability.
+Lee provided a checklist for choosing sensors, noting that they should:
+Be “smart” sensors, capable of applying edge computing and artificial intelligence
+Adhere to standards, such as: 
+Being globally identifiable
+Being secure
+Doing time synchronization
+Enabling interoperability and “plug-and-play”
+
+Song covered the soon-to be applicable standard for smart sensors and networks, from his perspective as Chair of IEEE P1451.0 Working Group for a Smart Transducer Interface for Sensors, Actuators, Devices, and Systems. The working group is currently balloting on the IEEE P1451.0 standard for smart transducer (sensors and/or actuators) interfaces and network interfaces. The core standard will define common functions, network services, transducer services, and transducer electronic datasheet (TEDS) formats; these will help achieve data interoperability in sensor level and network level for IoT, industrial IoT and cyber-physical system (CPS) applications. Eugene also talked about deployment and the interoperability testing method of IEEE 1451-based sensor networks.
+Lee ended by addressing the benefits of IEEE 1451 standards-based sensor networks, which include those mentioned in the checklist, as well as:
+Reduced human error
+Easy installation and upgrades
+Reduced life-cycle costs
+
+
+
+
+
+
+Advanced communications, Wireless (RF), Electronics, Sensors, Information technology, Cyber-physical systems, Internet of Things (IoT), Standards and Documentary standards
+
+
+
+
+
+
+
+
+Technical Contact
+
+
+
+
+Eugene Song
+
+eugene.song@nist.gov
+
+
+    (301) 975-6542
+  
+
+
+Kang B Lee
+
+kang.lee@nist.gov
+
+
+    (301) 975-6604
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsCommunications Technology LaboratorySmart Connected Systems DivisionIoT Devices and Infrastructures Group
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released September 1, 2023, Updated October 11, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

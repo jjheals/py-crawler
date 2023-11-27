@@ -1,0 +1,972 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General Electric investigates claims of cyber attack, data theft
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+
+Featured
+Latest
+
+
+
+
+
+
+
+Windows Hello auth bypassed on Microsoft, Dell, Lenovo laptops
+
+
+
+
+
+Cyberattack on IT provider CTS impacts dozens of UK law firms
+
+
+
+
+
+UK and South Korea: Hackers use zero-day in supply-chain attack
+
+
+
+
+
+Malware dev says they can revive expired Google auth cookies
+
+
+
+
+
+
+
+
+
+Leveraging Wazuh to combat insider threats
+
+
+
+
+
+Google Drive users angry over losing months of stored data
+
+
+
+
+
+Learn Azure at your own pace with $77 off this exam prep bundle
+
+
+
+
+
+New Rust-based SysJoker backdoor linked to Hamas hackers
+
+
+
+
+
+
+
+
+Downloads
+
+
+
+Latest
+Most Downloaded
+
+
+
+
+
+
+
+Qualys BrowserCheck
+
+
+
+
+
+STOPDecrypter
+
+
+
+
+
+AuroraDecrypter
+
+
+
+
+
+FilesLockerDecrypter
+
+
+
+
+
+
+
+
+
+AdwCleaner
+
+
+
+
+
+ComboFix
+
+
+
+
+
+RKill
+
+
+
+
+
+Junkware Removal Tool
+
+
+
+
+
+
+
+
+VPNs
+
+
+
+Popular
+
+
+
+
+
+
+
+Best VPNs
+
+
+
+
+
+How to change IP address
+
+
+
+
+
+Access the dark web safely
+
+
+
+
+
+Best VPN for YouTube
+
+
+
+
+
+
+
+
+Virus Removal Guides
+
+
+
+Latest
+Most Viewed
+Ransomware
+
+
+
+
+
+
+
+Remove the Theonlinesearch.com Search Redirect
+
+
+
+
+
+Remove the Smartwebfinder.com Search Redirect
+
+
+
+
+
+How to remove the PBlock+ adware browser extension
+
+
+
+
+
+Remove the Toksearches.xyz Search Redirect
+
+
+
+
+
+
+
+
+
+Remove Security Tool and SecurityTool (Uninstall Guide)
+
+
+
+
+
+How to Remove WinFixer / Virtumonde / Msevents / Trojan.vundo
+
+
+
+
+
+How to remove Antivirus 2009 (Uninstall Instructions)
+
+
+
+
+
+How to remove Google Redirects or the TDSS, TDL3, or Alureon rootkit using TDSSKiller
+
+
+
+
+
+
+
+
+
+Locky Ransomware Information, Help Guide, and FAQ
+
+
+
+
+
+CryptoLocker Ransomware Information Guide and FAQ
+
+
+
+
+
+CryptorBit and HowDecrypt Information Guide and FAQ
+
+
+
+
+
+CryptoDefense and How_Decrypt Ransomware Information Guide and FAQ
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Latest
+Popular
+
+
+
+
+
+
+
+How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11
+
+
+
+
+
+How to use the Windows Registry Editor
+
+
+
+
+
+How to backup and restore the Windows Registry
+
+
+
+
+
+How to open a Windows 11 Command Prompt as Administrator
+
+
+
+
+
+
+
+
+
+How to start Windows in Safe Mode
+
+
+
+
+
+How to remove a Trojan, Virus, Worm, or other Malware
+
+
+
+
+
+How to show hidden files in Windows 7
+
+
+
+
+
+How to see hidden files in Windows
+
+
+
+
+
+
+
+
+Deals
+
+
+
+Categories
+
+
+
+
+
+
+
+eLearning
+
+
+
+
+
+IT Certification Courses
+
+
+
+
+
+Gear + Gadgets
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+
+Forums
+More
+
+Startup Database
+Uninstall Database
+Glossary
+Chat on Discord
+Send us a Tip!
+Welcome Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeNewsSecurityGeneral Electric investigates claims of cyber attack, data theft
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General Electric investigates claims of cyber attack, data theft
+
+
+By Lawrence Abrams
+
+
+November 25, 2023
+05:05 PM
+4
+
+
+
+
+General Electric is investigating claims that a threat actor breached the company's development environment in a cyberattack and leaked allegedly stolen data.
+General Electric (GE) is an American multinational company with divisions in power, renewable energy, and aerospace industries. 
+Earlier this month, a threat actor named IntelBroker attempted to sell access to General Electric's "development and software pipelines" for $500 on a hacking forum.
+After not selling said alleged access, the threat actor posted again that they are now selling both the network access and allegedly stolen data.
+"I previously listed the access to General Electrics, however, no serious buyers have actually responded to me or followed up. I am now selling the entire thing here separately, including access (SSH, SVN etc)," the threat actor posted to a hacking forum.
+"Data includes a lot of DARPA-related military information, files, SQL files, documents etc."
+
+IntelBroker selling alleged GE data and acess on a hacking forumSource: BleepingComputer
+As proof of the breach, the threat actor shared screenshots of what they claim is stolen GE data, including a database from GE Aviations that appears to contain information on military projects.
+In a statement to BleepingComputer, GE confirmed they are aware of the hacker's claims and are investigating the alleged data leak.
+"We are aware of claims made by a bad actor regarding GE data and are investigating these claims. We will take appropriate measures to help protect the integrity of our systems," a GE Spokesperson told BleepingComputer.
+While the breach has not been confirmed, IntelBroker is a hacker known for successful, high-profile cyberattacks in the past.
+This includes a Weee! grocery service breach and the theft of sensitive personal information from the District of Columbia's D.C. Health Link program.
+DC Health Link is a healthcare marketplace for Washington, D.C., used by many White House and House staffers and their families.
+In March, IntelBroker breached DC Health Link and claimed to have sold a stolen database containing the personal information of thousands of people.
+This breach led to wide media coverage and a congressional hearing to learn more about and investigate how the breach occurred.
+During the hearing, Mila Kofman, Executive Director of the District of Columbia Health Benefit Exchange Authority, explained that the data was exposed through a server that was misconfigured so that it was accessible online.
+
+Related Articles:
+ShinyHunters member pleads guilty to $6 million in data theft damagesCyberattack on IT provider CTS impacts dozens of UK law firmsExploit for CrushFTP RCE chain released, patch nowLong Beach, California turns off IT systems after cyberattackHow DDoS attacks are taking down even the largest tech companies
+
+
+
+
+
+
+
+
+Cyberattack
+Data Theft
+GE
+General Electric
+Hacking Forum
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lawrence Abrams   
+Lawrence Abrams is the owner and Editor in Chief of BleepingComputer.com. Lawrence's area of expertise includes Windows, malware removal, and computer forensics. Lawrence Abrams is a co-author of the Winternals Defragmentation, Recovery, and Administration Field Guide and the technical editor for Rootkits for Dummies.
+
+
+
+ Previous Article 
+Next Article 
+
+
+Comments
+
+
+ 
+
+
+
+
+Hunze  - 1 day ago 
+
+ 
+ 
+
+
+<p>Why doesn&#39;t that really surprise me? For years I have been asking GE administrators to please secure their email domain ge.com. To date, the domain is unsecured against spoofing attacks. So it&#39;s only a matter of time before someone takes advantage of this.</p>
+
+
+
+
+
+ 
+
+
+
+
+IhateMicroSoft  - 1 day ago 
+
+ 
+ 
+
+
+Well, this is surprising to see @Hunze. DMARC Quarantine/Reject policy not enabled. Additionally, the mail server is using ProofPoint so its just another attack vector, if/when someone finds a vulnerability with ProofPoint. Note, no hacking was done to gather this information. Its all in the MX records.
+
+
+
+
+
+ 
+
+
+
+
+Hunze  - 1 day ago 
+
+ 
+ 
+
+
+Yes, you are right, but the existence of SPF and co would improve the situation for customers and suppliers in the event of supply chain attacks. The lack of these simple mechanisms also shows a certain amount of attitude towards the topic
+
+
+
+
+
+ 
+
+
+
+
+arkysaw  - 32 minutes ago 
+
+ 
+ 
+
+
+Is that affecting GE? or is it affecting GE Aerospace? since they are different companies.
+
+
+
+
+
+Post a Comment Community Rules
+
+You need to login in order to post a comment
+Not a member yet? Register Now
+
+
+
+You may also like:
+
+
+
+
+
+
+
+
+
+
+
+Popular Stories
+
+
+
+
+
+
+Atomic Stealer malware strikes macOS via fake browser updates
+
+
+
+
+
+
+
+New Rust-based SysJoker backdoor linked to Hamas hackers
+
+
+
+
+
+
+
+
+
+
+Latest Downloads
+
+
+
+
+Malwarebytes Anti-Malware
+Version: 4.6.6.294
+5M+ Downloads
+
+
+
+
+Windows Repair (All In One)
+Version: 4.14.1
+2M+ Downloads
+
+
+
+
+McAfee Consumer Products Removal tool
+Version: NA
+439,433 Downloads
+
+
+
+
+AdwCleaner
+Version: 8.4.0.0
+56M+ Downloads
+
+
+
+
+Everything Desktop Search
+Version: 1.4.1.1017
+24,441 Downloads
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow us:
+
+
+
+
+
+
+
+
+
+Main Sections
+
+News
+VPN Buyer Guides
+Downloads
+Virus Removal Guides
+Tutorials
+Startup Database
+Uninstall Database
+Glossary
+
+
+
+Community
+
+Forums
+Forum Rules
+Chat
+
+
+
+Useful Resources
+
+Welcome Guide
+Sitemap
+
+
+
+Company
+
+About BleepingComputer
+Contact Us
+Send us a Tip!
+Advertising
+Write for BleepingComputer
+Social & Feeds
+Changelog
+
+
+
+
+
+
+
+
+Terms of Use -  Privacy Policy - Ethics Statement - Affiliate Disclosure
+
+
+Copyright @ 2003 - 2023  Bleeping Computer® LLC  - All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+
+Login
+
+
+Username
+
+
+
+Password
+
+
+
+
+
+Remember Me
+
+
+
+Sign in anonymously
+
+
+
+
+
+ Sign in with Twitter
+
+Not a member yet? Register Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Reporter
+
+Help us understand the problem. What is going on with this comment?
+
+
+
+
+Spam
+
+
+Abusive or Harmful
+
+
+Inappropriate content
+
+
+Strong language
+
+
+Other
+
+
+
+
+
+Read our posting guidelinese to learn what content is prohibited.
+
+
+
+Submitting...
+SUBMIT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

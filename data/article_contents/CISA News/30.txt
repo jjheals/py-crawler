@@ -1,0 +1,781 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CISA Signs Memorandum of Understanding with the Republic of Korea to Share Cyber Threat Information and Cybersecurity Best Practices | CISA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+ 
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+ A .gov website belongs to an official government organization in the United States.
+              
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+ A lock (LockA locked padlock) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cybersecurity & Infrastructure Security Agency
+ America's Cyber Defense Agency
+
+
+
+Search
+
+
+
+ 
+
+
+Menu
+
+
+
+
+
+
+Close
+
+
+ 
+
+
+
+
+Topics
+
+
+
+Topics
+
+
+
+
+
+Cybersecurity Best Practices
+
+
+
+
+
+
+Cyber Threats and Advisories
+
+
+
+
+
+
+Critical Infrastructure Security and Resilience
+
+
+
+
+
+
+Election Security
+
+
+
+
+
+
+Emergency Communications
+
+
+
+
+
+
+Industrial Control Systems
+
+
+
+
+
+
+Information and Communications Technology Supply Chain Security
+
+
+
+
+
+
+Partnerships and Collaboration
+
+
+
+
+
+
+Physical Security
+
+
+
+
+
+
+Risk Management
+
+
+
+
+
+
+        How can we help?
+       
+GovernmentEducational InstitutionsIndustryState, Local, Tribal, and TerritorialIndividuals and FamiliesSmall and Medium BusinessesFind Help LocallyFaith-Based CommunityExecutives
+
+
+
+
+
+Spotlight
+
+
+
+
+Resources & Tools
+
+
+
+Resources & Tools
+
+
+
+
+
+All Resources & Tools
+
+
+
+
+
+
+Services
+
+
+
+
+
+
+Programs
+
+
+
+
+
+
+Resources
+
+
+
+
+
+
+Training
+
+
+
+
+
+
+Groups
+
+
+
+
+
+
+
+
+News & Events
+
+
+
+News & Events
+
+
+
+
+
+News
+
+
+
+
+
+
+Events
+
+
+
+
+
+
+Cybersecurity Alerts & Advisories
+
+
+
+
+
+
+Directives
+
+
+
+
+
+
+Request a CISA Speaker
+
+
+
+
+
+
+Congressional Testimony
+
+
+
+
+
+
+
+
+Careers
+
+
+
+Careers
+
+
+
+
+
+Benefits & Perks
+
+
+
+
+
+
+HireVue Applicant Reasonable Accommodations Process
+
+
+
+
+
+
+Hiring
+
+
+
+
+
+
+Resume & Application Tips
+
+
+
+
+
+
+Students & Recent Graduates
+
+
+
+
+
+
+Veteran and Military Spouses
+
+
+
+
+
+
+Work @ CISA
+
+
+
+
+
+
+
+
+About
+
+
+
+About
+
+
+
+
+
+Culture
+
+
+
+
+
+
+Divisions & Offices
+
+
+
+
+
+
+Regions
+
+
+
+
+
+
+Leadership
+
+
+
+
+
+
+Doing Business with CISA
+
+
+
+
+
+
+Site Links
+
+
+
+
+
+
+Reporting Employee and Contractor Misconduct
+
+
+
+
+
+
+CISA GitHub
+
+
+
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+Report a Cyber Issue
+
+
+
+
+
+America's Cyber Defense Agency
+
+
+
+
+
+
+Breadcrumb
+
+
+Home
+
+
+News & Events
+
+
+News
+
+
+
+
+
+
+
+Share:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Press Release
+
+CISA Signs Memorandum of Understanding with the Republic of Korea to Share Cyber Threat Information and Cybersecurity Best Practices 
+
+
+
+ReleasedNovember 09, 2023
+
+
+
+ Related topics: 
+
+Cybersecurity Best Practices 
+
+
+
+
+
+
+
+
+
+
+
+
+WASHINGTON - Today, the Cybersecurity and Infrastructure Security Agency (CISA) Director Jen Easterly and the Republic of Korea’s Deputy Director of the National Intelligence Service (NIS) Baek Jong-wook signed a Memorandum of Understanding (MoU) outlining areas for collaboration under the bilateral Cyber Framework signed by President Biden and Republic of Korea President Yoon in April.   The Framework affirms cooperation with Korea in key CISA mission areas, to include sharing technical and operational cyber threat information and best practices in cyber crisis management.  In June, senior leaders from both countries determined that CISA and NIS would co-lead a Framework Action Group on critical infrastructure. This Action Group will also bring together Korea’s Ministry of Science and ICT and other USG departments and agencies.  “I am pleased that CISA is partnering with the Republic of Korea National Intelligence Service through this Memorandum of Understanding to strengthen our collaboration on defending against cyber threats,” said CISA Director Jen Easterly. “International cooperation with key partners and allies is vital to building resilience in our shared cyber ecosystem. Today's agreement represents a great step forward in our work together.”  Under the MoU signed today, the U.S. and Korea will:  Consult regularly on technical capabilities and mechanisms for cybersecurity threat response, enhancing communications between respective Computer Emergency Response Teams (CERTs);Collaborate on critical infrastructure supply chain resilience; Share best practices across cyber and infrastructure domains through joint exercises, expert-level exchanges, and trainings;Share best practices on policies governing new technologies such as AI. The CISA-NIS MoU builds on already strong collaboration with the Republic of Korea, a key treaty ally and cybersecurity leader in the Indo-Pacific region.  CISA joins DHS, DoD, and other U.S. Government agencies who have entered into cyber collaboration agreements with Korean counterparts. ### About CISA As the nation’s cyber defense agency and national coordinator for critical infrastructure security, the Cybersecurity and Infrastructure Security Agency leads the national effort to understand, manage, and reduce risk to the digital and physical infrastructure Americans rely on every hour of every day.Visit CISA.gov for more information and follow us on Twitter, Facebook, LinkedIn, Instagram. 
+
+
+
+
+
+
+
+
+
+Related Articles
+
+
+
+
+
+
+Nov 26, 2023
+
+Press Release
+
+
+
+DHS CISA and UK NCSC Release Joint Guidelines for Secure AI System Development
+ 
+
+
+
+
+
+
+
+Nov 14, 2023
+
+Press Release
+
+
+
+DHS Cybersecurity and Infrastructure Security Agency Releases Roadmap for Artificial Intelligence 
+ 
+
+
+
+
+
+
+
+Nov 07, 2023
+
+Press Release
+
+
+
+On Election Day, CISA and Partners Coordinate on Security Operations
+ 
+
+
+
+
+
+
+
+Nov 07, 2023
+
+Press Release
+
+
+
+DHS Unveils New Shields Ready Campaign to Promote Critical Infrastructure Security and Resilience
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+Topics
+
+
+Spotlight
+
+
+Resources & Tools
+
+
+News & Events
+
+
+Careers
+
+
+About
+
+
+
+
+
+
+
+
+
+Cybersecurity & Infrastructure Security Agency
+ 
+
+
+
+Facebook
+
+
+Twitter
+
+
+LinkedIn
+
+
+YouTube
+
+
+Instagram
+
+
+RSS
+
+
+
+CISA Central
+888-282-0870
+Central@cisa.dhs.gov
+
+
+
+
+
+
+
+
+
+
+DHS Seal
+
+CISA.gov
+An official website of the U.S. Department of Homeland Security
+
+
+
+
+About CISA
+
+
+Accessibility
+
+
+Budget and Performance
+
+
+DHS.gov
+
+
+FOIA Requests
+
+
+No FEAR Act
+
+
+Office of Inspector General
+
+
+Privacy Policy
+
+
+Subscribe
+
+
+The White House
+
+
+USA.gov
+
+
+Website Feedback
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,836 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+International Tour of Cybersecurity Careers: Stories Told by Current Practitioners | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/events/2023/10/international-tour-cybersecurity-careers-stories-told-current
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Our Organization
+
+
+Office of the Director
+
+
+Budget & Planning
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EVENTS
+
+
+International Tour of Cybersecurity Careers: Stories Told by Current Practitioners
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read the Code of Conduct for NIST Conferences.
+
+
+
+
+
+
+Virtual Event
+
+
+
+
+              October 17, 2023
+                    4:00 - 4:45pm EDT
+          
+
+
+
+Registration closed. 
+If you have an accommodation request, please contact the NICE Program Office at nice [at] nist.gov (nice[at]nist[dot]gov) or (240) 457-2638 no later than three business days prior to the event.
+Recording Note: Portions of the event may be recorded and audience Q&A or comments may be captured. The recorded event may be edited and rebroadcast or otherwise made publicly available by NIST.  By registering for -- or attending -- this event, you acknowledge and consent to being recorded.
+
+
+
+
+
+
+
+
+
+International Tour of Cybersecurity Careers Stories Told by Current Practitioners
+
+
+The presentation slides are available here.
+Provide event feedback here.
+
+Speakers: 
+
+
+
+
+
+
+Danielle Santos
+Manager of Communications and Operations and Lead for International Engagement
+NICE(Moderator)
+
+
+
+
+
+
+
+Credit:
+          
+  Jonathan Joynt
+
+        
+
+
+Jonathan Joynt
+Cybersecurity Instructor
+Learning HubCanadian Centre for Cyber Security 
+
+
+
+
+
+
+
+Credit:
+          
+  Paola Cerrato-D'amico
+
+        
+
+
+Paola Cerrato-D'amicoDirectorStrategic Partnerships and Industry Engagement
+Australian Signals Directorate 
+
+
+
+
+
+
+
+Credit:
+          
+  Kat Walker
+
+        
+
+
+Kat WalkerTechnology Consultant (Cyber)
+Networkology Ltd
+ 
+
+
+
+
+
+
+
+Credit:
+          
+  Ben Creet
+
+        
+
+
+Ben Creet
+Principal AdvisorNew Zealand’s National Cyber Security Centre
+ 
+
+
+Synopsis: 
+In support of Cybersecurity Career Week, this webinar will explore the many different pathways to a career in cybersecurity. We will hear from current practitioners from around the world about their own experiences and how they got started in the field. We will also discuss the skills that are essential for success in cybersecurity, regardless of your background.
+Attendees will gain insights on:
+The different types of cybersecurity careers
+How to break into the cybersecurity field
+The challenges and rewards of working in cybersecurity
+How to prepare for a career of life-long learning in cybersecurity
+Resources: 
+Cybersecurity Career Week October 16-21, 2023
+
+
+
+
+
+
+
+
+
+Cybersecurity and Cybersecurity education and workforce development
+
+
+
+
+
+
+
+
+
+Read the Code of Conduct for NIST Conferences.
+
+
+
+
+
+
+Virtual Event
+
+
+
+
+              October 17, 2023
+                    4:00 - 4:45pm EDT
+          
+
+
+
+Registration closed. 
+If you have an accommodation request, please contact the NICE Program Office at nice [at] nist.gov (nice[at]nist[dot]gov) or (240) 457-2638 no later than three business days prior to the event.
+Recording Note: Portions of the event may be recorded and audience Q&A or comments may be captured. The recorded event may be edited and rebroadcast or otherwise made publicly available by NIST.  By registering for -- or attending -- this event, you acknowledge and consent to being recorded.
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsInformation Technology LaboratoryApplied Cybersecurity DivisionNICE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Created September 12, 2023, Updated October 24, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

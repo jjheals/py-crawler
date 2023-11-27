@@ -1,0 +1,908 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Critical bug in ownCloud file sharing app exposes admin passwords
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+
+Featured
+Latest
+
+
+
+
+
+
+
+Windows Hello auth bypassed on Microsoft, Dell, Lenovo laptops
+
+
+
+
+
+Cyberattack on IT provider CTS impacts dozens of UK law firms
+
+
+
+
+
+UK and South Korea: Hackers use zero-day in supply-chain attack
+
+
+
+
+
+Malware dev says they can revive expired Google auth cookies
+
+
+
+
+
+
+
+
+
+Leveraging Wazuh to combat insider threats
+
+
+
+
+
+Google Drive users angry over losing months of stored data
+
+
+
+
+
+Learn Azure at your own pace with $77 off this exam prep bundle
+
+
+
+
+
+New Rust-based SysJoker backdoor linked to Hamas hackers
+
+
+
+
+
+
+
+
+Downloads
+
+
+
+Latest
+Most Downloaded
+
+
+
+
+
+
+
+Qualys BrowserCheck
+
+
+
+
+
+STOPDecrypter
+
+
+
+
+
+AuroraDecrypter
+
+
+
+
+
+FilesLockerDecrypter
+
+
+
+
+
+
+
+
+
+AdwCleaner
+
+
+
+
+
+ComboFix
+
+
+
+
+
+RKill
+
+
+
+
+
+Junkware Removal Tool
+
+
+
+
+
+
+
+
+VPNs
+
+
+
+Popular
+
+
+
+
+
+
+
+Best VPNs
+
+
+
+
+
+How to change IP address
+
+
+
+
+
+Access the dark web safely
+
+
+
+
+
+Best VPN for YouTube
+
+
+
+
+
+
+
+
+Virus Removal Guides
+
+
+
+Latest
+Most Viewed
+Ransomware
+
+
+
+
+
+
+
+Remove the Theonlinesearch.com Search Redirect
+
+
+
+
+
+Remove the Smartwebfinder.com Search Redirect
+
+
+
+
+
+How to remove the PBlock+ adware browser extension
+
+
+
+
+
+Remove the Toksearches.xyz Search Redirect
+
+
+
+
+
+
+
+
+
+Remove Security Tool and SecurityTool (Uninstall Guide)
+
+
+
+
+
+How to Remove WinFixer / Virtumonde / Msevents / Trojan.vundo
+
+
+
+
+
+How to remove Antivirus 2009 (Uninstall Instructions)
+
+
+
+
+
+How to remove Google Redirects or the TDSS, TDL3, or Alureon rootkit using TDSSKiller
+
+
+
+
+
+
+
+
+
+Locky Ransomware Information, Help Guide, and FAQ
+
+
+
+
+
+CryptoLocker Ransomware Information Guide and FAQ
+
+
+
+
+
+CryptorBit and HowDecrypt Information Guide and FAQ
+
+
+
+
+
+CryptoDefense and How_Decrypt Ransomware Information Guide and FAQ
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Latest
+Popular
+
+
+
+
+
+
+
+How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11
+
+
+
+
+
+How to use the Windows Registry Editor
+
+
+
+
+
+How to backup and restore the Windows Registry
+
+
+
+
+
+How to open a Windows 11 Command Prompt as Administrator
+
+
+
+
+
+
+
+
+
+How to start Windows in Safe Mode
+
+
+
+
+
+How to remove a Trojan, Virus, Worm, or other Malware
+
+
+
+
+
+How to show hidden files in Windows 7
+
+
+
+
+
+How to see hidden files in Windows
+
+
+
+
+
+
+
+
+Deals
+
+
+
+Categories
+
+
+
+
+
+
+
+eLearning
+
+
+
+
+
+IT Certification Courses
+
+
+
+
+
+Gear + Gadgets
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+
+Forums
+More
+
+Startup Database
+Uninstall Database
+Glossary
+Chat on Discord
+Send us a Tip!
+Welcome Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeNewsSecurityCritical bug in ownCloud file sharing app exposes admin passwords
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Critical bug in ownCloud file sharing app exposes admin passwords
+
+
+By Bill Toulas
+
+
+
+
+November 24, 2023
+01:14 PM
+1
+
+
+
+
+
+Open source file sharing software ownCloud is warning of three critical-severity security vulnerabilities, including one that can expose administrator passwords and mail server credentials.
+ownCloud is an open-source file sync and sharing solution designed for individuals and organizations wishing to manage and share files through a self-hosted platform.
+It is used by businesses and enterprises, educational institutes, government agencies, and privacy-conscious individuals who prefer to maintain control over their data rather than hosting it at third-party cloud storage providers. OwnCloud's site reports 200,000 installs, 600 enterprise customers, and 200 million users.
+The software consists of multiple libraries and components that work together to provide a range of functionalities for the cloud storage platform.
+Severe data breach risks
+The development team behind the project issued three security bulletins earlier this week, warning of three different flaws in ownCloud's components that could severely impact its integrity.
+The first flaw is tracked as CVE-2023-49103 and received a maximum CVSS v3 score of 10. The flaw can be used to steal credentials and configuration information in containerized deployments, impacting all environment variables of the webserver.
+Impacting graphapi 0.2.0 through 0.3.0, the problem arises from the app's dependency on a third-party library that exposes PHP environment details through a URL, exposing ownCloud admin passwords, mail server credentials, and license keys.
+The recommended fix is to delete the 'owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php' file, disable the 'phpinfo' function in Docker containers, and change potentially exposed secrets like the ownCloud admin password, mail server, database credentials, and Object-Store/S3 access keys.
+"It's important to emphasize that simply disabling the graphapi app does not eliminate the vulnerability," warns the security bulletin.
+"Additionally, phpinfo exposes various other potentially sensitive configuration details that could be exploited by an attacker to gather information about the system. Therefore, even if ownCloud is not running in a containerized environment, this vulnerability should still be a cause for concern."
+The second issue, with a CVSS v3 score of 9.8, impacts ownCloud core library versions 10.6.0 to 10.13.0, and is an authentication bypass problem.
+The flaw makes it possible for attackers to access, modify, or delete any file without authentication if the user's username is known and they have not configured a signing-key (default setting).
+The published solution is to deny the use of pre-signed URLs if no signing key is configured for the owner of the files.
+The third and less severe flaw (CVSS v3 score: 9) is a subdomain validation bypass issue impacting all versions of the oauth2 library below 0.6.1.
+In the oauth2 app, an attacker can input a specially crafted redirect URL that bypasses the validation code, allowing redirection of callbacks to a domain controlled by the attacker.
+The recommended mitigation is to harden the validation code in the Oauth2 app. A temporary workaround shared in the bulletin is to disable the "Allow Subdomains" option.
+The three security flaws described in the bulletins significantly impact the security and integrity of the ownCloud environment, potentially leading to exposure of sensitive information, stealthy data theft, phishing attacks, and more.
+Security vulnerabilities in file-sharing platforms have been under constant attack, with ransomware groups, like CLOP, using them in data theft attacks on thousnads of companies worldwide.
+Due to this, it's critical for ownCloud administrators to immediately apply the recommended fixes and perform the library updates as soon as possible to mitigate these risks.
+
+Related Articles:
+QNAP warns of critical command injection flaws in QTS OS, appsFortinet warns of critical command injection bug in FortiSIEMHackers exploit Looney Tunables Linux bug, steal cloud credsF5 fixes BIG-IP auth bypass allowing remote code execution attacksMicrosoft: Hackers target Azure cloud VMs via breached SQL servers
+
+
+
+
+
+
+
+
+
+
+
+Cloud
+Cloud Security
+Cloud Storage
+OwnCloud
+Security Advisory
+Vulnerability
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bill Toulas   
+Bill Toulas is a tech writer and infosec news reporter with over a decade of experience working on various online publications, covering open-source, Linux, malware, data breach incidents, and hacks.
+
+
+
+
+ Previous Article 
+Next Article 
+
+
+
+Comments
+
+
+
+  
+
+
+
+
+
+
+dustojnikhummer  - 9 hours ago 
+
+
+ 
+ 
+
+
+
+Does this also affect Nextcloud?
+
+
+
+
+
+
+Post a Comment Community Rules
+
+You need to login in order to post a comment
+
+Not a member yet? Register Now
+
+
+
+You may also like:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Popular Stories
+
+
+
+
+
+
+General Electric investigates claims of cyber attack, data theft
+
+
+
+
+
+
+
+Atomic Stealer malware strikes macOS via fake browser updates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow us:
+
+
+
+
+
+
+
+
+
+Main Sections
+
+News
+VPN Buyer Guides
+Downloads
+Virus Removal Guides
+Tutorials
+Startup Database
+Uninstall Database
+Glossary
+
+
+
+Community
+
+Forums
+Forum Rules
+Chat
+
+
+
+Useful Resources
+
+Welcome Guide
+Sitemap
+
+
+
+Company
+
+About BleepingComputer
+Contact Us
+Send us a Tip!
+Advertising
+Write for BleepingComputer
+Social & Feeds
+Changelog
+
+
+
+
+
+
+
+
+Terms of Use -  Privacy Policy - Ethics Statement - Affiliate Disclosure
+
+
+Copyright @ 2003 - 2023  Bleeping Computer® LLC  - All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+
+Login
+
+
+Username
+
+
+
+Password
+
+
+
+
+
+Remember Me
+
+
+
+Sign in anonymously
+
+
+
+
+
+ Sign in with Twitter
+
+Not a member yet? Register Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Reporter
+
+Help us understand the problem. What is going on with this comment?
+
+
+
+
+Spam
+
+
+Abusive or Harmful
+
+
+Inappropriate content
+
+
+Strong language
+
+
+Other
+
+
+
+
+
+Read our posting guidelinese to learn what content is prohibited.
+
+
+
+Submitting...
+SUBMIT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

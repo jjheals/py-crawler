@@ -4,6 +4,8 @@ from re import sub, compile
 import json
 from config.Paths import Paths 
 from rss_feed.RSS import *
+from os import mkdir, path, listdir
+import shutil 
 
 class Crawler: 
     
@@ -33,7 +35,17 @@ class Crawler:
             # Load the stored articles
             tmp_articles = json.load(open(Paths.ARTICLES_JSON, 'r'))
             for a in tmp_articles: self.articles.append(RSS_Article.article_from_dict(a))
-        
+        else: 
+            # If we are not loading storage, then we need to clear the existing files containing the article contents
+            # because the indices will no longer match, meaning we may have duplicates.
+            # NOTE: index_url recreates the directories for the feeds if they do not exist, so we can simply remove all
+            #       of the directories for all feeds and have index_url recreate them as needed 
+            try:
+                shutil.rmtree(Paths.ARTICLE_CONTENTS_DIR) # Remove all of the directories for the feeds
+                mkdir(Paths.ARTICLE_CONTENTS_DIR)         # Recreate the parent directory 
+            except OSError as e:
+                print(f"Error in Crawler.__init__ from shutil: {e}")
+            
         # If configured, auto index the feeds in Paths.FEEDS_JSON
         if auto_index_feeds: 
             # Get the feeds
@@ -41,8 +53,8 @@ class Crawler:
             
             # Iterate through and index the feeds 
             for l,f in feeds.items(): 
-                print(f"Indexing {f['feed_title']} ({l})")
-                self.index_url(l, tag=f["article_link_tag"])
+                print(f"Indexing {f['feed_title']} ({l})")                      # Print debug info for tracking 
+                self.index_url(l, f['feed_title'], tag=f["article_link_tag"])   # Call index_url for this feed to index the XML page
         
               
     ''' index_url(url)
@@ -58,9 +70,12 @@ class Crawler:
         RETURNS: 
             The number of pages indexed (int)    
     '''
-    def index_url(self, url, tag:str='link') -> int:
+    def index_url(self, url, feed_title:str, tag:str='link') -> int:
         orig_num_articles = len(self.articles)  # Number of URLS originally to calc how many new ones we index
         
+        # Make sure this feed has a folder to save the article contents 
+        if not path.exists(Paths.ARTICLE_CONTENTS_DIR + feed_title): mkdir(Paths.ARTICLE_CONTENTS_DIR + feed_title)
+                
         # Get all the frontiers off the index
         try: 
             response = requests.get(url, headers=Crawler.headers)   # Fetch the HTML content
@@ -82,7 +97,7 @@ class Crawler:
                 
         # Visit all the hyperlinks off this page and parse the content
         # NOTE: parse_url_content adds the outbound links from the frontier to self.outbound_links
-        for a in tmp_articles: self.parse_article_content(a)
+        for a in tmp_articles: self.parse_article_content(a, feed_title)
 
         # Return the length of the first value in self.outbound_links, since that is the number of urls off the index
         return len(self.articles) - orig_num_articles
@@ -98,7 +113,7 @@ class Crawler:
         RETURNS: 
             (int) The article id in self.articles, i.e. the index, if successful; -1 if error
     '''
-    def parse_article_content(self, article:RSS_Article) -> int: 
+    def parse_article_content(self, article:RSS_Article, feed_title:str) -> int: 
         
         # Check if we've seen this URL before - return if we have
         if article.article_link in self.seen_article_links: return -1
@@ -124,6 +139,12 @@ class Crawler:
         
         frontiers = list(set(frontiers))       # Remove duplicates in the frontiers list by casting to a set and back to list  
         article.outbound_links = frontiers     # Add the outbound links for this frontier to the article's outbound links
+        
+        # ---- Saving raw content ---- #
+        this_dir:str = Paths.ARTICLE_CONTENTS_DIR + feed_title + f"/{article_id}.txt"
+        
+        with open(this_dir, "w+") as file: 
+            file.write(soup.text)
         
         # ---- Tokenization ---- #
         tokens:list[str] = self.tokenize(soup.text)     # Tokenize the content 
@@ -161,10 +182,10 @@ class Crawler:
         tokens = []
         
         # Replace any special chars in the content with spaces to act as delimeters 
-        pattern:str = r'[^a-zA-Z0-9\s]+'     # Pattern of plaintext characters (a-z, A-Z, 0-9, no special chars)
-        text = sub(pattern, ' ', text)     # Substitute all matches with spaces  
-        text = sub(r'html\r\n', ' ', text)
-        text = sub(r'\n+', ' ', text)
+        pattern:str = r'[^a-zA-Z0-9\s\xa0]+'  # Pattern of plaintext characters (a-z, A-Z, 0-9, no special chars)
+        text = sub(pattern, ' ', text)         # Substitute all matches with spaces  
+        text = sub(r'html\r\n', ' ', text)     # Remove weird HTML heading format
+        text = sub(r'[\n\xa0]+', ' ', text)    # Remove newlines and non-breaking spaces 
         
         # Split the text on spaces, convert to lower, and strip whitespace from each token 
         tokens = [s.lower().strip() for s in text.split(' ') if s.strip()]

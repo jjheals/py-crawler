@@ -1,0 +1,782 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DHS Cybersecurity and Infrastructure Security Agency Releases Roadmap for Artificial Intelligence | CISA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+ 
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+ A .gov website belongs to an official government organization in the United States.
+              
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+ A lock (LockA locked padlock) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cybersecurity & Infrastructure Security Agency
+ America's Cyber Defense Agency
+
+
+
+Search
+
+
+
+ 
+
+
+Menu
+
+
+
+
+
+
+Close
+
+
+ 
+
+
+
+
+Topics
+
+
+
+Topics
+
+
+
+
+
+Cybersecurity Best Practices
+
+
+
+
+
+
+Cyber Threats and Advisories
+
+
+
+
+
+
+Critical Infrastructure Security and Resilience
+
+
+
+
+
+
+Election Security
+
+
+
+
+
+
+Emergency Communications
+
+
+
+
+
+
+Industrial Control Systems
+
+
+
+
+
+
+Information and Communications Technology Supply Chain Security
+
+
+
+
+
+
+Partnerships and Collaboration
+
+
+
+
+
+
+Physical Security
+
+
+
+
+
+
+Risk Management
+
+
+
+
+
+
+        How can we help?
+       
+GovernmentEducational InstitutionsIndustryState, Local, Tribal, and TerritorialIndividuals and FamiliesSmall and Medium BusinessesFind Help LocallyFaith-Based CommunityExecutives
+
+
+
+
+
+Spotlight
+
+
+
+
+Resources & Tools
+
+
+
+Resources & Tools
+
+
+
+
+
+All Resources & Tools
+
+
+
+
+
+
+Services
+
+
+
+
+
+
+Programs
+
+
+
+
+
+
+Resources
+
+
+
+
+
+
+Training
+
+
+
+
+
+
+Groups
+
+
+
+
+
+
+
+
+News & Events
+
+
+
+News & Events
+
+
+
+
+
+News
+
+
+
+
+
+
+Events
+
+
+
+
+
+
+Cybersecurity Alerts & Advisories
+
+
+
+
+
+
+Directives
+
+
+
+
+
+
+Request a CISA Speaker
+
+
+
+
+
+
+Congressional Testimony
+
+
+
+
+
+
+
+
+Careers
+
+
+
+Careers
+
+
+
+
+
+Benefits & Perks
+
+
+
+
+
+
+HireVue Applicant Reasonable Accommodations Process
+
+
+
+
+
+
+Hiring
+
+
+
+
+
+
+Resume & Application Tips
+
+
+
+
+
+
+Students & Recent Graduates
+
+
+
+
+
+
+Veteran and Military Spouses
+
+
+
+
+
+
+Work @ CISA
+
+
+
+
+
+
+
+
+About
+
+
+
+About
+
+
+
+
+
+Culture
+
+
+
+
+
+
+Divisions & Offices
+
+
+
+
+
+
+Regions
+
+
+
+
+
+
+Leadership
+
+
+
+
+
+
+Doing Business with CISA
+
+
+
+
+
+
+Site Links
+
+
+
+
+
+
+Reporting Employee and Contractor Misconduct
+
+
+
+
+
+
+CISA GitHub
+
+
+
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+Report a Cyber Issue
+
+
+
+
+
+America's Cyber Defense Agency
+
+
+
+
+
+
+Breadcrumb
+
+
+Home
+
+
+News & Events
+
+
+News
+
+
+
+
+
+
+
+Share:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Press Release
+
+DHS Cybersecurity and Infrastructure Security Agency Releases Roadmap for Artificial Intelligence 
+
+Roadmap Will Guide CISA’s Efforts to Manage the Risks and Harness the Opportunities Posed by Artificial Intelligence to Cybersecurity
+
+
+ReleasedNovember 14, 2023
+
+
+
+ Related topics: 
+
+Cybersecurity Best Practices 
+
+
+
+
+
+
+
+
+
+
+
+
+WASHINGTON – Today the Department of Homeland Security’s (DHS) Cybersecurity and Infrastructure Security Agency (CISA) released its first Roadmap for Artificial Intelligence (AI), adding to the significant DHS and broader whole-of-government effort to ensure the secure development and implementation of artificial intelligence capabilities. DHS plays a critical role in ensuring AI safety and security nationwide.Last month, President Biden issued an Executive Order that directed DHS to promote the adoption of AI safety standards globally, protect U.S. networks and critical infrastructure, reduce the risks that AI can be used to create weapons of mass destruction, combat AI-related intellectual property theft, and help the United States attract and retain skilled talent, among other missions. As part of that effort, CISA's roadmap outlines five strategic lines of effort for CISA that will drive concrete initiatives and outline CISA’s responsible approach to AI in cybersecurity.“DHS has a broad leadership role in advancing the responsible use of AI and this cybersecurity roadmap is one important element of our work,” said Secretary of Homeland Security Alejandro N. Mayorkas. “The Biden-Harris Administration is committed to building a secure and resilient digital ecosystem that promotes innovation and technological progress. In last month’s Executive Order, the President called on DHS to promote the adoption of AI safety standards globally and help ensure the safe, secure, and responsible use and development of AI. CISA’s roadmap lays out the steps that the agency will take as part of our Department’s broader efforts to both leverage AI and mitigate its risks to our critical infrastructure and cyber defenses.”“Artificial Intelligence holds immense promise in enhancing our nation’s cybersecurity, but as the most powerful technology of our lifetimes, it also presents enormous risks,” said CISA Director Jen Easterly. “Our Roadmap for AI, focused at the nexus of AI, cyber defense, and critical infrastructure, sets forth an agency-wide plan to promote the beneficial uses of AI to enhance cybersecurity capabilities; ensure AI systems are protected from cyber-based threats; and deter the malicious use of AI capabilities to threaten the critical infrastructure Americans rely on every day.”As the nation’s cyber defense agency and the national coordinator for critical infrastructure security and resilience, CISA envisions a secure and resilient digital ecosystem for the nation that supports unparalleled innovation and significant enhancement of critical infrastructure services provided to the American public. CISA’s roadmap outlines five lines of effort: Line of Effort 1: Responsibly use AI to support our mission. CISA will use AI-enabled software tools to strengthen cyber defense and support its critical infrastructure mission. CISA’s adoption of AI will ensure responsible, ethical, and safe use—consistent with the Constitution and all applicable laws and policies, including those addressing federal procurement, privacy, civil rights, and civil liberties.Line of Effort 2: Assess and Assure AI systems. CISA will assess and assist secure by design, AI-based software adoption across a diverse array of stakeholders, including federal civilian government agencies; private sector companies; and state, local, tribal, and territorial (SLTT) governments. Assurance will be established through the development of best practices and guidance for secure and resilient AI development and implementation, including the development of recommendations for red-teaming of generative AI.Line of Effort 3: Protect critical infrastructure from malicious use of AI. CISA will assess and recommend mitigation of AI threats facing our nation’s critical infrastructure in partnership with other government agencies and industry partners that develop, test, and evaluate AI tools. As part of this effort, CISA will establish JCDC.AI to catalyze focused collaboration around threats, vulnerabilities, and mitigations related to AI systems.Line of Effort 4: Collaborate and communicate on key AI efforts with the interagency, international partners, and the public. CISA will contribute to DHS-led and interagency efforts, including developing policy approaches for the U.S. government’s overall national strategy on cybersecurity and AI, and supporting a whole-of-DHS approach on AI-based-software policy issues. This also includes coordinating with international partners to advance global AI security best practices and principles. Line of Effort 5: Expand AI expertise in our workforce. CISA will continue to educate our workforce on AI software systems and techniques, and the agency will continue to actively recruit interns, fellows, and future employees with AI expertise. CISA will ensure that internal training reflects—and new recruits understand—the legal, ethical, and policy aspects of AI-based software systems in addition to the technical aspects.CISA’s mission sits at the intersection of strengthening cybersecurity and protecting critical infrastructure and therefore plays a key role in advancing the Administration’s goal of ensuring that AI is safe, secure, and resilient. CISA will assess possible cyber-related risks to the use of AI and provide guidance to the critical infrastructure sectors that Americans rely on every hour of every day. Additionally, CISA will work to capitalize on AI’s potential to improve U.S. cyber defenses and develop recommendations for the red-teaming of generative AI.  CISA invites stakeholders, partners, and the public to explore the Roadmap for Artificial Intelligence and learn more about our strategic vision for AI technology and cybersecurity. To access the full Roadmap, visit cisa.gov/AI.To learn more about DHS’s role in ensuring AI safety and security nationwide, visit DHS.gov/AI.###About CISA As the nation’s cyber defense agency and national coordinator for critical infrastructure security, the Cybersecurity and Infrastructure Security Agency leads the national effort to understand, manage, and reduce risk to the digital and physical infrastructure Americans rely on every hour of every day.Visit CISA.gov for more information and follow us on Twitter, Facebook, LinkedIn, Instagram. 
+
+
+
+
+
+
+
+
+
+Related Articles
+
+
+
+
+
+
+Nov 26, 2023
+
+Press Release
+
+
+
+DHS CISA and UK NCSC Release Joint Guidelines for Secure AI System Development
+ 
+
+
+
+
+
+
+
+Nov 09, 2023
+
+Press Release
+
+
+
+CISA Signs Memorandum of Understanding with the Republic of Korea to Share Cyber Threat Information and Cybersecurity Best Practices 
+ 
+
+
+
+
+
+
+
+Nov 07, 2023
+
+Press Release
+
+
+
+On Election Day, CISA and Partners Coordinate on Security Operations
+ 
+
+
+
+
+
+
+
+Nov 07, 2023
+
+Press Release
+
+
+
+DHS Unveils New Shields Ready Campaign to Promote Critical Infrastructure Security and Resilience
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+Topics
+
+
+Spotlight
+
+
+Resources & Tools
+
+
+News & Events
+
+
+Careers
+
+
+About
+
+
+
+
+
+
+
+
+
+Cybersecurity & Infrastructure Security Agency
+ 
+
+
+
+Facebook
+
+
+Twitter
+
+
+LinkedIn
+
+
+YouTube
+
+
+Instagram
+
+
+RSS
+
+
+
+CISA Central
+888-282-0870
+Central@cisa.dhs.gov
+
+
+
+
+
+
+
+
+
+
+DHS Seal
+
+CISA.gov
+An official website of the U.S. Department of Homeland Security
+
+
+
+
+About CISA
+
+
+Accessibility
+
+
+Budget and Performance
+
+
+DHS.gov
+
+
+FOIA Requests
+
+
+No FEAR Act
+
+
+Office of Inspector General
+
+
+Privacy Policy
+
+
+Subscribe
+
+
+The White House
+
+
+USA.gov
+
+
+Website Feedback
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

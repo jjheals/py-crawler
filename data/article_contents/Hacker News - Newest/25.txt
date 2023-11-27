@@ -1,0 +1,696 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AI hallucinations pose 'direct threat' to science, Oxford study warns
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+Toggle Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+                                News
+                            
+
+
+Events
+
+
+
+TNW Conference 2024
+June 20 & 21, 2024
+
+
+
+
+TNW Vision: 2024
+
+
+
+
+
+All events
+
+
+
+
+
+
+
+                                Spaces
+                            
+
+
+
+                                Programs
+                            
+
+
+
+
+
+
+Newsletters
+
+
+
+
+Partner with us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jobs
+
+Contact
+
+
+
+
+
+
+The Next Web
+
+
+
+News
+
+news
+news
+news
+
+
+
+
+
+Latest
+
+
+Deep tech
+
+
+Sustainability
+
+
+Ecosystems
+
+
+Data and security
+
+
+Fintech and ecommerce
+
+
+Future of work
+
+
+More
+
+
+
+Startups and technology
+
+
+
+
+Investors and funding
+
+
+
+
+Government and policy
+
+
+
+
+Corporates and innovation
+
+
+
+
+Gadgets & apps
+
+
+
+
+
+
+
+
+
+
+
+Have you convinced your boss yet? Groups get the best deals 🎟️ Buy now before price increase →
+
+
+
+
+
+
+
+
+
+
+
+
+Deep tech
+
+
+
+                                AI hallucinations pose ‘direct threat’ to science, Oxford study warns
+                            
+
+                                    The scientific community shouldn't use LLMs as a source of knowledge 
+                                
+
+
+November 20, 2023 - 4:00 pm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Large Language Models (LLMs) — such as those used in chatbots — have an alarming tendency to hallucinate. That is, to generate false content that they present as accurate. These AI hallucinations pose, among other risks, a direct threat to science and scientific truth, researchers at the Oxford Internet Institute warn.
+According to their paper, published in Nature Human Behaviour, “LLMs are designed to produce helpful and convincing responses without any overriding guarantees regarding their accuracy or alignment with fact.”
+LLMs are currently treated as knowledge sources and generate information in response to questions or prompts. But the data they’re trained on isn’t necessarily factually correct. One reason behind this is that these models often use online sources, which can contain false statements, opinions, and inaccurate information.
+“People using LLMs often anthropomorphise the technology, where they trust it as a human-like information source,” explained Professor Brent Mittelstadt, co-author of the paper.
+Get your ticket NOW for TNW Conference - Bring your colleagues to get the best dealsUnleash innovation, connect with thousands of tech lovers and shape the future on June 20-21, 2024.
+Group tickets
+“This is, in part, due to the design of LLMs as helpful, human-sounding agents that converse with users and answer seemingly any question with confident sounding, well-written text. The result of this is that users can easily be convinced that responses are accurate even when they have no basis in fact or present a biased or partial version of the truth.”
+When it comes to science and education, information accuracy is of vital importance and the researchers urge the scientific community to use LLMs as “zero-shot translators.” This means that users should provide the model with the appropriate data and ask to transform it into a conclusion or code, for instance — instead of relying on the model itself as a source of knowledge.
+This way it becomes easier to check that the output is factually correct and in line with the provided input.
+LLMs will “undoubtedly” assist with scientific workflows, according to the Oxford professors. But it’s crucial for the community to use them responsibly and maintain clear expectations on how they can actually contribute.
+
+
+
+
+
+
+
+
+
+
+
+                                        Story by
+                                    
+
+
+                                            Ioanna Lykiardopoulou
+                                        
+
+
+
+
+
+                                            Ioanna is a writer at TNW. She covers the full spectrum of the European tech ecosystem, with a particular interest in startups, sustainabili
+
+                                                                                            
+                                                    (show all)
+                                                
+
+
+                                            Ioanna is a writer at TNW. She covers the full spectrum of the European tech ecosystem, with a particular interest in startups, sustainability, green tech, AI, and EU policy. With a background in the humanities, she has a soft spot for social impact-enabling technologies.
+                                        
+
+
+
+
+Get the TNW newsletter
+Get the most important tech news in your inbox each week.
+
+
+Also tagged with
+
+
+
+AI
+
+
+
+
+                                Published November 20, 2023 - 4:00 pm UTC
+
+Back to top
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Story by
+Ioanna Lykiardopoulou
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Popular articles
+
+
+1
+
+
+New erotic roleplaying chatbots promise to indulge your sexual fantasies
+
+
+
+
+2
+
+
+UK plan to lead in generative AI ‘unrealistic,’ say Cambridge researchers
+
+
+
+
+3
+
+
+New AI tool could make future vaccines ‘variant-proof,’ researchers say
+
+
+
+
+4
+
+
+3D-printed stem cells could help treat brain injuries
+
+
+
+
+5
+
+
+New technique makes AI hallucinations wake up and face reality
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related Articles
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            deep tech
+                                        
+
+Babbel’s new speech tools aim to boost foreign language confidence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            deep tech
+                                        
+
+How the UK is looking to lead the world in generative AI for lawtech
+
+
+
+
+
+
+
+
+
+
+Join TNW All Access
+Watch videos of our inspiring talks for free →
+
+                                                Sign up now
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            deep tech
+                                        
+
+A prisoner’s dilemma shows AI’s path to human cooperation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            deep tech
+                                        
+
+AI is transforming the English dictionary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The heart of tech
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More TNW
+
+Media
+Events
+Programs
+Spaces
+Newsletters
+Jobs in tech
+
+
+
+About TNW
+
+Partner with us
+Jobs
+Terms & Conditions
+Cookie Statement
+Privacy Statement
+Editorial Policy
+Masthead
+
+
+
+
+
+
+
+
+
+
+
+                    Copyright © 2006—2023, The Next Web B.V.
+                    Made with <3 in Amsterdam.
+                    
+
+
+
+
+
+
+
+
+
+

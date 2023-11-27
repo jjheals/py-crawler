@@ -1,0 +1,521 @@
+My Secret Sauce to a $70K Book Launch - Tobias PetryMenuAboutArticlesProjectsSpeakingMy Secret Sauce to a $70K Book LaunchNovember 27, 2021Black Friday DiscountThe book described here is currently reduced again to its launch price until October 4th. Get it now with a 33% discount!
+I wrote a book to teach creating good database indexes named Indexing Beyond the Basics and launched it this year.
+It made over USD 70k in the 10 weeks from the announcement date until the end of the launch and is still constantly generating revenue.
+This sales volume makes it a very exceptional book launch by a solo creator in the tech sector.
+You may expect this to be a lucky overnight success, but it is far from that:
+I achieved the result with careful planning, making the right decisions, and a lot of marketing.
+Of course, some luck was also involved, as I didn't expect this success either.
+My dream goal was to reach about half of what I finally achieved because an e-book usually doesn't sell this much in its lifetime - neither in less than three months.
+Hence, I now share the journey and all the secrets that made the book successful.
+
+What Makes a Good Book
+Theoretically, I could have written the book about anything, except that databases are the only topic I know enough about to teach anyone something new.
+The journey shared here should work for any ebook (or digital product), but the topic I’ve written about is a perfect candidate for many reasons:
+
+Only a few developers are familiar with this topic:
+Database indexes are typically created randomly until a slow query is fast, but most of the time, more experienced people are needed to help.
+In big companies, there are specialists to ask but small ones have to know and hire a consultant like myself.
+So, the book teaches a skill that is widely required but also mostly unknown among developers.
+There is barely any good information available about the topic.
+You can find entry-level blog articles and videos or very complicated technical explanations.
+But all resources just teach how to solve simple examples instead of sharing actual knowledge to fix real complicated database queries.
+You couldn’t even google the topic as you wouldn’t know what to look for exactly - and still only find the entry-level content.
+So, this is a perfect topic as teaching this yourself is hard without the book because you can’t find proper learning material.
+Compared to so many other topics when developing, there has not been any relevant change in the past decade.
+More than 95% of the book would have been the same when written ten years ago.
+So, it’s a good decision to learn the topic as the knowledge will most likely remain valid for many more years.
+Compare that to a book about e.g. a JavaScript frontend framework that will be outdated in one or two years - sometimes even after a few months.
+
+However, the topic selection was not the only reason to make the book so interesting.
+I often do things differently than most people and the book is therefore also unique in its approach:
+
+I bought many database books - and put away about one-third of them after a few pages.
+As everyone, my time is limited and reading those 600+ pages takes quite a lot of time.
+So the book I’ve written is “short” on purpose to not look intimidating and will be read until the end.
+I see this issue commonly repeated with self-published books:
+To prove their value, they contain hundreds of pages.
+But I believe this is a wrong approach as it is not aiming for the buyer to learn the stuff but to convince them to buy something as they are getting a lot (of pages) for their money but never reading them.
+There is another reason why numerous database books on my shelf are unread.
+Like so many other technical books, they are very boring to read.
+A page full of text after a page full of text after a page full of text and so on.
+After some time, my concentration will drift away.
+And if I keep focus, it will still take a lot of effort to understand the idea the author wants to teach.
+Text is the best medium to transfer knowledge and, simultaneously, the worst.
+So I structured the book differently to share knowledge through illustrative images and text simultaneously.
+There is always an image explaining what's going on to make the learning experience more enjoyable.
+
+As you can see, the secret was writing about a very compelling topic but also doing it completely differently from anyone else before.
+I believe to create something extraordinary, you shouldn't follow in the footsteps of all the ones before you.
+You have to find new ways to do something differently!
+
+Audience Building (2 years)
+I was a nobody before June 2021 (two years before announcing my book).
+I was not on social media.
+I didn't have a blog or newsletter.
+There was no way anyone in the world could have known me.
+However, I built a medium audience that enabled me to sell my book in the past two years because I love sharing my knowledge - and many people like what I share.
+Social Media
+I can't tell you anymore what happened.
+For some reason, I discovered many developers contributing to the Laravel PHP framework I used (and still use) were on Twitter.
+I reactivated the never-used profile I created 10 years ago and started to follow interesting developers.
+Some of them regularly shared those little code tips I really enjoyed which are just a screenshot from programming code depicting an interesting idea and a tiny explanation.
+My knowledge of working with the Laravel framework skyrocketed back then with all the information I absorbed.
+This vastly improved the projects I had been working on at my job.
+But I found no one sharing database stuff.
+So I decided to try it.
+My first tweet already got some engagement, although I only had a few hundred followers back then.
+When I started, I shared those tips twice a week, then once a week and finally only every two weeks.
+Inventing good tips and examples took a lot of effort, and I wanted to keep the quality high.
+Quality over quantity!
+That's also my success formula, which has led to 19k followers today.
+I never shared anything you can find easily in the documentation or that wouldn't have excited my former self.
+Everything was lesser-known stuff or creatively using SQL features.
+I was in my element:
+I learned from others and shared my knowledge - without trying to monetize anything I did.
+I see the monetization mistake repeatedly made by new educators nowadays:
+They pump out free, low-effort stuff for a few weeks and then announce their paid book or course.
+You can see that everything was only audience-building to sell their product without any intention to really help the community.
+If you plan on creating an audience for monetary reasons and not just for fun, you should still be in for the long run and not a short sprint.
+
+Website and Newsletter
+I had the same problem again and again.
+I wanted to reference an old tweet of mine in a Twitter discussion, but it was hard to find.
+Every tweet is on your timeline on the first day and then vanishes to be never seen again.
+So I started the website SqlForDevs.com with a newsletter about 9 months after I shared my first tip to write them down in a medium I can easily reference again and again.
+(Fun Fact: I often look up my own tips to check for the correct syntax as I can't remember it).
+My intention was not to shift away from Twitter.
+I kept posting the same tweets with code images as before but now also added a link to my website.
+The website content resembles the tip's content in different detail levels:
+Anyone can read the brief introduction of just a few sentences, copy the SQL and be gone in a minute.
+Or they can continue reading the longer explanations with all the details if interested.
+I wanted the website to be useful for anyone.
+Many believed this to be a good way of teaching, so they subscribed to the newsletter to be informed of new tips as soon as I published them.
+Remember that even if anyone follows you on social media, it is not guaranteed they see your posts as the algorithm decides what to show anyone.
+With your own website and newsletter, you are not relying on the mercy of any social media algorithm.
+It's like a backup plan to reach people if, one day, a social network blocks your profile, hides your posts, or anything else.
+
+Sharing a Free E-Book
+I had shared many more tips in tweets than I could write articles in a reasonable timeframe, as writing a full article takes much more time than preparing a tweet.
+And still today, I've not written an entire article about all of them.
+So in September 2022 (5 months after my website started), I released a tiny ebook where I curated the most interesting tweets into a little reference manual:
+Next-Level Database Techniques for Developers
+The idea was to explain the ideas slightly longer than the allowed 280 characters on Twitter at that time but still much shorter than a full article so I could finish the ebook quickly.
+The goal was to have the SQL code and explanations on only one page for every tip, resulting in a 50-page ebook.
+Despite many telling me I should charge for it, I released it for free.
+It felt wrong to charge for it as I had already shared the tips on Twitter, and the explanations still were more like a teaser than a full explanation.
+Also, I planned to still write an entire article for each of them on my website.
+Charging money for the ebook and then one-by-one releasing a much deeper explanation would feel like a ripoff.
+And selling a few hundred copies for e.g. $9 would not have changed anything for me financially - but fewer people would have been able to learn from it.
+Again, doing something for free felt better for me.
+I decided to “charge” everyone by having them subscribe to my newsletter and then receive the ebook for free so I could send new tips and teach more people.
+And I could use my newsletter audience to announce anything I may work on in the future.
+The approach went much better than I expected - especially as sharing it on Hacker News went viral.
+I was on the front page in the top ten for an entire weekend with about 30k unique visitors on the site and 15 thousand more newsletter subscriptions.
+Many unsubscribed later, so only about 10k new ones remain.
+The big subscriber count I received does not mean anything and I recommend not giving away stuff to build an audience.
+Most of them are coming to get the free stuff and may never engage with you anymore.
+But you can turn those who already liked you before into true fans.
+
+The Planning
+I had the idea of writing a database book for many, many years.
+In my imagination, it was always one of these thick books you can really hurt someone with when used as a weapon.
+As shared before, I believe this is not a good form of education today.
+And, like most, I probably wouldn't have ever started or finished it.
+But a shorter one is an achievable goal for some months of work.
+Do you believe I just started?
+You're mistaken.
+I am a person that plans a lot, like really a lot.
+And that separates the mediocre book I could have created from the one I built.
+Many ideas need quite some time and thinking to evolve into a good thing.
+Deciding to Write It
+I gave my resignation letter to my lovely boss at the end of 2022 due to personal issues, having no fun at coding anymore, and finding something new that would make me happy.
+Starting with January 2023, I was on my own in a sabbatical-like year to do whatever I wanted an have some fun.
+Really, there was no exact plan - just some ideas about what I could do.
+I started offering my experience as a database consultant to help teams them fix their performance problems.
+In the first weeks, I already started to see a repeated pattern of the same issues appearing in slightly different shapes.
+I wrote them all down.
+The idea of writing a book became more interesting in my mind if I would write only about the practical aspects of database indexing related to the issues I had collected.
+It was a great idea, as all my clients already validated the need for this book.
+I talked with some people who all encouraged me to do it, but I should treat as something I want to do and not expect financial success.
+No problem, 2023 was my sabbatical and I could do whatever I wanted.
+If not now, when would I ever find the time to fulfil my dream of writing a book?
+Traditional Publisher vs. Self-published
+When writing a book, you must decide whether to work for a traditional publisher or self-publishing.
+The best advantage of a traditional publisher is the support you get:
+They put structure into the project by enforcing deadlines, which is a significant benefit if you would never finish it otherwise.
+They also do marketing, proofreading, typo-fixing and many other tasks.
+But it is hard for a nobody to get them interested in you and your book idea.
+Now, as my book is finished and successful, many tech book publishers have asked whether I want to work with them.
+So if you want to work with a publisher, write a smaller one self-published first!
+It was clear to me from the start that I should go self-published as I could create the book how I would like it to be without any restricting guidelines.
+I didn't want to reach an artificial page or word length that every published book has to satisfy.
+And the most important part:
+I didn't have to give a lot of revenue away to have them doing the marketing as I now had a sizeable newsletter list and Twitter followers.
+Compared to a published book, I had no one fixing typos or correcting sentences except Grammarly.
+Is that a problem?
+No.
+Everyone bought the book for the unique approach and the information I teach, not because every sentence is perfect and wins a literature price.
+Don't set your bar too high for anything you can improve later!
+Side note:
+When working with a traditional book publisher, you receive a paycheck when starting, finishing specific milestones, and completing the book.
+But the money you get is deducted from your future royalties for every sale until it is paid off.
+Most tech books sell less than 4000 copies, and you only get a tiny fraction of the purchasing price.
+Using a traditional book publisher is therefore not advisable from a financial point of view, but you will get a lot of credibility.
+
+Selling the Book
+How to sell a self-published book is the next problem.
+My accountant refused to do my taxes if I use Stripe for the payment processing and handle all the global taxation rules myself.
+I guess they are liable if I make a mistake and they don't correct it - and obviously they are not specialized in this type of business.
+So I had to go with a merchant of record (MoR) service that is technically selling my book as a reseller and handling all the payment, invoice and tax stuff.
+They take a small fee for offloading all these tasks to them, which is a nice tradeoff for me.
+The MoR leaders area are Paddle ($0.50 + 5% fee per transaction), Lemon Squeezy ($0.50 + 5-8%  fee per transaction) and Gumroad (10%  fee per transaction).
+They are all using Stripe under the hood, so they naturally have to be more expensive for the additional features they provide.
+I excluded Gumroad directly because of their excessive costs.
+Paddle
+Most SaaS are using either Stripe or Paddle to do their subscriptions.
+So this is a very reputable company but less used for one-time payments.
+Their fees are the best you can get.
+But their focus on subscriptions shows its drawbacks in their standard handling of the purchasing experience for one-time-payment digital products:
+Anyone purchasing a product receives an email with a download link for the product files.
+There is no way to send updates, nor is that link secure.
+You can share it with anyone - it is a totally unprotected download link.
+That means you need to build an authenticated download portal yourself.
+When writing a book, you have enough things to do and want to eliminate tasks like this...
+Lemon Squeezy
+So I chose the newcomer Lemon Squeezy, who is making big waves because their experience for buyers is fantastic:
+After purchase, you can access the download files all the time on a page listing all of your orders at Lemon Squeezy shops, including the ability to download the invoice etc.
+With Paddle, it's just some random emails you better not accidentally delete.
+The fees are higher than Paddle and unpredictable as they depend on the country you are selling to and the payment type you choose.
+There is another payout fee, which is relatively high depending on where you live.
+I'll return to this at the end, telling you my experience with Lemon Squeezy, which was more troublesome than expected.
+
+Pricing Tiers
+You can skip this chapter if you are not interested in profit maximization for digital products.
+This part is not meant to get rich, as you will never earn enough money to buy a house or yacht.
+But this strategy is needed to get an effective hourly rate that is not below minimum wage in the end!
+You can sell a product thousands of times for a small price or fewer times for a high price to get the same revenue.
+However, finding thousands of people to buy your product is challenging, and the high-price approach is slightly more manageable.
+But there is a price limit.
+With published books costing $39 to $69, I couldn't sell mine for $249.
+I could have tried, but probably not many people would have purchased it.
+The solution is to sell multiple tiers of a product, each with different things included like any SaaS.
+The most used way to do this is to e.g. create those three tiers:
+
+Tier 1 ($39): only the PDF
+Tier 2 ($119): the PDF, 2-3 hours of screencasts
+Tier 3 ($249): the PDF, 4-6 hours of screencasts, source code of an application and maybe more gimmicks
+
+These are just examples, but you get the idea of it.
+Each tier gets a higher price but also provides more value.
+So I had to get creative and find additional items to sell that take a reasonable time to create but are valuable enough to pay for more.
+It's tough to convince me to pay $249 for something educational.
+It needs to be high-value for this from someone I know and not some random person.
+And I believe many are the same.
+So, I decided not to target that high price range and make it more affordable for anyone but instead slightly increase the two lower tiers.
+I decided to make them $99 and $149.
+The idea was that you impulse buy $39 ebooks (at least I did) and never read them.
+But you instinctively value something higher that costs more and the probability of never reading it is lower.
+So, with the higher price, I increase my income and may succeed in getting more people to finish the book.
+What to put in those tiers is a hard decision I had been thinking about for weeks.
+I've never made screencasts and creating 2-6 hours felt like a too hard task.
+Also, I wrote no programming book, so I can't just share some source code of a demo application incorporating concepts written about.
+In the end, I decided that reading a PDF is not a pleasant experience and I could improve that by making an ePUB version for ebook readers like my Remarkable and an HTML one to more smoothly read the chapters and look up later all the time.
+Awesome, two features for the higher tier!
+When tweeting about the book, I was asked multiple times whether reading and understanding execution plans would be part of the book.
+That's a highly complex topic and hard to follow in texts.
+The idea was born to record only three vital videos that together had been one hour long in the end:
+
+Reading and understanding EXPLAIN plans
+The performance difference of joins vs. subqueries
+The impact of schema design on query performance and why SELECT * can be an issue
+
+I've now had compelling reasons why someone should pay more for the higher tier, as the benefit is massive compared to only a PDF.
+I also named the tiers “Only the Essentials” and “The Full Experience” to trigger an emotion that with the lower one you are missing something when not choosing the more expensive one.
+Creating the book
+There are no big secret tips for writing a book.
+It is just a very long and tedious process.
+On some days, you are energized and finish a lot; on others, you barely write a single good sentence.
+And even when you finish writing a chapter, you're not done.
+I've rewritten some chapters seven to eight times completely until they had been eliminated from too technical language and delivered an idea easily.
+Writer's block is a serious issue when working on a book.
+The most effective way for me was to disable WiFi so there could be no distractions.
+I would get into the writing flow within an hour or do something else.
+There are so many chores to do that forcing myself to do a specific task is not rational.
+The quality was always so bad when I had done it that the chapter or paragraph had to be rewritten entirely.
+Instead, I was making notes for the following chapters, changing some sentences of old ones, working on the many examples and graphics in the book, and so much more.
+At least I was doing anything productive to continue.
+But this was no 9-to-5 job.
+You can only be creative for a short time.
+It was also essential to refresh the creativity batteries by going for a walk, going to the gym, or doing other activities not in front of a monitor.
+And some days, I didn't work on the book at all.
+You shouldn't overload yourself and always look after your mental health.
+There was one thing I didn't plan for that helped me keep my motivation.
+Some days, I wanted to cancel it or believed the book would be awful and I should abandon it to not embarrass myself.
+The lucky coincidence was that I had already written a big part of the book before I announced it.
+So I got great encouraging feedback with every chapter I shared with the public (more on that in the promotion chapter):
+Every nice message I received pumped me up to work on it and release it.
+A feedback loop that is not your test readers trying to find issues is a big motivator to continue.
+
+Announcement, Promotions and Launch
+Announcing a a book, course or product and then launching it months after radio silence is guaranteed to not work - except for rare edge cases.
+A launch should be close to the initial announcement (e.g. max 6-8 weeks), or the initial excitement when hearing first about something new is long gone.
+Some people may decide to buy your stuff on the announcement or launch day but most need more persuasion by being hyped up.
+Therefore, the time frame between the announcement and launch date must be used for promotions.
+Fun fact:
+I could have set the launch date to any day of the year.
+But I set it to exactly two years after my first shared database tip.
+To be precise, it was five days earlier because I didn't want to launch on a weekend.
+
+Announcement ($7k)
+I've seen most books and courses being announced in the most simple way:
+Their creators build a coming soon page with an option to subscribe to a newsletter for future updates.
+It is a provisional solution until the final website is built for the launch.
+But I had to do much better to sell a high-price book.
+I hired the designer Hassan Zahirnia to build a pretty website with me to sell the idea of the book.
+It took many iterations and a ton of time until we had a result I was happy with:
+The website should tell a compelling story rather than just sharing a simple table of contents.
+My intention was to have a storyline for the page:
+
+First, I start with the fact that I once was bad at database indexes too.
+So, I am a regular guy like you and not some smart, gifted person.
+This starts to build trust with the reader.
+The story continued by explaining why you haven't learned indexing yet with all the resources available until now.
+It is an essential element to make it clear that you could really understand the topic this time if taught differently.
+The website then highlights that you are the target audience for such a book before highlighting why it is so awesome.
+This part is essential to influence the mood of the reader the last time.
+Next, the book's main feature is made very clear:
+This book is different because it has many images instead of long, boring, hard-to-understand texts.
+And you shouldn't have to trust my opinion.
+You can see it by yourself with many example pages.
+I could now finish with the table of contents.
+But would that convince you?
+I guess not.
+Instead, I'll go through each of the five main chapters and tell you what they are about.
+Additionally, a nice graphic for each chapter already teaches you something just by reading the website.
+This way, you value the book more, as even a short peek at the content increases your knowledge.
+I finish with all the additional content that will teach you more than the book.
+You should be really interested in this stuff as you have to learn later that you must buy the more expensive tier to get it.
+
+As you can see, this is a landing page following a marketing playbook.
+With every new section, you are more and more convinced that this book is great and different.
+Nothing is left to your imagination.
+You know what you get!
+Like all the other pre-launch pages, I could have finished this page with a newsletter subscription part.
+But why should I?
+There's a great possibility I already convinced you that you want to buy this book.
+It would be dumb of me to say you should wait another six to eight weeks until you can finally buy it.
+I may miss your sale as you may be in a different mood or on vacation in a few weeks.
+Anyone convinced now could pre-order the book immediately and get the same discount that most creators would only allow for a short time on the launch.
+You didn't get anything now, but still many decided to buy it and wait.
+Advice:
+I suggest you take a look at the marketing page now if you haven't looked at it yet.
+You will much better understand its effectiveness that way.
+
+Promotions ($25.4k)
+Again, the promotions part is a crucial step mostly ignored by creators.
+They don't share anything between the announcement and launch date or drop one big PDF file with several preview chapters at one point.
+The issue is that you are not convincing anyone when not sharing anything, or you won't influence them when you share content only once.
+Your customers may delete any promotional emails because their inboxes are flooded, they are not on social media, or they are not in the mood to buy anything on that specific day.
+I've therefore shared one complete chapter each week until the launch.
+A full one, not an excerpt! With these five free chapters, everyone can get a feeling of what they would be buying, and each chapter convinced them that they didn't understand a topic about database indexing - but they do now.
+So each chapter proved that they (1) needed to learn more and (2) the book taught that knowledge in an easy-to-understand way.
+A basic marketing principle is that anyone needs around four to seven touch points with something until they buy it.
+This is valid in the offline world and online.
+Did you notice something?
+Before the launch, there were six touchpoints with potential customers (one product announcement with a webpage selling the idea + five promotions).
+That's why there has to be time between the announcement and the launch date but not too long for them to forget about it again!
+And a launch is not the end of the marketing machinery.
+Those promotions should continue after the launch to further convince anyone still hesitant to buy!
+I sent another two.
+But their success could have been improved if I had chosen better topics.
+I mistakenly sent slightly more technical chapters with fewer learnings you can use immediately.
+More practical ones probably would have resulted in many more sales.
+
+Launch ($17.6k)
+The launch was obviously the most significant revenue spike and also the least effort.
+I only sent a newsletter and tweeted that the book is now available.
+The marketing has been done in the past weeks, so there was nothing to do anymore.
+The official launch is the worst way to advertise anything, as it just opens the gates for anyone to buy what you created.
+I could have tried making some content go viral, but the probability of this happening is so low that my time was better spent the past weeks on proper marketing.
+Planning for a big launch is a huge mistake as you put all your eggs in one basket - hopefully your plan works out...
+Spreading that over multiple weeks is the best approach.
+Obviously, anyone could have pre-ordered the book in the past weeks - as planned.
+But many prefer waiting until they will really get something for their money.
+So making a big announcement for the official launch is still an essential task.
+
+Ending the Launch ($20.5k)
+The launch can't go on forever.
+All good things must come to an end.
+But should I stop the launch at an artificial date when I still get many sales daily?
+Hell no!
+Instead of planning for a specific timeframe on how long the launch would be, I waited for the sales to decline.
+After about three weeks, the daily sales dropped again at a level comparable to pre-launch.
+I could have silently ended the launch discount here like many other did.
+But this is a big mistake.
+It is the perfect opportunity to push the sales again:
+Never underestimate people's appetite to get a discount.
+I shared once that the launch discount would end next week and seven days later that it ends within 24 hours - both times reminding them of the last opportunity to get the sales discount.
+So many people bought after both reminders!
+I felt slightly bad because this was very pushy of me but that's how the game is played.
+And the revenue numbers show that it was the correct move.
+
+Statistics
+I love analyzing data and the book's orders are a perfect playground.
+The following sections will try to find out where my customers came from,  which versions they bought, and much more.
+Stay tuned for some interesting insight.
+Audience
+Attributing sales to a marketing channel is still a problem for big companies, so why should it be different for me?
+I can't track down about 53% (337 orders) of all sales as I haven't implemented invasive tracking for privacy reasons, and Lemon Squeezy doesn't support proper tracking (more on that later).
+I guess all or most of them heard about the book on Twitter or LinkedIn.
+However, I can cross-check all email addresses for Lemon Squeezy orders against my list of newsletter subscribers, resulting in 47% of all orders I can further analyze.
+That number is very high but also understandable.
+Every new mail in a subscriber's inbox teaches them something new and builds up a reputation for me that I teach necessary knowledge.
+So its much easier to sell something when someone knows you, trusts you and likes something you did in the past.
+As expected, some orders were generated by the specific newsletter for the book that targeted developers who haven't subscribed to my regular newsletter yet.
+Everyone interested in the book received the promotions and could see the book's quality over several weeks.
+However, of the 1200 subscribers to this specific newsletter, only 99 bought the book afterward - the yield is far lower than expected.
+And 55 of these had already subscribed to the regular newsletter.
+I expected the free e-book to have a much smaller impact and was shocked to see that 27% of all sales could be tracked back to it.
+They probably saw value in the free one and believed that the new paid one would be much better - it convinced them of my knowledge.
+As described before, the free one also went viral on Hackernews, increasing the subscriber count by about 10k.
+It is impossible to separate which subscribers are because of the hacker news launch and which are not.
+But 38 sales had been made because of subscriptions at that launch weekend - 0.38% of the gained subscribers.
+As said before, giving something away has a meager success rate but can also create true fans.
+The graphic below shows the initial marketing channel that identifies a customer.
+The goal is to find out how each one first subscribed to my newsletter list.
+
+Tiers
+One would expect that the cheapest version of the book is being sold the most.
+But my launch and the ones of others proves the opposite:
+The most expensive one is sold at 76% and the cheaper one at 23% - almost an 80:20 Pareto distribution.
+Team licenses are not selling as successfully as expected.
+Most likely, individual developers are more interested in my book than companies considering it an educational opportunity for teams.
+Only team licenses for up to three developers (70%) or five developers (30%) have been sold.
+
+Countries
+I've sold copies to over 70 countries.
+As expected, the countries with higher income for developers were most significantly represented in the sales.
+One exception is India, which was responsible for many sales despite a very low income level - the buyers possibly work remotely for e.g. US or UK companies and therefore have higher income.
+
+Payment Methods
+The market dominance of Visa and Mastercard is also reflected here with both being responsible for 70% of all payments.
+The 22% of sales by PayPal are unexpected for anyone using a credit card all the time.
+The distribution was significantly influenced by Germany with 14% of all PayPal payments but only being responsible for 7.73% of all sales.
+This is not unexpected:
+Credit cards haven't been popular in Germany for many years as they have their own proprietary debit card system named Girocard, which is free compared to yearly fees for a credit card.
+So payment methods other than credit cards should be offered to cover the rich German market.
+
+Taxes and Average Fees
+Online payments and the related fees are always processed including taxes with Stripe, Lemon Squeezy, Paddle or any other payment service provider.
+Therefore, knowing which tax rates occur on average is crucial to calculate payment fees accurately.
+Interestingly, the 0% tax rate occurred most frequently at 74% so the average tax rate was 3.75% for me worldwide.
+Lemon Squeezy fees are calculated by payment country (US vs. non-US), payment method (Credit Card vs. PayPal) and of course the tax rate.
+This makes predicting fees virtually impossible as there are too many variables involved.
+But with all the previously shared statistics, the following fee formula can be created based on my previous sales:
+$0.50 + Price * (0.0375 average taxe rate + 0.065 average fee)
+
+Checkout Recovery and Refunds
+I did expect the checkout recovery (abandoned card emails) by Lemon Squeezy to be more successful:
+Only about 2% of the sales had been made after a checkout recovery mail had been sent (with the 3rd reminder only being effective once).
+This number may look high, but it's unclear whether they bought because of the email reminder or repeated communication in the launch phase.
+I believe it's because of the last one.
+Paddle's checkout recovery emails have the option to improve them with a percentage discount.
+I guess the effectiveness is much higher with this method, as the received emails encourage interest in buying a product by offering a discount rather than just being annoying.
+I also offer a 30-day no-questions-asked return policy on my book.
+This is a great influential reason for people who are not sure whether the book suits them - they have no financial risk.
+Of course, some individuals took advantage of this friendly offer by downloading all the resources and asking for a refund within minutes of purchase.
+But with less than 2% refunds this is a negible problem and leads to more sales.
+What Did Not Work Well
+Even if the result is outstanding, not everything went perfectly.
+My marketing and the payment service provider Lemon Squeezy are the two biggest problems.
+Marketing
+I did a lot of marketing compared to most books and courses launched, but still not as much as I planned for.
+The only real marketing had been the promotions I shared each week.
+If I had a time machine to start over again, I would finish the book before announcing it.
+This way, I could dedicate the weeks between the announcement and launch completely to marketing actions.
+I had some ideas for additional marketing publicity that I had no time for:
+
+Regular recording of video logs would be great - like sharing some progress, behind-the-scenes etc.
+All these things could have interested many people, and they would have been a part of the journey.
+I should have started podcasting some time ago.
+I could have spread the word further than I did with my limited audience as a guest on some programming podcasts.
+Only the PHP Laravel ecosystem knows of the book, and many more communities have probably never heard of it.
+Another idea I had in mind was optimizing queries for users.
+I'll do short calls with them, fixing their queries and we'll do a recorded fake call afterward pretending to fix it live without showing any secret information.
+These videos would have been great advertising and an excellent learning experience for viewers when extended with the book's graphics.
+I also wanted to send everyone who bought the book a handwritten note like Logology did when I purchased a logo.
+It is a nice gesture to do and increases the happiness with the product, so you are more likely to recommend it or even share the postcard on social media.
+Unfortunately, merchant of record (MoR) payment providers are designed for online payments and never collect address data from buyers.
+However, this is also great as it leads to more sales because an order can be completed more quickly.
+
+
+Ads and Sponsorhips
+I've booked Twitter Ads to promote every step from the announcement to the end of the launch.
+But I don't know how effective this was and expect it to be a negative return on investment (ROI).
+It was my first time really doing this and I probably wouldn't do it again.
+The biggest issue is that I can't track the ad campaign's effectiveness as the Lemon Squeezy checkout page hadn't integrated with any statistics solution back then.
+Nowadays, you can integrate Google Analytics and the Meta Pixel, but both are still not useful for me.
+I've also booked a newsletter sponsorship with Laravel News. Again, I can't check whether I earned more than I paid because I could not track it.
+Both approaches target a wide range of people that could be interested in my book.
+But I am also selling an expensive product, which is more difficult to sell to anyone who does not know me.
+So, the impersonal advertising approach may not be the best way for a product like mine.
+Lemon Squeezy Issues
+I debated whether I should include this chapter for a long time, as I don't want to criticize Lemon Squeezy too harshly.
+But I also don't want to sweep their issues under the carpet.
+With all the problems discussed now, I would still choose Lemon Squeezy and no other payment provider when starting to sell a one-time payment product.
+The time they saved me by providing everything out-of-the-box and not having to build anything for customers outweighed all my issues.
+It is important to highlight that I have some form of connection with my customers because they have been reading my newsletter or following me on Twitter for a long time.
+So you can imagine that they are notifying me about any technical issues they get compared to some random visitor that would just go away and never come back - a lost sale.
+I had many of these issues with Lemon Squeezy.
+These happened mainly within the timeframe of the launch (July 31 to October 13 2023):
+
+The checkout page was broken for a short time on at least two or three different days.
+I got screenshots that customers immediately saw a 500 Internal Server Error when opening the checkout page.
+The discount code functionality was broken multiple times.
+Each time, a 500 error appeared when activating the code.
+Once a customer ordered, the amount was charged from their credit card and then their system crashed.
+You can guess it:
+A 500 error.
+We've both contacted Lemon Squeezy and they sorted the problem out quickly.
+The links from my marketing page to the hosted checkout page by Lemon Squeezy suddenly stopped working one day.
+I don't know what happened, but I was happy that two people informed me.
+I regenerated the links to the specific product tiers and replaced the broken ones.
+A few weeks ago, I got an email from a customer that they could not download any resources anymore.
+They are seeing the typical AWS S3 permission error message.
+I've had to delete all resources for the book in their UI and reupload them again.
+
+I was also a little upset with Lemon Squeezy because their page listing all the fees was dishonest.
+There is an additional fee for every payout they send you, which is two to three percent for me.
+This one was hidden for a long time, with only a hard-to-find note on one page in the documentation that there could be a payout fee - but no information about its exact size.
+Some people (including me) complained that this is intransparent.
+After a long time, they've now added this information to the fees page.
+So, after all, from a fee perspective, Lemon Squeezy is not substantial more expensive than Paddle ($0.5 + 5% vs. effective $0.5 + 8.5% for me at Lemon Squeezy).
+The technical issues had not been pleasant but I hope they solved their internal quality control and I didn't get any reports from my customers anymore - but that's also expected as the sales volume is down quite a lot with the finished launch.
+I would still start with Lemon Squeezy, which is proof of how good their product is.
+But I am also thinking of switching to Paddle as they have more power features I could use in the feature:
+
+With Lemon Squeezy, I can only set one currency and price worldwide.
+Therefore, the book will be more expensive for some customers as many banks still have (high) conversion fees for foreign currencies.
+With Paddle, I could charge in different currencies and a different price for each currency - e.g. make it less expensive for countries with less income.
+Also, statistics shared by Paddle have shown that customers are more likely to buy something if prices are shown in their local currency.
+With Paddle's inline-checkout I could build a better checkout experience than any of the pre-built generic solutions from Lemon Squeezy and Paddle.
+Directly integrated into my marketing page, I don't have to redirect to a distinct page anymore and it doesn't look odd like the model checkout of Paddle and Lemon Sequeezy.
+
+As you can see, the only reasons for switching would be optimizations for the future:
+Better experience for customers as the slightly lower fees won't make a difference.
+For my launch the difference of choosing cheaper Paddle over Lemon Squeezy would have just been a difference of $2500 profit for me.
+Long-Term Sales
+Any book or course sales drop hard after the launch - mine is the same.
+That's why many creators make new paid stuff every year.
+But this is not my intention.
+I wrote this book because it is an important topic I could teach.
+And I don't want to repeat all the stress of writing a book again.
+As of writing this article, the book is currently cash flow positive with a tiny margin.
+That means the hundreds of hours it took to make the book and everything else generated as much profit for me as using that same time consulting for clients.
+Yeah!
+But I don't believe in passive income.
+If I stopped advertising my book, the sales would probably drop to zero in the next weeks/months.
+I believe long-term sales are possible.
+But it is not simple.
+I have many ideas to make this a constant income in the following months.
+So there will be a new article in 12 months about what I planned, implemented in reality and what I recommend and regret doing.Table of ContentsWhat Makes a Good BookAudience Building (2 years)Social MediaWebsite and NewsletterSharing a Free E-BookThe PlanningDeciding to Write ItTraditional Publisher vs. Self-publishedSelling the BookPricing TiersCreating the bookAnnouncement, Promotions and LaunchAnnouncement ($7k)Promotions ($25.4k)Launch ($17.6k)Ending the Launch ($20.5k)StatisticsAudienceTiersCountriesPayment MethodsTaxes and Average FeesCheckout Recovery and RefundsWhat Did Not Work WellMarketingAds and SponsorhipsLemon Squeezy IssuesLong-Term SalesPrivacy PolicyImprint© 2023 Tobias Petry. All rights reserved.

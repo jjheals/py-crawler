@@ -1,0 +1,193 @@
+
+
+Shadow DOM is for hiding your shameSkip to main content
+Theresa O’Connor
+/ Treasa Ní Chonchúir
+
+
+now
+blog
+
+
+
+Shadow DOM is for hiding your shame
+The CSS Zen Garden philosophy is a good one. Your markup should be just what it needs to be to convey the semantics of your document, and no more. Through the magic of CSS you can then make that document look however you’d like it to.
+That’s the idea anyway, but sometimes reality falls a bit short of this ideal. You find that you need to add some otherwise-unnecesary structure to your document in order to acheive a specific look. You add a <div> here, a <span> there, and eventually things look like how you imagined they could. It’s a shame about the markup though, it started out so clean.
+What if I told you it doesn’t have to be this way? That your document’s markup can stay as pristine as you wanted it to be? Well, it’s true. Shadow DOM is the tool for the job—it lets our light DOM retain the ideal, perfect structure while keeping the messy bits out of sight and out of mind in the shadow DOM.
+Example: an image carousel
+Suppose you want to build an image carousel. Now that we live in a world with scroll snapping it’s pretty easy to do. We’ll start by creating an element to contain the carousel items. The carousel items can be whatever you want; for this example, I’ll use <figure> elements containing images.
+<div class=carousel>
+  <figure>
+    <img src​=/2023​/09​/mezquita​/IMG_4462.jpg
+         alt="An elaborate description of the Moorish arch
+              that appears in this photo.">
+    <figcaption>A Moorish arch.</figcaption>
+  </figure>
+  <!-- … more <figure>s … -->
+</div>
+
+Example 1: just the markup, ma’am.
+
+
+Next, we’ll use a combination of scroll snapping and flexbox to get the basic functionality of a carousel in place.
+div.carousel {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    margin: 1em 0;
+}
+
+div.carousel > figure {
+    width: 100%;
+    margin: 0;
+    scroll-snap-align: start;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    align-items: center;
+    justify-content: center;
+}
+
+
+Example 2: now with style!
+
+
+This works really well, but it’s not very discoverable, especially on platforms with overlay scrollbars. Users might not realize they can scroll horizontally to see other images.
+Let’s add some buttons that folks can use to explicitly scroll the carousel.
+<div class=carousel>
+  <figure>
+    <img src​=/2023​/09​/mezquita​/IMG_4462.jpg
+         alt="An elaborate description of the Moorish arch
+              that appears in this photo.">
+    <figcaption>A Moorish arch.</figcaption>
+  </figure>
+  <!-- … more <figure>s … -->
+  <button>Previous</button>
+  <button>Next</button>
+</div>
+Let’s position them at the bottom of the carousel.
+div.carousel {
+    position: relative;
+}
+
+div.carousel > button {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+div.carousel > button:first-of-type {
+    right: auto;
+    left: 0;
+}
+Clicking on them should scroll the carousel by one page:
+document​.add​Event​Listener​("DOM​Content​Loaded", function() {
+    document​.query​Selector​All(
+        "div.carousel > button"
+    ).for​Each(function​(button) {
+        button​.add​Event​Listener​("click", function(event) {
+            const scroller = event​.target​.parent​Element;
+            const step = parse​Int​(get​Computed​Style​(carousel​).width);
+            if (event​.target​.text​Content == "Previous") {
+                scroller​.scroll​Left -= step;
+            } else {
+                scroller​.scroll​Left += step;
+            }
+        });
+    });
+});
+
+Example 3: buttons up your overcoat
+
+
+There’s a problem, though. Go ahead, click on the Next button. Notice how the buttons remain on the first page of the carousel? That’s because of the way absolute positioning works. If we want the buttons to stay on the screen while we’re scrolling, we’re going to need to split our existing carousel <div> into two: one to do the scrolling, and one to contain the controls and the scroll container.
+<div class=carousel> <!-- the container -->
+  <div> <!-- the scroller -->
+    <figure>
+      <img src​=/2023​/09​/mezquita​/IMG_4462.jpg
+           alt="An elaborate description of the Moorish arch
+                that appears in this photo.">
+      <figcaption>A Moorish arch.</figcaption>
+    </figure>
+    <!-- … more <figure>s … -->
+  </div>
+  <button>Previous</button>
+  <button>Next</button>
+</div>
+We have to tweak some of our CSS to handle the new structure:
+div.carousel > div {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    margin: 1em 0;
+}
+
+div.carousel > div > figure {
+    width: 100%;
+    margin: 0;
+    scroll-snap-align: start;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    align-items: center;
+    justify-content: center;
+}
+
+And we’ll need to tweak our JavaScript as well.
+document​.add​Event​Listener​("DOM​Content​Loaded", function() {
+    document​.query​Selector​All(
+        "div.carousel > button"
+    ).for​Each(function​(button) {
+        button​.add​Event​Listener​("click", function(event) {
+            const scroller = event​.target​.parent​Element.query​Selector("div");
+            const step = parse​Int​(get​Computed​Style​(carousel​).width);
+            if (event​.target​.text​Content == "Previous") {
+                scroller​.scroll​Left -= step;
+            } else {
+                scroller​.scroll​Left += step;
+            }
+        });
+    });
+});
+
+Example 4: better button placement
+
+
+Awesome, that works!
+Now obviously this doesn’t look super amazing but I’m sure your CSS-fu is up to the job.
+But ugh, that <div> makes me sad. It’d be nice if I didn’t have to remember to add it every time I write one of these things.
+While I’m at it, it’d be nice if I didn’t have to remember to add the controls either. What if I add additional controls in the future? Do I really want to go back through my whole site, updating every single one of these things?
+Ideally, the markup would simply say "here’s a carousel & here’s what goes in it," we’d get the structure and controls magically, and I could blissfully forget how any of this works.
+This is where web components come in:
+
+We can put the scroller in the shadow DOM & slot the carousel items into it, thus eliminating the extraneous <div> from the light DOM.
+We can put the controls into the shadow DOM too, so the light DOM looks just how we’d like it to.
+
+For convenience, we can package this all up into a custom element. This is what I’ve done on my site with <tess-carousel>. Here’s how you use it:
+<link rel="stylesheet" href="/elements/tess-carousel/element.css">
+<script defer src="/elements/tess-carousel/element.js"></script>
+…
+<tess-carousel controls>
+  <figure>
+    <img src​=/2023​/09​/mezquita​/IMG_4462.jpg
+         alt="An elaborate description of the Moorish arch
+              that appears in this photo.">
+    <figcaption>A Moorish arch.</figcaption>
+  </figure>
+  <!-- … more <figure>s … -->
+</tess-carousel>
+The stylesheet uses scroll snapping to make the carousel work even when JavaScript is disabled; the script defines the custom element and wires up the shadow DOM approrpriately.
+
+Example 5: the <tess-carousel> element
+
+
+I think this is a pretty good example of what Jeremy calls HTML web components.
+
+Copyright © 2023 Theresa O’Connor.
+Tagged markup,
+CSS,
+HTML,
+web components.
+

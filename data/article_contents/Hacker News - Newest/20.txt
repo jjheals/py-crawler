@@ -1,0 +1,604 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nonprofit Tech Startups Are Neither Strange Nor Destined To Flame Out
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About Crunchbase
+
+Solutions
+
+Find InvestorsFind InvestmentsFind ProspectsMarket ResearchBuild Your Product 
+Popular Links
+
+Featured Searches and ListsThe Crunchbase DifferenceKnowledge CenterCreate a Crunchbase Profile 
+Company
+
+CareersPartnersBlogContact Us 
+
+Go To Crunchbase.comTry Pro Free  
+
+
+
+
+
+
+
+The curated list of the most valuable private companies in the world | Learn More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Unicorn BoardEmerging Unicorn BoardTech Layoffs TrackerMegadeals BoardWeb3 TrackerBillion-Dollar Exits TrackerVC Funding Reports
+
+2023
+
+Q3 2023
+
+Q3 2023 Global Q3 2023 North America Q3 2023 Asia Q3 2023 Europe Q3 2023 Latin America 
+Q2 2023
+
+Q2 2023 Global Q2 2023 North America Q2 2023 Asia Q2 2023 Latin America 
+Q1 2023
+
+Q1 2023 Global Q1 2023 North America Q1 2023 Europe Q1 2023 Latin America Q1 2023 Asia 
+
+2022
+
+2022 Global 2022 North America 2022 Europe 2022 Latin America 2022 Asia 
+2021
+
+2021 Global 2021 North America 2021 Europe 2021 Latin America 2021 Asia 
+2020
+
+2020 Global 2020 North America 2020 Europe 
+2019 2018 2017
+ 
+
+
+
+SaaSArtificial intelligenceCybersecurityCloud computingFintechClean techHealth TechIPO newsDiversitySeed funding 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+ 
+
+
+Unicorn BoardTech Layoffs TrackerBillion-Dollar ExitsLargest Funding Deals TrackerWeb3 TrackerVenture funding reports
+
+Q1 2023
+
+Q1 2023 Global Q1 2023 North America Q1 2023 Europe Q1 2023 Latin America Q1 2023 Asia 
+2022
+
+2022 Global 2022 North America 2022 Europe 2022 Latin America 2022 Asia 
+
+
+
+Topics
+
+SaaS
+Artificial intelligence
+Cloud computing
+Seed funding
+Cybersecurity
+Funding reports
+Diversity
+
+
+Go To Crunchbase.com
+About Crunchbase News
+Sign up for the Crunchbase Daily
+Try Crunchbase Pro for free
+ 
+
+
+
+
+
+
+Startups • Venture
+Nonprofit Tech Startups Are Neither Strange Nor Destined To Flame Out Joanna GlasnerNovember 22, 2023
+ 
+
+
+
+
+
+
+
+ Joanna Glasner
+jglasner
+
+
+
+
+
+
+
+
+
+
+
+13
+Shares
+
+
+
+
+
+
+
+Email
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+Following the drama at OpenAI this past week, it’s easy to get the impression that technology startups and nonprofit corporate structures make for a strange and messy combination.
+In reality, however, tech-focused enterprises that fuse a startup mindset with nonprofit governance aren’t especially unusual. Prominent examples date back decades, including pioneering browser developer Mozilla and the ever-popular Wikipedia.
+These days, nonprofits can tap into similar accelerator and seed-stage mentoring programs as their for-profit peers. For instance, famed accelerator Y Combinator began working with nonprofits in 2013 and typically includes a few in each new startup batch.
+San Francisco-based accelerator Fast Forward, meanwhile, has scaled up over the past nine years by focusing exclusively on tech nonprofits.
+“There’s a role for nonprofits to play in guiding the development of technology,” said Shannon Farley, Fast Forward co-founder and executive director.
+While OpenAI may be a case study in dysfunctional board-management relations, other techie nonprofits have a more stable track record of scaling with nonprofit governance in place. Prominent examples, per Farley, include online learning provider Khan Academy, classroom funding site DonorsChoose, and socially conscious lending platform Kiva.
+Typically, when it comes to boards, Farley sees nonprofit startups’ governance structure as driven by impact rather than profits or investment returns. Directors’ core responsibility is to define the impact they want to achieve and monitor progress toward that goal.
+With this approach in mind, nonprofit startups are still starting up at a steady clip. This year, Fast Forward hosted its 10th startup cohort, featuring upstart nonprofits deploying tech in areas such as literacy tutoring, solar-powered fridges and peer support for young people in crisis.
+Opportunity ahead
+Looking ahead, Farley also envisions a growing role for AI-focused nonprofits, as she sees the technology providing “a massive opportunity for rethinking how nonprofits service their communities.” Potential use cases include bringing more kids to grade-level reading, extending health care to more people without access to doctors, and even improving air quality.
+That said, for the world’s most prominent AI-focused startup governed by a nonprofit board, things haven’t been going  smoothly this past week. Hopefully we’ll see a return to stability ahead, however, with the company having reportedly reached an agreement under which co-founder Sam Altman will return as CEO amid a broad reshuffling of the board’s composition.
+Even so, the public image of OpenAI has seen quite a shift from even a few weeks ago, when its unusual governance approach looked less likely to cause waves. The San Francisco company landed the largest startup investment sum of the year, in spite of its unusual structure as a capped-profit company governed by a nonprofit board.
+Investors at the time seemed unperturbed by the company’s founding mission statement “to advance digital intelligence in the way that is most likely to benefit humanity as a whole, unconstrained by a need to generate financial return.”
+That was then. Attitudes changed following the board’s decision to oust Altman . While directors did not publicly articulate their rationale for the move in detail, the impetus can be traced at least in part to the sometimes conflicting demands of scaling fast, satisfying shareholders and upholding the stated mission.
+Farley’s take is that: “OpenAI’s hybrid governance structure is inherently conflicted.” 
+“There is tension between growth and social impact,” she said. “And the lure of capitalism is irresistible.”
+Looking ahead, the hope is that OpenAI will be able to weather these tensions, and, with some new directors and guiderails in place, be poised to adhere to its original mission to develop AI for the benefit of humanity.
+Illustration: Dom Guzman
+
+
+Search less. Close more.
+Grow your revenue with all-in-one prospecting solutions powered by the leader in private-company data.
+
+Start Your Search
+
+
+
+
+
+
+    Stay up to date with recent funding rounds, acquisitions, and more with the
+    Crunchbase Daily.
+  
+
+
+
+
+
+ 
+
+
+You may also like
+
+
+
+
+ 
+
+
+Startups • Venture
+Predicting VC Success With Crunchbase Data
+Guest AuthorNovember 27, 2023
+
+
+While much research has focused on investment decisions, little has been directed at studying the venture capitalists themselves, specifically: What...
+
+ 
+
+
+ 
+
+
+Artificial intelligence • Layoffs • Startups
+Tech Layoffs May Have Peaked, But They’re Still Accumulating
+Joanna GlasnerNovember 27, 2023
+
+
+Although we’ve seen some slowdown in mass job cuts from large-cap technology companies in recent months, layoff disclosures from  startups and small...
+
+ 
+
+
+
+
+
+Featured
+
+
+
+
+ 
+
+
+Economy • Job market • Layoffs • Public Markets • Startups
+The Crunchbase Tech Layoffs Tracker
+November 17, 20231 Min Read
+
+ 
+
+
+ 
+
+
+Artificial intelligence • Clean tech and energy • Cybersecurity • Health, Wellness & Biotech • Startups • Venture
+How Former Googlers’ VC Firm Invests In Everything From LLMs To AI Doing Drug Discovery 
+October 30, 20236 Min Read
+
+ 
+
+
+ 
+
+
+Artificial intelligence • Real estate & property tech • Startups • Venture
+5 Interesting Startup Deals You May Have Missed In October: Pro Volleyball, Humanoids And Lego Buildings
+October 31, 20235 Min Read
+
+ 
+
+
+ 
+
+
+Robotics • Startups • Venture
+Nvidia Co-Leads $99M Round For 3D Metal-Printing Startup Seurat Technologies 
+October 30, 20233 Min Read
+
+ 
+
+
+ 
+
+
+Artificial intelligence • Politics and regulation • Startups
+Biden’s AI Order May Have Wide Impact For Startups
+October 30, 20234 Min Read
+
+
+
+
+
+
+
+67.1K Followers			
+
+
+
+
+Follow us on Facebook
+
+33.4K
+Followers
+
+
+
+
+
+
+Follow us on Twitter
+
+29K
+Followers
+
+
+
+
+
+
+Follow us on LinkedIn
+
+4.7K
+Followers
+
+
+
+
+CTA
+
+
+Find the right companies, identify the right contacts, and connect with decision-makers with an all-in-one prospecting solution.
+
+Learn More
+
+
+ 
+
+
+
+
+
+
+
+
+
+ Editorial Partners: Verizon Media Tech
+About Crunchbase News
+Crunchbase News Data Methodology
+Privacy Policy
+Terms of Service
+Cookie Settings
+Do Not Sell or Share My Personal Info
+CA Privacy Notice
+
+ 
+
+ Company 
+Careers
+Partners
+Blog
+Contact Us
+
+ 
+
+ Crunchbase Pro
+Crunchbase Enterprise
+Crunchbase for Applications
+Customer Stories
+Pricing
+
+ 
+
+ Featured Searches And Lists
+Knowledge Center
+Create A Profile
+Sales Intelligence
+Sales Prospecting Guide
+Sales Prospecting Tools
+
+ 
+
+ © 2023 Crunchbase Inc. All Rights Reserved.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copy link
+
+
+
+
+
+CopyCopied
+
+
+
+
+
+ 
+
+
+

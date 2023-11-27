@@ -1,0 +1,781 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CISA, HHS Release Collaborative Cybersecurity Healthcare Toolkit  | CISA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+ 
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+ A .gov website belongs to an official government organization in the United States.
+              
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+ A lock (LockA locked padlock) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cybersecurity & Infrastructure Security Agency
+ America's Cyber Defense Agency
+
+
+
+Search
+
+
+
+ 
+
+
+Menu
+
+
+
+
+
+
+Close
+
+
+ 
+
+
+
+
+Topics
+
+
+
+Topics
+
+
+
+
+
+Cybersecurity Best Practices
+
+
+
+
+
+
+Cyber Threats and Advisories
+
+
+
+
+
+
+Critical Infrastructure Security and Resilience
+
+
+
+
+
+
+Election Security
+
+
+
+
+
+
+Emergency Communications
+
+
+
+
+
+
+Industrial Control Systems
+
+
+
+
+
+
+Information and Communications Technology Supply Chain Security
+
+
+
+
+
+
+Partnerships and Collaboration
+
+
+
+
+
+
+Physical Security
+
+
+
+
+
+
+Risk Management
+
+
+
+
+
+
+        How can we help?
+       
+GovernmentEducational InstitutionsIndustryState, Local, Tribal, and TerritorialIndividuals and FamiliesSmall and Medium BusinessesFind Help LocallyFaith-Based CommunityExecutives
+
+
+
+
+
+Spotlight
+
+
+
+
+Resources & Tools
+
+
+
+Resources & Tools
+
+
+
+
+
+All Resources & Tools
+
+
+
+
+
+
+Services
+
+
+
+
+
+
+Programs
+
+
+
+
+
+
+Resources
+
+
+
+
+
+
+Training
+
+
+
+
+
+
+Groups
+
+
+
+
+
+
+
+
+News & Events
+
+
+
+News & Events
+
+
+
+
+
+News
+
+
+
+
+
+
+Events
+
+
+
+
+
+
+Cybersecurity Alerts & Advisories
+
+
+
+
+
+
+Directives
+
+
+
+
+
+
+Request a CISA Speaker
+
+
+
+
+
+
+Congressional Testimony
+
+
+
+
+
+
+
+
+Careers
+
+
+
+Careers
+
+
+
+
+
+Benefits & Perks
+
+
+
+
+
+
+HireVue Applicant Reasonable Accommodations Process
+
+
+
+
+
+
+Hiring
+
+
+
+
+
+
+Resume & Application Tips
+
+
+
+
+
+
+Students & Recent Graduates
+
+
+
+
+
+
+Veteran and Military Spouses
+
+
+
+
+
+
+Work @ CISA
+
+
+
+
+
+
+
+
+About
+
+
+
+About
+
+
+
+
+
+Culture
+
+
+
+
+
+
+Divisions & Offices
+
+
+
+
+
+
+Regions
+
+
+
+
+
+
+Leadership
+
+
+
+
+
+
+Doing Business with CISA
+
+
+
+
+
+
+Site Links
+
+
+
+
+
+
+Reporting Employee and Contractor Misconduct
+
+
+
+
+
+
+CISA GitHub
+
+
+
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+Report a Cyber Issue
+
+
+
+
+
+America's Cyber Defense Agency
+
+
+
+
+
+
+Breadcrumb
+
+
+Home
+
+
+News & Events
+
+
+News
+
+
+
+
+
+
+
+Share:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Press Release
+
+CISA, HHS Release Collaborative Cybersecurity Healthcare Toolkit 
+
+
+
+ReleasedOctober 25, 2023
+
+
+
+ Related topics: 
+
+Cybersecurity Best Practices 
+
+
+
+
+
+
+
+
+
+
+
+
+WASHINGTON – Today, the Cybersecurity and Infrastructure Security Agency (CISA) and the Department of Health and Human Services (HHS) co-hosted a roundtable discussion on the cybersecurity challenges that the U.S. healthcare and public health (HPH) sector system faces, and how government and industry can work together to close the gaps in resources and cyber capabilities. Ahead of the roundtable, CISA and HHS released a cybersecurity tool kit that includes resources tailored for the healthcare and public health sector.  “Adversaries see healthcare and public health organizations as high value yet relatively easy targets – or what we call target rich, cyber poor.  Given that healthcare organizations have a combination of personally identifiable information, financial information, health records, and countless medical devices, they are essentially a one-stop shop for an adversary. For example, just in 2023, CISA conducted pre-ransomware notifications to over 65 U.S. healthcare organizations to stop ransomware encryption and warn entities of early-stage ransomware activity,” said CISA Deputy Director Nitin Natarajan. “We continue to work diligently with our partners at HHS and in the healthcare sector to secure our health organizations not only in the United States, but across the globe through our collaboration tools.  We are also focused on efforts to Secure Our World by educating the people, companies, and agencies how they can better secure themselves with cybersecurity.”  “We have seen a significant rise in the number and severity of cyber attacks against hospitals and health systems in the last few years. These attacks expose vulnerabilities in our healthcare system, degrade patient trust, and ultimately endanger patient safety. The more they happen, and the longer they last, the more expensive and dangerous they become,” said HHS Deputy Secretary Andrea Palm. “HHS is working closely with CISA and our industry partners to deliver the tools, resources, and guidance needed to help healthcare organizations, especially our under-resourced hospitals and health centers, mount a strong cyber defense and protect patient lives.”  Today, as healthcare organizations increasingly rely on digital technologies to store patient and medical information, carry out medical procedures, and communicate with patients, they are exposed to greater risk.  However, hospitals, health centers, and clinics, especially those that are under-resourced, are coping with a wide range of challenges making it harder to invest the necessary resources into cybersecurity.   Over the past year, CISA, HHS and Health Sector Coordinating Council (HSCC) Cybersecurity Working Group have been working together to deliver tools, resources, training, and information that can help organizations within this sector. Together, CISA brings technical expertise as the nation’s cyber defense agency, HHS offers extensive expertise in healthcare and public health, and the HSCC Cybersecurity Working Group offers the practical expertise of industry experts working cybersecurity issues in HPH every day.  A key part of this effort is a new Cybersecurity Toolkit for Healthcare and Public Health that was unveiled at today’s roundtable. This toolkit is easy to navigate online at www.CISA.gov/healthcare and consolidates resources like:  CISA’s Cyber Hygiene Services, which use vulnerability scanning to help secure against known vulnerabilities, reduces the risk of cyberattacks and encourages the adoption of best practices.   HHS’s Health Industry Cybersecurity Practices, which was developed with industry, outlines effective cybersecurity practices healthcare organizations of all sizes can adopt to become more cyber resilient.  HHS and the HSCC’s HPH Sector Cybersecurity Framework Implementation Guide which helps organizations assess and improve their level of cyber resiliency and provide suggestions on how to link cybersecurity with their overall information security and privacy risk management activities.  Through these and other helpful resources on the webpage, as well as through on-the-ground outreach, CISA and HHS are providing tools, information, and resources to help this vitally important component of the nation’s critical infrastructure reduce their cyber risk and reduce the likelihood of successful cyber incursions.  
+
+
+
+
+
+
+
+
+
+Related Articles
+
+
+
+
+
+
+Nov 26, 2023
+
+Press Release
+
+
+
+DHS CISA and UK NCSC Release Joint Guidelines for Secure AI System Development
+ 
+
+
+
+
+
+
+
+Nov 14, 2023
+
+Press Release
+
+
+
+DHS Cybersecurity and Infrastructure Security Agency Releases Roadmap for Artificial Intelligence 
+ 
+
+
+
+
+
+
+
+Nov 09, 2023
+
+Press Release
+
+
+
+CISA Signs Memorandum of Understanding with the Republic of Korea to Share Cyber Threat Information and Cybersecurity Best Practices 
+ 
+
+
+
+
+
+
+
+Nov 07, 2023
+
+Press Release
+
+
+
+DHS Unveils New Shields Ready Campaign to Promote Critical Infrastructure Security and Resilience
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+Topics
+
+
+Spotlight
+
+
+Resources & Tools
+
+
+News & Events
+
+
+Careers
+
+
+About
+
+
+
+
+
+
+
+
+
+Cybersecurity & Infrastructure Security Agency
+ 
+
+
+
+Facebook
+
+
+Twitter
+
+
+LinkedIn
+
+
+YouTube
+
+
+Instagram
+
+
+RSS
+
+
+
+CISA Central
+888-282-0870
+Central@cisa.dhs.gov
+
+
+
+
+
+
+
+
+
+
+DHS Seal
+
+CISA.gov
+An official website of the U.S. Department of Homeland Security
+
+
+
+
+About CISA
+
+
+Accessibility
+
+
+Budget and Performance
+
+
+DHS.gov
+
+
+FOIA Requests
+
+
+No FEAR Act
+
+
+Office of Inspector General
+
+
+Privacy Policy
+
+
+Subscribe
+
+
+The White House
+
+
+USA.gov
+
+
+Website Feedback
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

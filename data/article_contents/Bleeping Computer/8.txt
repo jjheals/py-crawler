@@ -1,0 +1,879 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Black Friday 2023: Get 25% off the Zero2Automated malware analysis course 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+
+Featured
+Latest
+
+
+
+
+
+
+
+Windows Hello auth bypassed on Microsoft, Dell, Lenovo laptops
+
+
+
+
+
+Cyberattack on IT provider CTS impacts dozens of UK law firms
+
+
+
+
+
+UK and South Korea: Hackers use zero-day in supply-chain attack
+
+
+
+
+
+Malware dev says they can revive expired Google auth cookies
+
+
+
+
+
+
+
+
+
+Leveraging Wazuh to combat insider threats
+
+
+
+
+
+Google Drive users angry over losing months of stored data
+
+
+
+
+
+Learn Azure at your own pace with $77 off this exam prep bundle
+
+
+
+
+
+New Rust-based SysJoker backdoor linked to Hamas hackers
+
+
+
+
+
+
+
+
+Downloads
+
+
+
+Latest
+Most Downloaded
+
+
+
+
+
+
+
+Qualys BrowserCheck
+
+
+
+
+
+STOPDecrypter
+
+
+
+
+
+AuroraDecrypter
+
+
+
+
+
+FilesLockerDecrypter
+
+
+
+
+
+
+
+
+
+AdwCleaner
+
+
+
+
+
+ComboFix
+
+
+
+
+
+RKill
+
+
+
+
+
+Junkware Removal Tool
+
+
+
+
+
+
+
+
+VPNs
+
+
+
+Popular
+
+
+
+
+
+
+
+Best VPNs
+
+
+
+
+
+How to change IP address
+
+
+
+
+
+Access the dark web safely
+
+
+
+
+
+Best VPN for YouTube
+
+
+
+
+
+
+
+
+Virus Removal Guides
+
+
+
+Latest
+Most Viewed
+Ransomware
+
+
+
+
+
+
+
+Remove the Theonlinesearch.com Search Redirect
+
+
+
+
+
+Remove the Smartwebfinder.com Search Redirect
+
+
+
+
+
+How to remove the PBlock+ adware browser extension
+
+
+
+
+
+Remove the Toksearches.xyz Search Redirect
+
+
+
+
+
+
+
+
+
+Remove Security Tool and SecurityTool (Uninstall Guide)
+
+
+
+
+
+How to Remove WinFixer / Virtumonde / Msevents / Trojan.vundo
+
+
+
+
+
+How to remove Antivirus 2009 (Uninstall Instructions)
+
+
+
+
+
+How to remove Google Redirects or the TDSS, TDL3, or Alureon rootkit using TDSSKiller
+
+
+
+
+
+
+
+
+
+Locky Ransomware Information, Help Guide, and FAQ
+
+
+
+
+
+CryptoLocker Ransomware Information Guide and FAQ
+
+
+
+
+
+CryptorBit and HowDecrypt Information Guide and FAQ
+
+
+
+
+
+CryptoDefense and How_Decrypt Ransomware Information Guide and FAQ
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Latest
+Popular
+
+
+
+
+
+
+
+How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11
+
+
+
+
+
+How to use the Windows Registry Editor
+
+
+
+
+
+How to backup and restore the Windows Registry
+
+
+
+
+
+How to open a Windows 11 Command Prompt as Administrator
+
+
+
+
+
+
+
+
+
+How to start Windows in Safe Mode
+
+
+
+
+
+How to remove a Trojan, Virus, Worm, or other Malware
+
+
+
+
+
+How to show hidden files in Windows 7
+
+
+
+
+
+How to see hidden files in Windows
+
+
+
+
+
+
+
+
+Deals
+
+
+
+Categories
+
+
+
+
+
+
+
+eLearning
+
+
+
+
+
+IT Certification Courses
+
+
+
+
+
+Gear + Gadgets
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+
+Forums
+More
+
+Startup Database
+Uninstall Database
+Glossary
+Chat on Discord
+Send us a Tip!
+Welcome Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeNewsSecurityBlack Friday 2023: Get 25% off the Zero2Automated malware analysis course 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Black Friday 2023: Get 25% off the Zero2Automated malware analysis course 
+
+
+By Lawrence Abrams
+
+
+
+
+November 23, 2023
+09:00 AM
+0
+
+
+
+
+
+The popular Zero2Automated malware analysis and reverse-engineering course has a Black Friday 2023 through Cyber Monday sale, where you can get 25% off sitewide, including gift certificates and courses.
+Started in May 2020 by two well-known reverse engineers, Vitali Kremez and Daniel Bunce (aka 0verfl0w_), Zero2Automated is more than just an online training course.
+Participants also engaged in an online community where they can chat with over 1,000 peers and teachers as they work through 25+ hours of malware analysis and reverse engineering content.
+The Zero2Automated community also includes regular malware challenges, where students analyze a range of real-world malware samples.
+When we first promoted the courses' holiday deal, BleepingComputer spoke to some students and was told there are "no malware analysis courses like this one anywhere else."
+Special Black Friday and Cyber Monday deal
+Starting on November 23rd at 14:00 GMT through November 27th at 23:59 GMT, Zero2Automated is offering a 25% sitewide discount with the code BLACKFRIDAY that can be used to purchase gift certificates or courses.
+This promotion also offers an 'Ultimate Malware Reverse Engineering Bundle' containing three courses taking you from Zero to Hero in malware analysis.
+"Until 23:59 GMT Cyber Monday you can enroll in any Zero2Automated course/bundle, for 25% off - this discount is store wide, so that includes our Ultimate Malware Reverse Engineering Bundle, consisting of the Beginner Malware Analysis Course, Zero2Hero, and Zero2Automated: The Advanced Malware Analysis Course!," Bunce told BleepingComputer about the offer.
+"You will of course receive lifetime access to all course content and material, so there is no need to rush through the content; it is completely self paced."
+
+To get 25% off the custom  'Ultimate Malware Reverse Engineering Bundle,' or anything on their site, you can use this link to apply the discount automatically.
+This offer is live between November 23rd at 14:00 GMT through November 27th at 23:59 GMT.
+
+All course versions of Zero2Automated include a 10% discount on an IDA Pro Named License or IDA Home subscription.
+A brief demonstration of one of the Zero2Automated lessons can be seen below.
+
+BleepingComputer does not earn any commissions from the sales of these courses and was not paid to write this article.
+
+Related Articles:
+Learn Azure at your own pace with $77 off this exam prep bundleThe Black Friday 2023 Security, IT, VPN, & Antivirus DealsBlack Friday prices on best-selling IT and cybersecurity course dealsKickstart your coding career with 14 expert courses for under $40NordVPN Black Friday Deal: Save up to 69% on yearly subscriptions
+
+
+
+
+
+
+
+
+
+
+
+Black Friday
+Course
+Deal
+Reverse Engineering
+Zero2Automated
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lawrence Abrams   
+Lawrence Abrams is the owner and Editor in Chief of BleepingComputer.com. Lawrence's area of expertise includes Windows, malware removal, and computer forensics. Lawrence Abrams is a co-author of the Winternals Defragmentation, Recovery, and Administration Field Guide and the technical editor for Rootkits for Dummies.
+
+
+
+
+ Previous Article 
+Next Article 
+
+
+
+Post a Comment Community Rules
+
+You need to login in order to post a comment
+
+Not a member yet? Register Now
+
+
+
+You may also like:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Popular Stories
+
+
+
+
+
+
+General Electric investigates claims of cyber attack, data theft
+
+
+
+
+
+
+
+Atomic Stealer malware strikes macOS via fake browser updates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow us:
+
+
+
+
+
+
+
+
+
+Main Sections
+
+News
+VPN Buyer Guides
+Downloads
+Virus Removal Guides
+Tutorials
+Startup Database
+Uninstall Database
+Glossary
+
+
+
+Community
+
+Forums
+Forum Rules
+Chat
+
+
+
+Useful Resources
+
+Welcome Guide
+Sitemap
+
+
+
+Company
+
+About BleepingComputer
+Contact Us
+Send us a Tip!
+Advertising
+Write for BleepingComputer
+Social & Feeds
+Changelog
+
+
+
+
+
+
+
+
+Terms of Use -  Privacy Policy - Ethics Statement - Affiliate Disclosure
+
+
+Copyright @ 2003 - 2023  Bleeping Computer® LLC  - All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+
+Login
+
+
+Username
+
+
+
+Password
+
+
+
+
+
+Remember Me
+
+
+
+Sign in anonymously
+
+
+
+
+
+ Sign in with Twitter
+
+Not a member yet? Register Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Reporter
+
+Help us understand the problem. What is going on with this comment?
+
+
+
+
+Spam
+
+
+Abusive or Harmful
+
+
+Inappropriate content
+
+
+Strong language
+
+
+Other
+
+
+
+
+
+Read our posting guidelinese to learn what content is prohibited.
+
+
+
+Submitting...
+SUBMIT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

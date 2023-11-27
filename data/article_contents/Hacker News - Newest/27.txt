@@ -1,0 +1,419 @@
+
+
+
+
+
+Announcing RIPE NCC’s Public Bug Bounty Program | RIPE Labs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                      Emir Cuneyt Akkutlu
+                    
+                  
+
+
+Announcing RIPE NCC’s Public Bug Bounty Program
+
+
+
+Want to contribute? Learn how
+
+
+
+
+
+
+
+ Emir Cuneyt Akkutlu
+
+
+
+
+
+
+Announcing RIPE NCC’s Public Bug Bounty Program
+
+
+
+
+
+Emir Cuneyt Akkutlu — 27 Nov 2023
+
+
+
+
+
+
+
+
+Emir Cuneyt Akkutlu
+
+
+            Based in Amsterdam
+          
+
+
+
+        Security Engineer @ RIPE NCC More
+
+
+
+
+5 min read
+
+
+
+
+security
+operational
+
+
+
+
+
+3
+
+Click to like, and right click to unlike this article
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+Share
+
+
+
+Share
+
+
+ Twitter
+ LinkedIn
+ Facebook
+ Mastodon
+ Vkontacte
+ Telegram
+ Whatsapp
+ Email
+ Copy link
+
+More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+At the RIPE NCC, we’re dedicated to prioritising security and trust for our community and the sensitive information we handle. With that in mind, we’re very glad to announce that we're opening up our bug bounty program to anyone who wants to take part.
+
+
+In 2014, we published our first Responsible Disclosure Policy in which we encouraged the community to report identified vulnerabilities to the RIPE NCC. To show our appreciation to those who took part, we added their names to our Security Hall of Fame and rewarded them with swag.Some time later, in 2022, we launched our bug bounty program with Intigriti. Using the platform, we started reaching out to individuals from the ethical hacking community who had a good track record for identifying security vulnerabilities and inviting them to test our systems. This helped us gain invaluable insights into our security posture and instigated internal improvements and initiatives.Based on how useful the bug bounty program has been (more on that below), we now want to open this up to more people. With the global cybersecurity community having such a diverse and valuable set of insights to share, we want to make sure that we get input from as wide a range of people from across that community as possible. What’s more, making our bug bounty program more open fits well with our broader commitment to transparency.
+
+
+What we learned from bug bountyThe bug bounty program has all kinds of benefits. Collaborating closely with ethical hackers helps us exercise our vulnerability management capabilities, ensuring we’re always ready to take quick and effective action when vulnerabilities are discovered. And the bug reports themselves have a big impact, making our systems more resilient and secure.Private bug bounty program statisticsThroughout our private bug bounty program we received 32 true positive security bugs within the scope of the program. Below you can see the criticality distribution.
+
+
+
+
+
+
+Criticality of true positive security bugs
+
+
+Our Information Security team has had a swift review time of 1.49 days (on average) for the submitted security bugs. Within an average of seven days, we have managed to engage the right stakeholders within the organisation, evaluate the bug criticality and business impact and define the final severity of the issue to pay out the corresponding bounty amount. It is worth mentioning that the top submission type has been Reflected Cross-Site Scripting.
+
+
+Remediating a critical bugThe value of the bug bounty program can be further demonstrated by sharing an example of a critical bug submitted to RIPE NCC. The researcher identified the bug by executing reconnaissance activities against our public Github repository that contains the code of our open source tools. Below you can see a simplified version of the steps to reproduce the issue:Reconnaissance activities executed on on https://github.com/RIPE-NCCIdentification of a file included in the repository, which detailed various URL endpoints hosted on a third party service used by RIPE NCC (not hosted on a ripe.net subdomain)Iterating through the endpoints, the researcher found one vulnerable to an External Entity Injection (XXE)The researcher demonstrated only enough information for us to reproduce the bug and did not execute any malicious activities / gather sensitive data, but this bug could have led to:Exposing AWS CredentialsRemote Code Execution on the target serverEven though this server did not contain any sensitive personal information or similar, we marked this as Critical (Exceptional).Timeline of the report:Report submitted to us on 03/10/2022 (after Intigriti triage team validation)Verifying the issue internally 03/10/2022Deploying a fix 03/10/2022Asking for a retest from the researcher 06/10/2022Acknowledgment from the researcher that the fix works 06/10/2022.How to ParticipateAs mentioned, we run our bug bounty program using the ethical hacking and bug bounty platform, Intigriti. Based in Europe, Intigriti provides organisations with a straightforward, cost-efficient way to enlist the skills of a massive community of ethical hackers. Now, we’d also like to show others how to take part. The process is very straightforward:To start, go to intigriti/ripe_nccReview our program guidelines, scope, and rulesCommence testing our systems and promptly report any vulnerabilities you identify, following our responsible disclosure process.Rewards and RecognitionTo express our gratitude to the security researchers who help us keep the RIPE NCC secure, we offer rewards and recognition, including:Bounties for valid reportsAcknowledgement in our Hall of Fame for top contributorsOpportunities for responsible disclosure coordinationYou can see the full payout list here.Together, let’s shape the security of the RIPE NCCWe're excited about our decision to make our program available to all as we think this can only enhance the security of the RIPE NCC, protecting the data of our members and the community.Finally, we'd like to thank all of the researchers who participated with our Responsible Disclosure and Private Bug Bounty Program so far!
+
+
+
+
+security
+operational
+
+
+
+
+
+3
+
+Click to like, and right click to unlike this article
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+Share
+
+
+
+Share
+
+
+ Twitter
+ LinkedIn
+ Facebook
+ Mastodon
+ Vkontacte
+ Telegram
+ Whatsapp
+ Email
+ Copy link
+
+More
+
+
+
+
+
+
+
+
+
+
+
+
+About the author
+
+
+
+
+
+
+
+
+
+Emir Cuneyt Akkutlu
+
+
+              Based in Amsterdam
+
+
+
+Security Engineer @ RIPE NCC
+
+
+
+
+
+
+
+Comments 0
+
+
+
+
+
+
+
+
+
+        Guest
+         • 27 Nov 2023
+
+Already have a RIPE NCC Access account? Log in.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explore Categories:
+
+Network Operations
+
+
+Measurements and Statistics
+
+
+Internet Governance
+
+
+Technology and Innovation
+
+
+Community and Events
+
+
+RIPE NCC
+
+
+Podcasts
+
+
+Tools
+
+
+View all
+
+
+
+
+
+
+
+
+
+
+
+Home
+Sitemap
+About us
+Contact us
+Legal
+
+
+
+Stay connected
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

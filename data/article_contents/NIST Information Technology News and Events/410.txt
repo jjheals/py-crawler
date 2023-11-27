@@ -1,0 +1,749 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST Conducts Workshop on Enhancing Industrial Wireless Systems Performance | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2023/08/nist-conducts-workshop-enhancing-industrial-wireless-systems-performance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Our Organization
+
+
+Office of the Director
+
+
+Budget & Planning
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UPDATES
+
+
+
+NIST Conducts Workshop on Enhancing Industrial Wireless Systems Performance
+
+
+August 01, 2023
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In June 2023, NIST’s Industrial Wireless System Team, as part of the NIST-led Industrial Wireless Technical Interest Group, held an online workshop on “Deployment Architectures and Technologies for Enhancing the Performance of Industrial Wireless Systems.” Approximately 100 personnel attended. The workshop explored the latest developments that could enhance the performance of wireless systems for critical industrial applications; these included wireless technologies; protocols; and platforms like 5G, 6G, and beyond.
+Wireless technologies can help improve operating conditions, performance, and efficiency in emerging smart manufacturing practices and other mission-critical, industrial scenarios. However, deploying wireless technologies for mission-critical industrial applications requires improving communications link performance and reliability in various operating environments to attain efficiency and safety.
+The workshop included eleven presenters from government, industry, and academia. They addressed high-performance W-Fi and 5G private networks; open-source initiatives; wireless sensor networks; time-sensitive networking; industrial wireless disruptors; millimeter wave technology advancements; and wireless for safety applications. NIST’s Rick Candell closed out the workshop, describing the P3388 Standard for industrial wireless systems performance assessment.
+Information presented will help in several ways. It will enable manufacturers, system integrators, and users to determine suitable wireless technologies for use cases, with expected levels of performance. The information also will help deploy, integrate, and engineer wireless systems. Additionally, it will help enhance wireless performance in challenging environments, with physical obstructions and sources of interference.
+NIST thanks the following, in order of appearance, for their contributions: Kang Lee (NIST); Nada Golmie (NIST); Dave Cavalcanti (Intel); Claude Seyrat (Firecell); Ingrid Moerman (Ghent University); Matt Simons (NIST); Pablo Sanz-Fontaneda (IKERLAN); Ted Schnaare (Emerson Automation Solutions); Mahin Atiq (Silicon Austria Labs); Scott McNeil (GPA); Mohamed Kashef (Hany) (NIST); and Richard Candell (NIST).
+
+
+
+
+
+Advanced communications, Information technology, Cyber-physical systems, Internet of Things (IoT), Infrastructure, Manufacturing, Factory communications, Manufacturing systems design and analysis, Monitoring, diagnostics and prognostics, Process measurement and control, Supply chain, Systems engineering, Systems integration, Standards and Documentary standards
+
+
+
+
+
+
+
+
+Technical Contact
+
+
+
+
+Richard Candell
+
+richard.candell@nist.gov
+
+
+    (301) 975-4287
+  
+
+
+Mohamed Hany (Kashef)
+
+mohamed.hany@nist.gov
+
+
+    (301) 975-3458
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsCommunications Technology LaboratorySmart Connected Systems DivisionNetworked Control Systems Group
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released August 1, 2023, Updated August 30, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

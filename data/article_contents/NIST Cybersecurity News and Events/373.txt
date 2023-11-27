@@ -1,0 +1,759 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Immersive Test Center brings first responders advanced training, opportunities to overcome challenges | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2023/03/immersive-test-center-brings-first-responders-advanced-training
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Our Organization
+
+
+Office of the Director
+
+
+Budget & Planning
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UPDATES
+
+
+
+Immersive Test Center brings first responders advanced training, opportunities to overcome challenges
+
+
+March 03, 2023
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This blog is a repost from the First Responder Network Authority, originally published on March 2, 2023.
+One of the biggest training challenges for first responders is the ability to train in realistic environments that reflect those they will face day to day. Technology has advanced these capabilities dramatically, with augmented and virtual reality able to simulate a range of situations. Recognizing this need for public safety, the First Responder Network Authority (FirstNet Authority) partnered with the National Institute of Standards and Technology’s (NIST) Public Safety Communications Research (PSCR) Division to develop the Public Safety Immersive Test Center (Test Center).
+Inside the Public Safety Immersive Test Center
+The 1,100 square foot center, located in the FirstNet Authority Technical Facility in Boulder, Colorado, is equipped with a motion capture system, 62 high speed optical tracking cameras, a variety of augmented and virtual reality headsets, and gear and fixtures that add a tactile component to simulations. Using this space, first responders can experience various scenarios, such as coordinating complex events or simulating a burning building. The equipment allows for an immersive engagement – when participants see and feel a chair in virtual reality, they will be able to touch and move a chair in the Test Center.
+In addition to training, the Test Center will be used for research and development, answering key questions about the future of user interfaces and location-based services for public safety training and operations. For location-based services, the Test Center will allow us to validate the accuracy of indoor location tracking technologies.  And as virtual and augmented reality tools for public safety are developed and refined, we can evaluate their usefulness in the Test Center for responders in the real world.
+Looking to the future of public safety operations
+Scott Ledgerwood, UIUX Lead with NIST PSCR, explained, “This space is really a one-of-a-kind lab that allows us to look at some of the future communication technology systems that could be supportive of public safety operations, looking at things like virtual reality, integrating real-time tracking and props for creating more immersive experiences, and leveraging our systems to do indoor tracking and providing ground truth or reference systems to improve these technology systems.”
+The Test Center is open to public safety, free of charge. The FirstNet Authority and NIST PSCR encourage first responders to come in to engage with experts and try out some of these advanced technologies. This provides a unique opportunity for responders to learn more about the development of technology and provide insight on how it can be leveraged to enhance on-the-ground operations.
+“This is my second time at the Test Center and each time that I’ve come, I’ve learned more,” said Lieutenant Luke Hawkins, a firefighter and paramedic with Mountain View Fire Rescue in Colorado. “I’m excited about coming back again [and] looking at the support and ingenuity that these facilities bring to our industry. I think, for a lot of the guys that are on the line, we don’t know how much [work] is involved in terms of development and inventions to help us become better at our jobs and become safer. So, it’s always exciting coming back here to the Test Center to be able to learn what’s being improved, what’s being implemented, and what our future has for us.”
+Partners in advancing public safety communications
+From prize challenges to technology testing, the FirstNet Authority and NIST have a long history of partnering on innovative projects benefiting public safety. The goals of this partnership have always been to advance public safety communications technology and incorporate the most cutting-edge technology available to enhance operations for first responders.
+Speaking about the joint creation of the Test Center, Jeff Bratcher, FirstNet Authority Chief Network and Technology Officer, explained, “The partnership with NIST PSCR has been ongoing for more than ten years now, leveraging their advanced research and capabilities. They had the ownership of the research and development funding in the legislation that created FirstNet. At our FirstNet Authority laboratory facility, we had a large open warehouse-type space, and it fit perfectly. They were able to bring their equipment in and create the immersive test center.”
+The facility is key to understanding public safety’s changing needs and driving those needs into standards development. The collaboration on site gives both industry and public safety the opportunity to develop technology that strategically supports their life saving mission.
+If you are interested in learning more about the Test Center, or if you would like to schedule a visit, please reach out to me at kim.coleman [at] firstnet.gov (kim[dot]coleman[at]firstnet[dot]gov).
+
+
+
+
+
+Advanced communications, Information technology, Cybersecurity, Virtual / augmented reality, Public safety and Public safety communications research
+
+
+
+Related Video
+
+
+
+
+
+Welcome to the PSITC
+
+
+
+This video provides an overview of the NIST and FirstNet Authority's Public Safety Immersive Test Center (PSITC) located in Boulder, Colorado.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsCommunications Technology LaboratoryPublic Safety Communications Research DivisionPublic Safety Communications Research Division - HQ
+
+
+
+
+
+
+
+
+
+
+
+Related News
+
+
+How PSCR and the FirstNet Authority are Connected for Public Safety
+FirstNet Authority, NIST Launch Immersive Virtual Experience Center for Public Safety
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released March 3, 2023, Updated March 6, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

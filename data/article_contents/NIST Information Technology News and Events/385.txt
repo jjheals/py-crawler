@@ -1,0 +1,763 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST Seeks Collaborators for Consortium Supporting Artificial Intelligence Safety | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2023/11/nist-seeks-collaborators-consortium-supporting-artificial-intelligence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Our Organization
+
+
+Office of the Director
+
+
+Budget & Planning
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS
+
+
+
+NIST Seeks Collaborators for Consortium Supporting Artificial Intelligence Safety
+
+
+The AI Safety Institute Consortium will help develop tools to measure and improve AI safety and trustworthiness.
+
+
+November 02, 2023
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  N. Hanacek/NIST
+
+        
+GAITHERSBURG, Md. — The U.S. Department of Commerce’s National Institute of Standards and Technology (NIST) is calling for participants in a new consortium supporting development of innovative methods for evaluating artificial intelligence (AI) systems to improve the rapidly growing technology’s safety and trustworthiness. This consortium is a core element of the new NIST-led U.S. AI Safety Institute announced yesterday at the U.K.’s AI Safety Summit 2023, in which U.S. Secretary of Commerce Gina Raimondo participated.  
+The institute and its consortium are part of NIST’s response to the recently released Executive Order on Safe, Secure, and Trustworthy Development and Use of AI. The EO tasks NIST with a number of responsibilities, including development of a companion resource to the AI Risk Management Framework (AI RMF) focused on generative AI, guidance on authenticating content created by humans and watermarking AI-generated content, a new initiative to create guidance and benchmarks for evaluating and auditing AI capabilities, and creation of test environments for AI systems. NIST will rely heavily on engagement with industry and relevant stakeholders in carrying out these assignments. The new institute and consortium are central to those efforts.
+“The U.S. AI Safety Institute Consortium will enable close collaboration among government agencies, companies and impacted communities to help ensure that AI systems are safe and trustworthy,” said Under Secretary of Commerce for Standards and Technology and NIST Director Laurie E. Locascio. “Together we can develop ways to test and evaluate AI systems so that we can benefit from AI’s potential while also protecting safety and privacy.”
+The U.S. AI Safety Institute will harness work already underway by NIST and others to build the foundation for trustworthy AI systems, supporting use of the AI RMF, which NIST released in January 2023. The framework offers a voluntary resource to help organizations manage the risks of their AI systems and make them more trustworthy and responsible. The institute aims to measurably improve organizations’ ability to evaluate and validate AI systems, as detailed in the AI RMF Roadmap. 
+“The institute's collaborative research will strengthen the scientific underpinnings of AI measurement so that extraordinary innovations in artificial intelligence can benefit all people in a safe and equitable way,” said NIST’s Elham Tabassi, federal AI standards coordinator and a member of the National AI Research Resource Task Force.
+Building on its long track record of working with the private and public sectors as well as its history of measurement and standards-oriented solutions, NIST is seeking collaborators from across society to join the consortium. The consortium will function as a convening space for an informed dialogue and the sharing of information and insights. It will be a vehicle to support collaborative research and development through shared projects, and will promote the assessment and evaluation of test systems and prototypes to inform future AI measurement efforts.
+“Participation in the consortium is open to all organizations interested in AI safety that can contribute through combinations of expertise, products, data and models,” said Jacob Taylor, NIST’s senior advisor for critical and emerging technologies. “NIST is responsible for helping industry understand how to manage the risks inherent in AI products. To do so, NIST intends to work with stakeholders at the intersection of the technical and the applied. We want the U.S. AI Safety Institute to be highly interactive because the technology is emerging so quickly, and the consortium can help ensure that the community’s approach to safety evolves alongside.”
+In particular, NIST is soliciting responses from all organizations with relevant expertise and capabilities to enter into a consortium cooperative research and development agreement (CRADA) to support and demonstrate pathways to enable safe and trustworthy AI. Members would be expected to contribute: 
+Expertise in one or more of several specific areas, including AI metrology, responsible AI, AI system design and development, human-AI teaming and interaction, socio-technical methodologies, AI explainability and interpretability, and economic analysis; 
+Models, data and/or products to support and demonstrate pathways to enable safe and trustworthy AI systems through the AI RMF;  
+Infrastructure support for consortium projects; and
+Facility space and handling of hosting consortium researchers, workshops and conferences. 
+Interested organizations with relevant technical capabilities should submit a letter of interest by Dec. 2, 2023. More details on NIST’s request for collaborators are available in the Federal Register. NIST plans to host a workshop on Nov. 17, 2023, for those interested in learning more about the consortium and engaging in the conversation about AI safety.
+The U.S. AI Safety Institute will partner with other U.S. government agencies on evaluating AI capabilities, limitations, risks and impacts and coordinate on building testbeds. The institute will also work with organizations in ally and partner countries to share best practices, align capability evaluation, and red-team guidance and benchmarks.
+
+
+
+
+
+Information technology, Artificial intelligence, AI measurement and evaluation and Trustworthy and responsible AI
+
+
+
+
+
+
+
+
+Media Contact
+
+
+
+
+Chad Boutin
+
+charles.boutin@nist.gov
+
+
+    (301) 975-4261
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsInformation Technology LaboratoryInformation Technology Laboratory OfficeOffice of Emerging Technologies
+
+
+
+
+
+
+
+
+
+
+
+Related Links
+
+
+Federal Register Notice on the Artificial Intelligence Safety Institute Consortium
+Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence
+U.S. Artificial Intelligence Safety Institute
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released November 2, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

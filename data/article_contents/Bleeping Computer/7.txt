@@ -1,0 +1,883 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cyberattack on IT provider CTS impacts dozens of UK law firms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+
+Featured
+Latest
+
+
+
+
+
+
+
+Windows Hello auth bypassed on Microsoft, Dell, Lenovo laptops
+
+
+
+
+
+Cyberattack on IT provider CTS impacts dozens of UK law firms
+
+
+
+
+
+UK and South Korea: Hackers use zero-day in supply-chain attack
+
+
+
+
+
+Malware dev says they can revive expired Google auth cookies
+
+
+
+
+
+
+
+
+
+Leveraging Wazuh to combat insider threats
+
+
+
+
+
+Google Drive users angry over losing months of stored data
+
+
+
+
+
+Learn Azure at your own pace with $77 off this exam prep bundle
+
+
+
+
+
+New Rust-based SysJoker backdoor linked to Hamas hackers
+
+
+
+
+
+
+
+
+Downloads
+
+
+
+Latest
+Most Downloaded
+
+
+
+
+
+
+
+Qualys BrowserCheck
+
+
+
+
+
+STOPDecrypter
+
+
+
+
+
+AuroraDecrypter
+
+
+
+
+
+FilesLockerDecrypter
+
+
+
+
+
+
+
+
+
+AdwCleaner
+
+
+
+
+
+ComboFix
+
+
+
+
+
+RKill
+
+
+
+
+
+Junkware Removal Tool
+
+
+
+
+
+
+
+
+VPNs
+
+
+
+Popular
+
+
+
+
+
+
+
+Best VPNs
+
+
+
+
+
+How to change IP address
+
+
+
+
+
+Access the dark web safely
+
+
+
+
+
+Best VPN for YouTube
+
+
+
+
+
+
+
+
+Virus Removal Guides
+
+
+
+Latest
+Most Viewed
+Ransomware
+
+
+
+
+
+
+
+Remove the Theonlinesearch.com Search Redirect
+
+
+
+
+
+Remove the Smartwebfinder.com Search Redirect
+
+
+
+
+
+How to remove the PBlock+ adware browser extension
+
+
+
+
+
+Remove the Toksearches.xyz Search Redirect
+
+
+
+
+
+
+
+
+
+Remove Security Tool and SecurityTool (Uninstall Guide)
+
+
+
+
+
+How to Remove WinFixer / Virtumonde / Msevents / Trojan.vundo
+
+
+
+
+
+How to remove Antivirus 2009 (Uninstall Instructions)
+
+
+
+
+
+How to remove Google Redirects or the TDSS, TDL3, or Alureon rootkit using TDSSKiller
+
+
+
+
+
+
+
+
+
+Locky Ransomware Information, Help Guide, and FAQ
+
+
+
+
+
+CryptoLocker Ransomware Information Guide and FAQ
+
+
+
+
+
+CryptorBit and HowDecrypt Information Guide and FAQ
+
+
+
+
+
+CryptoDefense and How_Decrypt Ransomware Information Guide and FAQ
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Latest
+Popular
+
+
+
+
+
+
+
+How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11
+
+
+
+
+
+How to use the Windows Registry Editor
+
+
+
+
+
+How to backup and restore the Windows Registry
+
+
+
+
+
+How to open a Windows 11 Command Prompt as Administrator
+
+
+
+
+
+
+
+
+
+How to start Windows in Safe Mode
+
+
+
+
+
+How to remove a Trojan, Virus, Worm, or other Malware
+
+
+
+
+
+How to show hidden files in Windows 7
+
+
+
+
+
+How to see hidden files in Windows
+
+
+
+
+
+
+
+
+Deals
+
+
+
+Categories
+
+
+
+
+
+
+
+eLearning
+
+
+
+
+
+IT Certification Courses
+
+
+
+
+
+Gear + Gadgets
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+
+Forums
+More
+
+Startup Database
+Uninstall Database
+Glossary
+Chat on Discord
+Send us a Tip!
+Welcome Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeNewsSecurityCyberattack on IT provider CTS impacts dozens of UK law firms
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cyberattack on IT provider CTS impacts dozens of UK law firms
+
+
+By Sergiu Gatlan
+
+
+
+
+November 24, 2023
+12:13 PM
+0
+
+
+
+
+
+A cyberattack on CTS, a leading managed service provider (MSP) for law firms and other organizations in the UK legal sector, is behind a major outage impacting numerous law firms and home buyers in the country since Wednesday.
+"We are experiencing a service outage which has impacted a portion of the services we deliver to some of our clients. The outage was caused by a cyber-incident," the UK IT services provider said in a statement published on Friday.
+"We are working closely with a leading global cyber forensics firm to help us with an urgent investigation into the incident and to assist us in service restoration."
+The company is working on bringing back online services impacted following the cyberattack. Still, it can't provide a timeline for when the outage will be resolved and all affected systems restored.
+CTS also provides customers with more detailed information on the outage and the measures it's taking in response to the cyberattack via a dedicated communications list.
+"Whilst we are confident that we will be able to restore services, we are unable to give a precise timeline for full restoration," CTS added.
+"We will continue to communicate directly with those of our clients which are impacted by the service outage, providing regular updates on the status of our work to restore services and our investigations into the incident."
+A spokesperson for the UK's Information Commissioner's Office (ICO) told BleepingComputer that CTS hasn't yet reported a breach after the attack.
+"We don’t appear to have received a breach report matching the one you described. As you’ll be aware, organisations have 72 hours from when they became aware of a breach to report to the ICO, and not all breaches need to be reported," the ICO spokesperson said.
+After the article was published, CTS Director of Marketing Natalie Kissack told BleepingComputer that the company had contacted the ICO.
+Dozens of customers potentially affected
+While CTS has yet to reveal the number of impacted customers or the nature of the attack, information shared so far points to a ransomware attack.
+Local media reports that between 80 and 200 law firms could have been affected based on estimates shared by CTS clients.
+Throughout the week, people have been unable to buy or sell properties due to outages, with no clear information on when the issue will be resolved.
+O'Neil Patient, one of CTS' clients, told Property Industry Eye that the outage "is impacting a number of organisations across the sector, as our provider is a specialist in secure legal systems for many law firms and barrister's chambers."
+"There is no evidence to suggest that any data integrity has been compromised, and we will not be bringing our systems back online until we have all the assurances that it is safe to do so. This outage has unfortunately impacted our customers, particularly those who were due to complete on a new home," O'Neil Patient added.
+As an MSP, CTS also provides cyber protection services, including cyberattack detection and response, email and network security, and employee security awareness training.
+The UK National Cyber Security Centre (NCSC) warned in January that using an MSP's services increases the attack surface, especially since they're a "juicy target" for attackers as they manage the resources of large numbers of customers.
+"Publications from Microsoft and N-able highlight that this real threat uses techniques that are relatively unchanged from those documented by PWC in 2017, and is part of a trend that we expect to continue," UK's NCSC said.
+"We would hope that such infrastructure is well-defended, and MSPs use different devices and accounts for administrative functions than are used for email and browsing the web."
+A CTS spokesperson declined to comment outside of the statement published on the company's website.
+
+Related Articles:
+British Library knocked offline by weekend cyberattackBritish Library: Ongoing outage caused by ransomware attackMortgage giant Mr. Cooper hit by cyberattack impacting IT systemsAmerican Family Insurance confirms cyberattack is behind IT outagesCyberattack on health services provider impacts 5 Canadian hospitals
+
+
+
+
+
+
+
+
+
+
+
+Cyberattack
+Law Firm
+MSP
+Outage
+UK
+United Kingdom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sergiu Gatlan   
+Sergiu has covered cybersecurity, technology, and other news beats for more than a decade. Email or Twitter DMs for tips.
+
+
+
+
+ Previous Article 
+Next Article 
+
+
+
+Post a Comment Community Rules
+
+You need to login in order to post a comment
+
+Not a member yet? Register Now
+
+
+
+You may also like:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Popular Stories
+
+
+
+
+
+
+General Electric investigates claims of cyber attack, data theft
+
+
+
+
+
+
+
+Atomic Stealer malware strikes macOS via fake browser updates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow us:
+
+
+
+
+
+
+
+
+
+Main Sections
+
+News
+VPN Buyer Guides
+Downloads
+Virus Removal Guides
+Tutorials
+Startup Database
+Uninstall Database
+Glossary
+
+
+
+Community
+
+Forums
+Forum Rules
+Chat
+
+
+
+Useful Resources
+
+Welcome Guide
+Sitemap
+
+
+
+Company
+
+About BleepingComputer
+Contact Us
+Send us a Tip!
+Advertising
+Write for BleepingComputer
+Social & Feeds
+Changelog
+
+
+
+
+
+
+
+
+Terms of Use -  Privacy Policy - Ethics Statement - Affiliate Disclosure
+
+
+Copyright @ 2003 - 2023  Bleeping Computer® LLC  - All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+
+Login
+
+
+Username
+
+
+
+Password
+
+
+
+
+
+Remember Me
+
+
+
+Sign in anonymously
+
+
+
+
+
+ Sign in with Twitter
+
+Not a member yet? Register Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Reporter
+
+Help us understand the problem. What is going on with this comment?
+
+
+
+
+Spam
+
+
+Abusive or Harmful
+
+
+Inappropriate content
+
+
+Strong language
+
+
+Other
+
+
+
+
+
+Read our posting guidelinese to learn what content is prohibited.
+
+
+
+Submitting...
+SUBMIT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

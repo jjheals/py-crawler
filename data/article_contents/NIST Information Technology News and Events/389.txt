@@ -1,0 +1,802 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST Team Develops Highest-Resolution Single-Photon Superconducting Camera | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2023/10/nist-team-develops-highest-resolution-single-photon-superconducting-camera
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Our Organization
+
+
+Office of the Director
+
+
+Budget & Planning
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS
+
+
+
+NIST Team Develops Highest-Resolution Single-Photon Superconducting Camera
+
+
+Having more pixels could advance everything from biomedical imaging to astronomical observations.
+
+
+October 25, 2023
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+With planned improvements, NIST’s new 400,000 single-wire superconducting camera, the highest resolution camera of its type, will have the capability to capture astronomical images under extremely low-light-level conditions.
+
+
+Credit:
+          
+  Image incorporates elements from pixaby and S. Kelley/NIST.
+
+        
+
+
+
+Researchers at the National Institute of Standards and Technology (NIST) and their colleagues have built a superconducting camera containing 400,000 pixels — 400 times more than any other device of its type.
+Superconducting cameras allow scientists to capture very weak light signals, whether from distant objects in space or parts of the human brain. Having more pixels could open up many new applications in science and biomedical research.
+The NIST camera is made up of grids of ultrathin electrical wires, cooled to near absolute zero, in which current moves with no resistance until a wire is struck by a photon. In these superconducting-nanowire cameras, the energy imparted by even a single photon can be detected because it shuts down the superconductivity at a particular location (pixel) on the grid. Combining all the locations and intensities of all the photons makes up an image.
+The first superconducting cameras capable of detecting single photons were developed more than 20 years ago. Since then, the devices have contained no more than a few thousand pixels — too limited for most applications.
+
+Single-Photon Superconducting Camera
+
+
+
+  Animation depicts the special readout system that made it possible for NIST researchers to build a 400,000 single-wire superconducting camera, the highest resolution camera of its type. With further improvements, the camera will be ideal for such low-light endeavors as imaging faint galaxies or planets that lie beyond the solar system, measuring light in photon-based quantum computers, and biomedical studies that use near-infrared light to peer into human tissue. Credit: S. Kelley/NIST
+Creating a superconducting camera with a much greater number of pixels has posed a serious challenge because it would become all but impossible to connect every single chilled pixel among many thousands to its own readout wire. The challenge stems from the fact that each of the camera’s superconducting components must be cooled to ultralow temperatures to function properly, and individually connecting every pixel among hundreds of thousands to the cooling system would be virtually impossible.
+NIST researchers Adam McCaughan and Bakhrom Oripov and their collaborators at NASA’s Jet Propulsion Laboratory in Pasadena, California, and the University of Colorado Boulder overcame that obstacle by combining the signals from many pixels onto just a few room-temperature readout wires.
+A general property of any superconducting wire is that it allows current to flow freely up to a certain maximum “critical” current. To take advantage of that behavior, the researchers applied a current just below the maximum to the sensors. Under that condition, if even a single photon strikes a pixel, it destroys the superconductivity. The current is no longer able to flow without resistance through the nanowire and is instead shunted to a small resistive heating element connected to each pixel. The shunted current creates an electrical signal that can rapidly be detected.
+Borrowing from existing technology, the NIST team constructed the camera to have intersecting arrays of superconducting nanowires that form multiple rows and columns, like those in a tic-tac-toe game. Each pixel — a tiny region centered on the point where individual vertical and horizontal nanowires cross — is uniquely defined by the row and column in which it lies.
+That arrangement enabled the team to measure the signals coming from an entire row or column of pixels at a time rather than recording data from each individual pixel, drastically reducing the number of readout wires. To do so, the researchers placed a superconducting readout wire parallel to but not touching the rows of pixels, and another wire parallel to but not touching the columns.
+Consider just the superconducting readout wire parallel to the rows. When a photon strikes a pixel, the current shunted into the resistive heating element warms a small part of the readout wire, creating a tiny hotspot. The hotspot, in turn, generates two voltage pulses traveling in opposite directions along the readout wire, which are recorded by detectors at either end. The difference in time it takes for the pulses to arrive at the end detectors reveals the column in which the pixel resides. A second superconducting readout wire that lies parallel to the columns serves a similar function.
+The detectors can discern differences in arrival time of signals as short as 50 trillionths of a second. They can also count up to 100,000 photons a second striking the grid.
+Once the team adopted the new readout architecture, Oripov made rapid progress in increasing the number of pixels. Over a matter of weeks, the number jumped from 20,000 to 400,000 pixels. The readout technology can easily be scaled up for even larger cameras, said McCaughan, and a superconducting single-photon camera with tens or hundreds of millions of pixels could soon be available.
+Over the next year, the team plans to improve the sensitivity of the prototype camera so that it can capture virtually every incoming photon. That will enable the camera to tackle such low-light endeavors as imaging faint galaxies or planets that lie beyond the solar system, measuring light in photon-based quantum computers, and contributing to biomedical studies that use near-infrared light to peer into human tissue.
+The researchers reported their work in the Oct. 26 edition of Nature (https://www.nature.com/articles/s41586-023-06550-2).
+Paper: B.G. Oripov, D.S. Rampini, B. Korzh, J. Allmaras, M.D. Shaw, S.W. Nam and A.N. McCaughan. A superconducting-nanowire single-photon camera with 400,000 pixels. Nature. Oct. 26, 2023. https://doi.org/10.1038/s41586-023-06550-2
+
+
+
+
+
+Electronics, Optoelectronics, Sensors, Superconducting electronics, Health, Medical imaging, Information technology, Networking, Nanotechnology, Nanoelectronics, Nanofabrication / manufacturing, Nanomaterials, Nanophotonics and Nanophysics
+
+
+
+
+
+
+
+
+Media Contact
+
+
+
+
+Rich Press
+
+richard.press@nist.gov
+
+
+    (301) 975-0501
+  
+
+
+
+
+
+Technical Contact
+
+
+
+
+Adam McCaughan
+
+adam.mccaughan@nist.gov
+
+
+    (303) 497-5487
+  
+
+
+Bakhrom Oripov
+
+bakhrom.oripov@nist.gov
+
+
+    (303) 497-5358
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsPhysical Measurement LaboratoryApplied Physics Division Faint Photonics Group
+
+
+
+
+
+
+
+
+
+
+
+Related News
+
+
+NIST’s Light-Sensing Camera May Help Detect Extraterrestrial Life, Dark Matter
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released October 25, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

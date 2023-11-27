@@ -1,0 +1,826 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+U.S. Election Assistance Commission (EAC) Technical Guidelines Development Committee (TGDC) | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/events/2023/12/us-election-assistance-commission-eac-technical-guidelines-development
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Our Organization
+
+
+Office of the Director
+
+
+Budget & Planning
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EVENTS
+
+
+U.S. Election Assistance Commission (EAC) Technical Guidelines Development Committee (TGDC)
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read the Code of Conduct for NIST Conferences.
+
+
+
+
+
+
+
+
+              December 5, 2023
+                    8:30am - 5:00pm EST
+          
+
+
+
+National Cybersecurity Center of Excellence (NCCoE)
+9700 Great Seneca Highway
+Rockville, MD 20850
+
+
+Register
+
+
+Registration closes on November 20, 2023
+Arrival instructions will be sent to registered attendees on November 29, 2023
+
+
+Registration Contact
+
+
+
+Pauline Truong
+
+pauline.truong@nist.gov
+
+
+    (301) 975-3258
+  
+
+
+
+
+
+Technical Contact
+
+
+
+Barbara Guttman
+
+barbara.guttman@nist.gov
+
+
+    (301) 975-4207
+  
+
+
+
+
+
+
+
+
+​​​​​​The U.S. Election Assistance Commission (EAC) Technical Guidelines Development Committee (TGDC) will hold its annual meeting on December 5, 2023, at the National Cybersecurity Center of Excellence in Rockville, Maryland. This meeting will be held in person and live streamed. 
+Registration is required to attend in person, and attendees must be registered no later than November 20, 2023. 
+background
+The TGDC is composed of 14 members appointed jointly by EAC and the director of NIST. Members will discuss program updates for EAC Testing and Certification and the National Institute of Standards and Technology (NIST) Voting Program. The meeting will also include the status of the Voluntary Electronic Poll Book Pilot Program, the annual review of the Voluntary Voting System Guidelines (VVSG), lab testing strategies, and more. 
+
+
+
+
+
+
+
+    Agenda
+  
+
+
+VIEW/DOWNLOAD (PDF)
+
+
+
+
+
+
+
+Information technology and Standards
+
+
+
+
+
+
+
+
+
+Read the Code of Conduct for NIST Conferences.
+
+
+
+
+
+
+
+
+              December 5, 2023
+                    8:30am - 5:00pm EST
+          
+
+
+
+National Cybersecurity Center of Excellence (NCCoE)
+9700 Great Seneca Highway
+Rockville, MD 20850
+
+
+Register
+
+
+Registration closes on November 20, 2023
+Arrival instructions will be sent to registered attendees on November 29, 2023
+
+
+Registration Contact
+
+
+
+Pauline Truong
+
+pauline.truong@nist.gov
+
+
+    (301) 975-3258
+  
+
+
+
+
+
+Technical Contact
+
+
+
+Barbara Guttman
+
+barbara.guttman@nist.gov
+
+
+    (301) 975-4207
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsInformation Technology Laboratory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Created November 13, 2023, Updated November 14, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

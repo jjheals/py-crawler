@@ -1,0 +1,762 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST’s Quantum Experts Present Ways to Improve Washington DC Quantum Network | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2023/09/nists-quantum-experts-present-ways-improve-washington-dc-quantum-network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Our Organization
+
+
+Office of the Director
+
+
+Budget & Planning
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UPDATES
+
+
+
+NIST’s Quantum Experts Present Ways to Improve Washington DC Quantum Network
+
+
+September 01, 2023
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  CTL
+
+        
+
+
+NIST’s Abdella Battou and Thomas Gerrits presented recommendations to the Defense Advanced Research Project Agency (DARPA) for improving the Washington Metropolitan Quantum Network, or DC-QNet. The U.S. Government created DC-QNet to serve as a testbed for demonstrating secure communications. DC-Net consists of six sites which are operated by the Army Research Laboratory (ARL), Naval Research Laboratory (NRL), U.S. Naval Observatory (USNO), National Institute of Standards and Technology (NIST), Laboratory for Telecommunication Sciences (LTS), and National Aeronautics and Space Administration (NASA).
+The recommendations were developed by a team of representatives from the Army Research Laboratory, Laboratory for Telecommunication Sciences, Naval Research Laboratory, National Aeronautics and Space Administration, NIST, and the University of Pennsylvania.
+Battou and Gerrits’ team addressed the following regarding DC-QNet:
+Improving Connectivity: DC-QNet’s six sites are connected by fiber pairs. Battou and Gerrits recommended increasing the number of fiber pairs between sites and upgrading optical switching.
+Enabling Time synchronization: Presently, DC-QNet needs a permanent baseline time synchronization capability. Experiments have shown commercial technology to be adequate. Battou and Gerrits recommended use of commercial time synchronization equipment achieving sub-nanosecond precision until a better solution emerges.
+Improving management of experiments on DC-QNet: This management is done using “Multiverse” software – a software suite developed by NIST, which enables testing and routing of quantum entanglement in realistic conditions on DC-QNet. Battou and Gerrits recommended improving the functionality and security of Multiverse.
+Increasing Wavelength Flexibility: DC-QNet connectivity limitations are seen when running multiple experiments concurrently. Battou and Gerrits recommended upgrading to wavelength switching to allow for simultaneous transmission and routing of quantum bits through to many users using the same long-haul fibers.
+Adding Fiber Characterization Capabilities: Fiber-link characterization is paramount for the successful transmission of quantum information in metropolitan-scale fiber networks. Currently, DC-QNet cannot automatically perform several of these needed characterizations. While research is on the way to investigate many different options on fiber characterization, based on quantum signals, Battou and Gerrits recommended using a commercially available solution to fully automate fiber characterization with classical signals.
+
+
+
+
+
+
+Advanced communications, Quantum communications, Wireless (RF), Information technology, Cyber-physical systems, Internet of Things (IoT) and Networking
+
+
+
+
+
+
+
+
+Technical Contact
+
+
+
+
+Abdella Battou
+
+abdella.battou@nist.gov
+
+
+    (301) 975-5247
+  
+
+
+Thomas Gerrits
+
+thomas.gerrits@nist.gov
+
+
+    (301) 975-6712
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsCommunications Technology LaboratorySmart Connected Systems DivisionTransformational Networks and Services GroupInformation Technology LaboratoryApplied and Computational Mathematics DivisionComputing and Communications Theory Group
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released September 1, 2023, Updated October 11, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

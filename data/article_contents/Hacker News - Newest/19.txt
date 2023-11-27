@@ -1,0 +1,23 @@
+
+
+Ask HN: What photo sharing solution should we use for our destination wedding? | Hacker News
+
+Hacker News
+new | past | comments | ask | show | jobs | submit 
+login
+
+
+
+
+ Ask HN: What photo sharing solution should we use for our destination wedding?
+1 point by pigcat 10 minutes ago  | hide | past | favorite | discuss 
+
+I am getting married next week on a beach (yay!)I'd like to collect everyone's photos into a high-res shared album.100 friends/family are joining and we are all staying at a resort for the week. They will be taking lots of great photos during the week!We will have a WhatsApp group chat. In my experience folks tend to send their photos there, but the image quality is very poor once it's uploaded to WhatsApp.My two requirements:1. Should be very low friction for people to upload. No downloading another app.2. Images/videos should remain in original/high qualityI am willing to pay for a good solution.Does anyone have any ideas?My ideal solution would be a bot that you could add to a WhatsApp group chat. Images uploaded to the WhatsApp group chat also get automatically uploaded in their original quality to a shared google album. I don't think this is possible. 
+ 
+
+
+
+Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact
+Search:  
+
+

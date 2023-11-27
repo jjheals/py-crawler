@@ -1,0 +1,759 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST Leader Gives Overview of Automated Vehicle R&D to South Korean Representatives | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2023/09/nist-leader-gives-overview-automated-vehicle-rd-south-korean
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Our Organization
+
+
+Office of the Director
+
+
+Budget & Planning
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UPDATES
+
+
+
+NIST Leader Gives Overview of Automated Vehicle R&D to South Korean Representatives
+
+
+September 01, 2023
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  CTL
+
+        
+
+
+In August 2023, representatives from NIST, U.S. organizations, and Korean organizations, including the Korea Automotive Technology Institute (KATECH) and the Korean Standards Organization (KSA), met in the South Korea-U.S. Standards Forum to exchange information and explore possible areas of collaboration on automated vehicles (AV). The hybrid meeting was held in person in Seoul, Korea on August 10, 2023 with additional remote participation (August 9, 2023 in the U.S.). At the meeting, NIST’s Jayne Morrow, Senior Advisor for Standards Policy, provided a keynote address on the status of the U.S. National Standards Strategy, and NIST’s David Wollman, Deputy Division Chief of the Smart Connected Systems Division, presented NIST’s research on AVs.
+Wollman covered the foundational work for NIST’s involvement with automated vehicles, including research on AV communications, cybersecurity, vehicle teleoperation, and other related areas. NIST’s early work to engage stakeholders included an AV workshop focused on identifying and developing safety measurement methodologies for AVs. This effort led to NIST launching an Automated Driving Systems Technical Working Group which pursues ways to assess AV performance, including through identification of an Operating Envelope Specification to support AV measurements and testing. 
+Wollman also presented an overview of NIST’s AV program, including the following projects:
+Automotive Sensor Perception: Developing measurement capability to characterize automotive sensors.
+Artificial Intelligence (AI): Developing simulation capability to enable testing of AI algorithms for AVs.
+Cybersecurity: Developing an automotive cybersecurity community of interest and capability for measuring adversarial machine learning and defensive mitigations in AVs.
+Communication Technologies: Developing co-simulation capability to assess AV communications performance.
+Systems Interaction Testbed: Developing an integrated testbed to evaluate systems interactions in automated vehicles.
+Additionally, Wollman previewed NIST’s Standards and Performance Metrics for On-Road Automated Vehicles Workshop, that was subsequently held in early September 2023.
+At this same event, Dr. You-Jun Choi of the Korea Automotive Technology Institute (KATECH) presented on its connected automated vehicle research and development trends and standards issues.
+Choi stated that Korea’s Automated Vehicle Innovation R&D Project seeks to realize fully automated driving in the next 5+ years, and Korea is pursuing projects in the following strategic areas: 
+New vehicle convergence technology
+New convergence of information and communications technology
+New road traffic convergence technology
+Service creation for AVs
+Establishment of an industrial ecosystem
+Korea’s Automated Mobility Center oversees these projects and integrates the results. Choi noted that Korea has set milestones for national implementation of AVs, including establishing hybrid communications for AVs and commercializing AVs. Choi reinforced the significance of the U.S. National Standards Strategy for Critical Emerging Technology, which seeks to deepen standards cooperation with allies and partners to support a robust standards governance process. Choi provided an overview of Korea’s extensive research collaborations, including with SAE and NIST’s Smart Connected Systems Division. Additionally, Choi addressed the challenges facing AV development that Korea seeks to overcome, such as vehicle-to-everything (V2X) communications and cybersecurity.
+
+
+
+
+
+Advanced communications, Wireless (RF), Information technology, Cyber-physical systems, Smart cities, Internet of Things (IoT), Networking, Manufacturing, Standards, Documentary standards, Transportation and Automotive
+
+
+
+
+
+
+
+
+Technical Contact
+
+
+
+
+David A. Wollman
+
+david.wollman@nist.gov
+
+
+    (301) 975-2433
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsCommunications Technology LaboratorySmart Connected Systems DivisionIoT Devices and Infrastructures GroupTransformational Networks and Services Group
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released September 1, 2023, Updated October 11, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

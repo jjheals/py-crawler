@@ -1,0 +1,781 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DHS Unveils New Shields Ready Campaign to Promote Critical Infrastructure Security and Resilience | CISA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+ 
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+ A .gov website belongs to an official government organization in the United States.
+              
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+ A lock (LockA locked padlock) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cybersecurity & Infrastructure Security Agency
+ America's Cyber Defense Agency
+
+
+
+Search
+
+
+
+ 
+
+
+Menu
+
+
+
+
+
+
+Close
+
+
+ 
+
+
+
+
+Topics
+
+
+
+Topics
+
+
+
+
+
+Cybersecurity Best Practices
+
+
+
+
+
+
+Cyber Threats and Advisories
+
+
+
+
+
+
+Critical Infrastructure Security and Resilience
+
+
+
+
+
+
+Election Security
+
+
+
+
+
+
+Emergency Communications
+
+
+
+
+
+
+Industrial Control Systems
+
+
+
+
+
+
+Information and Communications Technology Supply Chain Security
+
+
+
+
+
+
+Partnerships and Collaboration
+
+
+
+
+
+
+Physical Security
+
+
+
+
+
+
+Risk Management
+
+
+
+
+
+
+        How can we help?
+       
+GovernmentEducational InstitutionsIndustryState, Local, Tribal, and TerritorialIndividuals and FamiliesSmall and Medium BusinessesFind Help LocallyFaith-Based CommunityExecutives
+
+
+
+
+
+Spotlight
+
+
+
+
+Resources & Tools
+
+
+
+Resources & Tools
+
+
+
+
+
+All Resources & Tools
+
+
+
+
+
+
+Services
+
+
+
+
+
+
+Programs
+
+
+
+
+
+
+Resources
+
+
+
+
+
+
+Training
+
+
+
+
+
+
+Groups
+
+
+
+
+
+
+
+
+News & Events
+
+
+
+News & Events
+
+
+
+
+
+News
+
+
+
+
+
+
+Events
+
+
+
+
+
+
+Cybersecurity Alerts & Advisories
+
+
+
+
+
+
+Directives
+
+
+
+
+
+
+Request a CISA Speaker
+
+
+
+
+
+
+Congressional Testimony
+
+
+
+
+
+
+
+
+Careers
+
+
+
+Careers
+
+
+
+
+
+Benefits & Perks
+
+
+
+
+
+
+HireVue Applicant Reasonable Accommodations Process
+
+
+
+
+
+
+Hiring
+
+
+
+
+
+
+Resume & Application Tips
+
+
+
+
+
+
+Students & Recent Graduates
+
+
+
+
+
+
+Veteran and Military Spouses
+
+
+
+
+
+
+Work @ CISA
+
+
+
+
+
+
+
+
+About
+
+
+
+About
+
+
+
+
+
+Culture
+
+
+
+
+
+
+Divisions & Offices
+
+
+
+
+
+
+Regions
+
+
+
+
+
+
+Leadership
+
+
+
+
+
+
+Doing Business with CISA
+
+
+
+
+
+
+Site Links
+
+
+
+
+
+
+Reporting Employee and Contractor Misconduct
+
+
+
+
+
+
+CISA GitHub
+
+
+
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+Report a Cyber Issue
+
+
+
+
+
+America's Cyber Defense Agency
+
+
+
+
+
+
+Breadcrumb
+
+
+Home
+
+
+News & Events
+
+
+News
+
+
+
+
+
+
+
+Share:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Press Release
+
+DHS Unveils New Shields Ready Campaign to Promote Critical Infrastructure Security and Resilience
+
+
+
+ReleasedNovember 07, 2023
+
+
+
+ Related topics: 
+
+Critical Infrastructure Security and Resilience 
+
+
+
+
+
+
+
+
+
+
+
+
+WASHINGTON – Today, the Department of Homeland Security (DHS), the Cybersecurity and Infrastructure Security Agency (CISA), and the Federal Emergency Management Agency (FEMA) launched the new “Shields Ready” campaign to encourage the critical infrastructure community to focus on strengthening resilience. Resilience is the ability to prepare for, adapt to, withstand, and rapidly recover from disruptions caused by changing conditions. The new campaign was unveiled during a joint press conference at the Port of Long Beach alongside speakers from the Long Beach, California community and members of the U.S. Coast Guard.   Shields Ready complements CISA’s successful “Shields Up” campaign, which encourages critical infrastructure stakeholders to take specific, time-sensitive actions that reduce risk in response to specific threat intelligence during cyberattacks, physical security threats, or natural disasters in response to specific threat intelligence. Shields Ready focuses more broadly and strategically on how to prepare critical infrastructure for a potential disruption and how to build more resilience into systems, facilities, and processes by taking action before a crisis or incident even occurs. Shields Ready aligns with and complements FEMA’s Ready campaign. Each campaign webpage will feature and link to the other for easy reference and use. “In the constantly evolving threat environment that our nation faces today, our Department must remain ready and agile to prepare for and respond to threats against critical infrastructure,” saidSecretary of Homeland Security Alejandro N. Mayorkas. “The Shields Ready campaign, spearheaded by CISA and supported by FEMA, will ensure our nation’s critical infrastructure is better equipped and more resilient against all threats and hazards, ranging from cyberattacks to natural disasters. By working with our partners and providing them with the tools they need for more effective risk management and incident response, DHS is building on its critical safety and security mission and meeting the challenges of today and tomorrow.”“Our nations critical infrastructure entities—from schools to hospitals to water facilities—must have the tools and resources to respond to and recover from disruption. As the National Coordinator for critical infrastructure security, CISA is launching the Shields Ready campaign during Critical Infrastructure Security and Resilience Month to improve the resilience of infrastructure Americans rely on every hour of every day,” said CISA Director Jen Easterly. “By taking steps today to prepare for incidents, critical infrastructure, communities and individuals can be better prepared to recover from the impact of the threats of tomorrow, and into the future.” “When our infrastructure partners in the public and private sector are prepared, their communities are able to respond better and recover faster after disasters,” said FEMA Administrator Criswell. “We are excited to partner with Director Easterly and our colleagues at CISA on their new Shields Ready campaign. In coordination with FEMA’s own Ready campaign, this new approach will help us encourage critical infrastructure stakeholders to practice preparedness and build a more resilient nation by creating plans to protect people and communities alike against hazardous events.”This focused approach highlights how critical infrastructure entities and other organizations can Resolve to be Resilient by integrating certain practices that will make themselves secure, resilient, and able to bounce back quickly and build back stronger from an incident, entities should: Know Your Infrastructure and Dependencies. Organizations should identify their most critical systems and assets for their operations and understand their potential dependencies on other infrastructure systems that enable the continuity of their own operations.Assess Your Risks. Consider the full range of threats and hazards that could disrupt your organization’s infrastructure operations and evaluate specific vulnerabilities and consequences the threats and hazards could pose.Make Actionable Plans. Organizations should develop both a strategic risk management plan to reduce the risks and vulnerabilities identified as well as actionable incident response and recovery plans to help withstand disruptions and rapidly restore operations within minimal downtime.Measure Progress to Continuously Improve. Exercise incident response and recovery plans under realistic conditions and periodically evaluate and update strategic plans. An organization’s ability to prepare for and adapt to changing risk conditions starts with fostering a culture of continuous improvement, based on lessons learned from exercises and real-world incidents.For more information, please visit: CISA.gov/ShieldsReady. 
+
+
+
+
+
+
+
+
+
+Related Articles
+
+
+
+
+
+
+Nov 26, 2023
+
+Press Release
+
+
+
+DHS CISA and UK NCSC Release Joint Guidelines for Secure AI System Development
+ 
+
+
+
+
+
+
+
+Nov 14, 2023
+
+Press Release
+
+
+
+DHS Cybersecurity and Infrastructure Security Agency Releases Roadmap for Artificial Intelligence 
+ 
+
+
+
+
+
+
+
+Nov 09, 2023
+
+Press Release
+
+
+
+CISA Signs Memorandum of Understanding with the Republic of Korea to Share Cyber Threat Information and Cybersecurity Best Practices 
+ 
+
+
+
+
+
+
+
+Nov 07, 2023
+
+Press Release
+
+
+
+On Election Day, CISA and Partners Coordinate on Security Operations
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+Topics
+
+
+Spotlight
+
+
+Resources & Tools
+
+
+News & Events
+
+
+Careers
+
+
+About
+
+
+
+
+
+
+
+
+
+Cybersecurity & Infrastructure Security Agency
+ 
+
+
+
+Facebook
+
+
+Twitter
+
+
+LinkedIn
+
+
+YouTube
+
+
+Instagram
+
+
+RSS
+
+
+
+CISA Central
+888-282-0870
+Central@cisa.dhs.gov
+
+
+
+
+
+
+
+
+
+
+DHS Seal
+
+CISA.gov
+An official website of the U.S. Department of Homeland Security
+
+
+
+
+About CISA
+
+
+Accessibility
+
+
+Budget and Performance
+
+
+DHS.gov
+
+
+FOIA Requests
+
+
+No FEAR Act
+
+
+Office of Inspector General
+
+
+Privacy Policy
+
+
+Subscribe
+
+
+The White House
+
+
+USA.gov
+
+
+Website Feedback
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

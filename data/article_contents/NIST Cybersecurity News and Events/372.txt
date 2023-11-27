@@ -1,0 +1,752 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST’s National Cybersecurity Center of Excellence Renews Partnerships With State, County | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2023/03/nists-national-cybersecurity-center-excellence-renews-partnerships-state
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Our Organization
+
+
+Office of the Director
+
+
+Budget & Planning
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS
+
+
+
+NIST’s National Cybersecurity Center of Excellence Renews Partnerships With State, County
+
+
+Also launched: the NIST Small Business Cybersecurity Community of Interest.
+
+
+March 07, 2023
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Left to right: Deputy Secretary of Commerce Don Graves, Under Secretary of Commerce for Standards and Technology and NIST Director Laurie E. Locascio, Maryland Secretary of Commerce Kevin Anderson, and Montgomery County Executive Marc Elrich sign a partnership agreement at the NIST National Cybersecurity Center of Excellence.
+
+
+Credit:
+          
+  Rich Press/NIST
+
+        
+ROCKVILLE, Md. — The  Department of Commerce’s National Institute of Standards and Technology (NIST), the state of Maryland and Montgomery County, Maryland, have renewed their partnership in support of the National Cybersecurity Center of Excellence (NCCoE), a collaborative hub where industry, government and academic experts work together to solve pressing cybersecurity challenges.  
+Leaders from the three organizations — Under Secretary of Commerce for Standards and Technology and NIST Director Laurie E. Locascio, Maryland Secretary of Commerce Kevin Anderson and Montgomery County Executive Marc Elrich — signed a five-year agreement extending their partnership yesterday at the NCCoE in Rockville, Maryland. 
+The NCCoE, which was established in 2012, helps businesses secure their information technology systems with practical solutions based on industry standards, best practices and commercially available technology. The center also collaborates with researchers and technology vendors to provide guidance on industry-specific challenges such as securing health care data, protecting financial transactions and safeguarding critical infrastructure.  
+At the event, U.S. Deputy Secretary of Commerce Don Graves called the NCCoE “an ideal place and way for federal, state, and local governments to join forces and tackle tough cybersecurity issues.” 
+Graves also announced the launch of the NIST Small Business Cybersecurity Community of Interest (COI). “This initiative will help to make sure that NIST’s guidance is both meaningful and practical for smaller companies and other organizations to put into use,” he said. “Beyond benefiting the NCCoE and its participants, this new community of interest promises to improve the return on all of NIST’s investments in cybersecurity research, standards, guidelines and practices.” 
+
+Interested in joining NIST’s new Small Business Cybersecurity Community of Interest? Learn more here.
+
+Also at the event, NIST Director Locascio thanked the state of Maryland and Montgomery County, Maryland, for their commitment to the NCCoE and singled out the companies that are part of the center’s National Cybersecurity Excellence Partnership. They have “provided NCCoE with tremendous resources and infused creativity into the cybersecurity solutions now available and in use by many companies, government agencies and other organizations,” she said. 
+One goal of the renewed partnership agreement is to better address the needs of companies and institutions in the state and county, with a particular focus on small businesses. With that goal in mind, the agreement signed yesterday calls on the state and county governments to expand their efforts to facilitate the NCCoE’s relationships with Maryland-based companies. In addition, the new community of interest announced yesterday offers smaller companies multiple ways to collaborate with and take greater advantage of NCCoE’s capabilities and solutions. 
+The agreement also aims to strengthen the NCCoE’s connections with local public schools and academic institutions throughout the state. These relationships are key to the NCCoE’s efforts to support the development of a skilled cybersecurity workforce, which it does in part through student internships. 
+Organizations interested in working with the the NCCoE, the State of Maryland and Montgomery County on cybersecurity issues should reach out with an email to nccoe [at] nist.gov (nccoe[at]nist[dot]gov).  
+
+
+
+
+
+Information technology, Cybersecurity and Privacy
+
+
+
+
+
+
+
+
+Media Contact
+
+
+
+
+Rich Press
+
+richard.press@nist.gov
+
+
+    (301) 975-0501
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsInformation Technology LaboratoryApplied Cybersecurity DivisionNational Cybersecurity Center of Excellence
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released March 7, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

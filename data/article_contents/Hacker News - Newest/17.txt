@@ -1,0 +1,497 @@
+poll_next - Without boats, dreams dry upWithout boats, dreams dry upPosts
+Tagspoll_nextNov 27, 2023In my previous post, I said that the single best thing the Rust project could do for
+users is stabilize AsyncIterator. I specifically meant the interface that already exists in
+the standard library, which uses a method called poll_next. Ideally this would have happened years
+ago, but the second best time would be tomorrow.The main thing holding up the AsyncIterator stabilization is a commitment by some influential
+contributors of the project to pursue an alternative design. This design, which I’ll call the
+“async next” design, proposes to use an async method for the interface instead of the poll method of
+the “poll next” design implemented today. In my opinion, continuing to pursue this design is a
+mistake. I’ve written about this before, but I don’t have the sense my post was
+fully received by the Rust project.Yosh Wuyts, a leading contributor to the async working group, has written his own post about
+why the async next design is preferable to poll next. A lot of this is structured as an attempted
+refutation of points made by me and others about problems with the async next design. I do not find
+the argument in this post compelling, and my position about what the project should do is unchanged.
+I’ve written this to attempt to express again, in more detail and more definitively, why I believe
+the project should accept the poll next design and stabilize AsyncIterator now.Are two state machines better than one?The fundamental difference between the poll next design and the async next design is a difference of
+the representation of the state machine for asynchronous iteration. In the poll next design, there
+is a single state machine: the asynchronous iterator. In the async next design, there are two: the
+future method for each iteration which references the longer-lived iterator.Let’s look at the two definitions from a “type system” perspective. I’m going to desugar the async
+trait method into its ultimate form, so that the difference in the type signature of these traits
+can be more clearly perceived. I’ll also desugar a for await loop in both designs, to help
+understand how each design would operate:// POLL NEXT DESIGN
+
+trait AsyncIterator {
+    type Item;
+
+    fn poll_next(self: Pin<&mut Self>, cx: &mut Context<'_>)
+        -> Poll<Option<Self::Item>>;
+}
+
+// ASYNC NEXT DESIGN
+
+trait AsyncIterator {
+    type Item;
+    type Future<'a>: Future<Output = Option<Self::Item>> where Self: 'a;
+    fn next<'a>(&'a mut self) -> Self::Future<'a>;
+}
+// POLL NEXT DESIGN
+
+let mut iter = pin!(iter);
+loop {
+    let mut next = match iter.poll_next(cx) {
+        Poll::Ready(Some(item)) = item,
+        Poll::Ready(None) => break,
+        Poll::Pending => yield Poll::Pending,
+    };
+}
+
+// ASYNC NEXT DESIGN
+
+loop {
+    let mut future = pin!(iter.next());
+    let mut next = match future.poll(cx) {
+        Poll::Ready(Some(item)) = item,
+        Poll::Ready(None) => break,
+        Poll::Pending => yield Poll::Pending,
+    }
+}
+The salient differences between these two designs are:In poll_next, there is a single state machine (the AsyncIterator) which is pinned and alive
+for the entire iteration of the loop.In async next, there are two state machines (the Future returned by next, and the underlying
+Iterator). The Future is pinned and alive for only a single iteration of the loop, whereas the
+Iterator is unpinned and alive for the entire loop.I often find that describing things like this in text is not very clear, so I’ve created a visual
+diagram to drive the point home. In this diagram, the different blocks represent stateful objects,
+and the arrows are references to them.                ╔═══════════════╗                   ╔═══════════════╗
+                ║               ║░░                 ║               ║░░
+                ║   POLL_NEXT   ║░░                 ║  ASYNC NEXT   ║░░
+                ║               ║░░                 ║               ║░░
+                ╚═══════════════╝░░                 ╚═══════════════╝░░
+                  ░░░░░░│░░░░░░░░░░                   ░░░░░░│░░░░░░░░░░
+                        │                                   │
+                        │                                  pin
+─────────────────────── │ ───────────────────────────────── │ ────────────
+                        │                                   │
+                        │                                   ▼
+                        │                           ╔═══════════════╗
+  ALIVE FOR             │                           ║               ║░░
+  A SINGLE             pin                          ║     FUTURE    ║░░
+  ITERATION             │                           ║               ║░░
+                        │                           ╚═══════════════╝░░
+                        │                             ░░░░░░│░░░░░░░░░░
+                        │                                   │
+                        │                                  mut
+─────────────────────── │ ───────────────────────────────── │ ────────────
+                        │                                   │
+                        ▼                                   ▼
+                ╔═══════════════╗                   ╔═══════════════╗
+  ALIVE FOR     ║               ║░░                 ║               ║░░
+  THE ENTIRE    ║ ASYNCITERATOR ║░░                 ║   ITERATOR    ║░░
+  LOOP          ║               ║░░                 ║               ║░░
+                ╚═══════════════╝░░                 ╚═══════════════╝░░
+                  ░░░░░░░░░░░░░░░░░                   ░░░░░░░░░░░░░░░░░
+These differences in the representation of asynchronous iterations have far reaching implications
+regarding the affordances that each interface provides.First, I want to talk about the performance implications of these two interfaces. Yosh spends some
+time in his blog post into showing that a simple example (an async iterator that immediately returns
+once) is optimized into the same code by LLVM. In the async version of this example, the Future
+state machine has no state, whereas the Iterator has the same state as the AsyncIterator in the
+poll version: a single option.It’s no shock that LVM can eliminate unnecessary indirections, especially in simple cases like this.
+But it certainly can’t be assumed that LLVM will always eliminate this indirection: it depends on
+a lot of optimization heuristics that can’t be guaranteed to trigger when both state machines become
+a lot more complex. Asserting that the Rust project would treat a failure to inline as a bug
+doesn’t make this a zero cost abstraction. In the async next design, you are introducing an
+indirection by having a second, short-lived state machine that references the original longer-lived
+state machine, and eliminating that indirection isn’t guaranteed.This is especially problematic for dynamic dispatch, which eliminates the possibility of inlining,
+because next or poll_next become virtual calls. Yosh does not address this at all in his post
+when he talks about object safety. He says:Needing to replace Box::new with Boxed::new is not a major difference.Here, he is only talking about affordances without talking about representation. What the Boxed
+adapter does is make the async method allocate its state machine in the heap, that’s the reason the
+API is different! With async next in every iteration of the asynchronous loop, if your iterator is a
+dynamically dispatched object, you’re going to need to dynamically allocate the Future state
+machine.For for await loops, it would be theoretically possible (though how the compiler would determine
+this I am not certain) to use an alternative dynamic allocation method, such as alloca, or
+re-using the same heap allocation. But now we’re piling on additional hypothetical compiler features
+(beyond even the basic notion of dynamically dispatched trait objects) to avoid repeatedly
+allocating in a loop. With the poll next design, dynamic dispatch works for free, immediately,
+because there is no additional state machine to be dynamically allocated as part of the method call.Having to accomodate two different state machines to perform asynchronous iteration will never be a
+more optimal representation, even if LLVM can eliminate the indirection in some static cases. Rust’s
+future model was specifically designed to avoid such indirections and dynamic allocations at great
+cost. Asynchronous iteration, as a fundamental abstraction for constructing asynchronous state
+machines, should similarly avoid unnecessary indirections. Doing otherwise would not be a zero cost
+abstraction and not in line with Rust’s prior commitments.PinningSeparate from the fact that there are two state machines, the other issue is that only the
+shorter-lived state machine would be pinned in place in the async next design. This means that
+only the shorter-lived state machine can take advantage of immoveability during a single iteration
+of loop; the longer-lived state machine would need to assume it could be moved between iterations.This is not a theoretical problem. Already, concurrency primitives in tokio, smol and async-std all
+use an intrusive linked list to implement their synchronization primitives: whenever an event
+occurs, the other handles that have been waiting for that event are notified using a queue which is
+implemented as an intrusive linked list, with the nodes stored in the state machines of those
+concurrency primitives. This requires that those state machines be pinned in place.By not supporting pinned long-lived state machines, this means that only the single iteration state
+machine can be held in the queue. For example, consider any sort of multi-consumer channel. Every
+receiver in that channel will be in the notification queue, waiting to be awoken when a message is
+sent to the channel. If only the shorter-lived state machine can be in the channel, when that
+shorter-lived future is dropped (e.g., because it is being raced with some other future), it will
+have to lose its place in the notification queue. This could result in certain receivers being
+starved as they lose their place (of messages, in anycast channels, or of CPU time in all cases).Because tokio doesn’t directly depend on the unstable stream API, tokio’s broadcast
+channel only provides a recv method, which has these semantics (i.e. when the
+Recv future is dropped, it loses its place in the queue). On the other hand, smol’s anycast
+channel provides both a recv method with this behavior and also implements
+Stream, which keeps its place in line.These differences matter. Rust’s core abstractions should be defined so that they can support all
+of these use cases. The only way with async next to pin the long-lived state machine in place is to
+implement AsyncIterator for a pinned reference to your state machine, instead of for your state
+machine. Here’s what that diagram would look like in that case:                ╔═══════════════╗                   ╔═══════════════╗
+                ║               ║░░                 ║               ║░░
+                ║  POLL_NEXT    ║░░                 ║  ASYNC NEXT   ║░░
+                ║               ║░░                 ║               ║░░
+                ╚═══════════════╝░░                 ╚═══════════════╝░░
+                  ░░░░░░│░░░░░░░░░░                   ░░░░░░│░░░░░░░░░░
+                        │                                   │
+                        │                                  pin
+─────────────────────── │ ───────────────────────────────── │ ────────────
+                        │                                   │
+                        │                                   ▼
+                        │                           ╔═══════════════╗
+  ALIVE FOR             │                           ║               ║░░
+  A SINGLE              │                           ║     FUTURE    ║░░
+  ITERATION             │                           ║               ║░░
+                       pin                          ╚═══════════════╝░░
+                        │                             ░░░░░░│░░░░░░░░░░
+                        │                                   │
+                        │                                  mut
+─────────────────────── │ ───────────────────────────────── │ ────────────
+                        │                                   │
+                        │                                   ▼
+                        │                           ╔═══════════════╗
+                        │                           ║               ║░░
+                        │                           ║      PIN      ║░░
+                        │                           ║               ║░░
+                        ▼                           ╚═══════════════╝░░
+                ╔═══════════════╗                     ░░░░░░│░░░░░░░░░░
+  ALIVE FOR     ║               ║░░                         │
+  THE ENTIRE    ║ ASYNCITERATOR ║░░                        pin
+  LOOP          ║               ║░░                         │
+                ╚═══════════════╝░░                         │
+                  ░░░░░░░░░░░░░░░░░                         ▼
+                                                    ╔═══════════════╗
+                                                    ║               ║░░
+                                                    ║   ITERATOR    ║░░
+                                                    ║               ║░░
+                                                    ╚═══════════════╝░░
+                                                      ░░░░░░░░░░░░░░░░░
+Yosh proposes that instead there will be a “pinned iterator” and “pinned async iterator” trait,
+which are similar to the normal traits except that they take self by a pinned reference instead of a
+mutable reference. This is a lead-in to a longer term vision of introducing a “pinned effect.”I think a better way to think about this than an “effect” (which collapses every axis of abstraction
+into a single, vaguely elaborated concept) is basically “mutability polymorphism,” the idea that we
+should be able to abstract over the different borrowing & ownership variants (shared references,
+mutable references, pinned references, owning references, etc). This idea has been tossed around
+occassionally, but the design has never really gotten anywhere. I have a lot of doubts about the
+viability and prudence of pursuing this idea, like I do about adding any new axis of abstraction to
+Rust.There are other ways to solve the problem of immoveable iterators. One would be to change the
+Iterator definition across an edition boundary. Another would be to add a
+Move trait and get rid of Pin entirely. Each of these would leave the two designs in the same
+space: in the first, the underlying Iterator trait would be required to be pinned, making both
+designs feature pinning; in the second, Pin would disappear and this would no longer be such a
+difference.But for AsyncIterator, the problem can be avoided by using the poll next design. Any change to
+make iterators support immoveability will necessarily be slow and disruptive. Instead, I propose the
+project enable AsyncIterator with support for immoveability now, by using poll next as the API.CancellationThe introduction of a second state machine doesn’t just have performance implications, it also has
+logical implications that arise from its interaction with cancellation. To analyze this issue will
+require a somewhat digressive discussion of the concept of “cancellation safety.”The issue is that every time you drop the next future, that future is cancelled, and the next time
+you start polling next, a new future has to be prepared from the state of the underlying iterator.
+The problem I described above of synchronization primitives “losing their spot in the queue” is
+actually a special case of this scenario. If you cancel the next future in the poll_next case,
+nothing happens: you’ll be in the same state the next time you call next.A common problem with async Rust is that users will cancel futures without realizing that that’s
+what’s occurring or what the implications of cancelling a future is. In many other languages,
+futures continue to run after users stop waiting for them; Rust’s “drop as cancellation” design
+is more optimized but often confuses users. A concept that has emerged is the concept of
+“cancellation safety:” cancelling a future that is “cancellation safe” will have no visible effect.In his post, Yosh attempts to formalize this notion of “cancellation safety” using the Rust trait
+system. Yosh’s definition of “cancellation safe” as a future which has no local state is correct,
+though his elaboration of this as “has only one await point” doesn’t adequately capture what it
+means to have no local state (he’s aware of this and alludes to locking a Mutex as an example
+which his definition has failed to capture).It’s true that an async function with two await points necessarily has local state, but you also
+need to look at the “low-level” poll-based futures to see whether or not they have local state. In
+the case of Mutex::lock, that local state is its position in the notification queue, the primitive
+I previously discussed in reference to pinning. Ultimately, a future is “cancellation safe” if its
+state consists of nothing but references to other stateful objects. Because of this, cancelling such
+a future and then constructing a new future from the same arguments will produce a state machine in
+the exact same state as the cancelled one, having no visible effect.However, the problem with trying to introduce cancellation safety into the type system is that it is
+not the case that cancelling a future that isn’t “cancellation safe” is always a bug. The concept of
+cancellation safety in tokio is to alert you to the fact that if you cancel certain futures, it is
+meaningful behavior. But this can be the behavior you want! This is very different from something
+like a data race, which is never correct behavior.Yosh actually gives a good example of this when he suggests that “read” is a cancellation safe
+operation. This depends. For a readiness-based reactor like epoll, it is true that read is
+“cancellation safe,” in that subsequent reads will read the data that would have been read. But this
+is emphatically not true for completion-based reactors like io-uring: if you cancel a read that
+you’ve already issued, its possible that that read will complete, but you will not see the result,
+and therefore a subsequent read would lose that data.Is that correct behavior? It depends! If you have nothing to do with the data that would be in the
+next read call, cancelling it is correct behavior. On the other hand, if you want to keep reading
+from that object and don’t want to miss any data, even if you wanted to cancel this particular read
+operation, that behavior would be a bug.Because of the fact that meaningful cancellation can be a desirable behavior, I’m dubious of the
+framing of cancellation in terms of “cancellation safety” in general. But I think there’s actually a
+different problem here which the concept of “cancellation safety” misdirects from: the problem is
+that some APIs cause futures to be cancelled in a way that isn’t obvious to users. These users don’t
+just miss that cancellation is meaningful, they miss that cancellation is happening at all. This
+biggest culprit here is select! in a loop.It’s very common in my experience to see tasks that have a fixed set of internally concurrent
+operations, which are performed repeatedly. Select in a loop is a very nice pattern for this,
+because it lets the task use shared state when responding to events from different sources. For
+example:loop {
+    select! {
+        msg1 = rx1.recv() => { 
+            // handle msg1
+        }
+        msg2 = rx2.recv() => {
+            // handle msg2
+        }
+        _ = async_function() => {
+            // handle async_function finishing
+        }
+    }
+}
+This pattern suffers from a serious problem: in every iteration of the loop, all the futures that
+didn’t complete first will be cancelled and then constructed again on the next iteration. If a
+future had a meaningful cancellation, this behavior is visible. But users often tend to think of
+each select branch as being polled repeatedly in a loop, without really realizing that they are also
+constructing and cancelling futures each iteration as well.The way to avoid cancelling any future in the loop right now is to “hoist” it out of the loop, but
+that is not obvious and requires pinning and fusing the future (so that it can be polled by
+reference and so that polling it after it’s finished doesn’t panic):let mut future = pin!(async_function().fuse());
+loop {
+    select! {
+        msg1 = rx1.recv() => { 
+            // handle msg1
+        }
+        msg2 = rx2.recv() => {
+            // handle msg2
+        }
+        _ = &mut future => {
+            // handle async_function finishing
+        }
+    }
+}
+The async next design presents the same footgun: if next can have a meaningful cancellation -
+which is inherent in having next be an async function - users who cancel a call to next might
+walk into the same trap. Given that the iterator is also a state machine, it seems likely that users
+will be especially unlikely to realize that the next future itself could contain meaningful state,
+and especially likely to accidentally cancel it.Sidebar: merge!In my view, the biggest problem here is that select in a loop is an API which is too easy to misue.
+The solution (which Yosh has also blogged about) is to instead use streams and a merge
+operation here. Merge here is like select, but instead of operating on futures, it operates on
+streams. One could imagine a very similar macro to the widely used select, but which operates on
+streams repeatedly instead of futures once:merge! {
+    msg1 = rx1 => {
+        // handle msg1
+    }
+    msg2 = rx2 => {
+        // handle msg2
+    }
+    _ = once(async_function()) => {
+        // handle async_function finishing
+    }
+}
+By merging streams, instead of repeatedly selecting futures, the whole thing not only becomes
+simpler, but in the case that you want one branch to use a future instead of a stream, you have to
+explicitly convert it to a stream using a constructor that specifies its semantics. For example,
+instead of using once in that code block, if I wanted it to call that function again after it
+finished, I could have used something like repeat_with.There’s actually a table of straightforward concurrency operators for both future and async
+iterator. In the first column, there’s the operators that operate on only a single item. In the
+second column, there are those which are “sum” operators - they yield as soon as one subtask is
+ready. In the third column, there are those which are “product” operators - they yield only once all
+of them are ready. Like this:                   │  SINGLE     │  SUM      │   PRODUCT
+    ───────────────┼─────────────┼───────────┼───────────
+                   │             │           │      
+            FUTURE │  await      │  select!  │   join!
+                   │             │           │      
+     ASYNCITERATOR │  for await  │  merge!   │   zip!
+                   │             │           │      
+Unfortunately, the AsyncIterator-based concurrency combinators are not as explored in the
+ecosystem because the underlying trait has not been stabilized. For that reason, though a pairwise
+merge combinator exists as a method on Stream, a macro-based approach similar to select! is
+not available in the ecosystem as far as I know. This is a great example of how the failure to ship
+in the core language has held back the ecosystem at large.This is all a bit of digression: the merge operator could be implemented with either the poll next
+design or the async next design. However, I’ll note that with the async design, the merge operator
+would need to separately store the next futures, making it more complicated to implement and more
+plausible that someone (perhaps implementing it in a bespoke way locally) would get it wrong.A tradeoff of affordancesUltimately, there’s a trade off here. On the one hand, the poll next design simplifies the
+representation so that there is a single, pinned state machine that lives for the entire iteration.
+This enables a few behaviors that aren’t possible, aren’t easy or aren’t zero cost in the async next
+design. But it does eliminate one big affordance from the AsyncIterator API: you can’t define an
+async iterator with an async next method. Is that affordance worth the negative impact elsewhere?Yosh’s commentary on why this affordance is worth supporting is interesting:I expect pretty much everyone will agree that on a first look the async fn next-based trait
+seems easier to use. Rather than needing to think about what Pin is, or how Poll works, we can
+just write our async functions the way we usually do, and it will just work. Pretty neat!It’s clear that what Yosh sees as the ease enabled by this affordance is to not deal with pinning or
+the task APIs. The advantage is that users can write an async iterator without worrying about those
+arcane APIs from the “low-level” register. But I think there’s more to the story.I agree that being able to define an AsyncIterator without using these APIs is critically
+important to async Rust’s usabiliy. As I’ve written about before, the way that I want Rust to enable
+users to do that is by providing an asynchronous generator syntax. Yosh used “once” as an example of
+how the async next design makes things easier to implement than the poll next design. Here’s how
+once looks with async generators:// As an async generator function
+async gen once<T>(value: T) yields T {
+    yield value;
+}
+
+// As an async generator block
+async gen {
+    yield value;
+}
+But I think there’s actually a deeper difference between async generators and async next that is
+really important to emphasize. Though Yosh centers the difficult APIs that poll_next deals with as
+“the problem” with poll_next, from my perspective the much more challenging aspect is hand-writing
+the state machine. When you deal with more complex examples than once, which have multiple states
+they transition through, this quickly becomes more apparent.I want to draw readers’ attention to the recent curl CVE which resulted from an error in
+implementing an asynchronous state machine. A variable was being stored on the stack in the function
+polling the state machine, instead of in the state machine itself, so it was re-set every time the
+state machine was polled. This is the kind of bug that can occur when writing a state machine by
+hand, and in this case it was devestating. Coroutines like asynchronous functions and generators
+prevent users from making this mistake, because the compiler generates the state machine for you,
+storing any state that is needed to ensure the coroutine is resumed from the same place that it
+yielded.The real problem with implementing an AsyncIterator “by hand” is that you are responsible for
+correctly implementing the state machine, and these kinds of mistakes are easy to make. In the case
+of the async next design, there are two state machines, and one of them is generated by the compiler but
+the other is written by hand. This might seem like it eliminates at least some of the complexity
+(part of the state machine is generated), but it really doesn’t. You still have two places you could
+store variables (in each state machine instead of on the stack vs the state machine), and if you
+need state to persist between iterations, it is your responsibility to realize this and move that
+variable into the hand-written iterator state machine.I actually think this kind of “mixed register” API is particularly dangerous, because users can be
+lulled into a false sense of security by the fact that they can use high-level async/await syntax,
+while still being responsible for figuring out which state needs to be persisted between iterations.
+Instead, users wishing to remain in a “high-level” register should be directed to either
+asynchronous generators (which let them use an imperative coding style) or combinators (which let
+them use a functional coding style). Both of these avoid the pitfalls of hand-written state
+machines.The poll_next interface is there for users who want to use a “low-level” register, because they
+want to precisely control the layout and behavior of their asynchronous iterator. For these users,
+the async next design is strictly worse than the poll next design. They would need to use a combinator like
+poll_fn to get access to the Context; they would need to manage the existence of two different
+state machines; they would need an additional indirection if they need the long-lived state machine
+to be pinned.And finally, as I’ve written in a previous post, with asynchronous generators the poll next design does
+enable users who really want to have an async fn next. All that’s needed to convert an object with
+an asynchronous next method to an async generator is this little snippet of code:// This would convert an async next AsyncIterator to a poll_next AsyncIterator
+async gen {
+    while let Some(item) = iter.next().await {
+        yield item;
+    }
+}
+AsyncIterator’s relation to Future and IteratorThere’s one other angle I want to examine the two designs from, which is more theoretical than
+practical. Yosh makes these remarks:When people say that “async iterator is not the async version of iterator” they are correct. …
+Instead it’s better to ask whether async iterator should be the “async version of iterator” -
+and I certainly believe it should be.Incidentally that has also been the framing of the trait WG-async has been communicating to T-lang
+and T-libs, who have signed off on it. I’m not suggesting that this decision should bind us (I
+don’t like to rules lawyer). What I’m instead trying to show with this is that this has been an
+accepted framing of what the design should achieve for years now, and we’ve already rejected the
+framing that “async iterator” (or “stream”) should be its own special thing. That certainly can be
+changed again, but it is not a novel insight by any stretch.This framing seems to be based on a misunderstanding of a comment of mine from an earlier blog post:I don’t object to the name change [from Stream to AsyncIterator], but I do think it has been
+bundled up with an ideological commitment I do object to - namely the consideration of
+AsyncIterator as “just” the async version of Iterator. We shouldn’t forget that it’s also the
+iterative version of Future.People within the project have made similar remarks about not wanting to “duplicate” traits,
+believing that having both AsyncIterator and Iterator is worse than “just” having Iterator -
+after all, one trait is better than two, no? But my objection has been misunderstood: I’m not saying
+that AsyncIterator is not the async version of iterator (obviously it is!) but that it is both
+that and also the iterative version of future. It is both of these things, because it represents a
+coroutine that is simultaneously asynchronous and iterative.I mean this literally. There is another representation of AsyncIterator that would have just as
+much validity as the async next version, which I would call an “iterative poll” version of the
+interface. This version would take a Future and make its poll method into an iterator, in the same
+way that the async next design takes an Iterator and makes its next method into a future. Let’s
+instead call this interface IteratorFuture:// With generator methods:
+trait IteratorFuture {
+    type Item;
+    gen fn poll(self: Pin<&mut Self>, cx: &mut Context<'_>)
+        yields Poll<Self::Item>;
+}
+
+// Desugared:
+trait IteratorFuture {
+    type Item;
+    type Iter<'a> Iterator<Item = Poll<Self::Item>> where Self: 'a;
+    fn poll<'a>(self: Pin<&'a mut Self>, cx: &'a mut Context<'_>)
+        -> Self::Iter<'a>;
+}
+
+// A for await loop looks like:
+let mut iter_future = pin!(iter_future);
+let mut iter = iter_future.poll();
+loop {
+    let mut next = match iter.poll_next(cx) {
+        Some(Poll::Ready(item)) => item,
+        Some(Poll::Pending) => yield Poll::Pending,
+        None
+    };
+    // loop body using `next`
+}
+In this design, the relationship between Future and Iterator is inverted from the async next design:               ╔═══════════════╗
+               ║               ║░░
+               ║ ITERATOR POLL ║░░
+               ║               ║░░
+               ╚═══════════════╝░░
+                 ░░░░░░│░░░░░░░░░░
+                       │
+                      mut
+────────────────────── │ ────────────────────────
+                       │
+                       ▼
+               ╔═══════════════╗
+               ║               ║░░
+               ║   ITERATOR    ║░░
+               ║               ║░░
+               ╚═══════════════╝░░
+                 ░░░░░░│░░░░░░░░░░
+  ALIVE FOR            │
+  THE ENTIRE          pin
+  LOOP                 │
+                       │
+                       ▼
+               ╔═══════════════╗
+               ║               ║░░
+               ║    FUTURE     ║░░
+               ║               ║░░
+               ╚═══════════════╝░░
+                 ░░░░░░░░░░░░░░░░░
+This design has several advantages over the async next design:Both state machines exist for the entire loop, so there’s no risk of reallocating the inner state
+machine repeatedly in the loop.The longer lived state machine is pinned, so all of the state can be treated as pinned in place.There’s no possibility of a meaningful cancellation for the next future.The affordance it provides match “low-level” interfaces better, which frequently iterate over an
+underlying asynchronous IO or concurrenct object, rather than the reverse.Do I think this design would be the correct approach? Absolutely not! This would be contorting
+the API to provide a strange affordance: writing all asynchronous iterators as generator methods
+on futures. My point instead is that without the specific path dependence of Rust’s history, it
+doesn’t particularly make sense to frame the separation of AsyncIterator from Iterator as
+“splitting a trait in two” any more than it makes sense to frame the separation of AsyncIterator
+from Future as “splitting a trait in two.”In reality, AsyncIterator is the product of Iterator and Future; it draws equally from each
+interface. By having Iterator and Future, Rust has already committed to having multiple traits
+for specific coroutine patterns: iterative and asynchronous operation. To combine these two
+patterns, the solution is a third trait that has similarities with each of them. It would be
+arbitrary and wrong to modify the iterative coroutine to yield up asynchronous coroutines, just as
+it would be arbitrary and wrong to modify the asynchronous coroutine to return an iterative
+coroutine.This becomes clear as well if you examine a table of the types involved in three coroutine traits,
+imaginging them as specializations of a general Coroutine interface. AsyncIterator shares a
+column with each of type with each of Iterator and Future, and in one column the types for each
+are different:                  │   YIELDS            │   RETURNS       │   RESUMES
+    ──────────────┼─────────────────────┼─────────────────┼─────────────────
+                  │                     │                 │      
+           FUTURE │   ()                │   Self::Output  │   &mut Context
+                  │                     │                 │      
+         ITERATOR │   Self::Item        │   ()            │   ()   
+                  │                     │                 │      
+    ASYNCITERATOR │   Poll<Self::Item>  │   ()            │   &mut Context
+                  │                     │                 │      
+ConclusionOften, I find there is a complex trade off between two possible designs, and while I may prefer one
+approach, I can see the merit in the other. This is not one of those cases. I think the case for the
+poll next design is ironclad. It is a simpler representation, it guarantees better runtime
+representation, supports better dynamic dispatch, has a better interaction with pinning, presumes a
+better set of default affordances, is more theoretically correct, and is compatible with users who
+really want to define an iterator with an async next method in the first place. I really am stunned
+that the project continues to consider the alternative design.Setting aside its preferability in the abstract, we also need to consider the real world context of
+Rust as-it-is. Pursuing the poll next design would require implementing and shipping generators to
+provide the high-level register in the imperative style, the recommended way of implementing an
+async iterator. I believe this should be a priority for the project regardless, but the need to
+prioritize generators is an implication of shipping the poll next design.What are the implications of the async next design? One fact I’ve avoided dwelling on is that
+contributors who prefer it to the poll next design don’t just want an AsyncIterator trait with an
+async method, what they want is to define Iterator so that its method can maybe be async. In
+other words, their design implicates an entire new axis of abstraction for Rust: that traits should
+be abstract over whether or not their methods are asynchronous. This concept was previously called
+“keyword generics” and has been rebranded to “effects.” Such proposals have been very controversial
+in the community. I’ll also note that it’s been 16 months since the “Keyword Generics Initiative”
+was launched, and as of yet I have seen no concrete design proposal for how such
+a system would really work, only vague code samples to demonstrate syntax.Beyond the dependence on shipping an “effects system” to achieve the same affordances as the poll
+next design, Yosh requires a piling-on of additional features. For object safety, async methods need
+to be made object safe, and to avoid allocating in the loop, the compiler needs to desugar async
+iterator trait objects in a special way. For pinning, Yosh proposes a new pinned trait really as a
+lead in to a new “effect” that would someday need to be added. When will all of these features ship
+that are needed to reach parity with the API that already exists? How many more years will users be
+forced to wait to get this highly desirable API, on the basis of slowly evolving proposals for more
+and more language features?I’ve written publicly that I have concerns about the idea of “keyword generics” as a sensible way to
+extend Rust, but I am not saying here that such systems should not ever be pursued. It’s within the
+realm of possibility that a design that resolves users’ concern could be developed, and such a
+system could prove to be net positive and someday implemented. If that’s what people want to spend
+their time working toward, that’s their choice.I am just questioning whether such an abstraction is a sensible way of handling the intersection of
+iteration and asynchrony, and whether it is a good trade off for users to block shipping real value
+to users on a seemingly indefinite design ideation process. I implore the Rust project to consider
+these questions seriously, and pursue a path of shipping incremental value now.async
+rust
+generators|| saoirse@without.boats | RSS | Black Lives Matter

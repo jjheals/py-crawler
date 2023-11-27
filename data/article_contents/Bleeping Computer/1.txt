@@ -1,0 +1,881 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Drive users angry over losing months of stored data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+
+Featured
+Latest
+
+
+
+
+
+
+
+Windows Hello auth bypassed on Microsoft, Dell, Lenovo laptops
+
+
+
+
+
+Cyberattack on IT provider CTS impacts dozens of UK law firms
+
+
+
+
+
+UK and South Korea: Hackers use zero-day in supply-chain attack
+
+
+
+
+
+Malware dev says they can revive expired Google auth cookies
+
+
+
+
+
+
+
+
+
+Leveraging Wazuh to combat insider threats
+
+
+
+
+
+Google Drive users angry over losing months of stored data
+
+
+
+
+
+Learn Azure at your own pace with $77 off this exam prep bundle
+
+
+
+
+
+New Rust-based SysJoker backdoor linked to Hamas hackers
+
+
+
+
+
+
+
+
+Downloads
+
+
+
+Latest
+Most Downloaded
+
+
+
+
+
+
+
+Qualys BrowserCheck
+
+
+
+
+
+STOPDecrypter
+
+
+
+
+
+AuroraDecrypter
+
+
+
+
+
+FilesLockerDecrypter
+
+
+
+
+
+
+
+
+
+AdwCleaner
+
+
+
+
+
+ComboFix
+
+
+
+
+
+RKill
+
+
+
+
+
+Junkware Removal Tool
+
+
+
+
+
+
+
+
+VPNs
+
+
+
+Popular
+
+
+
+
+
+
+
+Best VPNs
+
+
+
+
+
+How to change IP address
+
+
+
+
+
+Access the dark web safely
+
+
+
+
+
+Best VPN for YouTube
+
+
+
+
+
+
+
+
+Virus Removal Guides
+
+
+
+Latest
+Most Viewed
+Ransomware
+
+
+
+
+
+
+
+Remove the Theonlinesearch.com Search Redirect
+
+
+
+
+
+Remove the Smartwebfinder.com Search Redirect
+
+
+
+
+
+How to remove the PBlock+ adware browser extension
+
+
+
+
+
+Remove the Toksearches.xyz Search Redirect
+
+
+
+
+
+
+
+
+
+Remove Security Tool and SecurityTool (Uninstall Guide)
+
+
+
+
+
+How to Remove WinFixer / Virtumonde / Msevents / Trojan.vundo
+
+
+
+
+
+How to remove Antivirus 2009 (Uninstall Instructions)
+
+
+
+
+
+How to remove Google Redirects or the TDSS, TDL3, or Alureon rootkit using TDSSKiller
+
+
+
+
+
+
+
+
+
+Locky Ransomware Information, Help Guide, and FAQ
+
+
+
+
+
+CryptoLocker Ransomware Information Guide and FAQ
+
+
+
+
+
+CryptorBit and HowDecrypt Information Guide and FAQ
+
+
+
+
+
+CryptoDefense and How_Decrypt Ransomware Information Guide and FAQ
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Latest
+Popular
+
+
+
+
+
+
+
+How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11
+
+
+
+
+
+How to use the Windows Registry Editor
+
+
+
+
+
+How to backup and restore the Windows Registry
+
+
+
+
+
+How to open a Windows 11 Command Prompt as Administrator
+
+
+
+
+
+
+
+
+
+How to start Windows in Safe Mode
+
+
+
+
+
+How to remove a Trojan, Virus, Worm, or other Malware
+
+
+
+
+
+How to show hidden files in Windows 7
+
+
+
+
+
+How to see hidden files in Windows
+
+
+
+
+
+
+
+
+Deals
+
+
+
+Categories
+
+
+
+
+
+
+
+eLearning
+
+
+
+
+
+IT Certification Courses
+
+
+
+
+
+Gear + Gadgets
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+
+Forums
+More
+
+Startup Database
+Uninstall Database
+Glossary
+Chat on Discord
+Send us a Tip!
+Welcome Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeNewsGoogleGoogle Drive users angry over losing months of stored data
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Drive users angry over losing months of stored data
+
+
+By Bill Toulas
+
+
+
+
+November 27, 2023
+09:52 AM
+0
+
+
+
+
+
+Google Drive users are reporting that recent files stored in the cloud have suddenly disappeared, with the cloud service reverting to a storage snapshot as it was around April-May 2023.
+Google Drive is a cloud-based storage service that allows people to store and access files from any internet-connected device via their Google account. It is a widely used service by individuals and businesses (as part of Google Workspace).
+A trending issue reported on Google's support forums starting last week describes a situation where people say they lost recent data and folder structure changes.
+"There is a serious issue here that needs to escalate urgently. We have a support ticket open, this has not been helpful to date," said a Google Drive user on the support thread.
+"I pay extra each month to store folders in the cloud so that it is safe, so it is devastating that all my work appears to have been lost," another Google Drive user posted.
+The activity logs on impacted accounts do not show any recent changes, confirming that the users themselves didn't accidentally delete them.
+Overall, there are no indications of a user error but rather a problem with the service's system that prevented the synchronization of data between the local devices and Google Cloud at some point.
+Some users have offline caches that might contain the missing data, but no known method exists to restore access to the data within them.
+Google's volunteer support agents have posted an alleged response from Google's support engineers that confirms they are already investigating the issue. However, an estimate for a fix hasn't been provided yet.
+
+"Please accept my sincere apologies if I'm unable to join the Google Meet session. I am continously tracking this case and to be transparent with you we totally agree now that you are not the only customer affected by this behavior.
+Aside from the thread link you provided there are other admins now that have reported the same behavior we encounter where after the update there are files that went missing. This is now being investigated by our Product Engineers and we are also waiting for a root cause analysis as well on how we can fix it. Due to the ongoing investigation we are unable to provide an ETA yet.
+We don't recommend as well to make changes on the root/data folder while we wait for instructions from our Engieers. I will continue to monitor the behavior of reported issue from other admins and schedule a callback tommorow same time hoping there are progress within the day that I can deliver before our Google Meet session." - Google Support Team.
+
+The recommendation for those affected is to avoid making changes to the root/data folder until the situation clears up and the root cause of the problem is determined.
+Understandably, many users are frustrated by the loss of critical data they entrusted to the cloud-based service and, in many cases, paid for the hosting of their files. 
+A notable aspect of the situation is that Google's support forums are backed by volunteers with limited insight or understanding of the cloud service, so the lack of effective assistance in critical problems like this makes it all the worse.
+BleepingComputer has contacted Google for an update on the status of the internal investigation and whether the lost files are recoverable or irreversibly lost, but we have not received a response by publication time.
+In this situation, Google Drive users should refrain from changing their cloud storage as it might complicate the recovery process. Instead, your best bet would be to contact Google Support, open a new case, and monitor for official updates.
+Until the problem is resolved, it would be more prudent to backup important files locally or use a different cloud service.
+
+Related Articles:
+Learn Azure at your own pace with $77 off this exam prep bundleCritical bug in ownCloud file sharing app exposes admin passwordsMalware dev says they can revive expired Google auth cookiesGoogle shares plans for blocking third-party cookies in ChromeGoogle: Hackers exploited Zimbra zero-day in attacks on govt orgs
+
+
+
+
+
+
+
+
+
+
+
+Cloud
+Data Loss
+Google
+Google Drive
+Support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bill Toulas   
+Bill Toulas is a tech writer and infosec news reporter with over a decade of experience working on various online publications, covering open-source, Linux, malware, data breach incidents, and hacks.
+
+
+
+
+ Previous Article 
+Next Article 
+
+
+
+Post a Comment Community Rules
+
+You need to login in order to post a comment
+
+Not a member yet? Register Now
+
+
+
+You may also like:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Popular Stories
+
+
+
+
+
+
+General Electric investigates claims of cyber attack, data theft
+
+
+
+
+
+
+
+Atomic Stealer malware strikes macOS via fake browser updates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow us:
+
+
+
+
+
+
+
+
+
+Main Sections
+
+News
+VPN Buyer Guides
+Downloads
+Virus Removal Guides
+Tutorials
+Startup Database
+Uninstall Database
+Glossary
+
+
+
+Community
+
+Forums
+Forum Rules
+Chat
+
+
+
+Useful Resources
+
+Welcome Guide
+Sitemap
+
+
+
+Company
+
+About BleepingComputer
+Contact Us
+Send us a Tip!
+Advertising
+Write for BleepingComputer
+Social & Feeds
+Changelog
+
+
+
+
+
+
+
+
+Terms of Use -  Privacy Policy - Ethics Statement - Affiliate Disclosure
+
+
+Copyright @ 2003 - 2023  Bleeping Computer® LLC  - All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+
+Login
+
+
+Username
+
+
+
+Password
+
+
+
+
+
+Remember Me
+
+
+
+Sign in anonymously
+
+
+
+
+
+ Sign in with Twitter
+
+Not a member yet? Register Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Reporter
+
+Help us understand the problem. What is going on with this comment?
+
+
+
+
+Spam
+
+
+Abusive or Harmful
+
+
+Inappropriate content
+
+
+Strong language
+
+
+Other
+
+
+
+
+
+Read our posting guidelinese to learn what content is prohibited.
+
+
+
+Submitting...
+SUBMIT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

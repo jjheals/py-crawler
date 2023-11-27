@@ -1,0 +1,1154 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journey to the NIST Cybersecurity Framework (CSF) 2.0 | Workshop #3 | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/events/2023/09/journey-nist-cybersecurity-framework-csf-20-workshop-3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Our Organization
+
+
+Office of the Director
+
+
+Budget & Planning
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EVENTS
+
+
+Journey to the NIST Cybersecurity Framework (CSF) 2.0 | Workshop #3
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read the Code of Conduct for NIST Conferences.
+
+
+
+
+
+
+workshop
+
+
+
+
+              September 19 - 20, 2023
+
+
+
+
+National Cybersecurity Center of Excellence (9700 Great Seneca Highway, Rockville, MD 20850)
+
+
+
+Journey to the NIST CSF 2.0 Workshop #3 Slides
+
+
+UPDATE: (8/24) The maximum number of in-person registrations for this event has been reached.
+SLACK Workspace:
+We encourage all participants to submit questions and engage in continuing group discussions using the NIST Cybersecurity Framework Workshop #3 Slack Workspace. Join today and start posting your comments and questions using the #general channel. 
+TO JOIN SLACK:  Visit https://join.slack.com/t/csfworkshop3/shared_invite/zt-22978oytf-A_~sWawZ3EP0zXwnAXZnug (Click continue with email) 
+ 
+
+
+
+
+
+
+
+
+
+ 
+The collaborative process to update the NIST Cybersecurity Framework (CSF), toward CSF 2.0, continues! 
+This final two-day NIST Journey to CSF 2.0 Workshop will be an opportunity to discuss the newly released Draft CSF 2.0.
+This event will build on the virtual CSF 2.0 Workshop #2, our in-person working sessions, Request for Information (RFI), Concept Paper, Discussion Draft, and our first CSF 2.0 workshop. Comments shared virtually, in-person, or through other means will all be considered as input toward the Final CSF 2.0.
+Day 1 | September 19 - Plenary and panel discussion day (event will be live-streamed, in addition to in-person)
+Attendees will hear from NIST staff and expert panels, with the opportunity to discuss the Draft CSF 2.0 over SlackSlides
+ 
+Day 2 | September 20 – Working session day (offered only in person)
+Attendees will actively participate in breakout sessions to share feedback on the Draft CSF 2.0; the sessions will not be recorded and there is no virtual participation.
+ 
+
+ 
+Additional Considerations: Coffee and pastries will be provided each day, but catered lunch will not be offered. Please bring your own lunch or plan to briefly leave the building to find local lunch options if you’re attending in-person.
+Parking is free, but limited; please try to carpool.
+Pre-Event Items:  
+Read the Draft CSF 2.0
+Read the CSF 2.0 Implementation Examples Discussion Draft 
+Stay In Touch:
+Email with questions and join us on Twitter via @NISTcyber using #CyberFramework
+Subscribe to receive NIST email notifications
+
+
+
+CE/CPE Credits
+NIST does not provide specific information regarding CE credits. Attendees are welcome to use their registration confirmation as a means to self-report to their authoritative certification bodies.
+
+
+
+
+
+
+
+
+
+
+    Agenda
+  
+
+
+Day 1: September 19, 9:00 AM – 4:00 PM – plenary and panel discussion day
+ 
+ 
+
+Time
+
+
+Title
+
+
+Purpose
+
+
+Panelists/Speaker
+
+
+Moderator
+
+
+9:00 AM
+
+
+Opening Remarks
+
+
+Welcome / Introduction of Director
+
+
+Kevin Stine
+
+
+N/A
+
+
+9:05 AM
+
+
+Welcoming Remarks
+
+
+Welcoming Remarks
+
+
+Charles H. Romine, Associate Director for Laboratory Programs, NIST
+
+
+N/A
+
+
+9:10 AM
+
+
+Workshop Overview
+
+
+Overview of Workshop / Rules of Engagement
+
+
+Kevin Stine
+
+
+N/A
+
+
+9:15 AM
+
+
+Panel 1
+
+
+Conversation on CSF 2.0 Draft
+
+
+Kevin Stine
+
+
+Kevin Stine (Facilitating)
+
+
+Cherilyn Pascoe
+
+
+Amy Mahn
+
+
+Jon Boyens
+
+
+10:05 AM
+
+
+Break 
+
+
+Break 
+
+
+N/A
+
+
+N/A
+
+
+10:25 AM
+
+
+Panel 2
+
+
+Governance
+
+
+Anzea Gambale, TD
+
+
+Matt Barrett, Cyber ESI
+
+
+Vicky Ames, United Therapeutics Corp
+
+
+Bryony Crown (UK)
+
+
+11:15 AM
+
+
+Break 
+
+
+Transition between Panels
+
+
+N/A
+
+
+N/A
+
+
+11:25 PM
+
+
+Panel 3
+
+
+Cyber-Supply Chain Risk Management (C-SCRM content in CSF, is it in the goldilocks zone?)
+
+
+Cassie Crossley, Schneider Electric
+
+
+Nadya Bartol, BCG
+
+
+Lee Kim, JD CISSP CIPP/US
+
+
+Taro Hashimoto, NTT
+
+
+12:15 PM
+
+
+Lunch
+
+
+Break 
+
+
+N/A
+
+
+N/A
+
+
+1:30 PM
+
+
+Panel 4
+
+
+Guidance on CSF Implementation (cover Profiles, Tiers & Implementation Examples)
+
+
+Ben Shariati, UMBC
+
+
+Cherilyn Pascoe, NIST
+
+
+Kelly Hood, Optic Cyber
+
+
+Steve Vetter, Cisco 
+
+
+Julie Snyder, MITRE
+
+
+2:20 PM
+
+
+Break 
+
+
+Break 
+
+
+N/A
+
+
+N/A
+
+
+2:40 PM
+
+
+Panel 5
+
+
+Informative References
+
+
+Kent Landfield, Trellix 
+
+
+Mike Fagan, NIST
+
+
+Laura Lindsay, Microsoft 
+
+
+Jamie Williams, MITRE
+
+
+3:30 PM
+
+
+Break 
+
+
+Transition between Panels
+
+
+N/A
+
+
+N/A
+
+
+3:40 AM
+
+
+Closing Remarks - Day 1
+
+
+Wrap up Day 1 of the Workshop
+
+
+Kevin Stine
+
+
+N/A
+
+
+4:00 PM
+
+
+Fin
+
+
+End of Day 1
+
+
+N/A
+
+
+N/A
+
+Day 2: September 20, 9:00 AM – 4:25 PM – concurrent working sessions day
+
+Start Time (EDT)
+
+
+Session Name/Information 
+
+
+9:00 AM
+
+
+Welcome & Opening Remarks
+
+
+9:05 AM
+
+
+Overview & Rules of Engagement
+
+
+9:10 AM
+
+
+Breakout Session #1
+
+
+10:40 AM
+
+
+Break
+
+
+11:00 AM
+
+
+Breakout Session #2
+
+
+12:30 PM
+
+
+Lunch 
+
+
+2:00 PM
+
+
+Breakout Session #3 
+
+
+3:30 PM
+
+
+Break
+
+
+3:40 PM
+
+
+Summary & Closing Remarks
+
+4:25 PM
+Workshop Ends
+Working Sessions: 
+Cybersecurity Governance (CSF Govern in Appendix C and Implementation Examples, Section 4, Appendix B) 
+Cybersecurity Supply Chain Risk Management with the Framework (GV.SC, Section 3.5) 
+CSF Core (Identify, Protect, Detect, Respond, Recover of Appendix C and Implementation Examples) 
+Framework Guidance: Profiles and Tiers (Sections 3.1, 3.2, 3.3, and 3.4, Appendix A, Appendix B)
+Mappings of Informative References, Online CSF 2.0 Core (CSF 2.0 Reference Tool) 
+
+
+
+
+
+
+
+
+Information technology and Cybersecurity
+
+
+
+
+
+
+
+
+
+Read the Code of Conduct for NIST Conferences.
+
+
+
+
+
+
+workshop
+
+
+
+
+              September 19 - 20, 2023
+
+
+
+
+National Cybersecurity Center of Excellence (9700 Great Seneca Highway, Rockville, MD 20850)
+
+
+
+Journey to the NIST CSF 2.0 Workshop #3 Slides
+
+
+UPDATE: (8/24) The maximum number of in-person registrations for this event has been reached.
+SLACK Workspace:
+We encourage all participants to submit questions and engage in continuing group discussions using the NIST Cybersecurity Framework Workshop #3 Slack Workspace. Join today and start posting your comments and questions using the #general channel. 
+TO JOIN SLACK:  Visit https://join.slack.com/t/csfworkshop3/shared_invite/zt-22978oytf-A_~sWawZ3EP0zXwnAXZnug (Click continue with email) 
+ 
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsInformation Technology LaboratoryApplied Cybersecurity DivisionNational Cybersecurity Center of Excellence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Created August 7, 2023, Updated October 12, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

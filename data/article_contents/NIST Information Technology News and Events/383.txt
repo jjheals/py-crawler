@@ -1,0 +1,772 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST Engages Stakeholders in U.S. National Standards Strategy Business Roundtable in Detroit | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2023/11/nist-engages-stakeholders-us-national-standards-strategy-business
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Our Organization
+
+
+Office of the Director
+
+
+Budget & Planning
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UPDATES
+
+
+
+NIST Engages Stakeholders in U.S. National Standards Strategy Business Roundtable in Detroit
+
+
+November 01, 2023
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  CTL
+
+        
+
+
+On September 12, 2023, NIST held the first of several listening sessions designed to chart a path towards standardizing critical and emerging technologies, in partnership with the U.S. Patent and Trademark Office at its Elijah J. McCoy Midwest Regional Office in Detroit. This NIST-USPTO Business Technical Roundtable is part of stakeholder outreach by NIST and other federal agencies to support development of an implementation strategy for the U.S. National Standards Strategy for Critical and Emerging Technology (USSCET). This event focused on automated and connected transportation and infrastructure, including stakeholder input on broad standardization priorities and perspectives on investment, participation, workforce, and integrity and inclusivity needs. Dr. Laurie Locascio, NIST Director and Under Secretary of Commerce for Standards and Technology, and other key officials welcomed attendees and provided opening remarks, followed by an executive roundtable on challenges for infrastructure and transportation standards, moderated by ANSI’s Mary Saunders, and an executive roundtable on technical challenges for electrified, automated, and connected transportation, moderated by NIST’s Ed Griffor, of the Smart Connected Systems Division.
+The critical and emerging technologies targeted by USSCET have the potential to benefit and protect us in our daily lives, and they are built on a consensus standards-based foundation for trusted adoption. A common path to develop standards begins by identifying ways to specify and measure the performance of a technology, using our experience to help determine what performance levels are desirable and consistent with our ethical and societal values. Critical and Emerging Technologies (CET) such as artificial intelligence, advanced communication technologies, multi-sector automation, and smart cities are anticipated to be critical to our security and prosperity, but they are currently being developed, and so there has not been as much time as desired to assess their capabilities and gain experience using them.
+These emerging standards and technical challenges in automated and connected transportation were addressed in the second executive roundtable, which was organized and moderated by Ed Griffor. Topics discussed in this session included:
+Research to market integration challenges and the role of standards
+Methods to ensure future success and interoperability of cross-cutting technologies.
+Economics, logistics, and barriers to electric vehicle adoption and the role of standards in overcoming key challenges
+Key issues surrounding automation, including systems interactions, public perception, cybersecurity, communications, and artificial intelligence, as well as methods to accelerate standards development in these key areas
+Gaps in standards participation for emerging technologies, including electric vehicle standards and open source standards
+The impact standards have on automated and connected integration
+A transcript of this event is planned to be posted on its website.
+
+
+
+
+
+Advanced communications, Information technology, Complex systems, Cyber-physical systems, Smart cities, Internet of Things (IoT), Standards, Documentary standards, Frameworks, Transportation and Automotive
+
+
+
+
+
+
+
+
+Technical Contact
+
+
+
+
+Edward Griffor
+
+edward.griffor@nist.gov
+
+
+
+David A. Wollman
+
+david.wollman@nist.gov
+
+
+    (301) 975-2433
+  
+
+
+Jayne Morrow
+
+jayne.morrow@nist.gov
+
+
+
+Maria Knake
+
+maria.p.knake@nist.gov
+
+
+    (301) 975-6197
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsCommunications Technology LaboratorySmart Connected Systems DivisionIoT Devices and Infrastructures Group
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released November 1, 2023, Updated November 15, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

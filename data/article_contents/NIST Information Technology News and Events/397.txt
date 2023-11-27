@@ -1,0 +1,754 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Automated Vehicle Stakeholders Get Updates on NIST Research and Inform Future Efforts | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2023/09/automated-vehicle-stakeholders-get-updates-nist-research-and-inform-future
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Our Organization
+
+
+Office of the Director
+
+
+Budget & Planning
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UPDATES
+
+
+
+Automated Vehicle Stakeholders Get Updates on NIST Research and Inform Future Efforts
+
+
+September 01, 2023
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  CTL
+
+        
+
+
+
+NIST held its Standards and Performance Metrics for On-Road Automated Vehicles Workshop, September 5-8, 2023, with stakeholders participating virtually from across the U.S. and other countries. 
+In the first day keynote addresses, U.S. Congresswoman Haley Stevens and NIST’s Deputy Associate Director of Laboratory Programs Hannah Brown provided welcoming remarks, and NIST’s Jayne Morrow presented the National Standards Strategy for Critical and Emerging Technology, which informs the pursuit of AV standards. The overall keynote speaker, Acting Administrator of the National Highway Traffic Safety Administration, Ann Carlson, addressed the Administration’s AV safety initiatives, and mentioned NIST’s Automated Driving Systems Performance Measurements and Metrics. Other speakers addressed issues related to AV development.
+NIST AV project leads provided updates on the following work, which was motivated by stakeholder inputs from the 2022 AV workshop. Each NIST update presentation was paired with an industry keynote address, and followed by a breakout session to obtain stakeholder input, as described in the workshop agenda. More information on NIST’s AV research program is online.
+Systems Interactions: The performance of an automated vehicle depends on the interactions that occur between systems and components, such as sensors and communications. NIST is developing a framework for evaluating specific interactions, and has developed initial simulations for a systems interaction testbed.
+AV Perception: NIST has developed a testbed for evaluating AV perception and sensing, and is now developing evaluation methods using International Systems of Units (SI) traceable artifacts. The focus has been on testing lidars in controlled indoor environments and will progress to more dynamic environments.
+AV Communications: NIST is evaluating AV communications requirements, developing network modeling capabilities, and integrating the models into an AV co-simulation and the systems interaction testbed.
+Minimizing Artificial Intelligence Risks: NIST is developing capability for estimating the uncertainties in machine learning models, including producing a taxonomy of attacks, and mitigation and defining terminology in the field of adversarial machine learning.
+Cybersecurity: NIST has established an Automotive Cybersecurity Community of Interest to inform industry stakeholders on NIST cybersecurity work relevant to AVs, and NIST is developing the Dioptra software platform to help characterize and evaluate machine learning systems under a diverse set of conditions.
+Digital Infrastructure: NIST partnered with several state Departments of Transportation, SAE International standards organization, and others in a special workshop session to explore requirements for future traffic infrastructure needed to communicate information and enable AV safety. It was proposed that a national organization develop a use-case template to help communities identify and develop such infrastructure.
+NIST is planning to publish a report on the workshop.
+
+
+
+
+
+Advanced communications, Wireless (RF), Information technology, Cyber-physical systems, Internet of Things (IoT), Networking, Infrastructure, Standards, Documentary standards, Transportation and Automotive
+
+
+
+
+
+
+
+
+Technical Contact
+
+
+
+
+David A. Wollman
+
+david.wollman@nist.gov
+
+
+    (301) 975-2433
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsCommunications Technology LaboratorySmart Connected Systems DivisionIoT Devices and Infrastructures GroupTransformational Networks and Services Group
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released September 1, 2023, Updated October 11, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

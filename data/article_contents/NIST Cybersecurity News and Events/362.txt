@@ -1,0 +1,913 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Workshop on OMB M-22-18 Minimum Requirements | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/events/2023/06/workshop-omb-m-22-18-minimum-requirements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Our Organization
+
+
+Office of the Director
+
+
+Budget & Planning
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EVENTS
+
+
+Workshop on OMB M-22-18 Minimum Requirements
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read the Code of Conduct for NIST Conferences.
+
+
+
+
+
+
+Virtual Event
+
+
+
+
+              June 1, 2023
+                    11:00am - 1:00pm EDT
+          
+
+
+
+Virtual Only
+
+
+Register
+
+
+Registration is free but required for this event.
+
+
+Registration Contact
+
+
+
+Terri Viezbicke
+
+terri.viezbicke@nist.gov
+
+
+    (303) 497-4044
+  
+
+
+
+
+
+Technical Contact
+
+
+
+Kevin Stine
+
+kevin.stine@nist.gov
+
+
+    (301) 975-4483
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+On June 1,  NIST and OMB will host a workshop to discuss next steps for implementation of M-22-18, Enhancing the Security the Software Supply Chain through Secure Software Development Practices, the intended impact on the security of the Federal enterprise, CISA’s self-attestation common form, and the initial minimum requirements contained therein. 
+Attendees are encouraged to submit their questions in advance to ofcio [at] omb.eop.gov (ofcio[at]omb[dot]eop[dot]gov) by May 26. 
+Please note that the recording for this workshop will NOT be posted after the event. Those who wish to participate are encouraged to join the live event. 
+Workshop Goals: 
+Broaden awareness of M-22-18’s scope, requirements, and vision 
+Address common questions and provide clarification on next steps 
+
+
+
+
+
+
+
+
+    Agenda
+  
+
+
+11:00am - 1:00pm ET
+Moderator: Kevin Stine, Chief, Applied Cybersecurity Division, NIST
+ 
+
+Start Time 
+
+
+End Time 
+
+
+Speakers  
+
+
+Session Information 
+
+
+11:00am
+
+
+11:45am
+
+
+Kevin Stine (moderator)
+Speakers:Mitch Herckis, OMB OFCIO; Jeremy McCrary,  OMB OFPP
+
+
+Secure Software: From EO 14028 to Self-Attestation
+Based on EO 14028, M-22-18 outlined OMB’s role in the identification of minimum elements from SP 800-218 to which software producers must attest. This panel will address the intent of this effort, the requirements put forward for agencies, and the development of minimum elements to which software producers must attest and submit to agencies. We will also discuss the circumstances and scope of software to which minimum elements apply and when they do not.
+
+
+11:45am
+
+
+12:00pm 
+
+
+ 
+
+
+Break
+
+
+12:00pm
+
+
+1:00pm
+
+
+Speakers:Yejin Jang,  OMB OFCIO;  Brian Paap, CISA C-SCRM
+ 
+ 
+
+
+Next Steps and Common Questions 
+M-22-18 contemplates the use of a self-attestation common form that agencies are encouraged to leverage to satisfy M-22-18 required actions. M-22-18 also speaks to the establishment of a government-wide repository for attestations and artifacts, the utilization of third-party assessor organizations such as FedRAMP, among other items. Speakers will address the expected process for satisfying M-22-18 requirements, the process by which agencies are expected to fulfill M-22-18 requirements, and provide an update on CISA’s self-attestation common form. Speakers will also answer questions received in advance of the workshop in this session.
+
+
+1:00pm
+
+
+ 
+
+
+ 
+
+
+Adjourn
+
+ 
+
+
+
+
+
+
+
+Information technology and Cybersecurity
+
+
+
+
+
+
+
+
+
+Read the Code of Conduct for NIST Conferences.
+
+
+
+
+
+
+Virtual Event
+
+
+
+
+              June 1, 2023
+                    11:00am - 1:00pm EDT
+          
+
+
+
+Virtual Only
+
+
+Register
+
+
+Registration is free but required for this event.
+
+
+Registration Contact
+
+
+
+Terri Viezbicke
+
+terri.viezbicke@nist.gov
+
+
+    (303) 497-4044
+  
+
+
+
+
+
+Technical Contact
+
+
+
+Kevin Stine
+
+kevin.stine@nist.gov
+
+
+    (301) 975-4483
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsInformation Technology LaboratoryApplied Cybersecurity Division
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Created May 18, 2023, Updated June 1, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

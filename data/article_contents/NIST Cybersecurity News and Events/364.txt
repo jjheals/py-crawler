@@ -1,0 +1,854 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FISSEA Summer Forum: August 23, 2023 | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/events/2023/08/fissea-summer-forum-august-23-2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Our Organization
+
+
+Office of the Director
+
+
+Budget & Planning
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EVENTS
+
+
+FISSEA Summer Forum: August 23, 2023
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read the Code of Conduct for NIST Conferences.
+
+
+
+
+
+
+
+
+              August 23, 2023
+                    1:00 - 4:00pm EDT
+          
+
+
+
+Virtual
+
+
+Registration closed.
+If you have an accommodation request, please contact the NICE Program Office at nice [at] nist.gov (nice[at]nist[dot]gov) or (240) 457-2638 no later than three business days prior to the event.
+Recording Note: Portions of the event may be recorded and audience Q&A or comments may be captured. The recorded event may be edited and rebroadcast or otherwise made publicly available by NIST.  By registering for -- or attending -- this event, you acknowledge and consent to being recorded.
+
+
+
+
+
+
+
+
+
+FISSEA Summer Forum 2023
+
+
+The presentations slides are available here. 
+Download the Continuing Education Units form. 
+Provide event feedback here.
+
+The FISSEA Forums are quarterly meetings to provide opportunities for policy and programmatic updates, the exchange of best practices, and discussion and engagement among members of the Federal Information Security Educators (FISSEA) community. 
+Agenda:
+
+
+1:00pm-1:05pm   
+ 
+
+
+FISSEA Welcoming Remarks 
+Marian Merritt, NICE Deputy Director, National Institute of Standards and Technology
+ 
+
+
+
+
+1:05pm-1:10pm    
+ 
+
+
+Welcome and Event Logistics 
+Kendra Henthorne, FISSEA Co-Chair
+ 
+
+
+
+
+1:10pm-1:50pm
+ 
+
+
+Opening Keynote - "AI: Where We’re Going and How (Not?) to Get There"
+Anthony Boese, Interagency Programs Manager and Ethics Officer, National Artificial Intelligence Institute, U.S. Department of Veterans Affairs
+ 
+
+
+
+
+1:50pm-2:20pm
+ 
+
+
+Privacy and Ethics as a Foundation for AI Risk Management Training
+Julie McEwen, Privacy Capability Area Lead, Principal Cybersecurity & Privacy Engineer, MITRE
+The use of AI can present a number of privacy risks, and appropriate training can help with managing those risks. This presentation will discuss core AI concepts, foundational privacy concepts, AI risks and privacy, and the synergy between privacy governance and AI governance. Recommendations for addressing AI governance and AI privacy considerations in AI risk management training will also be provided. 
+ 
+
+
+
+
+2:20pm-2:30pm
+ 
+
+
+Break
+ 
+
+
+
+
+2:30pm-3:00pm
+ 
+
+
+Phishing for User Context: Understanding the NIST Phish Scale
+Dr. Shanee Dawkins, Computer Scientist, National Institute of Standards and Technology
+Jody Jacobs, Computer Scientist, National Institute of Standards and Technology
+The NIST Phish Scale is a method for measuring human phishing detection difficulty, providing a metric – a phishing email detection difficulty rating – for phishing training implementers to gain a better understanding of the variability in click rates resulting from their phishing training exercises. This talk will give an overview of the role user context plays in phishing detection and how our research led to the creation of the NIST Phish Scale. We will also present the NIST Phish Scale in detail, highlighting new ways to apply it in phishing awareness programs.
+ 
+
+
+
+
+3:00pm – 3:30pm
+ 
+
+
+The Future with AI
+Tushar Rathod, Enterprise Architecture, Social Security Administration
+AI will have a profound impact on how we work, play and live in the near future. This presentation explores, prompts and postulates future trends with the advent of AI, as it matures & delivers on its promise.
+ 
+
+
+
+
+3:30pm – 3:55pm
+ 
+
+
+Role-Based Training, An Epic Tale of Woe and Triumph
+Morgan Floyd, InfoSec Training & Awareness Coordinator, Cyber Assurance, Texas Health & Human Services 
+Training security professionals so they can better defend our organizations should be an uncomplicated process, but in the rapid-changing industry of cybersecurity, it's surprisingly difficult.  We know they need training but how do we know which training? To answer that question, we created a program, based on the NICE Framework, that identifies what our security professionals do and helps us understand what they need.
+ 
+
+
+
+
+3:55pm-4:00pm
+ 
+
+
+Closing Remarks 
+Menachem Goldstein, FISSEA Co-Chair
+
+
+Return to FISSEA Main Page
+
+
+
+
+
+
+
+
+
+Cybersecurity and Cybersecurity education and workforce development
+
+
+
+
+
+
+
+
+
+Read the Code of Conduct for NIST Conferences.
+
+
+
+
+
+
+
+
+              August 23, 2023
+                    1:00 - 4:00pm EDT
+          
+
+
+
+Virtual
+
+
+Registration closed.
+If you have an accommodation request, please contact the NICE Program Office at nice [at] nist.gov (nice[at]nist[dot]gov) or (240) 457-2638 no later than three business days prior to the event.
+Recording Note: Portions of the event may be recorded and audience Q&A or comments may be captured. The recorded event may be edited and rebroadcast or otherwise made publicly available by NIST.  By registering for -- or attending -- this event, you acknowledge and consent to being recorded.
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsInformation Technology LaboratoryApplied Cybersecurity DivisionNICE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Created May 2, 2023, Updated October 17, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

