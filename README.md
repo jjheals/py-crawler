@@ -20,6 +20,9 @@ To improve efficiency at runtime, the crawler stores additional information in t
     |-- crawler/
     |   |-- crawler_exceptions.py
     |   |-- Crawler.py
+    |-- config/
+    |   |-- feeds.json
+    |   |-- Paths.py
     |-- data/
     |   |-- article_contents/
     |   |   |-- feed1/
@@ -38,7 +41,6 @@ To improve efficiency at runtime, the crawler stores additional information in t
     |-- rss_feed/
     |   |-- feeds.json
     |   |-- RSS.py
-    |-- Paths.py
     |-- README.md
     |-- requirements.txt
     |-- testing.ipynb
@@ -66,10 +68,13 @@ The NLTK stopwords package is required for the stemming portion of tokenization.
 
 ### Python Packages 
 
-A complete list of the required python packages can be found in [requirements.txt](requirements.txt). These packages can be installed in a virtual env automatically (depending on environment) or can be installed via pip: 
+A complete list of the required python packages can be found in [requirements.txt](requirements.txt). These packages can be installed in a virtual env automatically (depending on environment), or they can be installed via pip: 
 
+    pip install -r requirements.txt
+    OR
     pip install [package_name]
     OR
     python3 pip install [package_name]
+    
 
 The pip command is dependent on your environment and may vary. 

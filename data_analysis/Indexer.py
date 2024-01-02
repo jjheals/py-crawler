@@ -48,7 +48,7 @@ class Indexer:
             Supported operators are contained in Indexer.OPERATORS
     '''
     def search_index(self, query:str, op:str=AND_OP) -> dict[float,dict]: 
-        print(f"AND QUERY: \"{query}\"")
+        print(f"{op} QUERY: \"{query}\"")
         
         # Base cases 
         if not query: return []                                             # Not given any search terms
@@ -62,7 +62,7 @@ class Indexer:
         matched_ids:dict[int,int] = []
         match(op): 
             case Indexer.AND_OP: matched_ids = self.and_search(query_toks)
-            #case Indexer.OR_OP: matched_ids = Indexer.or_search(query_toks)
+            case Indexer.OR_OP: matched_ids = self.or_search(query_toks)
             #case Indexer.NOR_OP: matched_ids = Indexer.nor_search(search_terms)
             #case Indexer.XOR_OP: matched_ids = Indexer.xor_search(search_terms)
         
@@ -126,6 +126,32 @@ class Indexer:
             A list of int containing the indices (IDs) of the matched articles in Indexer.urls_path json file
     '''
     def or_search(self, search_terms:list[str]) -> dict[int,int]:
-        pass
+        # Query the index to get a list of dictionaries containing the article ids and term frequencies for each search term 
+        matched_terms:dict[str,dict] = {}
+        for t in search_terms: 
+            try: matched_terms[t] = self.index[t]   # Get this term in the index
+            except KeyError: continue               # Skip if term does not exist in the index
+        
+        # Convert the list of dictionaries into a single dictionary with key:val => article_id:list[matched_terms]
+        # NOTE: Since this is an OR query, we DO care about individual frequencies for each term
+        matched_articles:dict[str,dict] = {}
+        for t,d in matched_terms.items():
+            for aid,tf in d.items(): 
+                if aid in matched_articles: 
+                    temp:dict = matched_articles[aid]
+                    temp[t] = tf 
+                    matched_articles[aid] = temp
+                else: matched_articles[aid] = {t:tf}            
+
+        # Convert this to a dictionary in the format we want to return, i.e. article_id:cumulative_tf
+        result_dict:dict[int,int] = {}
+        for aid,d in matched_articles.items(): 
+            article_num_terms:int = self.all_articles[int(aid)]['article_num_terms']
+            cuml_tf:float = 0.0
+            for tf in list(d.values()): cuml_tf += tf / article_num_terms
+            cuml_tf /= len(d)
+            result_dict[int(aid)] = cuml_tf
+        
+        return dict(sorted(result_dict.items(), reverse=True))   
         
         
