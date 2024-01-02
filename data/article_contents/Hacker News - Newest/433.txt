@@ -1,0 +1,501 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airman slays ‘tedious repetitive tasks’ for comrades stuck in paperwork hell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Got A Tip?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Channels 
+
+News 
+
+Analysis
+Branch
+Opinion
+Region & Country
+
+
+Culture 
+
+Entertainment
+Humor
+Mandatory Fun
+
+
+Military Life 
+
+Active Duty
+Enlisting
+Resources
+Veterans
+Career Center
+
+
+The Gear Locker 
+
+Gear Reviews
+
+
+Tech & Tactics 
+
+Aircraft
+Ships
+Tactics
+Vehicles
+Weapons
+
+
+History 
+
+Wars
+Historical Figures
+
+
+
+
+More 
+
+Write For Us
+Newsletters
+
+
+ 
+
+
+SOCIAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Got A Tip?
+
+
+
+
+
+
+
+
+Task & Purpose
+
+
+
+
+
+
+
+
+
+News
+
+
+Branch
+
+
+Air Force
+
+
+
+
+
+
+
+
+We salute the airman who eliminated ‘tedious repetitive tasks’ for colleagues stuck in paperwork hell
+
+  Work smarter, not harder.
+
+
+
+          By
+        
+
+            David Roza
+          
+                
+              |
+    
+
+    Published May 10, 2022 9:00 AM EDT
+    
+
+
+
+
+
+        News
+      
+
+
+
+              Culture
+            
+
+
+
+
+
+Staff Sgt. Ryan Jette created an automation for training records that saved 79 man hours in the 37th Training Group alone before launching throughout his career field. Jette is a Unit Training Manager with the 343rd Training Squadron at Joint Base San Antonio-Lackland, Texas. (Miriam Thurber / U.S. Air Force).
+
+
+
+SHARE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Not all superheros wear capes, but many have superpowers. In Staff Sgt. Ryan Jette’s case, his superpower is using automation like a laser beam to slice through dozens of hours of busy work for himself and his colleagues.
+“We do so many tedious, repetitive tasks that we shouldn’t have to spend time on,” Jette said in a recent Air Force press release. “That’s where automation comes in.” 
+Jette is a unit training manager with the 343rd Training Squadron at Joint Base San Antonio – Lackland, Texas. Unit training managers are assigned to units across the Air Force where they keep track of airmen’s training and qualification records, which can be a daunting task for large organizations like the 343rd. It is a data-heavy job that involves plenty of “backtracking, being very meticulous, and making sure we have organized records,” as one airman described it in 2019. 
+It also means a ton of time spent moving training records back and forth, especially at the 343rd Training Squadron. Also known as the Security Forces Academy, the 343rd trains more than 5,000 Security Forces airmen (the Air Force equivalent of military police) every year. That means a ton of record-tracking, and, if you’re Jette, a great opportunity to develop automation to do it for you.
+Specifically, Jett’s automation pulls records from the Air Force’s soon-to-be-retired Training Business Area database and transfers them to new folders. The automation has saved 79 working hours in the 37th Training Group alone. Now that it has been adopted throughout the unit training manager career field, the automation has already pulled more than 3,000 records out of the old database.
+“All those hours of tedious work have happened with the click of a button,” according to the press release. “The computer does all of the heavy lifting.”
+Subscribe to Task & Purpose Today. Get the latest in military news, entertainment, and gear in your inbox daily.
+Jette’s automation comes at a time when the Air Force and the military in general is still struggling to join the 21st century. In January, a disgruntled artificial intelligence expert struck a chord across the military when he wrote an open letter to the Department of Defense to fix its often-outdated, decrepit computers. Meanwhile, the Air Force historically has had a busy work problem, to the point where in 2016, top service leaders declared war on ‘queep,’ the extra duties and needless rules and regulations that get in the way of airmen doing their jobs. The effort led to the branch cutting or revising hundreds of publications bearing useless rules, but many airmen say they are still overworked and understaffed. What to do? Automate!
+U.S. Air Force Maj. “Vudu”, U-2 Dragon Lady pilot for the 9th Reconnaissance Wing, prepares to taxi after returning from a training sortie at Beale Air Force Base, California, Dec. 15, 2020. This flight marks a major leap forward for national defense as artificial intelligence took flight aboard a military aircraft for the first time in the history Dept. of Defense. The AI algorithm, developed by Air Combat Command’s U-2 Federal Laboratory, trained the AI to execute specific in-flight tasks that would otherwise be done by the pilot. (Airman 1st Class Luis A. Ruiz-Vazquez / U.S. Air Force)
+As Jette explained, automation is a great tool for killing busy work. The Air Force is actually trying to encourage its use through an automation program called UiPath. To use an automation from UiPath, airmen first must request a license from UiPath, the press release said. If an appropriate automation does not exist, airmen can contact the Wing Process Improvement Manager to take a class on how to develop one, the press release advised.
+“I want things to work, and I want processes to improve,” said Jette. “Find projects within your office that you can run, and then make them as efficient as possible.”
+Automation is not just for enlisted airmen trying to cut out busy work. At a strategic level, the most senior Air Force leader believes it could be the key to victory in a future war. If the U.S. does not develop autonomous weapons, “we’re going to lose,” said Air Force Secretary Frank Kendall in a May 2 conversation with the Brookings Institution. Kendall also said he was proud of the service’s developments in autonomous warfare, such as the new commitment to speed up the development of autonomous drones that can fly alongside crewed aircraft and help them accomplish their missions. Kendall wants the drones to be operationally capable a mere three years after receiving funding, “which is warp speed in Pentagon timeframes,” according to The Merge, a newsletter written by Air Force officers.
+Senior leaders from the Marine Corps Recruiting Command and Manpower and Reserve Affairs visited Johns Hopkins APL, September 22, 2021 (Sgt. Kenny Gomez / U.S. Marine Corps)
+Kendall is right to be concerned. In his 2020 book, “The Kill Chain,” national security expert Christian Brose warns that a future war will likely require a high-level of automation capable of collecting and digesting data from a vast array of military sensors in space and around the world. That automation will allow service members to take action faster than their enemies, if automation is allowed to develop in the U.S. military, he wrote.
+“[I]t’s ultimately not the particular platforms or the pieces of the systems that are interesting. It’s ultimately the ability to understand what’s going on,” Brose said in a 2020 talk with the Hudson Institute. “To rapidly make decisions and take relevant actions, and increasing the quantity and quality of that, the speed and the scale by which you can operate … I do think that is something that autonomous systems are going to provide us.”
+However, in the U.S. military, combing through data to find relevant bits of information is still largely the job of humans, not machines, Brose wrote in his book. The expert compared the military’s manpower-heavy analysis approach to technical capabilities like those being developed by companies such as Nvidia, which has “enabled learning machines to ingest oceans of data in very short periods of time,” Brose wrote.
+“In 2020 [combing through data] is the full-time job of literally tens of thousands of members of the U.S. military,” he went on. “When they are off-duty, they may use Nvidia’s technology to play video games or even assist them on their drive home. But in uniform, they are essentially doing the same jobs that their grandparents did in World War II.”
+Naval Postgraduate School faculty and students use the university’s High-Energy Laser Beam Control Research Testbed to explore how the latest advances in adaptive optics and artificial intelligence can be utilized to improve the effectiveness of the Navy’s laser weapons systems. (Javier Chagoya / U.S. Navy)
+But that could be changing. The military requested $273.34 million for artificial intelligence and machine learning demonstration and validation and  $76.79 million for its Artificial Intelligence and Data Accelerator effort in its 2023 budget request, according to Breaking Defense. With the accelerator, the Pentagon would send teams of technical experts to the military’s 11 combatant commands to help them understand how to use data to make decisions and create artificial intelligence tools to make that process happen faster, Breaking Defense reported.
+The Defense Information Systems Agency is also trying to spread the word on how to use and design automations to process data. With any luck, there will be a lot more Staff Sgt. Jettes walking around the military in the near future.
+“We’re going to ask for volunteers to come in from their respective organizations, identify an automation challenge they want to solve in their organization and then come to us and rotate into DISA and we will get them properly trained,” DISA’s chief technology officer Stephen Wallace told GovCIO. DISA will also “help them build the bots they need and send them back to their organization to flourish and grow.”
+The latest on Task & Purpose
+The Marine Corps is headed for a pilot exodus‘The king of battle’ — How US artillery in the hands of Ukrainians may reshape the war with RussiaMarine intel instructors got caught calling students ‘whore’ and ‘slut’ in private chat. No punishment was recommendedHow to pass the new Air Force fitness test, according to a guy who oversaw 600 of them‘Dirt boyz,’ ‘Port Dawgs,’ and ‘Red Horse’ — A guide to Air Force lingo for the rest of us
+Want to write for Task & Purpose? Click here. Or check out the latest stories on our homepage.
+
+
+
+
+
+
+
+David Roza
+
+David covered the Air Force, Space Force, and anything Star Wars-related for Task & Purpose from 2019 to 2023. He previously covered local news in Maine and FDA policy in Washington D.C. David loves hearing the stories of individual airmen and their families and sharing the human side of America’s most tech-heavy military branch. Contact the author here.
+
+
+ 
+
+
+
+
+
+
+              Air Force
+            
+
+
+
+              Branch
+            
+
+
+
+              Mandatory Fun
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe to Task & Purpose Today
+Get the latest in military news, entertainment and gear in your inbox daily.
+JOIN NOW
+
+
+
+
+
+
+
+
+
+
+
+Links
+
+About Task & Purpose
+Terms & Conditions
+Privacy Policy
+Sitemap
+
+
+
+ 
+Follow us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Got A Tip?
+
+
+
+DISCLAIMER(S)
+Articles may contain affiliate links which enable us to share in the revenue of any purchases made.
+Registration on or use of this site constitutes acceptance of our Terms of Service.
+© 2024 Recurrent. All rights reserved.
+
+
+
+
+
+
+
+
+
+

@@ -119,7 +119,7 @@ operational
 
 
 
-3
+4
 
 Click to like, and right click to unlike this article
 
@@ -215,7 +215,7 @@ operational
 
 
 
-3
+4
 
 Click to like, and right click to unlike this article
 

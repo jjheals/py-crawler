@@ -1,0 +1,1185 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHIPS R&D Digital Twin Technical Standards Workshop | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/events/chips-rd-digital-twin-technical-standards-workshop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Our Organization
+
+
+Office of the Director
+
+
+Budget & Planning
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EVENTS
+
+
+CHIPS R&D Digital Twin Technical Standards Workshop
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read the Code of Conduct for NIST Conferences.
+
+
+
+
+
+
+workshop
+
+
+
+
+              December 14 - 15, 2023
+
+
+
+
+NIST's National Cybersecurity Center of Excellence (NCCoE)
+9700 Great Seneca Highway
+Rockville, MD 20850
+
+
+Registration for virtual and in-person attendance is now closed.
+
+
+Registration Contact
+
+
+
+Sabina Mohan
+
+sabina.mohan@nist.gov
+
+
+    (301) 975-2002
+  
+
+
+
+
+
+Technical Contact
+
+
+
+Yaw S. Obeng
+
+yaw.obeng@nist.gov
+
+
+    (301) 975-8093
+  
+
+
+Jan Obrzut
+
+jan.obrzut@chips.gov
+
+
+    (301) 975-6845
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  Andrew Kim
+
+        
+
+
+
+Technical standards for digital twin capabilities in the semiconductor and microelectronics industry will be the subject of a December workshop sponsored by the CHIPS Research and Development Office. The workshop will be a hybrid in-person and virtual event from 8:30 a.m. to 5:30 p.m. Eastern Time December 14, 2023, and 8:30 am to 12:30 pm December 15, 2023.  
+The event will focus on the potential for digital twin applications—including modeling, simulation, and co-simulation—to support reliable, resilient and high-quality manufacturing processes and enable trusted supply chains.
+Technical experts from industry, academia, standards setting organizations, and industry alliances, both domestic and abroad, are encouraged to participate and contribute to identifying community priorities for specific standards efforts. Factors to be considered in identifying digital twin standards priorities include potential for broad impact, feasibility for accelerated development, and suitability for various standards development channels, including through alliances, incubators and accelerators, and standards setting organizations.
+This one and one-half day hybrid event provides an opportunity to network and exchange ideas with thought leaders across the sector. The morning of Day One features plenary and panel sessions with exemplary keynote and guest speakers. Breakout sessions the afternoon of Day One and the morning of Day Two provide an opportunity for participants to collaborate and discuss key topics that will shape future digital twin standards activities. Key findings will be published in a post-workshop report and will inform standards planning efforts across the semiconductor innovation ecosystem and within the CHIPS R&D Office.
+We encourage interested stakeholders, industry representatives, and standards setting organizations to participate actively in this pivotal event. We also invite international attendees, as fostering global collaboration and enriching the discussions on advancing semiconductor standards and innovation is paramount to success. Join us at the CHIPS R&D Digital Twin Technical Standards Workshop as we collaboratively shape the future of semiconductor and microelectronics standards, foster innovation, and advance the industry as a whole. Finally, we note that a related workshop focused on chiplet interface technical standards will be held Dec. 12-13 at the same site. Information regarding this related workshop (separate registration required) can be found on the chips.gov website for those who may want to attend both events. 
+
+
+
+
+
+
+
+    Agenda
+  
+
+
+
+DAY 1: December 14, 2023 / 8:30 AM – 5:35 PM
+
+
+TIME
+
+
+TOPIC
+
+
+PRESENTER
+
+
+7:30 – 8:30 am
+
+
+Check-in
+
+
+ 
+
+
+8:30 – 8:40 am
+
+
+Introduction to the workshop / review agenda / logistics
+
+
+Yaw Obeng (CHIPS R&D Office)
+
+
+8:40 –8:50 am
+
+
+Welcome
+
+
+Eric Lin (CHIPS R&D Deputy Director)
+
+
+8:50 – 9:05 am 
+
+
+Keynote: Leveraging CHIPS Acts public-private partnerships to evolve standards for design & manufacturing digital twins
+
+
+Tom Katsioulas (Archon Design Solutions, Inc.)
+
+
+9:05 – 10:30 am
+
+
+Panel 1: Tutorial on digital twin standards
+
+
+Carol Handwerker (Purdue University)
+Moderator
+
+
+ 
+
+
+Semiconductor Digital Twins: Status and Challenges
+Intel Automated Factory Solutions
+International Standard for Digital Twins IPC-2551
+Digital Twin Data Foundation
+
+
+Mark da Silva (SEMI)
+ 
+Paul Schneider (Intel)
+Matt Kelly (IPC) (Virtual)
+Krishan Chawla (LAM Research)
+(Virtual)
+
+
+10:30 – 10:45 am
+
+
+Break    
+
+
+ 
+
+
+10:45 – 11:45 am
+
+
+Breakout Session 1: Discuss and prioritize ideas related to panel 1
+
+
+Led by SIDEM and Corner Alliance facilitators
+
+
+11:45 – 12:00 pm
+
+
+Report Out from Breakout Session 1
+
+
+Workshop participants and facilitators
+
+
+12:00 – 1:15 pm
+
+
+Lunch
+ 
+
+
+ 
+
+
+1:15 – 2:15 pm
+
+
+Panel 2: What is the state-of-the art in Digital Twin?
+
+
+Mark de Silva (SEMI)
+Moderator
+
+
+ 
+
+
+Electronics Digital Twin (eDT) for High Quality, Safe and Secure Software: Unlocking Full Potential – Where Standards Might Help
+Digital Twin for Security and Security of Digital Twins
+Artificial Intelligence/Machine Learning (AI/ML) for Digital Twin
+Secure Data Platform for Digital Twin
+Standards for Semiconductor Test Digital Twins (Virtual Test)
+
+
+Filip Thoen (Synopsys) (Virtual)
+ 
+ 
+Ramesh Karri (NYU)
+ 
+James Moyne (U. Michigan) (Virtual)
+Ming Zhang (PDF Solutions)
+Ken Butler (Advantest)
+
+
+2:15 – 3:15 pm
+
+
+Breakout Session 2: Discuss and prioritize ideas related to panel 2
+
+
+Led by SIDEM and Corner Alliance facilitators
+
+
+3:15 – 3:30 pm
+
+
+Report Out from Breakout Session 2
+
+
+Workshop participants and facilitators
+
+
+3:30 – 4:00 pm
+
+
+Break
+
+
+ 
+
+
+4:00 – 4:45 pm
+
+
+Panel 3: What is the current state of research for digital twins? 
+
+
+Adam Cron (Synopsys)
+Moderator
+
+
+ 
+
+
+HIR Modeling & Simulation TWG
+ 
+Collaborative and Federated Data Analytics for Connected Systems
+Feasible Digital Twins for Large Distributed Personalized Manufacturing Systems
+Silicon Lifecycle Data Format
+
+
+Chris Bailey (Arizona State University)
+Raed Al-Kontar (University of Michigan)
+Giulia Pedrielli (Arizona State University)
+Adam Cron (Synopsis)
+
+
+4:45 –5:15 pm
+
+
+Breakout Session 3: Discuss and prioritize ideas from panel 1, panel 2, and panel 3
+
+
+Led by SIDEM and Corner Alliance facilitators
+
+
+5:15 – 5:35pm
+
+
+Report Out from Breakout Session 3
+
+
+Workshop participants and facilitators
+
+
+5:35pm
+
+
+Adjourn
+
+
+ 
+
+ 
+ 
+			DAY 2: December 15, 2023/ 8:30 AM – 12:00 PM
+
+
+8:30 - 9:30 am
+
+
+PANEL 4: Summary Discussion / Takeaways from Day 1
+
+
+Giulia Pedrielli (Arizona State University)
+Moderator
+
+
+ 
+
+
+Questions:
+What are the technical standards gaps?
+What information is needed to address the gaps?
+How do we prioritize which standards to work on?
+Who can help with the standards development effort?
+Which SSO's should be working on these issues?
+
+
+Panelists:
+Bapi Vinnakota (Open Compute Project)
+Matt Kelly (IPC) (Virtual)
+Mark de Silva (SEMI)
+Debendra Das Sharma (UCIe Consortium Standards) (Virtual)
+
+
+9:30 – 10:30 am
+
+
+Breakout Session 4: Discuss and prioritize ideas related to panel 4
+
+
+Led by SIDEM and Corner Alliance facilitators
+
+
+10:30 –11:00 am
+
+
+Break
+
+
+ 
+
+
+11:00 – 11:15 am
+
+
+Report Out from Breakout Session 4
+
+
+Workshop participants and facilitators
+
+
+11:15 – 12:00 pm
+
+
+Consolidation and ranking of priorities
+
+
+Yaw Obeng & Jan Obrzut (CHIPS R&D Office)
+
+
+12:00 –12:30 pm
+
+
+Discuss next steps
+
+
+Yaw Obeng & Jan Obrzut (CHIPS R&D Office)
+
+
+12:30 pm
+
+
+End of workshop - adjourn
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+    Security Instructions
+  
+
+
+*Visitor Access Requirement:
+For Non-US Citizens:  Please have your valid passport for photo identification.
+For US Permanent Residents: Please have your green card for photo identification.
+For US Citizens: Please have your state-issued driver's license. Regarding Real-ID requirements, all states are in compliance or have an extension through May 2025.
+NIST also accepts other forms of federally issued identification in lieu of a state-issued driver's license, such as a valid passport, passport card, DOD's Common Access Card (CAC), Veterans ID, Federal Agency HSPD-12 IDs, and Military Dependents ID.
+
+
+
+
+
+
+
+Electronics, Semiconductors, Information technology, Artificial intelligence, Complex systems, Manufacturing, Factory operations planning and control, Process measurement and control, Quality assurance, Supply chain, Standards, Documentary standards and Frameworks
+
+
+
+
+
+
+
+
+
+Read the Code of Conduct for NIST Conferences.
+
+
+
+
+
+
+workshop
+
+
+
+
+              December 14 - 15, 2023
+
+
+
+
+NIST's National Cybersecurity Center of Excellence (NCCoE)
+9700 Great Seneca Highway
+Rockville, MD 20850
+
+
+Registration for virtual and in-person attendance is now closed.
+
+
+Registration Contact
+
+
+
+Sabina Mohan
+
+sabina.mohan@nist.gov
+
+
+    (301) 975-2002
+  
+
+
+
+
+
+Technical Contact
+
+
+
+Yaw S. Obeng
+
+yaw.obeng@nist.gov
+
+
+    (301) 975-8093
+  
+
+
+Jan Obrzut
+
+jan.obrzut@chips.gov
+
+
+    (301) 975-6845
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersDirector's OfficeCreating Helpful Incentives to Produce Semiconductors for America (CHIPS)CHIPS Research & Development Program Office
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Created October 17, 2023, Updated December 14, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

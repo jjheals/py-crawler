@@ -1,0 +1,23 @@
+
+
+ Ask HN: Seeking link for story re optical internet link that cuts out once/day? | Hacker News
+
+Hacker News
+new | past | comments | ask | show | jobs | submit 
+login
+
+
+
+
+ Ask HN: Seeking link for story re optical internet link that cuts out once/day?
+1 point by jvanderbot 9 minutes ago  | hide | past | favorite | discuss 
+
+I'm trying to remember a story. The story is about a networking or computer science conference. To provide fast wifi to the conference attendees, they made a laser comms link from across the street (or a few streets, cannot remember). The story is about how the internet would cut out a specific times during the day, and it turns out it was temperature-based refraction (or something) that was bending the light so that the lasers didn't connect. Or perhaps the structures were flexing due to heat.Using LLMs, it says:I found a story that matches your description. It's a blog post titled "The day the lasers died" written by Simon Horman in 2005. He shares his experience of providing internet access at a Linux Conference Australia. They used a laser communication link from a building across the street to provide fast WiFi to the conference attendees. However, they experienced network downtime at certain times of the day and discovered it was due to the thermal expansion of the building they were transmitting from, which was causing the lasers to misalign. Here's a link to the story: https://web.archive.org/web/20050306033357/http://vergenet.net/~horms/wayback/lca2005/tdtld.htmlHowever, that link is dead, and I'm fairly certain I read this story on HN, and cannot find anything via angola search. 
+ 
+
+
+
+Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact
+Search:  
+
+

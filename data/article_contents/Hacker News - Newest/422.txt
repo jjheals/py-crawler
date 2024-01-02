@@ -1,0 +1,1356 @@
+
+
+
+
+Windows 11 struggling to escape the shadow of Windows 10 • The Register
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign in / up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Topics
+
+
+
+
+
+
+Security
+
+Security
+
+
+All SecurityCyber-crimePatchesResearchCSO
+(X)
+
+
+
+
+Off-Prem
+
+Off-Prem
+
+
+All Off-PremEdge + IoTChannelPaaS + IaaSSaaS
+(X)
+
+
+
+
+On-Prem
+
+On-Prem
+
+
+All On-PremSystemsStorageNetworksHPCPersonal TechCxOPublic Sector
+(X)
+
+
+
+
+Software
+
+Software
+
+
+All SoftwareAI + MLApplicationsDatabasesDevOpsOSesVirtualization
+(X)
+
+
+
+
+Offbeat
+
+Offbeat
+
+
+All OffbeatDebatesColumnistsScienceGeek's GuideBOFHLegalBootnotesSite NewsAbout Us
+(X)
+
+
+
+
+
+
+
+
+
+Special Features
+
+Special Features
+
+
+
+
+
+All Special Features
+Cloud Infrastructure Week
+Cybersecurity Month
+Blackhat and DEF CON
+Sysadmin Month
+The Reg in Space
+Emerging Clean Energy Tech Week
+Spotlight on RSA
+Energy Efficient Datacenters
+
+
+
+
+
+
+
+Vendor Voice
+
+
+
+
+
+
+Vendor Voice
+
+Vendor Voice
+
+
+
+
+
+All Vendor Voice
+        
+
+            Amazon Web Services (AWS) Business Transformation
+        
+
+            Google Cloud Infrastructure
+        
+
+            Hewlett Packard Enterprise: AI & ML solutions
+        
+
+            Hewlett Packard Enterprise: Edge-to-Cloud Platform
+        
+
+            Intel vPro
+        
+
+            VMware
+        
+
+(X)
+
+
+
+
+
+
+
+Resources
+
+Resources
+
+
+
+
+
+Whitepapers
+Webinars & Events
+Newsletters
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OSes
+
+
+
+
+19
+
+
+
+
+
+Windows 11 unable to escape the shadow of Windows 10 
+
+
+
+19
+
+
+
+
+
+December figures give Redmond little reason to cheer ahead of OS changes to meet EU law
+
+
+
+
+Richard Speed                                
+
+
+
+Tue 2 Jan 2024                                     // 
+15:30 UTC                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Many users are still steering clear of Windows 11 as Microsoft continues to shovel AI into its flagship operating system and prepares updates to mollify regulators.
+The latest figures from Statcounter – there are no official numbers from Microsoft itself – paint a grim picture for the Windows vendor. Windows 10 does not appear to be going anywhere: in December 2022 it accounted for 67.95 percent of the market share and by December 2023 the figure was 67.42 percent.
+
+Windows 12: Savior of PC makers, or just an apology for Windows 11?
+READ MORE
+Despite the updates lavished on Windows 11 during that twelve-month timeframe, Windows 10 still reigns supreme.
+Windows 11 grew from a market share of 16.97 percent in December 2022 to 26.54 percent in December 2023, although it is debatable how much of that came from Windows 7 hardware being retired. The obsolete operating system's share dropped from 11.2 percent to 3.35 percent in the same period.
+Hardware refresh remains a challenge. Microsoft's stringent hardware requirements are a blocker for some users who might otherwise consider moving from Windows 10 to Windows 11. A PC capable of running Windows 10 would likely be just as capable of running Windows 11 if not for Microsoft's insistence that a recent CPU and other hardware are necessary.
+
+
+
+
+
+
+
+As any number of guides on bypassing the hardware requirements make clear, there needs to be more justification from a technical or performance perspective for Microsoft's stance. Without much in the way of tempting new features in Windows 11, users are voting with their feet.
+
+Microsoft prescribes command-line surgery for HP Smart app malady
+Microsoft offers rollback for those affected by Windows wireless futility
+Tiny11 shrinks Windows 11 23H2 down to pocket size
+Microsoft's 11-year itch: The uncelebrated anniversary of Windows 8
+PIRG petitions Microsoft to extend the life of Windows 10
+
+Looking ahead to 2024, other than the expected appearance of something that might or might not be called Windows 12, the most immediate update for both Windows 10 and 11 will be to make the operating systems comply with EU law.
+Microsoft has promised to update Windows 10 22H2 and Windows 11 23H2 in the European Economic Area (EEA) with the ability to uninstall Edge and web search via Bing by March 6, 2024. EEA users will also get new interoperability feeds and be asked if they wish to sync their Microsoft account with Windows.
+
+
+
+
+
+
+
+However, other than stripping out some failed experiments – such as the recent sunsetting of Windows Mixed Reality – there seems to be precious little in Windows 11 to tempt users away from Windows 10, and it does not look like this will change dramatically in 2024.
+Even Microsoft appears to be facing up to Windows 10's unwanted longevity. In November last year, it announced that it would bring its AI-infused assistance, Copilot, to Windows 10.
+
+
+
+
+
+
+
+Shortly after, the company said yes – there would be Extended Security Updates to keep the lights on a little longer, as is custom. As usual, this is expected to come at an as-yet unspecified fee. ® 
+Get our Tech Resources
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More about
+
+
+
+
+                Microsoft
+            
+
+
+
+
+
+                Windows 11
+            
+
+
+
+
+
+More like these
+
+
+
+×
+
+More about
+
+
+
+
+                Microsoft
+            
+
+
+
+
+
+                Windows 11
+            
+
+
+
+
+
+Narrower topics
+
+
+
+
+                Active Directory
+            
+
+
+
+
+
+                Azure
+            
+
+
+
+
+
+                Bing
+            
+
+
+
+
+
+                BSoD
+            
+
+
+
+
+
+                Excel
+            
+
+
+
+
+
+                Exchange Server
+            
+
+
+
+
+
+                HoloLens
+            
+
+
+
+
+
+                Internet Explorer
+            
+
+
+
+
+
+                LinkedIn
+            
+
+
+
+
+
+                Microsoft 365
+            
+
+
+
+
+
+                Microsoft Build
+            
+
+
+
+
+
+                Microsoft Edge
+            
+
+
+
+
+
+                Microsoft Ignite
+            
+
+
+
+
+
+                Microsoft Office
+            
+
+
+
+
+
+                Microsoft Surface
+            
+
+
+
+
+
+                Microsoft Teams
+            
+
+
+
+
+
+                .NET
+            
+
+
+
+
+
+                Office 365
+            
+
+
+
+
+
+                OS/2
+            
+
+
+
+
+
+                Outlook
+            
+
+
+
+
+
+                Patch Tuesday
+            
+
+
+
+
+
+                Pluton
+            
+
+
+
+
+
+                SharePoint
+            
+
+
+
+
+
+                Skype
+            
+
+
+
+
+
+                SQL Server
+            
+
+
+
+
+
+                Visual Studio
+            
+
+
+
+
+
+                Visual Studio Code
+            
+
+
+
+
+
+                Windows 10
+            
+
+
+
+
+
+                Windows 7
+            
+
+
+
+
+
+                Windows 8
+            
+
+
+
+
+
+                Windows Server
+            
+
+
+
+
+
+                Windows Server 2003
+            
+
+
+
+
+
+                Windows Server 2008
+            
+
+
+
+
+
+                Windows Server 2012
+            
+
+
+
+
+
+                Windows Server 2013
+            
+
+
+
+
+
+                Windows Server 2016
+            
+
+
+
+
+
+                Windows Subsystem for Linux
+            
+
+
+
+
+
+                Windows XP
+            
+
+
+
+
+
+                Xbox
+            
+
+
+
+
+
+                Xbox 360
+            
+
+
+
+
+
+Broader topics
+
+
+
+
+                Bill Gates
+            
+
+
+
+
+
+                Operating System
+            
+
+
+
+
+
+                Windows
+            
+
+
+
+
+
+
+
+
+
+
+More about
+
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19
+
+                    COMMENTS
+            
+
+
+
+
+More about
+
+
+
+
+                Microsoft
+            
+
+
+
+
+
+                Windows 11
+            
+
+
+
+
+
+More like these
+
+
+
+×
+
+More about
+
+
+
+
+                Microsoft
+            
+
+
+
+
+
+                Windows 11
+            
+
+
+
+
+
+Narrower topics
+
+
+
+
+                Active Directory
+            
+
+
+
+
+
+                Azure
+            
+
+
+
+
+
+                Bing
+            
+
+
+
+
+
+                BSoD
+            
+
+
+
+
+
+                Excel
+            
+
+
+
+
+
+                Exchange Server
+            
+
+
+
+
+
+                HoloLens
+            
+
+
+
+
+
+                Internet Explorer
+            
+
+
+
+
+
+                LinkedIn
+            
+
+
+
+
+
+                Microsoft 365
+            
+
+
+
+
+
+                Microsoft Build
+            
+
+
+
+
+
+                Microsoft Edge
+            
+
+
+
+
+
+                Microsoft Ignite
+            
+
+
+
+
+
+                Microsoft Office
+            
+
+
+
+
+
+                Microsoft Surface
+            
+
+
+
+
+
+                Microsoft Teams
+            
+
+
+
+
+
+                .NET
+            
+
+
+
+
+
+                Office 365
+            
+
+
+
+
+
+                OS/2
+            
+
+
+
+
+
+                Outlook
+            
+
+
+
+
+
+                Patch Tuesday
+            
+
+
+
+
+
+                Pluton
+            
+
+
+
+
+
+                SharePoint
+            
+
+
+
+
+
+                Skype
+            
+
+
+
+
+
+                SQL Server
+            
+
+
+
+
+
+                Visual Studio
+            
+
+
+
+
+
+                Visual Studio Code
+            
+
+
+
+
+
+                Windows 10
+            
+
+
+
+
+
+                Windows 7
+            
+
+
+
+
+
+                Windows 8
+            
+
+
+
+
+
+                Windows Server
+            
+
+
+
+
+
+                Windows Server 2003
+            
+
+
+
+
+
+                Windows Server 2008
+            
+
+
+
+
+
+                Windows Server 2012
+            
+
+
+
+
+
+                Windows Server 2013
+            
+
+
+
+
+
+                Windows Server 2016
+            
+
+
+
+
+
+                Windows Subsystem for Linux
+            
+
+
+
+
+
+                Windows XP
+            
+
+
+
+
+
+                Xbox
+            
+
+
+
+
+
+                Xbox 360
+            
+
+
+
+
+
+Broader topics
+
+
+
+
+                Bill Gates
+            
+
+
+
+
+
+                Operating System
+            
+
+
+
+
+
+                Windows
+            
+
+
+
+
+
+
+
+
+
+TIP US OFF
+Send us news
+
+
+
+
+
+
+
+
+Other stories you might like
+
+
+
+
+
+ 
+Microsoft offers rollback for those affected by Windows wireless futility
+See, it wasn't just you
+
+OSes20 Dec 2023 | 21
+
+
+
+
+
+ 
+While you holidayed, Microsoft brought Copilot to mobile devices, again
+
+First Look Redmond's AI assistant bounds onto Android and iOS without Bing branding
+
+AI + ML2 Jan 2024 | 9
+
+
+
+
+
+ 
+New York Times sues OpenAI, Microsoft over 'millions of articles' used to train ChatGPT
+'A business model based on mass copyright infringement'
+
+AI + ML27 Dec 2023 | 58
+
+
+
+
+
+ 
+Cyber security isn’t simple, but it could be
+The biggest problem is a tendency to ignore problems you can’t see or haven’t looked for, says SecurityHQ
+Sponsored Feature
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Microsoft fixes Copilot multi-monitor issues in Windows 11 update
+Alt+Tab support added and more in latest update to OS
+
+AI + ML5 Dec 2023 | 7
+
+
+
+
+
+ 
+ValueLicensing tries to smack down Microsoft defenses in license reselling spat
+UK software reseller alleges 'no real prospect of success' of Windows giant's arguments
+
+Software19 Dec 2023 | 8
+
+
+
+
+
+ 
+Before you go away for Xmas: You've patched that critical Perforce Server hole, right?
+Microsoft bug hunters highlight weaknesses in source-wrangling suite
+
+Patches19 Dec 2023 | 9
+
+
+
+
+
+ 
+Microsoft prescribes command-line surgery for HP Smart app malady
+Printer names messed up? Debug It Yourself
+
+OSes20 Dec 2023 | 15
+
+
+
+
+
+
+
+ 
+Iranian cyberspies target US defense orgs with a brand new backdoor
+
+Infosec in brief Also: International cops crackdown on credit card stealers and patch these critical vulns
+
+Cyber-crime23 Dec 2023 | 9
+
+
+
+
+
+ 
+Doom is 30, and so is Windows NT. How far we haven't come
+
+Comment The difference between 1983 and 1993 is vast. Since then, not so much
+
+OSes19 Dec 2023 | 261
+
+
+
+
+
+ 
+Microsoft puts the 'why?' in Wi-Fi with latest Windows patch
+Redmond stuffs IT admin Christmas stockings with network issues
+
+OSes18 Dec 2023 | 37
+
+
+
+
+
+ 
+Microsoft seizes websites used to sell phony email accounts to Scattered Spider and other crims
+That should solve the global cybercrime problem, right?
+
+Cyber-crime14 Dec 2023 | 8
+
+
+
+
+
+
+
+
+
+
+The Register   Biting the hand that feeds IT
+
+
+
+
+
+
+About Us
+
+Contact us
+Advertise with us
+Who we are
+
+
+
+Our Websites
+
+The Next Platform
+DevClass
+Blocks and Files
+
+
+
+Your Privacy
+
+Cookies Policy
+Privacy Policy
+T's & C's
+
+Do not sell my personal information
+
+
+
+
+
+
+
+
+
+
+                        Copyright. All rights reserved © 1998–2023
+
+                    
+
+
+
+
+
+
+
+
+
+
+
+

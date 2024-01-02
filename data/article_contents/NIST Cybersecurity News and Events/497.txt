@@ -1,0 +1,752 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST Calls for Information to Support Safe, Secure and Trustworthy Development and Use of Artificial Intelligence | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2023/12/nist-calls-information-support-safe-secure-and-trustworthy-development-and
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Our Organization
+
+
+Office of the Director
+
+
+Budget & Planning
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS
+
+
+
+NIST Calls for Information to Support Safe, Secure and Trustworthy Development and Use of Artificial Intelligence
+
+
+December 19, 2023
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST seeks information to support its response to the Executive Order on AI.
+Comments received will help NIST develop guidelines for evaluation and red-teaming; consensus-based standards; and more.
+Responses are due Feb. 2, 2024.
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  everything possible/Shutterstock
+
+        
+
+
+GAITHERSBURG, Md. — The U.S. Department of Commerce’s National Institute of Standards and Technology (NIST) has issued a Request for Information (RFI) that will assist in the implementations of its responsibilities under the recent Executive Order on Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence (AI). The order directs NIST to develop guidelines for evaluation, red-teaming and more; facilitate development of consensus-based standards; and provide testing environments for the evaluation of AI systems. These guidelines and infrastructure will be a resource to help the AI community in the safe and trustworthy development and responsible use of AI.  
+“President Biden has been clear — AI is the defining technology of our generation, and we have an obligation to harness the power of AI for good while protecting people from its risks. As part of the president’s Executive Order, the Department of Commerce is soliciting feedback across industry, academia, civil society and more so we can develop industry standards around AI safety, security, and trust that will enable America to continue leading the world in the responsible development and use of this rapidly evolving technology,” said U.S. Secretary of Commerce Gina Raimondo.  
+The responses to the request for information will support NIST’s efforts to evaluate capabilities relating to AI technologies and develop a variety of guidelines called for in the Executive Order. The RFI specifically calls for information related to AI red-teaming, generative AI risk management, reducing the risk of synthetic content, and advancing responsible global technical standards for AI development.
+“We look forward to strengthening our engagement with the community to advance our understanding of AI measurement and evaluation as we begin to work toward the goals set out in the Executive Order,” said Under Secretary of Standards and Technology and NIST Director Laurie E. Locascio. “I want to invite the broader AI community to engage with our talented and dedicated team through this request for information to advance the measurement and practice of AI safety and trust. It is essential that we gather all perspectives as we work to establish a strong and unbiased scientific understanding of AI, which has the potential to impact so many areas of our lives.”
+NIST develops guidance through an open and transparent process that involves a wide range of stakeholders from industry, academia, government and civil society. 
+Other assignments to NIST in the Executive Order related to cybersecurity and privacy, synthetic nucleic acid sequencing, and supporting agencies’ implementation of minimum risk-management practices are being addressed separately from this RFI. Information about NIST’s assignments and plans under the Executive Order, along with further opportunities for public input, may be found on the NIST website.  
+Responses will be accepted until Feb. 2, 2024, and will be posted to www.regulations.gov. The information collected will inform the drafting of guidance that NIST will release for public comment. 
+
+
+
+
+
+Information technology, Artificial intelligence, Applied AI, Fundamental AI, Cybersecurity, Risk management and Trustworthy platforms
+
+
+
+
+
+
+
+
+Media Contact
+
+
+
+
+Jennifer Huergo
+
+jennifer.huergo@nist.gov
+
+
+    (301) 975-6343
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsInformation Technology LaboratoryInformation Technology Laboratory OfficeOffice of Emerging Technologies
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released December 19, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

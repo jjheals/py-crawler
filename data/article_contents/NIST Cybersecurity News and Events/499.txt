@@ -1,0 +1,742 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The METIS Data Exchange Ecosystem Seeks Your Input | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2023/12/metis-data-exchange-ecosystem-seeks-your-input
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Our Organization
+
+
+Office of the Director
+
+
+Budget & Planning
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UPDATES
+
+
+
+The METIS Data Exchange Ecosystem Seeks Your Input
+
+
+CHIPS for America has released the initial public draft of NIST CHIPS SP-1000-2 ipd for public comment. The comment period closes on January 31, 2024.
+
+
+December 14, 2023
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Metrology Exchange to Innovate in Semiconductors (METIS) data exchange ecosystem created by NIST will answer the needs of the microelectronics community by making federally funded CHIPS Metrology Program research data and other relevant NIST products accessible to the broader microelectronics community.
+The METIS concept leverages and builds upon currently existing data management systems and processes within NIST.
+METIS protects the intellectual property of contributors with NIST cybersecurity standards and controls.
+
+
+
+
+NIST and CHIPS request comments on the draft of Special Publication 1000-2 ipd, Building a Metrology Exchange to Innovate in Semiconductors (METIS). This publication presents the vision for ensuring that the direct results of federally funded scientific research under the CHIPS Metrology Program are made available to and useful for the public, industry, and the scientific community. The dissemination and exchange of data, models, and other data products convey the outcomes of world-leading microelectronics research to the marketplace, enabling and supporting America’s security and commercial competitiveness.
+NIST CHIPS Special Publication 1000-2, Building a Metrology Exchange to Innovate in Semiconductors (METIS), outlines the vision for a data exchange ecosystem that provides stakeholders with access to CHIPS Metrology research results. This vision describes the functionality of METIS and how it may be used.
+Get the draft METIS publication and the comment template from the METIS project page. We request that all comments be submitted by 11:59 pm Eastern Time on January 31, 2024. Please submit your comments to research [at] chips.gov (research[at]chips[dot]gov).
+Background
+The CHIPS Metrology Program, part of the CHIPS Research and Development Office at the National Institute of Standards and Technology (NIST), is a collaborative program bringing together NIST staff with stakeholders from industry, other government agencies, and academic institutions to address measurement challenges related to microelectronics manufacturing. Through this collaboration, the CHIPS Metrology Program expands upon NIST’s strong track record of supporting the microelectronics technology and manufacturing ecosystem by developing, advancing, and deploying measurements, standards, reference materials, and best practices. 
+There is an immediate need to make NIST research funded through the CHIPS Metrology Program available in a manner that guards intellectual property, protects U.S. security interests, is aligned with the approach used by NIST for access to research results, and is self-sustaining to meet future needs. A data exchange ecosystem will meet that need, giving stakeholders access to CHIPS Metrology research results and catalyzing breakthroughs in U.S. semiconductor manufacturing. We call this data exchange concept “METIS”—Metrology Exchange to Innovate in Semiconductors—after Metis, the Greek goddess of innovative ideas, good counsel, skill, and craft. The METIS concept leverages and builds upon current data management systems and processes within NIST, an organization uniquely qualified to both produce and manage leading metrology research and technical data products. By designing the data ecosystem around and for research that meets the needs of the public, industry, and the scientific community, METIS shepherds the research process from the start and provides security and controls to enable the final products to reach their intended recipients.
+Learn more about the CHIPS Metrology Program and CHIPS for America.
+
+
+
+
+
+Electronics, Semiconductors, Information technology, Cybersecurity, Data and informatics, Manufacturing and Metrology
+
+
+
+
+
+
+
+
+Technical Contact
+
+
+
+
+Gretchen Greene
+
+gretchen.greene@nist.gov
+
+
+    (301) 975-6733
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsDirector's OfficeCreating Helpful Incentives to Produce Semiconductors for America (CHIPS)CHIPS Research & Development Program OfficeSemiconductor Metrology & Characterization Office
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released December 14, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

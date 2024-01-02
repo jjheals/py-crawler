@@ -1,0 +1,760 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST Awards Nearly $3 Million to Small Businesses to Advance Semiconductor Manufacturing, Drug Development and More | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2023/12/nist-awards-nearly-3-million-small-businesses-advance-semiconductor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Our Organization
+
+
+Office of the Director
+
+
+Budget & Planning
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS
+
+
+
+NIST Awards Nearly $3 Million to Small Businesses to Advance Semiconductor Manufacturing, Drug Development and More
+
+
+December 19, 2023
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fifteen small businesses in nine states will advance new technologies under NIST’s Small Business Innovation Research (SBIR) Program.
+Awardees receive up to $100,000 for Phase I projects and up to $400,000 for Phase II projects.
+
+
+
+
+
+  This colorized micrograph reveals thinner (yellow) and thicker (blue) regions of a 100% polyester fabric used in face masks. The NIST SBIR program supports research at small businesses such as developing a method to measure the effectiveness of face masks and respirators in real-world conditions.
+
+
+Credit:
+          
+  NIST
+
+        
+GAITHERSBURG, Md. — The U.S. Department of Commerce’s National Institute of Standards and Technology (NIST) has awarded nearly $3 million to 15 small businesses in nine states under the Small Business Innovation Research (SBIR) Program. The funding will go to research and development and commercialization projects to support a variety of technology-based programs such as advances in semiconductors, drug development and flexible electronics manufacturing.
+The competitively selected proposals were submitted in response to a call for innovative products addressing specific technical needs in NIST areas of research including advanced communications, cybersecurity and privacy, health and biological systems measurements, advanced manufacturing and more.
+SBIR Phase I awardees will receive up to $100,000 to establish the merit, feasibility and commercial potential of the proposed research and development. After completing their Phase I projects, awardees are eligible to apply for Phase II funding of up to $400,000 to continue their efforts. Phase III relies on non-SBIR funds for technology commercialization.
+2023 Phase I SBIR Awardees
+Actoprobe LLC (Albuquerque, New Mexico) $99,909Scanning Probe Microscopy with Active Optical Probes: A Novel Approach to Measurements and Nanomanufacturing — a novel class of near-field optical probes that will allow precise optical characterization on the single-molecule and even submolecular scale, with applications in biotechnology, 3D printing and more.
+Applied Research Transformation (Durham, North Carolina) $100,000Sentinel 4.0TM: Measurement and Control System for 3DCP Interlayer Bond Strength — a commercial system for measuring and controlling the quality of bond strength in 3D-printed concrete under multiple environmental conditions.
+ChemCubed LLC (Stony Brook, New York) $99,998Printable Dielectric for Flexible Hybrid Electronics — a stretchable dielectric ink for printing flexible electronic circuits that could be used in wearable sensors, ultra-lightweight and flexible photovoltaics and other applications where flexibility is needed.
+Exabyte Inc. (Walnut Creek, California) $99,895Developing Data Standards for Accelerated Digital R&D of Semiconductor Materials from Nanoscale — data standards for accelerated research and development of semiconductor materials at the nanoscale.
+Framergy Inc. (College Station, Texas) $100,000A Novel Advanced Manufacturing Pathway for Direct Incorporation of Metal-Organic Frameworks in Polymeric Sponges — polymer composites that incorporate metal-organic frameworks (MOFs), for potential use as air and water filters for the treatment of harmful chemicals. 
+ITA International LLC (Newport News, Virginia) $99,292Method for Quantifying Fitted Filtration Efficiency of Face Mask and Respirator Products — research leading up to development of a novel Fitted Filtration Efficiency (FFE) protocol to assess mask/respirator effectiveness for as-worn conditions.
+QuantTera LLC (Tempe, Arizona) $99,977Heterogeneous Millimeter-Wave Gallium Nitride Heterojunction Bipolar Transistor — development of high-performance radio frequency power amplifiers for use in wireless network communications systems.
+Rownd Inc. (Raleigh, North Carolina) $96,644Accelerating Adoption of Anti-Phishing Authentication Methods — analysis of the costs of moving from password-based to passwordless systems, understanding the various passwordless options and their merits, and recognizing the risks of maintaining passwordless methods to increase phishing-resistant systems. 
+SygnaMap (San Antonio, Texas) $100,000Metabolite Reference Standards to Normalize Spatial Metabolomics Across Tissue Sections — an innovative computational platform to analyze data from spatial metabolomics — an emerging field of bioanalytical chemistry that aims to observe cellular biology with the greatest detail possible — for use in drug development.
+Xmark Labs LLC (Barrington, Rhode Island) $100,000Feasibility and Proof of Concept of a Dense, Low-Cost Network of Sensors Driving Intelligent Building Agents for Air Quality and Energy Control — establish the feasibility and proof of concept of a networked, affordable environmental sensor to enhance energy control and air quality regulation for commercial buildings.
+2023 Phase II SBIR Awardees
+Criticality Sciences (Alexandria, Virginia) $400,000Network Resilience to Cascading Failure — validation of data inputs and outputs and the development of methods to use metrics to support resilience investment and financing for critical infrastructure such as water and power utilities.
+InfraTrac Inc. (Silver Spring, Maryland) $400,000Analytical Quality Management for 3D-Printed Small Molecule Drugs — predictive modeling and near-infrared spectroscopy for 3D drug printing to enable customized doses, child-friendly formulations and easy-to-remember combination polypills.
+Interlink Electronics Inc. (Irvine, California) $398,622Materials for Gravure Printing of Chemical Gas Sensors — development of manufacturing techniques such as roll-to-roll printing to enable mass production of electrochemical gas sensors, as well as suitable chemistries for large-scale printed sensors and testing methods.
+Julia Jean LLC (Irvine, California) $400,000On-Chip Cold Cathode Electron Sources for X-Ray Generation and Imaging: Advancing a NIST-Patented Technology — a project to identify and compare the variables in a new lithography procedure for the best process for manufacturing the technology at scale. 
+Tiami LLC (Elk Grove, California) $399,979Digital TV-Based Positioning for First Responder Tracking in GPS-Denied Environments — prototyping of a portable digital television-based positioning receiver and demonstration of the use of over-the-air Advanced Television Systems Committee (ATSC) 3.0 broadcast transmissions to improve indoor positioning and navigation where GPS coverage is not available. 
+
+
+
+
+
+Electronics, Semiconductors, Health, Information technology, Cybersecurity, Infrastructure, Manufacturing, Nanotechnology and Nanofabrication / manufacturing
+
+
+
+
+
+
+
+
+Media Contact
+
+
+
+
+Jennifer Huergo
+
+jennifer.huergo@nist.gov
+
+
+    (301) 975-6343
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersInnovation & Industry ServicesInnovation & Industry ServicesTechnology Partnerships OfficeTechnology Partnerships Office - HQ
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released December 19, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

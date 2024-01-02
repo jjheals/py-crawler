@@ -1,0 +1,151 @@
+
+
+
+
+
+Rambles around computer science
+
+
+
+
+Rambles around computer science
+Diverting trains of thought, wasting precious time
+
+Tue, 02 Jan 2024
+How to “make” a shell script
+This post is about the following strange program I wrote recently.
+
+dummy=; define () { true; }
+define dummy
+echo "Hello from shell; PATH is ${PATH}"
+return 0 2>/dev/null || exit 0
+endef
+
+.PHONY: say-hello
+say-hello:
+    @echo "Hello from make; makevar PATH is $(PATH), envvar PATH is $${PATH}"
+
+One of my guilty secrets is that ‘make’
+is one of my favourite programming languages.
+It has persistence and goal-driven incremental execution... so high-level!
+Although it is string-based, it has
+much less esoteric quoting behaviour than the shell.
+Another guilty secret is that I also write a lot of shell scripts.
+Despite not really liking the shell as a language,
+I've grown used to its quirks.
+When the filesystem is your database, the shell is an essential tool.
+A third not-so-guilty secret is that I believe in the power
+of the one-filer: a piece of software
+I can deploy as a single short-ish file.
+The above program is a demo of how to combine
+shell and ‘make’ code in the same file,
+increasing the space of one-file programs you can write.
+Of course, ‘make’ already embeds the shell,
+but in a very limited way:
+recipes embed single-line shell commands within them.
+Normally you can't (usefully) define shell functions within ‘make’ for example.
+But now, thanks to my handy trick, you can!
+Whereas normally you'd have to put them in a separate file that you source
+from some shell commands in the makefile,
+the “separate sourced file” can now be the same file as the makefile itself.
+That's just one benefit to have shell-and-‘make’ code bundled together.
+This implied use of source is why the shell code ends as it does:
+if we're being sourced
+we want to return rather than exit.
+Since return will provoke a complaint and an error status if we're not being sourced,
+we silence the complaint and fall back to exit.
+Why does all this work?
+The shell is more-or-less line-oriented:
+it reads your script incrementally
+and will not read further in the file than it needs to.
+So, the file itself can easily contain non-script data at the end,
+following an exit command.
+The self-extracting shell script is a well-known trick
+exploiting this fact.
+‘make’, however, as an interpreter
+is file-oriented: it will read a whole
+makefile before it does anything.
+That would seem to be a problem if we want to embed non-‘make’ content
+in a makefile.
+However, there is a way.
+The first three lines consist of punny
+shell-or-make code. It means something different, but valid,
+to both the shell and ‘make’.
+These meanings are such that ‘make” will ignore the shell code
+and the shell will ignore the ‘make’ code.
+The main trick is use of the multi-line lazy “define”
+feature of ‘make’.
+This wraps around the shell code.
+Even if the shell code contains  things that look like make expansions,
+the laziness ensures they will not get evaluated.
+Rather, ‘make’ just scans forwards looking for “endef”,
+which appears only after the shell has exited.
+Conversely,
+to allow the shell to pass over this “define” decoration
+harmlessly,
+we create a function called define
+(supplanting any command of the same name that might be on the PATH).
+The ‘;’ trick exploits how
+blah=x; something
+
+associates differently in ‘make’ versus the shell.
+In ‘make’ the part ‘; something’
+is included in the string that is assigned,
+since semicolons are not a terminator.
+In the shell they are, allowing our something to be
+a definition of a no-op function called define,
+which we use to make the shell skip over the define intended for ‘make’.
+Similarly, define in ‘make’ is a multi-line construct
+and the body is expanded only lazily (i.e. not at all, since we don't use it).
+We use this to skip over an arbitrary number of shell lines.
+Before landing on this solution,
+I tried various things that didn't work.
+These included variations using the form $(eval ...)
+which is syntactically
+valid in both ‘make’ and the shell but has slightly different semantics.
+It didn't work because ‘make’'s eval is tricksy.
+Unlike shell expansion,
+we can't use it to inject arbitrary strings
+or even arbitrary token sequences;
+it seems only to work when if it generates a whole phrase of valid “make’ syntax.
+This means that we can't, for example, have the shell skip over the define simply by having
+define be expanded from an application of ‘make’'s
+eval'd that expands to empty in the shell.
+Why do I want all this?
+My motivation was writing moderately simple web applications
+that could be hosted easily on a machine where I have only basic
+privileges.
+If I can run CGI scripts, I can use the shell and the filesystem.
+I may not be able to (or want to) run PHP or similar.
+And the same goes for databases...
+even if I could run a database,
+they're a lot less useful than files in our current
+(impoverished) software ecosystem.
+Programs have to be written specially to interface with a database, but
+files have the nice property that most programs know how to access them.
+My application's data doesn't need to be “exported” to them,
+which anyway brings the complexity of copying.
+Instead I can have direct access to files that
+my web application also accesses.
+My demo application is a form-filling system a bit like
+Doodle, but called Doddle.
+Instead of a database, I have files.
+Instead of PHP, I have the shell.
+No special privileges are needed, beyond the ability to run CGI programs.
+More about that anon....
+
+[/devel] 
+permanent link
+contact
+
+
+
+
+
+
+validate this page
+
+
+
+
+

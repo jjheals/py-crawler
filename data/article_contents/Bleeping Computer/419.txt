@@ -1,0 +1,973 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Malware abuses Google OAuth endpoint to ‘revive’ cookies, hijack accounts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+
+Featured
+Latest
+
+
+
+
+
+
+
+New Black Basta decryptor exploits ransomware flaw to recover files
+
+
+
+
+
+Malware abuses Google OAuth endpoint to ‘revive’ cookies, hijack accounts
+
+
+
+
+
+Hospitals ask courts to force cloud storage firm to return stolen data
+
+
+
+
+
+Microsoft disables MSIX protocol handler abused in malware attacks
+
+
+
+
+
+
+
+
+
+ Google Groups is ending support for Usenet to combat spam
+
+
+
+
+
+Victoria court recordings exposed in reported ransomware attack
+
+
+
+
+
+Get started in ethical hacking with $155 off this course bundle deal
+
+
+
+
+
+The law enforcement operations targeting cybercrime in 2023
+
+
+
+
+
+
+
+
+Downloads
+
+
+
+Latest
+Most Downloaded
+
+
+
+
+
+
+
+Qualys BrowserCheck
+
+
+
+
+
+STOPDecrypter
+
+
+
+
+
+AuroraDecrypter
+
+
+
+
+
+FilesLockerDecrypter
+
+
+
+
+
+
+
+
+
+AdwCleaner
+
+
+
+
+
+ComboFix
+
+
+
+
+
+RKill
+
+
+
+
+
+Junkware Removal Tool
+
+
+
+
+
+
+
+
+VPNs
+
+
+
+Popular
+
+
+
+
+
+
+
+Best VPNs
+
+
+
+
+
+How to change IP address
+
+
+
+
+
+Access the dark web safely
+
+
+
+
+
+Best VPN for YouTube
+
+
+
+
+
+
+
+
+Virus Removal Guides
+
+
+
+Latest
+Most Viewed
+Ransomware
+
+
+
+
+
+
+
+Remove the Theonlinesearch.com Search Redirect
+
+
+
+
+
+Remove the Smartwebfinder.com Search Redirect
+
+
+
+
+
+How to remove the PBlock+ adware browser extension
+
+
+
+
+
+Remove the Toksearches.xyz Search Redirect
+
+
+
+
+
+
+
+
+
+Remove Security Tool and SecurityTool (Uninstall Guide)
+
+
+
+
+
+How to Remove WinFixer / Virtumonde / Msevents / Trojan.vundo
+
+
+
+
+
+How to remove Antivirus 2009 (Uninstall Instructions)
+
+
+
+
+
+How to remove Google Redirects or the TDSS, TDL3, or Alureon rootkit using TDSSKiller
+
+
+
+
+
+
+
+
+
+Locky Ransomware Information, Help Guide, and FAQ
+
+
+
+
+
+CryptoLocker Ransomware Information Guide and FAQ
+
+
+
+
+
+CryptorBit and HowDecrypt Information Guide and FAQ
+
+
+
+
+
+CryptoDefense and How_Decrypt Ransomware Information Guide and FAQ
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Latest
+Popular
+
+
+
+
+
+
+
+How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11
+
+
+
+
+
+How to use the Windows Registry Editor
+
+
+
+
+
+How to backup and restore the Windows Registry
+
+
+
+
+
+How to open a Windows 11 Command Prompt as Administrator
+
+
+
+
+
+
+
+
+
+How to start Windows in Safe Mode
+
+
+
+
+
+How to remove a Trojan, Virus, Worm, or other Malware
+
+
+
+
+
+How to show hidden files in Windows 7
+
+
+
+
+
+How to see hidden files in Windows
+
+
+
+
+
+
+
+
+Deals
+
+
+
+Categories
+
+
+
+
+
+
+
+eLearning
+
+
+
+
+
+IT Certification Courses
+
+
+
+
+
+Gear + Gadgets
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+
+Forums
+More
+
+Startup Database
+Uninstall Database
+Glossary
+Chat on Discord
+Send us a Tip!
+Welcome Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeNewsSecurityMalware abuses Google OAuth endpoint to ‘revive’ cookies, hijack accounts
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Malware abuses Google OAuth endpoint to ‘revive’ cookies, hijack accounts
+
+
+By Bill Toulas
+
+
+December 29, 2023
+11:13 AM
+3
+
+
+
+
+Multiple information-stealing malware families are abusing an undocumented Google OAuth endpoint named "MultiLogin" to restore expired authentication cookies and log into users' accounts, even if an account's password was reset.
+Session cookies are a special type of browser cookie that contains authentication information, allowing a person to automatically log in to websites and services without entering their credentials.
+These types of cookies are meant to have a limited lifespan, so they cannot be used indefinitely by threat actors to log into accounts if they are stolen.
+In late November 2023, BleepingComputer reported on two information-stealers, namely Lumma and Rhadamanthys, who claimed they could restore expired Google authentication cookies stolen in attacks.
+These cookies would allow the cybercriminals to gain unauthorized access to Google accounts even after the legitimate owners have logged out, reset their passwords, or their session has expired.
+BleepingComputer has contacted Google multiple times over a month with questions about these claims and how they plan to mitigate the issue, but we never received a response.
+Exploiting Google OAuth endpoint
+A report published today by CloudSEK researchers sheds more light on how this zero-day exploit works and paints a dire picture regarding the scale of its exploitation.
+The exploit was first revealed by a threat actor named PRISMA on October 20, 2023, who posted on Telegram that they discovered a way to restore expired Google authentication cookies.
+After reverse engineering the exploit, CloudSEK discovered it uses an undocumented Google OAuth endpoint named "MultiLogin," which is intended for synchronizing accounts across different Google services by accepting a vector of account IDs and auth-login tokens.
+"This request is used to set chrome accounts in browser in the Google authentication cookies for several google websites (e.g. youtube)," explains a description of the API endpoint in the Google Chrome source code.
+"This request is part of Gaia Auth API, and is triggered whenever accounts in cookies are not consistent with accounts in browser," a variable in the source code further explains.
+CloudSEK says that information-stealing malware abusing this endpoint extracts tokens and account IDs of Chrome profiles logged into a Google account. This stolen information contains two crucial pieces of data: service (GAIA ID) and encrypted_token.
+The encrypted tokens are decrypted using an encryption stored in Chrome's 'Local State' file. This same encryption key is also used to decrypt saved passwords in the browser.
+Using the stolen token:GAIA pairs with the MultiLogin endpoint, the threat actors can regenerate expired Google Service cookies and maintain persistent access on compromised accounts.
+
+Using token:GAIA pairs read from a text file to generate requests to MultiLoginSource: CloudSEK
+In a discussion with CloudSek researcher Pavan Karthick, BleepingComputer was told they reverse-engineered the exploit and were able to use it to regenerate expired Google authentication cookies, as shown below.
+
+Successful cookie regeneration following password resetSource: CloudSEK
+However, Karthick explained that the authentication cookie can only be regenerated once if a user resets their Google password. Otherwise, it can be regenerated multiple times, providing persistent access to the account.
+Malware devs rush to add exploit
+Lumma stealer first adopted the exploit on November 14, whose developers applied blackboxing techniques such as encrypting the token:GAIA pair with private keys to hide the mechanism from competitors and prevent the replication of the feature.
+Still, others were able to copy the feature or incorporate PRISMA's exploit into their stealers, with Rhadamanthys being the first to follow on November 17.
+Since then, numerous other information stealers have adopted the exploit, including Stealc on December 1, Medusa on December 11, RisePro on December 12, and Whitesnake on December 26.
+So, at least six info-stealers currently claim the ability to regenerate Google cookies using this API endpoint.
+Threat intelligence firm Hudson Rock has also published the following video on YouTube, where a cybercriminal demonstrates how the cookie restoration exploit works.
+
+A subsequent release by Lumma updated the exploit to counteract Google's mitigations, suggesting that the tech giant knows about the actively exploited zero-day flaw.
+Specifically, Lumma turned to using SOCKS proxies to evade Google's abuse detection measures and implemented encrypted communication between the malware and the MultiLogin endpoint.
+However, since Google hasn't confirmed the abuse of the MultiLogin endpoint, the status of the exploitation and its mitigation efforts remain unclear at this time.
+
+Related Articles:
+Malware dev says they can revive expired Google auth cookiesRhadamanthys Stealer malware evolves with more powerful featuresAtomic Stealer malware strikes macOS via fake browser updatesSteam game mod breached to push password-stealing malwareNew Xamalicious Android malware installed 330k times on Google Play
+
+
+
+
+
+
+
+
+Account Takeover
+Cookie
+Cookies
+Google
+Info Stealer
+Information Stealer
+Malware
+Zero-Day
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bill Toulas   
+Bill Toulas is a tech writer and infosec news reporter with over a decade of experience working on various online publications, covering open-source, Linux, malware, data breach incidents, and hacks.
+
+
+
+ Previous Article 
+Next Article 
+
+
+Comments
+
+
+ 
+
+
+
+
+e11i0t  - 2 days ago 
+
+ 
+ 
+
+
+How can you save yourself if you are compromised you might ask ? Forgot to put this in original report you can find it here as well as in original report
+Interim Remediation Steps:
+While we await a comprehensive solution from Google, users can take immediate action to safeguard against this exploit. If you suspect your account may have been compromised, or as a general precaution, sign out of all browser profiles to invalidate the current session tokens. Following this, reset your password and sign back in to generate new tokens. This is especially crucial for users whose tokens and GAIA IDs might have been exfiltrated. Resetting your password effectively disrupts unauthorized access by invalidating the old tokens which the infostealers rely on, thus providing a crucial barrier to the continuation of their exploit.
+
+
+
+
+
+ 
+
+
+
+
+Dill2046  - 1 day ago 
+
+ 
+ 
+
+
+Somehow, the remediation steps described don't correspond with the description above that said this exploit can persist across password reset, at least once. More details and reference, please.
+
+
+
+
+
+ 
+
+
+
+
+WhiteGandalf  - 2 days ago 
+
+ 
+ 
+
+
+What i ask myself after reading this: Why the hack do they bother to establish that two-factor-authentication at all - in the first place?!
+If they build in ways to circumvent the latter, and thus having users forced to enthrall themselves with the sophisticated implications of account stealing, thus climbing to a level where things like to-factor-authentication are completely useless BY DEFINITION OF THE ENFORCED LEVEL OF COMPETENCE of their users?!
+If a user is intelligent enough to grasp the implications of this threat, there is no need at all whatsoever to implement things like "two-factor authentication" with all their inconveniences in the first place.
+In the status as it is, google could just require their users to have sophisticated insight into hacking technology - and counter measures -, because if they don't, they are helpless prey anyways.
+I BET - and i will win - that whatever google will do in reaction to the disclosure of this threat WILL IN NO WAY change anything about this principle.
+EITHER you are a user who has sophisticated insight into and IS aware of threats, and thus have no need whatsoever for over complicated login procedures, OR you are a user who has nothing of that and is left standing in the rain with however complicated login procedures get implemented.
+
+
+
+
+
+Post a Comment Community Rules
+
+You need to login in order to post a comment
+Not a member yet? Register Now
+
+
+
+You may also like:
+
+
+
+
+
+
+
+
+
+
+
+Popular Stories
+
+
+
+
+
+
+Android game dev’s Google Drive misconfig highlights cloud security risks
+
+
+
+
+
+
+
+The biggest cybersecurity and cyberattack stories of 2023
+
+
+
+
+
+
+
+
+
+
+Latest Downloads
+
+
+
+
+Malwarebytes Anti-Malware
+Version: 4.6.7.301
+5M+ Downloads
+
+
+
+
+Windows Repair (All In One)
+Version: 4.14.1
+2M+ Downloads
+
+
+
+
+McAfee Consumer Products Removal tool
+Version: NA
+440,344 Downloads
+
+
+
+
+AdwCleaner
+Version: 8.4.0.0
+56M+ Downloads
+
+
+
+
+Everything Desktop Search
+Version: 1.4.1.1017
+24,641 Downloads
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow us:
+
+
+
+
+
+
+
+
+
+Main Sections
+
+News
+VPN Buyer Guides
+Downloads
+Virus Removal Guides
+Tutorials
+Startup Database
+Uninstall Database
+Glossary
+
+
+
+Community
+
+Forums
+Forum Rules
+Chat
+
+
+
+Useful Resources
+
+Welcome Guide
+Sitemap
+
+
+
+Company
+
+About BleepingComputer
+Contact Us
+Send us a Tip!
+Advertising
+Write for BleepingComputer
+Social & Feeds
+Changelog
+
+
+
+
+
+
+
+
+Terms of Use -  Privacy Policy - Ethics Statement - Affiliate Disclosure
+
+
+Copyright @ 2003 - 2024  Bleeping Computer® LLC  - All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+
+Login
+
+
+Username
+
+
+
+Password
+
+
+
+
+
+Remember Me
+
+
+
+Sign in anonymously
+
+
+
+
+
+ Sign in with Twitter
+
+Not a member yet? Register Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Reporter
+
+Help us understand the problem. What is going on with this comment?
+
+
+
+
+Spam
+
+
+Abusive or Harmful
+
+
+Inappropriate content
+
+
+Strong language
+
+
+Other
+
+
+
+
+
+Read our posting guidelinese to learn what content is prohibited.
+
+
+
+Submitting...
+SUBMIT
+
+
+
+
+
+
+
+
+
+
+

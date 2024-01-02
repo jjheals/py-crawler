@@ -1,0 +1,764 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST Releases NextG Wireless R&D Gap Analysis | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2023/12/nist-releases-nextg-wireless-rd-gap-analysis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Our Organization
+
+
+Office of the Director
+
+
+Budget & Planning
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UPDATES
+
+
+
+NIST Releases NextG Wireless R&D Gap Analysis
+
+
+December 14, 2023
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST and NSF partners engaged with stakeholders from government, academia, and industry to identify crucial technology innovations and research opportunities that could propel innovations in wireless communications over the next two decades. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+As the transition from fifth-generation wireless systems (5G) to next-generation communications systems (NextG) advances, research and development (R&D) communities have the chance to identify key wireless communications research gaps. Addressing these gaps could propel innovations in wireless communications over the next two decades. To respond to this need, the National Institute of Standards and Technology (NIST), in collaboration with the National Science Foundation (NSF), published the Next Generation Communications R&D Gaps Report as NIST SP 1293.  NIST and NSF partners engaged with stakeholders from government, academia, and industry to identify crucial technology innovations and research opportunities for NextG systems.
+The report highlights the major technology gaps that research and development organizations could focus on to drive long-term innovation in Next Generation (NextG) technology across key verticals such as hardware, higher frequencies, joint communications, sensing, and energy-efficient networks. The report describes 108 new technology gaps, which are built upon the findings published in NIST's Special Publication 1219 report titled "Future Generation Wireless R&D Gap Analysis" which was released in 2018. The new report reflects 18 months of stakeholder engagement with NextG experts emphasizing:
+R&D Shortfalls: Issues either untouched or needing more resources.
+Long-term View: Research gaps with a 10–20-year horizon.
+Convergence Acceleration: Leveraging capabilities across the NextG ecosystem.
+Alignment with Federal R&D: Gaps suited for government intervention due to their high-risk/high-reward nature.
+Starting in 2021, the NIST and NSF teams assessed future wireless R&D challenges by reviewing existing studies and market trends. Post this literature review, the teams conducted interviews with stakeholders to comprehend their R&D focuses, challenges, and expectations for future communications systems. In April 2022, the team convened a public working group comprising over 50 stakeholders. The working group formulated a comprehensive set of long-term R&D gaps and questions. The feedback mechanism involved surveys and discussions on specific topics to ensure the final report was technically accurate and relevant.
+The findings spanned multiple areas:
+Trends and Drivers: Understanding how external factors like U.S. industry policies and standards development processes influence NextG innovations.
+Hardware and Higher Frequency R&D Gaps: Delving into the technology requirements and challenges related to hardware capabilities for NextG use cases.
+Spectrum Science and Sharing R&D Gaps: Discussing the technology hurdles in spectrum sharing and utilization, given the data-intensive nature of NextG applications.
+Joint Communications and Sensing R&D Gaps: Researching the potential of integrating radar sensing with internet-based networks for efficient NextG communications.
+AI and ML R&D Gaps: The need to harness data science and machine learning to improve network resource distribution and allow new NextG application domains.
+Data Availability, Use, and Privacy R&D Gaps: Addressing governance and tech-related challenges in data acquisition and management for NextG applications.
+NextG Network Architectures R&D Gaps: Understanding how to develop versatile networks to accommodate the variety of devices and applications in NextG.
+Non-Terrestrial Network R&D Gaps: Investigating the challenges of integrating non-terrestrial networks, like satellites, with traditional networks for better communications systems.
+Sustainable Networks R&D Gaps: Focusing on creating power-efficient and sustainable NextG networks.
+As we navigate the transition to NextG, this report highlights the critical focus areas for the R&D community, offering a roadmap for the next two decades in wireless communications innovation.  
+ 
+
+
+
+
+
+Advanced communications, Open Radio Access Network (Open-RAN), Spectrum sharing, Wireless (RF), Information technology, Internet of Things (IoT), Mobile and Networking
+
+
+
+
+
+
+
+
+Technical Contact
+
+
+
+
+Nada T. Golmie
+
+nada.golmie@nist.gov
+
+
+    (301) 975-4190
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsCommunications Technology Laboratory
+
+
+
+
+
+
+
+
+
+Related Publications
+
+
+NextG Communications Research and Development Gaps Report
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released December 14, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

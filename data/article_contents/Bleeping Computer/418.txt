@@ -1,0 +1,1002 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hospitals ask courts to force cloud storage firm to return stolen data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+
+Featured
+Latest
+
+
+
+
+
+
+
+New Black Basta decryptor exploits ransomware flaw to recover files
+
+
+
+
+
+Malware abuses Google OAuth endpoint to ‘revive’ cookies, hijack accounts
+
+
+
+
+
+Hospitals ask courts to force cloud storage firm to return stolen data
+
+
+
+
+
+Microsoft disables MSIX protocol handler abused in malware attacks
+
+
+
+
+
+
+
+
+
+ Google Groups is ending support for Usenet to combat spam
+
+
+
+
+
+Victoria court recordings exposed in reported ransomware attack
+
+
+
+
+
+Get started in ethical hacking with $155 off this course bundle deal
+
+
+
+
+
+The law enforcement operations targeting cybercrime in 2023
+
+
+
+
+
+
+
+
+Downloads
+
+
+
+Latest
+Most Downloaded
+
+
+
+
+
+
+
+Qualys BrowserCheck
+
+
+
+
+
+STOPDecrypter
+
+
+
+
+
+AuroraDecrypter
+
+
+
+
+
+FilesLockerDecrypter
+
+
+
+
+
+
+
+
+
+AdwCleaner
+
+
+
+
+
+ComboFix
+
+
+
+
+
+RKill
+
+
+
+
+
+Junkware Removal Tool
+
+
+
+
+
+
+
+
+VPNs
+
+
+
+Popular
+
+
+
+
+
+
+
+Best VPNs
+
+
+
+
+
+How to change IP address
+
+
+
+
+
+Access the dark web safely
+
+
+
+
+
+Best VPN for YouTube
+
+
+
+
+
+
+
+
+Virus Removal Guides
+
+
+
+Latest
+Most Viewed
+Ransomware
+
+
+
+
+
+
+
+Remove the Theonlinesearch.com Search Redirect
+
+
+
+
+
+Remove the Smartwebfinder.com Search Redirect
+
+
+
+
+
+How to remove the PBlock+ adware browser extension
+
+
+
+
+
+Remove the Toksearches.xyz Search Redirect
+
+
+
+
+
+
+
+
+
+Remove Security Tool and SecurityTool (Uninstall Guide)
+
+
+
+
+
+How to Remove WinFixer / Virtumonde / Msevents / Trojan.vundo
+
+
+
+
+
+How to remove Antivirus 2009 (Uninstall Instructions)
+
+
+
+
+
+How to remove Google Redirects or the TDSS, TDL3, or Alureon rootkit using TDSSKiller
+
+
+
+
+
+
+
+
+
+Locky Ransomware Information, Help Guide, and FAQ
+
+
+
+
+
+CryptoLocker Ransomware Information Guide and FAQ
+
+
+
+
+
+CryptorBit and HowDecrypt Information Guide and FAQ
+
+
+
+
+
+CryptoDefense and How_Decrypt Ransomware Information Guide and FAQ
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Latest
+Popular
+
+
+
+
+
+
+
+How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11
+
+
+
+
+
+How to use the Windows Registry Editor
+
+
+
+
+
+How to backup and restore the Windows Registry
+
+
+
+
+
+How to open a Windows 11 Command Prompt as Administrator
+
+
+
+
+
+
+
+
+
+How to start Windows in Safe Mode
+
+
+
+
+
+How to remove a Trojan, Virus, Worm, or other Malware
+
+
+
+
+
+How to show hidden files in Windows 7
+
+
+
+
+
+How to see hidden files in Windows
+
+
+
+
+
+
+
+
+Deals
+
+
+
+Categories
+
+
+
+
+
+
+
+eLearning
+
+
+
+
+
+IT Certification Courses
+
+
+
+
+
+Gear + Gadgets
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+
+Forums
+More
+
+Startup Database
+Uninstall Database
+Glossary
+Chat on Discord
+Send us a Tip!
+Welcome Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeNewsSecurityHospitals ask courts to force cloud storage firm to return stolen data
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hospitals ask courts to force cloud storage firm to return stolen data
+
+
+By Sergiu Gatlan
+
+
+December 29, 2023
+03:20 PM
+6
+
+
+
+
+Two not-for-profit hospitals in New York are seeking a court order to retrieve data stolen in an August ransomware attack and now stored on the servers of a Boston cloud storage company.
+Carthage Area Hospital and Claxton-Hepburn Medical Center (the attack's victims) have founded the North Star Health Alliance, a collaborative partnership focused on providing healthcare services across the northern New York area.
+Together, they serve more than 220,000 residents living in Jefferson, northern Lewis, southern St. Lawrence Counties, Ogdensburg, and St. Lawrence County.
+The LockBit ransomware gang claimed responsibility for breaching and stealing sensitive files from their systems in late August, with a press release published by the hospitals one week later saying the incident forced them to redirect patients requiring urging care to other hospitals' emergency departments.
+"Carthage Area Hospital and Claxton Medical Center Information Technology (IT) teams continue work to stabilize all systems following a cybersecurity incident discovered by internal security software last Thursday night," the hospitals said.
+"All patients with appointments that need to be re-scheduled will be contacted. Any patient with urgent health concern should still call their healthcare provider. Patients with emergency conditions should go to their nearest emergency department."
+While investigating the incident with the FBI's help, the hospitals found that the data stolen by Lockbit's affiliates (including patients' names, addresses, dates of birth, financial information, social security numbers, health insurance, and other personally identifying and protected health information) is now stored on the servers of Wasabi Technologies, a cloud storage company in Boston, Massachusets.
+Lawsuit to recover stolen PII and health data
+In a bid to recover the stolen data from Wasabi's servers, the hospitals have now taken legal action against the cybercriminals who stole the files, asking the court to order Wasabi to return the stolen data to the North Star Health Alliance hospitals and issue an order requiring the ransomware group to destroy all the copies they made.
+"So the best option explored by our legal team and working with the FBI is actually going after that company to get our secluded data so that we can be sure what information was leaked," North Star Health Alliance CEO Richard Duvall told 7News.
+According to court documents, the cloud storage firm has already provided the FBI with copies of the data requested by the hospitals.
+"The Hospital Group requires injunctive relief against the Defendants and other entities, preventing the access, transfer or duplication of the Stolen Data and requiring that, after the Stolen Data is returned to the Hospital Group, all other copies of the Stolen Data be destroyed," the complaint reads.
+"Upon Information and belief, Wasabi has already provided copies of the stolen data to the FBI."
+LockBit has also disrupted emergency care at three German hospitals on Christmas Eve, forcing them to divert emergency cases elsewhere, resulting in potential critical delays. Another LockBit affiliate attacked the Hospital for Sick Children (SickKids) in Toronto one week before last Christmas, causing diagnostic and treatment delays.
+The LockBit ransomware-as-a-service (RaaS) operation was first spotted in September 2019, with its victim list including the Continental automotive giant, the UK Royal Mail, the City of Oakland, and the Italian Internal Revenue Service.
+A joint advisory published in June by cybersecurity authorities worldwide revealed that this ransomware gang has extorted at least $91 million from U.S. organizations following at least 1,700 attacks since 2020.
+
+Related Articles:
+Norton Healthcare discloses data breach after May ransomware attackThe Week in Ransomware - December 29th 2023 - LockBit targets hospitalsLockbit ransomware disrupts emergency care at German hospitalsNissan Australia cyberattack claimed by Akira ransomware gangHealthcare software provider data breach impacts 2.7 million
+
+
+
+
+
+
+
+
+Data Theft
+Hospital
+Lawsuits
+New York
+Ransomware
+USA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sergiu Gatlan   
+Sergiu has covered cybersecurity, technology, and other news beats for more than a decade. Email or Twitter DMs for tips.
+
+
+
+ Previous Article 
+Next Article 
+
+
+Comments
+
+
+ 
+
+
+
+
+thatirish  - 3 days ago 
+
+ 
+ 
+
+
+Looks like some of these malware gangs do not have any problems putting people's lives in danger just as long as they get their ransom. Unfortunately it's a game of cat and mouse with law enforcement catching these people. There is no golden bullet.
+
+
+
+
+
+ 
+
+
+
+
+Discontinuation  - 3 days ago 
+
+ 
+ 
+
+
+It is similar to robo calls. No law enforcement until Senate and Congress started getting them. If ramsomware criminals targeted them problem would be solved in 30 days.
+
+
+
+
+
+ 
+
+
+
+
+Creigh Chlopek  - 2 days ago 
+
+ 
+ 
+
+
+enforcement is no simple matter. this case was a very rare exception in that a they could identify the exact cloud server having the data and that that cloud server was inside the United States and under its jurisdiction. The vast majority of these ransomware situations involve cloud storage that is international or even distributed between multiple international data server farms. there is no easy money trail to follow that is specifically why these attacks always demand payment with cryptocurrency. that being said anytime an attack is not a complete victory for the bad actors is ultimately beneficial. 
+Catching and stopping them is not as likely to bring a sollution as making them work hard and never get their candy. Because of the international situation even when you have someone proverbially caught red-handed... with their hand in the cookie jar.. smoking gun in their hand... or even bragging about it publicly; they're in a jurisdiction that you can't do anything to reach them in... or multiple players in multiple jurisdictions you can't do anything to reach them in. The only solution I think will have impact is putting preventives and countermeasures in place that increasingly make the bad actor put in the effort and not get a return on their investment. 
+
+
+
+
+
+ 
+
+
+
+
+Creigh Chlopek  - 2 days ago 
+
+ 
+ 
+
+
+1
+
+
+
+
+
+ 
+
+
+
+
+Wannabetech1  - 22 hours ago 
+
+ 
+ 
+
+
+So what happens to the "not-for-profits" ( I always laugh at that phrase) whose systems the data was stolen from? Yeah I know; nothing.
+
+
+
+
+
+ 
+
+
+
+
+h_b_s  - 21 hours ago 
+
+ 
+ 
+
+
+Hardly. Depends on the details in how they lost the data. But in any case, there won't be no consequences. The public only sees what the news services think is sensationalist enough to report on for advertising dollars. The reality is no ransom ware victim ever gets away unscathed, especially when there are regulations on the data in play (HIPAA + whatever state regulations are relevant) and whatever cyber incident insurance they may have. If they were negligent in handling the data, they're equally in trouble. If they weren't then they're still going to have financial consequences, just perhaps not regulatory in nature.
+One of these days, people are going to get harmed or killed as a result of these breaches and LEOs are going to be out for these gangs' blood from that point on.
+
+
+
+
+
+Post a Comment Community Rules
+
+You need to login in order to post a comment
+Not a member yet? Register Now
+
+
+
+You may also like:
+
+
+
+
+
+
+
+
+
+
+
+Popular Stories
+
+
+
+
+
+
+Android game dev’s Google Drive misconfig highlights cloud security risks
+
+
+
+
+
+
+
+The biggest cybersecurity and cyberattack stories of 2023
+
+
+
+
+
+
+
+
+
+
+Latest Downloads
+
+
+
+
+Malwarebytes Anti-Malware
+Version: 4.6.7.301
+5M+ Downloads
+
+
+
+
+Windows Repair (All In One)
+Version: 4.14.1
+2M+ Downloads
+
+
+
+
+McAfee Consumer Products Removal tool
+Version: NA
+440,344 Downloads
+
+
+
+
+AdwCleaner
+Version: 8.4.0.0
+56M+ Downloads
+
+
+
+
+Everything Desktop Search
+Version: 1.4.1.1017
+24,641 Downloads
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow us:
+
+
+
+
+
+
+
+
+
+Main Sections
+
+News
+VPN Buyer Guides
+Downloads
+Virus Removal Guides
+Tutorials
+Startup Database
+Uninstall Database
+Glossary
+
+
+
+Community
+
+Forums
+Forum Rules
+Chat
+
+
+
+Useful Resources
+
+Welcome Guide
+Sitemap
+
+
+
+Company
+
+About BleepingComputer
+Contact Us
+Send us a Tip!
+Advertising
+Write for BleepingComputer
+Social & Feeds
+Changelog
+
+
+
+
+
+
+
+
+Terms of Use -  Privacy Policy - Ethics Statement - Affiliate Disclosure
+
+
+Copyright @ 2003 - 2024  Bleeping Computer® LLC  - All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+
+Login
+
+
+Username
+
+
+
+Password
+
+
+
+
+
+Remember Me
+
+
+
+Sign in anonymously
+
+
+
+
+
+ Sign in with Twitter
+
+Not a member yet? Register Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Reporter
+
+Help us understand the problem. What is going on with this comment?
+
+
+
+
+Spam
+
+
+Abusive or Harmful
+
+
+Inappropriate content
+
+
+Strong language
+
+
+Other
+
+
+
+
+
+Read our posting guidelinese to learn what content is prohibited.
+
+
+
+Submitting...
+SUBMIT
+
+
+
+
+
+
+
+
+
+
+

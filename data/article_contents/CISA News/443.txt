@@ -1,0 +1,779 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CISA, NSA, FBI and International Cybersecurity Authorities Publish Guide on The Case for Memory Safe Roadmaps  | CISA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+ 
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+ A .gov website belongs to an official government organization in the United States.
+              
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+ A lock (LockA locked padlock) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cybersecurity & Infrastructure Security Agency
+ America's Cyber Defense Agency
+
+
+
+Search
+
+
+
+ 
+
+
+Menu
+
+
+
+
+
+
+Close
+
+
+ 
+
+
+
+
+Topics
+
+
+
+Topics
+
+
+
+
+
+Cybersecurity Best Practices
+
+
+
+
+
+
+Cyber Threats and Advisories
+
+
+
+
+
+
+Critical Infrastructure Security and Resilience
+
+
+
+
+
+
+Election Security
+
+
+
+
+
+
+Emergency Communications
+
+
+
+
+
+
+Industrial Control Systems
+
+
+
+
+
+
+Information and Communications Technology Supply Chain Security
+
+
+
+
+
+
+Partnerships and Collaboration
+
+
+
+
+
+
+Physical Security
+
+
+
+
+
+
+Risk Management
+
+
+
+
+
+
+        How can we help?
+       
+GovernmentEducational InstitutionsIndustryState, Local, Tribal, and TerritorialIndividuals and FamiliesSmall and Medium BusinessesFind Help LocallyFaith-Based CommunityExecutives
+
+
+
+
+
+Spotlight
+
+
+
+
+Resources & Tools
+
+
+
+Resources & Tools
+
+
+
+
+
+All Resources & Tools
+
+
+
+
+
+
+Services
+
+
+
+
+
+
+Programs
+
+
+
+
+
+
+Resources
+
+
+
+
+
+
+Training
+
+
+
+
+
+
+Groups
+
+
+
+
+
+
+
+
+News & Events
+
+
+
+News & Events
+
+
+
+
+
+News
+
+
+
+
+
+
+Events
+
+
+
+
+
+
+Cybersecurity Alerts & Advisories
+
+
+
+
+
+
+Directives
+
+
+
+
+
+
+Request a CISA Speaker
+
+
+
+
+
+
+Congressional Testimony
+
+
+
+
+
+
+
+
+Careers
+
+
+
+Careers
+
+
+
+
+
+Benefits & Perks
+
+
+
+
+
+
+HireVue Applicant Reasonable Accommodations Process
+
+
+
+
+
+
+Hiring
+
+
+
+
+
+
+Resume & Application Tips
+
+
+
+
+
+
+Students & Recent Graduates
+
+
+
+
+
+
+Veteran and Military Spouses
+
+
+
+
+
+
+Work @ CISA
+
+
+
+
+
+
+
+
+About
+
+
+
+About
+
+
+
+
+
+Culture
+
+
+
+
+
+
+Divisions & Offices
+
+
+
+
+
+
+Regions
+
+
+
+
+
+
+Leadership
+
+
+
+
+
+
+Doing Business with CISA
+
+
+
+
+
+
+Site Links
+
+
+
+
+
+
+Reporting Employee and Contractor Misconduct
+
+
+
+
+
+
+CISA GitHub
+
+
+
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+Report a Cyber Issue
+
+
+
+
+
+America's Cyber Defense Agency
+
+
+
+
+
+
+Breadcrumb
+
+
+Home
+
+
+News & Events
+
+
+News
+
+
+
+
+
+
+
+Share:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Press Release
+
+CISA, NSA, FBI and International Cybersecurity Authorities Publish Guide on The Case for Memory Safe Roadmaps 
+
+
+
+ReleasedDecember 06, 2023
+
+
+
+ Related topics: 
+
+Cybersecurity Best Practices 
+
+
+
+
+
+
+
+
+
+
+
+
+Guide encourages software manufacturers to address memory safety vulnerabilities and implement secure by design principles WASHINGTON – Today, the Cybersecurity and Infrastructure Security Agency (CISA), in partnership with the National Security Agency (NSA), Federal Bureau of Investigation (FBI), and international cybersecurity authorities from Australia, Canada, New Zealand, and the United Kingdom, published a joint guide, The Case for Memory Safe Roadmaps: Why both C-Suite Executives and Technical Experts Need to Take Memory Safe Coding Seriously, as part of our collective Secure by Design campaign to address the critical issue of memory safety vulnerabilities in programming languages.  Memory safety vulnerabilities are the most prevalent type of disclosed software vulnerability; they affect how memory can be accessed, written, allocated, or deallocated in unintended ways in programming languages. As the most prevalent vulnerability, software manufacturers are consistently releasing updates that their customers must continually patch. Previous attempts at solving the problem have made only partial gains, and currently, two-thirds of reported vulnerabilities in memory unsafe programming languages still relate to memory issues. “Research shows that roughly 2/3 of software vulnerabilities are due to a lack of ‘memory safe’ coding. Removing this routinely exploited security vulnerability can pay enormous dividends for our nation’s cybersecurity but will require concerted community effort and sustained investment at the executive level,” said CISA Director Jen Easterly. “It’s way past time for us to get serious about protecting all software customers and implement Secure by Design principles into baseline product development to eliminate these types of threats once and for all.” The guide strongly encourages executives of software manufacturers to prioritize using memory safe programing languages, write and publish memory safe roadmaps and implement changes to eliminate this class of vulnerability and protect their customers. Software developers and support staff should develop the roadmap, which should detail how the manufacturer will modify their software development life cycle (SDLC) to dramatically reduce and eventually eliminate memory unsafe code in their products. This guidance also provides a clear outline of elements that a memory safe roadmap should include. By creating a memory safe roadmap, manufacturers will signal to customers that they are embracing key Secure by Design principles of (1) taking ownership of their security outcomes, (2) adopting radical transparency, and (3) taking a top-down approach. With our partners, CISA encourages stakeholders, partners, and software manufacturers to review the guide and implement recommended action. To learn more about Security by Design, visit cisa.gov/SecureByDesign.  About CISA As the nation’s cyber defense agency and national coordinator for critical infrastructure security, the Cybersecurity and Infrastructure Security Agency leads the national effort to understand, manage, and reduce risk to the digital and physical infrastructure Americans rely on every hour of every day.Visit CISA.gov for more information and follow us on Twitter, Facebook, LinkedIn, Instagram. 
+
+
+
+
+
+
+
+
+
+Related Articles
+
+
+
+
+
+
+Dec 20, 2023
+
+Press Release
+
+
+
+CISA Issues Request For Information on Secure by Design Software Whitepaper
+ 
+
+
+
+
+
+
+
+Dec 15, 2023
+
+Press Release
+
+
+
+CISA Releases Key Risk and Vulnerability Findings for Healthcare and Public Health Sector  
+ 
+
+
+
+
+
+
+
+Dec 06, 2023
+
+Press Release
+
+
+
+Readout from CISA’s 2023 Fourth Quarter Cybersecurity Advisory Committee Meeting  
+ 
+
+
+
+
+
+
+
+Nov 26, 2023
+
+Press Release
+
+
+
+DHS CISA and UK NCSC Release Joint Guidelines for Secure AI System Development
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+Topics
+
+
+Spotlight
+
+
+Resources & Tools
+
+
+News & Events
+
+
+Careers
+
+
+About
+
+
+
+
+
+
+
+
+
+Cybersecurity & Infrastructure Security Agency
+ 
+
+
+
+Facebook
+
+
+Twitter
+
+
+LinkedIn
+
+
+YouTube
+
+
+Instagram
+
+
+RSS
+
+
+
+CISA Central
+888-282-0870
+Central@cisa.dhs.gov
+
+
+
+
+
+
+
+
+
+
+DHS Seal
+
+CISA.gov
+An official website of the U.S. Department of Homeland Security
+
+
+
+
+About CISA
+
+
+Accessibility
+
+
+Budget and Performance
+
+
+DHS.gov
+
+
+FOIA Requests
+
+
+No FEAR Act
+
+
+Office of Inspector General
+
+
+Privacy Policy
+
+
+Subscribe
+
+
+The White House
+
+
+USA.gov
+
+
+Website Feedback
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -9,9 +9,9 @@ Advent of Code 2023
 
 
 
-Advent of Code[About][Events][Shop][Log In]   sub y{2023}[Calendar][AoC++][Sponsors][Leaderboard][Stats]
+Advent of Code[About][Events][Shop][Log In]   $year=2023;[Calendar][AoC++][Sponsors][Leaderboard][Stats]
 
-Our sponsors help make Advent of Code possible:Axis - All we want for Christmas is your application, pls! ----------------- <embedded, cloud, Machine learning, fullstack> our cameras require it all
+Our sponsors help make Advent of Code possible:Accenture Federal Services - Technology & ingenuity moving missions forward â come solve problems with us. Hiring software engineers, developers, and more now. Refer someone to earn up to $20K.
 
 
 The first puzzles will unlock on December 1st at midnight EST (UTC-5).  See you then!

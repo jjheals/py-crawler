@@ -1,0 +1,782 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CISA Issues Request For Information on Secure by Design Software Whitepaper | CISA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+ 
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+ A .gov website belongs to an official government organization in the United States.
+              
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+ A lock (LockA locked padlock) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cybersecurity & Infrastructure Security Agency
+ America's Cyber Defense Agency
+
+
+
+Search
+
+
+
+ 
+
+
+Menu
+
+
+
+
+
+
+Close
+
+
+ 
+
+
+
+
+Topics
+
+
+
+Topics
+
+
+
+
+
+Cybersecurity Best Practices
+
+
+
+
+
+
+Cyber Threats and Advisories
+
+
+
+
+
+
+Critical Infrastructure Security and Resilience
+
+
+
+
+
+
+Election Security
+
+
+
+
+
+
+Emergency Communications
+
+
+
+
+
+
+Industrial Control Systems
+
+
+
+
+
+
+Information and Communications Technology Supply Chain Security
+
+
+
+
+
+
+Partnerships and Collaboration
+
+
+
+
+
+
+Physical Security
+
+
+
+
+
+
+Risk Management
+
+
+
+
+
+
+        How can we help?
+       
+GovernmentEducational InstitutionsIndustryState, Local, Tribal, and TerritorialIndividuals and FamiliesSmall and Medium BusinessesFind Help LocallyFaith-Based CommunityExecutives
+
+
+
+
+
+Spotlight
+
+
+
+
+Resources & Tools
+
+
+
+Resources & Tools
+
+
+
+
+
+All Resources & Tools
+
+
+
+
+
+
+Services
+
+
+
+
+
+
+Programs
+
+
+
+
+
+
+Resources
+
+
+
+
+
+
+Training
+
+
+
+
+
+
+Groups
+
+
+
+
+
+
+
+
+News & Events
+
+
+
+News & Events
+
+
+
+
+
+News
+
+
+
+
+
+
+Events
+
+
+
+
+
+
+Cybersecurity Alerts & Advisories
+
+
+
+
+
+
+Directives
+
+
+
+
+
+
+Request a CISA Speaker
+
+
+
+
+
+
+Congressional Testimony
+
+
+
+
+
+
+
+
+Careers
+
+
+
+Careers
+
+
+
+
+
+Benefits & Perks
+
+
+
+
+
+
+HireVue Applicant Reasonable Accommodations Process
+
+
+
+
+
+
+Hiring
+
+
+
+
+
+
+Resume & Application Tips
+
+
+
+
+
+
+Students & Recent Graduates
+
+
+
+
+
+
+Veteran and Military Spouses
+
+
+
+
+
+
+Work @ CISA
+
+
+
+
+
+
+
+
+About
+
+
+
+About
+
+
+
+
+
+Culture
+
+
+
+
+
+
+Divisions & Offices
+
+
+
+
+
+
+Regions
+
+
+
+
+
+
+Leadership
+
+
+
+
+
+
+Doing Business with CISA
+
+
+
+
+
+
+Site Links
+
+
+
+
+
+
+Reporting Employee and Contractor Misconduct
+
+
+
+
+
+
+CISA GitHub
+
+
+
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+Report a Cyber Issue
+
+
+
+
+
+America's Cyber Defense Agency
+
+
+
+
+
+
+Breadcrumb
+
+
+Home
+
+
+News & Events
+
+
+News
+
+
+
+
+
+
+
+Share:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Press Release
+
+CISA Issues Request For Information on Secure by Design Software Whitepaper
+
+CISA Issues Request For Information on Secure by Design Software Whitepaper 
+Organizations encouraged to provide input on analysis or approaches to inform future iterations 
+
+
+
+ReleasedDecember 20, 2023
+
+
+
+ Related topics: 
+
+Cybersecurity Best Practices 
+
+
+
+
+
+
+
+
+
+
+
+
+WASHINGTON – Today, the Cybersecurity and Infrastructure Security Agency (CISA) published a Request for Information from all interested parties on secure by design software practices, including the Shifting the Balance of Cybersecurity Risk: Principles and Approaches for Secure by Design Software whitepaper, as part of our ongoing, collective secure by design campaign across the globe.  To better inform CISA’s Secure by Design campaign, CISA and our partners seek information on a wide range of topics, including the following:  Incorporating security early into the software development life cycle (SDLC): What changes are needed to allow software manufacturers to build and maintain software that is secure by design, including smaller software manufacturers? How do companies measure the dollar cost of defects in their SDLC?  Security is often relegated to be an elective in education: What are some examples of higher education incorporating foundational security knowledge into their computer science curricula; When new graduates look for jobs, do companies evaluate security skills, knowledge, and experience during the hiring stage, or are employees reskilled after being hired? Recurring vulnerabilities: What are barriers to eliminating recurring classes of vulnerability; how can we lead more companies to identify and invest in eliminating recurring vulnerabilities; how could the common vulnerabilities and exposures (CVE) and common weakness enumeration (CWE) programs help? Operational technology (OT): What incentives would likely lead customers to increase their demand for security features; Which OT products or companies have implemented some of the core tenants of secure by design engineering? Economics of secure by design: What are the costs to implement secure by design and default principles and tactics, and how do these compare to costs responding to incidents and breaches? “While we have already received a wide range of feedback on our secure by design campaign, we need to incorporate the broadest possible range of perspectives,” said CISA Director Jen Easterly. Our goal to drive toward a future where technology is safe and secure by design requires action by every technology manufacturer and clear demand by every customer, which in turn requires us to rigorously seek and incorporate input. The President’s National Cybersecurity Strategy calls for a fundamental shift in responsibility for security from the customer to software manufacturers, and input from this RFI will help us define our path ahead, including updates to our joint seal Secure by Design whitepaper.  Co-sealed by 18 U.S. and international agencies, our recent Secure by Design guidance strongly encourages every software manufacturer to build products in a way that reduces the burden of cybersecurity on customers. More recently, CISA launched a new series of Secure by Design Alerts outlining the real-world harms that result from technology products that are not secure by design.  With our partners, CISA encourages technology manufacturers and all interested stakeholders to review the Request for Information and provide written comment on or before 20 February 2024. Instructions for submitting comment are available in the Request for Information. The feedback on our current analysis or approaches will help inform future iterations of the whitepaper and our collaborative work with the global community.  To learn more about Secure by Design, visit our webpage. Questions regarding the RFI can be emailed to SecureByDesign@cisa.dhs.gov. About CISA As the nation’s cyber defense agency and national coordinator for critical infrastructure security, CISA leads the national effort to understand, manage, and reduce risk to the digital and physical infrastructure Americans rely on every hour of every day. Visit CISA.gov for more information and follow us on Twitter, Facebook, LinkedIn, Instagram.  
+
+
+
+
+
+
+
+
+
+Related Articles
+
+
+
+
+
+
+Dec 15, 2023
+
+Press Release
+
+
+
+CISA Releases Key Risk and Vulnerability Findings for Healthcare and Public Health Sector  
+ 
+
+
+
+
+
+
+
+Dec 06, 2023
+
+Press Release
+
+
+
+CISA, NSA, FBI and International Cybersecurity Authorities Publish Guide on The Case for Memory Safe Roadmaps 
+ 
+
+
+
+
+
+
+
+Dec 06, 2023
+
+Press Release
+
+
+
+Readout from CISA’s 2023 Fourth Quarter Cybersecurity Advisory Committee Meeting  
+ 
+
+
+
+
+
+
+
+Nov 26, 2023
+
+Press Release
+
+
+
+DHS CISA and UK NCSC Release Joint Guidelines for Secure AI System Development
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+Topics
+
+
+Spotlight
+
+
+Resources & Tools
+
+
+News & Events
+
+
+Careers
+
+
+About
+
+
+
+
+
+
+
+
+
+Cybersecurity & Infrastructure Security Agency
+ 
+
+
+
+Facebook
+
+
+Twitter
+
+
+LinkedIn
+
+
+YouTube
+
+
+Instagram
+
+
+RSS
+
+
+
+CISA Central
+888-282-0870
+Central@cisa.dhs.gov
+
+
+
+
+
+
+
+
+
+
+DHS Seal
+
+CISA.gov
+An official website of the U.S. Department of Homeland Security
+
+
+
+
+About CISA
+
+
+Accessibility
+
+
+Budget and Performance
+
+
+DHS.gov
+
+
+FOIA Requests
+
+
+No FEAR Act
+
+
+Office of Inspector General
+
+
+Privacy Policy
+
+
+Subscribe
+
+
+The White House
+
+
+USA.gov
+
+
+Website Feedback
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

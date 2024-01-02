@@ -1,0 +1,893 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Week in Ransomware - December 29th 2023 - LockBit targets hospitals
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+
+Featured
+Latest
+
+
+
+
+
+
+
+New Black Basta decryptor exploits ransomware flaw to recover files
+
+
+
+
+
+Malware abuses Google OAuth endpoint to ‘revive’ cookies, hijack accounts
+
+
+
+
+
+Hospitals ask courts to force cloud storage firm to return stolen data
+
+
+
+
+
+Microsoft disables MSIX protocol handler abused in malware attacks
+
+
+
+
+
+
+
+
+
+ Google Groups is ending support for Usenet to combat spam
+
+
+
+
+
+Victoria court recordings exposed in reported ransomware attack
+
+
+
+
+
+Get started in ethical hacking with $155 off this course bundle deal
+
+
+
+
+
+The law enforcement operations targeting cybercrime in 2023
+
+
+
+
+
+
+
+
+Downloads
+
+
+
+Latest
+Most Downloaded
+
+
+
+
+
+
+
+Qualys BrowserCheck
+
+
+
+
+
+STOPDecrypter
+
+
+
+
+
+AuroraDecrypter
+
+
+
+
+
+FilesLockerDecrypter
+
+
+
+
+
+
+
+
+
+AdwCleaner
+
+
+
+
+
+ComboFix
+
+
+
+
+
+RKill
+
+
+
+
+
+Junkware Removal Tool
+
+
+
+
+
+
+
+
+VPNs
+
+
+
+Popular
+
+
+
+
+
+
+
+Best VPNs
+
+
+
+
+
+How to change IP address
+
+
+
+
+
+Access the dark web safely
+
+
+
+
+
+Best VPN for YouTube
+
+
+
+
+
+
+
+
+Virus Removal Guides
+
+
+
+Latest
+Most Viewed
+Ransomware
+
+
+
+
+
+
+
+Remove the Theonlinesearch.com Search Redirect
+
+
+
+
+
+Remove the Smartwebfinder.com Search Redirect
+
+
+
+
+
+How to remove the PBlock+ adware browser extension
+
+
+
+
+
+Remove the Toksearches.xyz Search Redirect
+
+
+
+
+
+
+
+
+
+Remove Security Tool and SecurityTool (Uninstall Guide)
+
+
+
+
+
+How to Remove WinFixer / Virtumonde / Msevents / Trojan.vundo
+
+
+
+
+
+How to remove Antivirus 2009 (Uninstall Instructions)
+
+
+
+
+
+How to remove Google Redirects or the TDSS, TDL3, or Alureon rootkit using TDSSKiller
+
+
+
+
+
+
+
+
+
+Locky Ransomware Information, Help Guide, and FAQ
+
+
+
+
+
+CryptoLocker Ransomware Information Guide and FAQ
+
+
+
+
+
+CryptorBit and HowDecrypt Information Guide and FAQ
+
+
+
+
+
+CryptoDefense and How_Decrypt Ransomware Information Guide and FAQ
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Latest
+Popular
+
+
+
+
+
+
+
+How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11
+
+
+
+
+
+How to use the Windows Registry Editor
+
+
+
+
+
+How to backup and restore the Windows Registry
+
+
+
+
+
+How to open a Windows 11 Command Prompt as Administrator
+
+
+
+
+
+
+
+
+
+How to start Windows in Safe Mode
+
+
+
+
+
+How to remove a Trojan, Virus, Worm, or other Malware
+
+
+
+
+
+How to show hidden files in Windows 7
+
+
+
+
+
+How to see hidden files in Windows
+
+
+
+
+
+
+
+
+Deals
+
+
+
+Categories
+
+
+
+
+
+
+
+eLearning
+
+
+
+
+
+IT Certification Courses
+
+
+
+
+
+Gear + Gadgets
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+
+Forums
+More
+
+Startup Database
+Uninstall Database
+Glossary
+Chat on Discord
+Send us a Tip!
+Welcome Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeNewsSecurityThe Week in Ransomware - December 29th 2023 - LockBit targets hospitals
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Week in Ransomware - December 29th 2023 - LockBit targets hospitals
+
+
+By Lawrence Abrams
+
+
+
+
+December 29, 2023
+03:39 PM
+0
+
+
+
+
+
+It's been a quiet week, with even threat actors appearing to take some time off for the holidays. We did not see much research released on ransomware this week, with most of the news focusing on new attacks and LockBit affiliates increasingly targeting hospitals.
+These attacks include ones against Yakult Australia and the Ohio Lottery by the new DragonForce ransomware operation.
+The most concerning news is that LockBit affiliates increasingly target hospitals in attacks, even though the ransomware operation says it's against the rules.
+In December 2022, one week before Christmas, a LockBit affiliate attacked the Hospital for Sick Children (SickKids) in Toronto, causing diagnostic and treatment delays. The ransomware operation said this was against the rules and issued a free decryptor.
+
+Apology to SickKids on the LockBit data leak siteSource: BleepingComputer
+However, this week, we learned that LockBit attacked three hospitals in Germany, disrupting emergency room services.
+We also learned about two New York hospitals seeking a court order to have Boston cloud storage company Wasabi Technologies return stolen data stored on one of its servers by the LockBit ransomware gang.
+According to a court order, the Carthage Area Hospital and Claxton-Hepburn Medical Center were attacked in September, with the LockBit affiliate renting cloud storage at Wasabi to store stolen data.
+The two hospitals now request that the courts force Wasabi to provide and delete the data from their servers. The court documents indicate that Wasabi is already working with the FBI and has shared a copy of the stolen data with them.
+Finally, Microsoft once again disabled the MSIX ms-appinstaller protocol handler after deactivating it in February 2022 and then enabling it again in 2023 for some unknown reason.
+However, as malware campaigns continue to abuse this feature, which could lead to ransomware attacks, the feature has again been disabled.
+Contributors and those who provided new ransomware information and stories this week include: @malwrhunterteam, @serghei, @demonslay335, @BleepinComputer, @Ionut_Ilascu, @Seifreed, @fwosar, @LawrenceAbrams, @billtoulas, @MsftSecIntel, @DarkWebInformer, @BrettCallow, @pcrisk, and @Fortinet.
+December 27th 2023
+Yakult Australia confirms 'cyber incident' after 95 GB data leak
+Yakult Australia, manufacturer of a probiotic milk drink, has confirmed experiencing a "cyber incident" in a statement to BleepingComputer. Both the company's Australian and New Zealand IT systems have been affected.
+Ohio Lottery hit by cyberattack claimed by DragonForce ransomware
+The Ohio Lottery was forced to shut down some key systems after a cyberattack affected an undisclosed number of internal applications on Christmas Eve.
+Lockbit ransomware disrupts emergency care at German hospitals
+German hospital network Katholische Hospitalvereinigung Ostwestfalen (KHO) has confirmed that recent service disruptions at three hospitals were caused by a Lockbit ransomware attack.
+New STOP ransomware variant
+PCrisk found a new STOP ransomware variant that appends the .cdmx extension.
+New ransomware variant
+PCrisk found a new ransomware variant that appends the .Tisak extension and drops a ransom note named Tisak_Help.txt.
+December 28th 2023
+Microsoft disables MSIX protocol handler abused in malware attacks
+Microsoft has again disabled the MSIX ms-appinstaller protocol handler after multiple financially motivated threat groups abused it to infect Windows users with malware.
+New Live Team ransomware
+PCrisk found a new Live Team ransomware that appends the .LIVE and drops a ransom note named FILE RECOVERY_ID_[victim's_ID].txt.
+New SNet ransomware
+PCrisk found a new ransomware variant that appends the .SNet extension and drops a ransom note named DecryptNote.txt.
+Ransomware Roundup - 8base
+8base is a financially motivated ransomware variant most likely based on the Phobos ransomware. Per our FortiRecon information, the 8base ransomware first appeared in May 2023.
+December 29th, 2023
+Hospitals ask courts to force cloud storage firm to return stolen data
+Two not-for-profit hospitals in New York are seeking a court order to retrieve data stolen in an August ransomware attack that's now stored on the servers of a Boston cloud storage company.
+That's it for this week! Hope everyone has a nice weekend!
+
+Related Articles:
+Lockbit ransomware disrupts emergency care at German hospitalsThe Week in Ransomware - December 22nd 2023 - BlackCat hackedHealthcare software provider data breach impacts 2.7 millionThe Week in Ransomware - December 15th 2023 - Ransomware DramaRansomware gang behind threats to Fred Hutch cancer patients
+
+
+
+
+
+
+
+
+
+
+
+Affiliates
+Healthcare
+Hospital
+LockBit
+Ransomware
+Week in Ransomware
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lawrence Abrams   
+Lawrence Abrams is the owner and Editor in Chief of BleepingComputer.com. Lawrence's area of expertise includes Windows, malware removal, and computer forensics. Lawrence Abrams is a co-author of the Winternals Defragmentation, Recovery, and Administration Field Guide and the technical editor for Rootkits for Dummies.
+
+
+
+
+ Previous Article 
+Next Article 
+
+
+
+Post a Comment Community Rules
+
+You need to login in order to post a comment
+
+Not a member yet? Register Now
+
+
+
+You may also like:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Popular Stories
+
+
+
+
+
+
+Android game dev’s Google Drive misconfig highlights cloud security risks
+
+
+
+
+
+
+
+The biggest cybersecurity and cyberattack stories of 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow us:
+
+
+
+
+
+
+
+
+
+Main Sections
+
+News
+VPN Buyer Guides
+Downloads
+Virus Removal Guides
+Tutorials
+Startup Database
+Uninstall Database
+Glossary
+
+
+
+Community
+
+Forums
+Forum Rules
+Chat
+
+
+
+Useful Resources
+
+Welcome Guide
+Sitemap
+
+
+
+Company
+
+About BleepingComputer
+Contact Us
+Send us a Tip!
+Advertising
+Write for BleepingComputer
+Social & Feeds
+Changelog
+
+
+
+
+
+
+
+
+Terms of Use -  Privacy Policy - Ethics Statement - Affiliate Disclosure
+
+
+Copyright @ 2003 - 2024  Bleeping Computer® LLC  - All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+
+Login
+
+
+Username
+
+
+
+Password
+
+
+
+
+
+Remember Me
+
+
+
+Sign in anonymously
+
+
+
+
+
+ Sign in with Twitter
+
+Not a member yet? Register Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Reporter
+
+Help us understand the problem. What is going on with this comment?
+
+
+
+
+Spam
+
+
+Abusive or Harmful
+
+
+Inappropriate content
+
+
+Strong language
+
+
+Other
+
+
+
+
+
+Read our posting guidelinese to learn what content is prohibited.
+
+
+
+Submitting...
+SUBMIT
+
+
+
+
+
+
+
+
+
+
+

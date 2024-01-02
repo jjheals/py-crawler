@@ -1,0 +1,877 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Victoria court recordings exposed in reported ransomware attack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+
+Featured
+Latest
+
+
+
+
+
+
+
+New Black Basta decryptor exploits ransomware flaw to recover files
+
+
+
+
+
+Malware abuses Google OAuth endpoint to ‘revive’ cookies, hijack accounts
+
+
+
+
+
+Hospitals ask courts to force cloud storage firm to return stolen data
+
+
+
+
+
+Microsoft disables MSIX protocol handler abused in malware attacks
+
+
+
+
+
+
+
+
+
+ Google Groups is ending support for Usenet to combat spam
+
+
+
+
+
+Victoria court recordings exposed in reported ransomware attack
+
+
+
+
+
+Get started in ethical hacking with $155 off this course bundle deal
+
+
+
+
+
+The law enforcement operations targeting cybercrime in 2023
+
+
+
+
+
+
+
+
+Downloads
+
+
+
+Latest
+Most Downloaded
+
+
+
+
+
+
+
+Qualys BrowserCheck
+
+
+
+
+
+STOPDecrypter
+
+
+
+
+
+AuroraDecrypter
+
+
+
+
+
+FilesLockerDecrypter
+
+
+
+
+
+
+
+
+
+AdwCleaner
+
+
+
+
+
+ComboFix
+
+
+
+
+
+RKill
+
+
+
+
+
+Junkware Removal Tool
+
+
+
+
+
+
+
+
+VPNs
+
+
+
+Popular
+
+
+
+
+
+
+
+Best VPNs
+
+
+
+
+
+How to change IP address
+
+
+
+
+
+Access the dark web safely
+
+
+
+
+
+Best VPN for YouTube
+
+
+
+
+
+
+
+
+Virus Removal Guides
+
+
+
+Latest
+Most Viewed
+Ransomware
+
+
+
+
+
+
+
+Remove the Theonlinesearch.com Search Redirect
+
+
+
+
+
+Remove the Smartwebfinder.com Search Redirect
+
+
+
+
+
+How to remove the PBlock+ adware browser extension
+
+
+
+
+
+Remove the Toksearches.xyz Search Redirect
+
+
+
+
+
+
+
+
+
+Remove Security Tool and SecurityTool (Uninstall Guide)
+
+
+
+
+
+How to Remove WinFixer / Virtumonde / Msevents / Trojan.vundo
+
+
+
+
+
+How to remove Antivirus 2009 (Uninstall Instructions)
+
+
+
+
+
+How to remove Google Redirects or the TDSS, TDL3, or Alureon rootkit using TDSSKiller
+
+
+
+
+
+
+
+
+
+Locky Ransomware Information, Help Guide, and FAQ
+
+
+
+
+
+CryptoLocker Ransomware Information Guide and FAQ
+
+
+
+
+
+CryptorBit and HowDecrypt Information Guide and FAQ
+
+
+
+
+
+CryptoDefense and How_Decrypt Ransomware Information Guide and FAQ
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Latest
+Popular
+
+
+
+
+
+
+
+How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11
+
+
+
+
+
+How to use the Windows Registry Editor
+
+
+
+
+
+How to backup and restore the Windows Registry
+
+
+
+
+
+How to open a Windows 11 Command Prompt as Administrator
+
+
+
+
+
+
+
+
+
+How to start Windows in Safe Mode
+
+
+
+
+
+How to remove a Trojan, Virus, Worm, or other Malware
+
+
+
+
+
+How to show hidden files in Windows 7
+
+
+
+
+
+How to see hidden files in Windows
+
+
+
+
+
+
+
+
+Deals
+
+
+
+Categories
+
+
+
+
+
+
+
+eLearning
+
+
+
+
+
+IT Certification Courses
+
+
+
+
+
+Gear + Gadgets
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+
+Forums
+More
+
+Startup Database
+Uninstall Database
+Glossary
+Chat on Discord
+Send us a Tip!
+Welcome Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeNewsSecurityVictoria court recordings exposed in reported ransomware attack
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Victoria court recordings exposed in reported ransomware attack
+
+
+By Bill Toulas
+
+
+
+
+January 2, 2024
+10:47 AM
+0
+
+
+
+
+
+Australia's Court Services Victoria (CSV) is warning that video recordings of court hearings were exposed after suffering a reported Qilin ransomware attack.
+CSV is an independent statutory authority that provides services to Victoria's court systems, including case management systems and administrative solutions.
+In a statement published today on its website, CSV says it detected a cyberattack on December 21, 2023, that allowed hackers to disrupt operations and access its audio-visual archive containing sensitive hearing recordings.
+The impacted system was immediately isolated and disabled, but the ensuing investigation revealed that the breach occurred at an earlier date, December 8th, 2023, with the exposed recordings going as far back as November 1, 2023.
+"The cyber incident led to unauthorised access leading to the disruption of the audio visual in-court technology network, impacting video recordings, audio recordings and transcription services," reads the CSV statement.
+"Recordings of some hearings in courts between 1 November and 21 December 2023 may have been accessed. It is possible some hearings before 1 November are also affected."
+Specifically, the following courts and jurisdictions have been impacted by the security incident:
+Supreme Court – hearings from the Court of Appeal, Criminal Division, and Practice Court between December 1 and 21, and two regional hearings in November 2023.
+County Court – hearings from all criminal and civil courts from November 1 to December 21, 2023.
+Magistrates' Court – some committals heard between November 1 and December 21, 2023.
+Children's Court – one hearing from October 2023.
+Coroners Court – all hearings that took place between November 1 and December 21, 2023.
+The above recordings contain a mix of public and confidential information, so depending on the case, they may expose sensitive information regarding court cases.
+Where possible, impacted courts will send out breach notices to those deemed impacted by the incident.
+CSV has also notified the authorities about the potential data breach, including the Victoria Police, Victorian Department of Government Services, and Australia's National Identity and Cyber Support Community Service (IDCARE).
+Though CSV is still in the process of restructuring the impacted system with more focus on security, court operations in Victoria will not be affected, and all cases scheduled for January 2024 are expected to proceed normally.
+The authority's does not name the cybercriminals responsible for the attack, but sources speaking to ABC News report that the Qilin ransomware gang carried out the attack.
+The Qilin ransomware operation was launched under the name "Agenda" in August 2022 but was later rebranded as Qilin.
+Since its launch, the ransomware operation has had a steady stream of victims but has seen increased activity towards the end of 2023.
+BleepingComputer has not been able to independently confirm if Qilin is behind the attack, and there is no mention of CSV on their data leak site.
+
+Related Articles:
+Kansas courts confirm data theft, ransom demand after cyberattackIntegris Health patients get extortion emails after cyberattackNissan Australia cyberattack claimed by Akira ransomware gangHealthcare software provider data breach impacts 2.7 millionFBI disrupts Blackcat ransomware operation, creates decryption tool
+
+
+
+
+
+
+
+
+
+
+
+Australia
+Courts
+Data Breach
+Hacked
+Legal
+Qilin
+Ransomware
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bill Toulas   
+Bill Toulas is a tech writer and infosec news reporter with over a decade of experience working on various online publications, covering open-source, Linux, malware, data breach incidents, and hacks.
+
+
+
+
+ Previous Article 
+Next Article 
+
+
+
+Post a Comment Community Rules
+
+You need to login in order to post a comment
+
+Not a member yet? Register Now
+
+
+
+You may also like:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Popular Stories
+
+
+
+
+
+
+Android game dev’s Google Drive misconfig highlights cloud security risks
+
+
+
+
+
+
+
+The biggest cybersecurity and cyberattack stories of 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow us:
+
+
+
+
+
+
+
+
+
+Main Sections
+
+News
+VPN Buyer Guides
+Downloads
+Virus Removal Guides
+Tutorials
+Startup Database
+Uninstall Database
+Glossary
+
+
+
+Community
+
+Forums
+Forum Rules
+Chat
+
+
+
+Useful Resources
+
+Welcome Guide
+Sitemap
+
+
+
+Company
+
+About BleepingComputer
+Contact Us
+Send us a Tip!
+Advertising
+Write for BleepingComputer
+Social & Feeds
+Changelog
+
+
+
+
+
+
+
+
+Terms of Use -  Privacy Policy - Ethics Statement - Affiliate Disclosure
+
+
+Copyright @ 2003 - 2024  Bleeping Computer® LLC  - All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+
+Login
+
+
+Username
+
+
+
+Password
+
+
+
+
+
+Remember Me
+
+
+
+Sign in anonymously
+
+
+
+
+
+ Sign in with Twitter
+
+Not a member yet? Register Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Reporter
+
+Help us understand the problem. What is going on with this comment?
+
+
+
+
+Spam
+
+
+Abusive or Harmful
+
+
+Inappropriate content
+
+
+Strong language
+
+
+Other
+
+
+
+
+
+Read our posting guidelinese to learn what content is prohibited.
+
+
+
+Submitting...
+SUBMIT
+
+
+
+
+
+
+
+
+
+
+

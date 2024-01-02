@@ -1,0 +1,2001 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GitHub - godot-rust/gdext: Rust bindings for Godot 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle navigation
+
+
+
+
+
+
+
+
+
+
+          Sign in
+        
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Product
+        
+
+
+
+
+
+
+
+
+
+
+
+
+Actions
+        Automate any workflow
+      
+
+
+
+
+
+
+
+Packages
+        Host and manage packages
+      
+
+
+
+
+
+
+
+Security
+        Find and fix vulnerabilities
+      
+
+
+
+
+
+
+
+Codespaces
+        Instant dev environments
+      
+
+
+
+
+
+
+
+Copilot
+        Write better code with AI
+      
+
+
+
+
+
+
+
+Code review
+        Manage code changes
+      
+
+
+
+
+
+
+
+Issues
+        Plan and track work
+      
+
+
+
+
+
+
+
+Discussions
+        Collaborate outside of code
+      
+
+
+
+
+Explore
+
+
+
+      All features
+
+    
+
+
+
+      Documentation
+
+    
+
+
+
+
+
+      GitHub Skills
+
+    
+
+
+
+
+
+      Blog
+
+    
+
+
+
+
+
+
+
+
+
+        Solutions
+        
+
+
+
+
+
+For
+
+
+
+      Enterprise
+
+    
+
+
+
+      Teams
+
+    
+
+
+
+      Startups
+
+    
+
+
+
+      Education
+
+    
+
+
+
+
+
+
+By Solution
+
+
+
+      CI/CD & Automation
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+
+
+      DevSecOps
+
+    
+
+
+
+
+
+
+Resources
+
+
+
+      Learning Pathways
+
+    
+
+
+
+
+
+      White papers, Ebooks, Webinars
+
+    
+
+
+
+
+
+      Customer Stories
+
+    
+
+
+
+      Partners
+
+    
+
+
+
+
+
+
+
+
+
+        Open Source
+        
+
+
+
+
+
+
+
+
+
+GitHub Sponsors
+        Fund open source developers
+      
+
+
+
+
+
+
+
+
+The ReadME Project
+        GitHub community articles
+      
+
+
+
+
+Repositories
+
+
+
+      Topics
+
+    
+
+
+
+      Trending
+
+    
+
+
+
+      Collections
+
+    
+
+
+
+
+
+
+Pricing
+
+
+
+
+
+
+
+
+
+
+
+
+Search or jump to...
+
+
+
+
+
+
+
+Search code, repositories, users, issues, pull requests...
+
+ 
+
+
+
+
+        Search
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clear
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+              Search syntax tips
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Provide feedback
+      
+
+
+
+
+
+
+
+
+ 
+We read every piece of feedback, and take your input very seriously.
+
+
+Include my email address so I can be contacted
+
+     Cancel
+
+    Submit feedback
+
+
+
+
+
+
+
+
+
+
+        Saved searches
+      
+Use saved searches to filter your results more quickly
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Name
+
+
+
+
+
+
+Query
+
+
+
+            To see all available qualifiers, see our documentation.
+          
+ 
+
+
+
+
+     Cancel
+
+    Create saved search
+
+
+
+
+
+
+
+
+              Sign in
+            
+
+
+              Sign up
+            
+
+
+
+
+
+
+
+
+
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.
+You switched accounts on another tab or window. Reload to refresh your session.
+ 
+
+
+Dismiss alert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        godot-rust
+ 
+/
+
+gdext
+
+Public
+
+
+
+
+
+
+
+
+ 
+
+Notifications
+
+
+
+ 
+
+Fork
+    131
+
+
+
+
+ 
+
+
+          Star
+ 2.1k
+  
+
+
+
+
+
+
+
+
+
+
+        Rust bindings for Godot 4
+      
+
+
+
+
+
+mastodon.gamedev.place/@godotrust
+
+
+License
+
+
+
+
+
+     MPL-2.0 license
+    
+
+
+
+
+
+
+2.1k
+          stars
+ 
+
+
+
+131
+          forks
+ 
+
+
+
+Activity
+ 
+
+
+
+ 
+
+
+          Star
+
+  
+
+
+
+
+
+ 
+
+Notifications
+
+
+
+
+
+
+
+
+
+
+
+
+Code
+
+
+
+
+
+
+
+Issues
+90
+
+
+
+
+
+
+Pull requests
+2
+
+
+
+
+
+
+Actions
+
+
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+Insights
+
+
+
+ 
+
+ 
+
+
+Additional navigation options
+
+
+ 
+
+
+
+
+
+
+
+
+
+          Code
+
+
+
+
+
+
+
+
+
+
+          Issues
+
+
+
+
+
+
+
+
+
+
+          Pull requests
+
+
+
+
+
+
+
+
+
+
+          Actions
+
+
+
+
+
+
+
+
+
+
+          Security
+
+
+
+
+
+
+
+
+
+
+          Insights
+
+
+
+
+
+ 
+
+
+
+
+
+godot-rust/gdext
+
+
+
+
+
+
+
+This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.
+
+
+
+
+
+
+
+
+
+
+
+master
+
+
+
+
+
+Switch branches/tags
+
+
+
+
+
+
+
+
+
+
+Branches
+Tags
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View all branches
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View all tags
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name already in use
+
+
+
+
+
+
+
+
+
+      A tag already exists with the provided branch name. Many Git commands accept both tag and branch names, so creating this branch may cause unexpected behavior. Are you sure you want to create this branch?
+
+
+
+    Cancel
+
+    Create
+
+
+
+
+
+
+
+
+7
+branches
+
+
+
+
+
+1
+tag
+
+
+
+
+
+
+
+ 
+Code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local
+
+
+
+ Codespaces
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  Clone
+
+
+
+
+
+            HTTPS
+ 
+            GitHub CLI
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Use Git or checkout with SVN using the web URL.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Work fast with our official CLI.
+      Learn more about the CLI.
+    
+
+
+
+
+
+
+
+
+    Open with GitHub Desktop
+
+
+
+
+
+
+    Download ZIP
+
+
+
+ 
+Sign In Required
+
+                Please
+                sign in
+                to use Codespaces.
+              
+
+
+
+
+Launching GitHub Desktop
+
+    If nothing happens, download GitHub Desktop and try again.
+  
+
+
+
+
+Launching GitHub Desktop
+
+    If nothing happens, download GitHub Desktop and try again.
+  
+
+
+
+
+Launching Xcode
+
+    If nothing happens, download Xcode and try again.
+  
+
+
+
+
+
+Launching Visual Studio Code
+Your codespace will open once ready.
+There was a problem preparing your codespace, please try again.
+
+
+
+
+
+
+
+
+
+
+
+
+Latest commit
+
+
+
+
+
+
+ 
+
+
+
+
+Bromeon
+
+Merge pull request #548 from godot-rust/feature/ci-deny-machete
+
+
+
+
+        …
+      
+
+
+
+
+        5e18af8
+      
+
+Dec 28, 2023
+
+
+
+
+
+Merge pull request #548 from godot-rust/feature/ci-deny-machete
+
+CI: add `cargo-deny` and `cargo-machete`
+
+5e18af8
+
+
+
+Git stats
+
+
+
+
+
+
+
+1,239
+
+                      commits
+                    
+
+
+
+
+
+
+
+Files
+Permalink
+
+
+
+
+    Failed to load latest commit information.
+
+
+  
+ 
+
+
+Type
+Name
+Latest commit message
+Commit time
+
+
+
+
+
+
+
+
+.github
+
+
+
+Update deny.toml config to latest version
+
+
+
+December 28, 2023 12:21
+
+
+
+
+
+
+
+
+
+assets
+
+
+
+Rename to gdext
+
+
+
+March 10, 2023 21:50
+
+
+
+
+
+
+
+
+
+examples/dodge-the-creeps
+
+
+
+CI: add cargo-deny and cargo-machete
+
+
+
+December 28, 2023 12:03
+
+
+
+
+
+
+
+
+
+godot-bindings
+
+
+
+Set Godot default version to 4.2
+
+
+
+December 1, 2023 14:11
+
+
+
+
+
+
+
+
+
+godot-codegen
+
+
+
+Fix UB regarding dead and wrongly-typed objects (DerefMut exploit)
+
+
+
+December 27, 2023 21:03
+
+
+
+
+
+
+
+
+
+godot-core
+
+
+
+Add Global::try_lock(), replace another occurrence
+
+
+
+December 28, 2023 10:56
+
+
+
+
+
+
+
+
+
+godot-ffi
+
+
+
+Merge pull request #548 from godot-rust/feature/ci-deny-machete
+
+
+
+December 28, 2023 11:28
+
+
+
+
+
+
+
+
+
+godot-fmt
+
+
+
+CI: add cargo-deny and cargo-machete
+
+
+
+December 28, 2023 12:03
+
+
+
+
+
+
+
+
+
+godot-macros
+
+
+
+Fix UB regarding dead and wrongly-typed objects (DerefMut exploit)
+
+
+
+December 27, 2023 21:03
+
+
+
+
+
+
+
+
+
+godot
+
+
+
+Error when using double-precision without custom-godot
+
+
+
+December 20, 2023 14:16
+
+
+
+
+
+
+
+
+
+itest
+
+
+
+CI: add cargo-deny and cargo-machete
+
+
+
+December 28, 2023 12:03
+
+
+
+
+
+
+
+
+
+.gitignore
+
+
+
+Reduce to a single project-wide .gitignore, covering both itest and e…
+
+
+
+March 4, 2023 12:09
+
+
+
+
+
+
+
+
+
+Cargo.toml
+
+
+
+Add commented-out [patch] to workspace for easier testing
+
+
+
+November 2, 2023 14:14
+
+
+
+
+
+
+
+
+
+Contributing.md
+
+
+
+Update ReadMe, Contribute, Funding
+
+
+
+October 26, 2023 11:10
+
+
+
+
+
+
+
+
+
+License.txt
+
+
+
+Add MPL2 license
+
+
+
+October 3, 2022 00:42
+
+
+
+
+
+
+
+
+
+ReadMe.md
+
+
+
+Update ReadMe, Contribute, Funding
+
+
+
+October 26, 2023 11:10
+
+
+
+
+
+
+
+
+
+check.sh
+
+
+
+Apply updated license header
+
+
+
+December 1, 2023 12:41
+
+
+
+
+    View code
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rust bindings for Godot 4
+Philosophy
+Development status
+Getting started
+License
+Contributing
+
+
+
+
+
+ReadMe.md
+
+
+
+
+
+Rust bindings for Godot 4
+Website | Book | API Docs | Discord | Mastodon | Twitter | Sponsor
+gdext is a library to bind the Rust language to Godot 4.
+Godot is an open-source game engine, whose version 4 has brought large-scale improvements.
+Its GDExtension API allows integrating third-party languages and libraries.
+
+If you are looking for a Rust binding for Godot 3 (GDNative API), check out gdnative.
+
+Philosophy
+The Rust binding is an alternative to GDScript, with a focus on type safety, scalability and performance.
+The primary goal of gdext is to provide a pragmatic Rust API for game developers.
+Recurring workflows should be simple and require minimal boilerplate. APIs are designed to be safe and idiomatic Rust wherever possible.
+Due to interacting with Godot as a C++ engine, we sometimes follow unconventional approaches to provide a good user experience.
+Development status
+The gdext library has evolved a lot during 2023 and is now in a usable state for smaller projects.
+However, it is still in an early stage and there are certain things to keep in mind.
+
+Warning
+The public API introduces breaking changes from time to time. Most of these are motivated by new features and
+improved ergonomics for existing ones. See also API stability in the book.
+
+Features: While most Godot features are available, some less commonly used ones are missing. See #24 for an up-to-date overview.
+At this point, there is no support for Android, iOS or WASM. Contributions are very welcome!
+Bugs: Most undefined behavior related to the FFI layer has been ironed out, but there may still be occasional safety issues. Apart from that,
+new additions to the library are typically not feature-complete from the start, but become more robust with feedback and testing over time.
+To counter bugs, we have an elaborate CI suite including clippy, unit tests, engine integration tests and memory sanitizers.
+Getting started
+To dive into Rust development with gdext, check out the godot-rust book. The book is still under construction,
+but already includes a tutorial to set up a simple example.
+To consult the API reference, have a look at the online API Docs.
+Furthermore, we provide a small example game in the examples/dodge-the-creeps directory.
+If you need help, join our Discord server and ask in the #help-gdext channel!
+License
+We use the Mozilla Public License 2.0. MPL tries to find a balance between permissive (MIT, Apache, Zlib) and copyleft licenses (GPL, LGPL).
+The license provides a lot of freedom: you can use the library commercially and keep your own code closed-source,
+i.e. game development is not restricted. The main condition is that if you change gdext itself, you need to make
+those changes available (and only those, no surrounding code).
+Contributing
+Contributions are very welcome! If you want to help out, see Contributing.md for some pointers on getting started.
+
+
+
+
+
+
+
+
+
+
+About
+
+        Rust bindings for Godot 4
+      
+
+
+
+
+
+mastodon.gamedev.place/@GodotRust
+
+
+Topics
+
+
+
+  rust
+
+
+  gamedev
+
+
+  game-development
+
+
+  godot
+
+
+
+Resources
+
+
+
+
+
+        Readme
+ 
+License
+
+
+
+
+
+     MPL-2.0 license
+    
+
+Code of conduct
+
+
+
+
+
+        Code of conduct
+      
+
+
+
+
+
+
+
+
+Activity
+ 
+Stars
+
+
+
+
+
+2.1k
+      stars
+ 
+Watchers
+
+
+
+
+
+23
+      watching
+ 
+Forks
+
+
+
+
+
+131
+      forks
+ 
+
+
+          Report repository
+ 
+
+
+
+
+
+
+
+    Releases
+
+
+
+
+
+1
+tags
+
+
+
+
+
+Sponsor this project
+
+
+
+
+ 
+
+
+
+ 
+
+
+ 
+Learn more about GitHub Sponsors
+
+
+
+
+
+
+
+    Packages
+      0
+
+
+        No packages published 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Contributors
+      55
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      + 41 contributors
+
+
+
+
+
+Languages
+
+
+
+
+
+
+
+
+
+
+
+
+Rust
+98.0%
+
+
+
+
+
+
+
+GDScript
+1.5%
+
+
+
+
+
+
+
+Shell
+0.5%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Footer
+
+
+
+
+
+
+
+
+        © 2024 GitHub, Inc.
+      
+
+
+Footer navigation
+
+
+Terms
+
+
+Privacy
+
+
+Security
+
+
+Status
+
+
+Docs
+
+
+Contact
+
+
+
+
+      Manage cookies
+    
+
+
+
+
+
+      Do not share my personal information
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    You can’t perform that action at this time.
+  
+
+
+
+
+
+
+
+
+
+
+
+

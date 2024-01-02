@@ -1,0 +1,1560 @@
+
+
+
+
+
+
+Latest search for new exotic particles at CERN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Topics
+
+
+
+
+
+Week's top
+
+
+Latest news
+
+
+Unread news
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Science X Account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Remember me
+
+
+
+
+Sign In
+
+
+
+                  Click here to sign in with
+                  
+
+
+                  or
+                  
+
+
+
+
+
+Forget Password?
+
+
+Not a member?
+                  Sign up
+
+
+
+Learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nanotechnology
+
+
+Physics
+
+
+Earth
+
+
+Astronomy & Space
+
+
+Chemistry
+
+
+Biology
+
+
+Other Sciences
+
+
+
+ Medicine
+                                
+
+
+
+ Technology
+                                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+share this!
+
+
+
+
+
+
+96
+
+
+
+
+
+
+
+Twit
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Physics
+
+
+
+
+General Physics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+														December 27, 2023
+														
+													
+
+
+
+
+
+
+
+
+
+													Editors' notes
+												
+
+
+
+													This article has been reviewed according to Science X's 
+													editorial process
+													and policies.
+													Editors have highlighted
+													the following attributes while ensuring the content's credibility:
+												
+
+ fact-checked
+														
+
+ trusted source
+														
+
+ proofread
+														
+
+
+
+Latest search for new exotic particles at CERN
+
+										 by 										 CERN
+
+
+
+
+
+
+
+                Illustration of two types of long-lived particles decaying into a pair of muons, showing how the signals of the muons can be traced back to the long-lived particle decay point using data from the tracker and muon detectors. Credit: CMS/CERN
+             
+
+The CMS experiment has presented its first search for new physics using data from Run 3 of the Large Hadron Collider. The new study looks at the possibility of "dark photon" production in the decay of Higgs bosons in the detector.
+
+
+
+
+
+
+Dark photons are exotic long-lived particles: "Long-lived" because they have an average lifetime of more than a tenth of a billionth of a second—a very long lifetime in terms of particles produced in the LHC—and "exotic" because they are not part of the standard model of particle physics.
+The standard model is the leading theory of the fundamental building blocks of the universe, but many physics questions remain unanswered, and so searches for phenomena beyond the standard model continue. CMS's new result defines more constrained limits on the parameters of the decay of Higgs bosons to dark photons, further narrowing down the area in which physicists can search for them.
+In theory, dark photons would travel a measurable distance in the CMS detector before they decay into "displaced muons." If scientists were to retrace the tracks of these muons, they would find that they don't reach all the way to the collision point, because the tracks come from a particle that has already moved some distance away, without any trace.
+Run 3 of the LHC began in July 2022 and has a higher instantaneous luminosity than previous LHC runs, meaning there are more collisions happening at any one moment for researchers to analyze. The LHC produces tens of millions of collisions every second, but only a few thousand of them can be stored, as recording every collision would quickly consume all the available data storage.
+
+
+
+
+
+
+This is why CMS is equipped with a real-time data selection algorithm called the trigger, which decides whether or not a given collision is interesting. Therefore, it is not only a higher volume of data that could help to reveal evidence of the dark photon, but also the way in which the trigger system is fine-tuned to look for specific phenomena.
+"We have really improved our ability to trigger on displaced muons," says Juliette Alimena from the CMS experiment. "This allows us to collect much more events than before with muons that are displaced from the collision point by distances from a few hundred micrometers to several meters. Thanks to these improvements, if dark photons exist, CMS is now much more likely to find them."
+The CMS trigger system has been crucial to this search, and was especially refined between Runs 2 and 3 to search for exotic long-lived particles. As a result, the collaboration has been able to use the LHC more efficiently, obtaining a strong result using just a third of the amount of data as previous searches.
+To do this, the CMS team refined the trigger system by adding a new algorithm called a non-pointing muon algorithm. This improvement meant that even with just four to five months of data from Run 3 in 2022, more displaced-muon events were recorded than in the much larger 2016–18 Run 2 dataset. The new coverage of the triggers vastly increases the momentum ranges of the muons that are picked up, allowing the team to explore new regions where long-lived particles may be hiding.
+The CMS team will continue using the most powerful techniques to analyze all data taken in the remaining years of Run 3 operations, with the aim of further exploring physics beyond the standard model.
+
+More information:
+												Search for long-lived particles decaying to a pair of muons in pp collisions at √s = 13.6 TeV with 2022 data. cms-results.web.cern.ch/cms-re … XO-23-014/index.html
+
+
+
+													Provided by
+																											CERN
+
+
+
+
+
+
+
+
+
+
+Citation:
+												Latest search for new exotic particles at CERN (2023, December 27)
+												retrieved 2 January 2024
+												from https://phys.org/news/2023-12-latest-exotic-particles-cern.html
+											 
+
+											 This document is subject to copyright. Apart from any fair dealing for the purpose of private study or research, no
+											 part may be reproduced without the written permission. The content is provided for information purposes only.
+											 
+
+
+
+
+
+
+
+
+
+Explore further
+
+The CMS collaboration at CERN presents its latest search for 'dark photons'
+
+
+
+
+96 shares
+									
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+Email
+
+
+
+
+
+
+
+ Feedback to editors
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Featured
+
+
+Last Comments
+
+
+Popular
+
+
+
+
+
+Lake fish in New York are losing habitat due to two threats associated with climate change, study shows
+
+
+
+
+
+1 hour ago
+
+
+
+
+
+0
+
+
+
+
+New high-speed video system uses sensors, infrared illumination to track insects in large wild areas
+
+
+
+
+
+3 hours ago
+
+
+
+
+
+0
+
+
+
+
+New ultra-short period binary discovered
+
+
+
+
+
+3 hours ago
+
+
+
+
+
+0
+
+
+
+
+First pulsar detected in globular cluster GLIMPSE-C01
+
+
+
+
+
+Dec 30, 2023
+
+
+
+
+
+0
+
+
+
+
+3D printed multilayer structures for high-numerical aperture achromatic lenses
+
+
+
+
+
+Dec 29, 2023
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Deciphering molecular mysteries: New insights into metabolites that control aging and disease
+
+
+
+
+
+48 minutes ago
+
+
+
+
+
+
+
+
+
+ 
+Designing the 'perfect' meal to feed long-term space travelers
+
+
+
+
+
+55 minutes ago
+
+
+
+
+
+
+
+
+
+ 
+Study shows 3D organization of DNA controls cell identity programs
+
+
+
+
+
+1 hour ago
+
+
+
+
+
+
+
+
+
+ 
+'Nutritional quality must be at the heart of climate-smart agriculture,' researchers say
+
+
+
+
+
+1 hour ago
+
+
+
+
+
+
+
+
+
+ 
+Reducing inequality is essential in tackling climate crisis, researchers argue
+
+
+
+
+
+1 hour ago
+
+
+
+
+
+
+
+
+
+ 
+A new deep-learning-based analysis toolkit for spatial transcriptomics
+
+
+
+
+
+1 hour ago
+
+
+
+
+
+
+
+
+
+ 
+Lake fish in New York are losing habitat due to two threats associated with climate change, study shows
+
+
+
+
+
+1 hour ago
+
+
+
+
+
+
+
+
+
+ 
+Matabele ants recognize infected wounds and treat them with antibiotics
+
+
+
+
+
+2 hours ago
+
+
+
+
+
+
+
+
+
+ 
+Tissue-integrated sensitive glucose nanosenor uses inactive glucose oxidase enzyme for continuous monitoring
+
+
+
+
+
+2 hours ago
+
+
+
+
+
+
+
+
+
+ 
+Quantum thermal transistors: Harnessing quantum measurement and feedback
+
+
+
+
+
+2 hours ago
+
+
+
+
+
+
+
+
+
+
+
+Relevant PhysicsForums posts
+
+Maxwell's equations and the momentum of charge
+
+
+
+
+Jan 1, 2024
+
+
+
+Lost Energy from a Reciprocating Piston
+
+
+
+
+Dec 30, 2023
+
+
+
+How does mechanical motion start at the deepest, smallest level?
+
+
+
+
+Dec 27, 2023
+
+
+
+Uncertainty in total weight
+
+
+
+
+Dec 24, 2023
+
+
+
+Correcting units from this physics paper?
+
+
+
+
+Dec 23, 2023
+
+
+
+Confused about unit conversion involving natural units
+
+
+
+
+Dec 19, 2023
+
+
+
+							More from Other Physics Topics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related Stories
+
+
+
+
+
+ 
+The CMS collaboration at CERN presents its latest search for 'dark photons'
+
+
+
+
+
+Nov 13, 2023
+
+
+
+
+
+
+
+
+
+ 
+ATLAS Experiment releases new search for long-lived particles
+
+
+
+
+
+Oct 15, 2020
+
+
+
+
+
+
+
+
+
+ 
+Looking for sterile neutrinos in the CMS muon system
+
+
+
+
+
+Jul 28, 2023
+
+
+
+
+
+
+
+
+
+
+
+ 
+Searching for axions with the ATLAS detector
+
+
+
+
+
+Dec 11, 2023
+
+
+
+
+
+
+
+
+
+ 
+ATLAS sets stringent limits on the existence of supersymmetric dark matter particles
+
+
+
+
+
+Oct 10, 2023
+
+
+
+
+
+
+
+
+
+ 
+Researchers publish new results from dark boson searches
+
+
+
+
+
+Aug 21, 2023
+
+
+
+
+
+
+
+
+
+
+Recommended for you
+
+
+
+
+
+ 
+Beyond boundaries: Exploring exotic nuclear landscapes and their cosmic implications
+
+
+
+
+
+Dec 28, 2023
+
+
+
+
+
+
+
+
+
+ 
+Ordering of neutrino masses may be revealed by measuring those produced in Earth's atmosphere
+
+
+
+
+
+Dec 27, 2023
+
+
+
+
+
+
+
+
+
+ 
+A logical magic state with fidelity beyond distillation threshold realized on superconducting quantum processor
+
+
+
+
+
+Dec 27, 2023
+
+
+
+
+
+
+
+
+
+
+
+ 
+Constraining the dynamics of rotating black holes via the gauge symmetry principle
+
+
+
+
+
+Dec 27, 2023
+
+
+
+
+
+
+
+
+
+ 
+Clarified at last: The physics of popping champagne
+
+
+
+
+
+Dec 21, 2023
+
+
+
+
+
+
+
+
+
+ 
+Why paint does not dry slower in a humid environment
+
+
+
+
+
+Dec 20, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+										Load comments (10)
+									 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Let us know if there is a problem with our content
+
+
+
+
+
+
+
+
+
+
+											Use this form if you have come across a typo, inaccuracy or would like to send an edit request for the content on this page.
+											For general inquiries, please use our  contact form.
+											For general feedback, use the public comments section below (please adhere to guidelines).
+										
+Please select the most appropriate category to facilitate processing of your request
+
+
+ -- please select one -- 
+Compliments / Critique
+Typos / Errors / Inaccuracies
+Edit / Removal request
+
+
+
+
+Your message to the editors
+
+
+
+
+
+Your  email  (only if you want to be contacted back)
+
+
+
+
+Send Feedback
+
+
+
+
+Thank you for taking time to provide your feedback to the editors.
+Your feedback is important to us. However, we do not guarantee individual replies due to the high volume of messages. 
+
+
+
+
+
+
+
+
+
+E-mail the story
+Latest search for new exotic particles at CERN
+
+
+
+
+
+
+
+
+
+
+
+Your friend's email
+
+
+
+
+
+Your email
+
+
+
+
+
+
+
+
+
+                                            I would like to subscribe to Science X Newsletter. Learn more
+
+
+
+
+
+
+
+Your name
+
+
+
+Note
+
+                                            Your email address is used only to let the recipient know who sent the email. Neither your address nor the recipient's address will be used for any other purpose.
+											The information you enter will appear in your e-mail message and is not retained by Phys.org in any form. 
+                                        
+
+
+
+
+Your message
+
+
+
+
+
+
+
+
+
+Send
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Newsletter sign up
+
+					Get weekly and/or daily updates delivered to your inbox.
+					You can unsubscribe at any time and we'll never share your details to third parties.
+				
+
+
+
+
+
+
+Subscribe
+
+
+
+More information
+Privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate and enjoy an ad-free experience
+
+                    We keep our content available to everyone.
+                    Consider supporting Science X's mission by getting a premium account.
+				
+
+
+Remove ads
+
+
+Maybe later
+
+
+
+
+
+
+
+
+
+
+
+
+Medical Xpress
+Medical research advances and health news
+
+
+
+
+
+
+
+
+
+Tech Xplore
+The latest engineering, electronics and technology advances
+
+
+
+
+
+
+
+
+
+Science X
+The most comprehensive sci-tech news coverage on the web
+
+
+
+
+
+
+
+
+
+
+Newsletters
+
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+
+                                                Science X Daily and the Weekly Email Newsletter are free features that allow you to receive your favorite sci-tech news updates in your email inbox
+                                            
+
+
+
+
+
+
+Follow us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top
+
+
+Home
+
+
+Search
+
+
+Mobile version
+
+
+
+
+Help
+
+
+FAQ
+
+
+About
+
+
+Contact
+
+
+
+
+Science X Account
+
+
+Premium Account
+
+
+Archive
+
+
+News wire
+
+
+
+
+Android app
+
+
+iOS app
+
+
+RSS feeds
+
+
+Push notification
+
+
+
+
+
+
+
+© Phys.org 2003 - 2024 powered by Science X Network
+
+
+Privacy policy
+Terms of use
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E-mail newsletter
+
+
+
+
+
+
+
+
+Subscribe
+
+
+Follow us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

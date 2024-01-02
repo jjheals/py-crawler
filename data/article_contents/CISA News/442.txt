@@ -1,0 +1,780 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CISA Releases Key Risk and Vulnerability Findings for Healthcare and Public Health Sector | CISA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+ 
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+ A .gov website belongs to an official government organization in the United States.
+              
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+ A lock (LockA locked padlock) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cybersecurity & Infrastructure Security Agency
+ America's Cyber Defense Agency
+
+
+
+Search
+
+
+
+ 
+
+
+Menu
+
+
+
+
+
+
+Close
+
+
+ 
+
+
+
+
+Topics
+
+
+
+Topics
+
+
+
+
+
+Cybersecurity Best Practices
+
+
+
+
+
+
+Cyber Threats and Advisories
+
+
+
+
+
+
+Critical Infrastructure Security and Resilience
+
+
+
+
+
+
+Election Security
+
+
+
+
+
+
+Emergency Communications
+
+
+
+
+
+
+Industrial Control Systems
+
+
+
+
+
+
+Information and Communications Technology Supply Chain Security
+
+
+
+
+
+
+Partnerships and Collaboration
+
+
+
+
+
+
+Physical Security
+
+
+
+
+
+
+Risk Management
+
+
+
+
+
+
+        How can we help?
+       
+GovernmentEducational InstitutionsIndustryState, Local, Tribal, and TerritorialIndividuals and FamiliesSmall and Medium BusinessesFind Help LocallyFaith-Based CommunityExecutives
+
+
+
+
+
+Spotlight
+
+
+
+
+Resources & Tools
+
+
+
+Resources & Tools
+
+
+
+
+
+All Resources & Tools
+
+
+
+
+
+
+Services
+
+
+
+
+
+
+Programs
+
+
+
+
+
+
+Resources
+
+
+
+
+
+
+Training
+
+
+
+
+
+
+Groups
+
+
+
+
+
+
+
+
+News & Events
+
+
+
+News & Events
+
+
+
+
+
+News
+
+
+
+
+
+
+Events
+
+
+
+
+
+
+Cybersecurity Alerts & Advisories
+
+
+
+
+
+
+Directives
+
+
+
+
+
+
+Request a CISA Speaker
+
+
+
+
+
+
+Congressional Testimony
+
+
+
+
+
+
+
+
+Careers
+
+
+
+Careers
+
+
+
+
+
+Benefits & Perks
+
+
+
+
+
+
+HireVue Applicant Reasonable Accommodations Process
+
+
+
+
+
+
+Hiring
+
+
+
+
+
+
+Resume & Application Tips
+
+
+
+
+
+
+Students & Recent Graduates
+
+
+
+
+
+
+Veteran and Military Spouses
+
+
+
+
+
+
+Work @ CISA
+
+
+
+
+
+
+
+
+About
+
+
+
+About
+
+
+
+
+
+Culture
+
+
+
+
+
+
+Divisions & Offices
+
+
+
+
+
+
+Regions
+
+
+
+
+
+
+Leadership
+
+
+
+
+
+
+Doing Business with CISA
+
+
+
+
+
+
+Site Links
+
+
+
+
+
+
+Reporting Employee and Contractor Misconduct
+
+
+
+
+
+
+CISA GitHub
+
+
+
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+Report a Cyber Issue
+
+
+
+
+
+America's Cyber Defense Agency
+
+
+
+
+
+
+Breadcrumb
+
+
+Home
+
+
+News & Events
+
+
+News
+
+
+
+
+
+
+
+Share:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Press Release
+
+CISA Releases Key Risk and Vulnerability Findings for Healthcare and Public Health Sector  
+
+Report provides recommended actions and mitigation strategies for HPH sector, critical infrastructure and software manufacturers  
+
+
+ReleasedDecember 15, 2023
+
+
+
+ Related topics: 
+
+Cybersecurity Best Practices,                                                                                 Organizations and Cyber Safety,                                                                                 Critical Infrastructure Security and Resilience 
+
+
+
+
+
+
+
+
+
+
+
+
+WASHINGTON – The Cybersecurity and Infrastructure Security Agency (CISA) published a Cybersecurity Advisory (CSA), Enhancing Cyber Resilience: Insights from the CISA Healthcare and Public Health Sector Risk and Vulnerability Assessment, detailing the agency’s key findings and activities during a Risk and Vulnerability Assessment (RVA) conducted at a healthcare and public health (HPH) organization in early 2023. The advisory also provides network defenders and software manufacturers recommendations for improving their organizations’ and customers’ cyber posture, which reduces the impact of follow-on activity after initial access.  The CISA assessments team identified several findings as potentially exploitable vulnerabilities that could compromise the confidentiality, integrity, and availability of the tested environment. Tailored for HPH organizations of all sizes as well as for all critical infrastructure organizations, the advisory provides several recommended mitigations mapped to 16 specific cybersecurity weaknesses identified during the RVA. Also, the advisory provides three mitigation strategies that all organizations should implement: (1) Asset management and security, (2) Identity management and device security, and (3) Vulnerability, patch, and configuration management. Each strategy has specific focus areas with details and steps on how HPH entities can implement them to strengthen their cybersecurity posture.  “Exposure of common vulnerabilities and insecure configurations can result in detrimental cyber activity for U.S. healthcare organizations, such as ransomware, data breaches, or denial-of-service. The intent of this advisory is to help organizations maintain the availability, confidentiality, and integrity of their critical healthcare and public health systems, functions, and data,” said CISA Deputy Director Nitin Natarajan. “Adversaries and criminals will continue to target organizations seen as target rich, cyber poor. To reduce the burden of cybersecurity on customers, manufacturers of HPH technology products should implement the recommended actions in the advisory that are aligned to our Principles and Approaches for Secure by Design Software white paper. Also, we strongly encourage healthcare entities and all organizations to review this advisory, implement the mitigations and enroll in our vulnerability scanning service which can further help reduce cyber risk.” This advisory builds on the CISA and Health and Human Services Healthcare Cybersecurity Toolkit and CISA’s Mitigation Guide for HPH Sector that were recently released. The recommended mitigations for network defenders are mapped to the Cross-Sector Cybersecurity Performance Goals (CPGs).  The recommended actions for software manufacturers are aligned to the recently updated, Principles and Approaches for Secure by Design Software, a joint guide co-sealed by 18 U.S. and international agencies. It urges software manufacturers to take urgent steps necessary to design, develop, and deliver products that are secure by design.  For more information and resources, HPH entities can visit CISA’s Healthcare and Public Health Cybersecurity Toolkit and Healthcare and Public Health Sector webpages.  ###About CISA As the nation’s cyber defense agency and national coordinator for critical infrastructure security, the Cybersecurity and Infrastructure Security Agency leads the national effort to understand, manage, and reduce risk to the digital and physical infrastructure Americans rely on every hour of every day.Visit CISA.gov for more information and follow us on Twitter, Facebook, LinkedIn, Instagram. 
+
+
+
+
+
+
+
+
+
+Related Articles
+
+
+
+
+
+
+Dec 20, 2023
+
+Press Release
+
+
+
+CISA Issues Request For Information on Secure by Design Software Whitepaper
+ 
+
+
+
+
+
+
+
+Dec 06, 2023
+
+Press Release
+
+
+
+CISA, NSA, FBI and International Cybersecurity Authorities Publish Guide on The Case for Memory Safe Roadmaps 
+ 
+
+
+
+
+
+
+
+Dec 06, 2023
+
+Press Release
+
+
+
+Readout from CISA’s 2023 Fourth Quarter Cybersecurity Advisory Committee Meeting  
+ 
+
+
+
+
+
+
+
+Nov 26, 2023
+
+Press Release
+
+
+
+DHS CISA and UK NCSC Release Joint Guidelines for Secure AI System Development
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+Topics
+
+
+Spotlight
+
+
+Resources & Tools
+
+
+News & Events
+
+
+Careers
+
+
+About
+
+
+
+
+
+
+
+
+
+Cybersecurity & Infrastructure Security Agency
+ 
+
+
+
+Facebook
+
+
+Twitter
+
+
+LinkedIn
+
+
+YouTube
+
+
+Instagram
+
+
+RSS
+
+
+
+CISA Central
+888-282-0870
+Central@cisa.dhs.gov
+
+
+
+
+
+
+
+
+
+
+DHS Seal
+
+CISA.gov
+An official website of the U.S. Department of Homeland Security
+
+
+
+
+About CISA
+
+
+Accessibility
+
+
+Budget and Performance
+
+
+DHS.gov
+
+
+FOIA Requests
+
+
+No FEAR Act
+
+
+Office of Inspector General
+
+
+Privacy Policy
+
+
+Subscribe
+
+
+The White House
+
+
+USA.gov
+
+
+Website Feedback
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

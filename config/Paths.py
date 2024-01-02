@@ -2,7 +2,7 @@
 class Paths: 
     
     # File containing the RSS feeds to index in json format
-    FEEDS_JSON:str = 'rss_feed/feeds.json'
+    FEEDS_JSON:str = 'config/feeds.json'
     
     # File for the index of terms from articles in json format
     INDEX_JSON:str = 'data/jsons/index.json'

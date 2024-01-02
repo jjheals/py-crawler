@@ -1,0 +1,978 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Android game dev’s Google Drive misconfig highlights cloud security risks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+
+Featured
+Latest
+
+
+
+
+
+
+
+New Black Basta decryptor exploits ransomware flaw to recover files
+
+
+
+
+
+Malware abuses Google OAuth endpoint to ‘revive’ cookies, hijack accounts
+
+
+
+
+
+Hospitals ask courts to force cloud storage firm to return stolen data
+
+
+
+
+
+Microsoft disables MSIX protocol handler abused in malware attacks
+
+
+
+
+
+
+
+
+
+ Google Groups is ending support for Usenet to combat spam
+
+
+
+
+
+Victoria court recordings exposed in reported ransomware attack
+
+
+
+
+
+Get started in ethical hacking with $155 off this course bundle deal
+
+
+
+
+
+The law enforcement operations targeting cybercrime in 2023
+
+
+
+
+
+
+
+
+Downloads
+
+
+
+Latest
+Most Downloaded
+
+
+
+
+
+
+
+Qualys BrowserCheck
+
+
+
+
+
+STOPDecrypter
+
+
+
+
+
+AuroraDecrypter
+
+
+
+
+
+FilesLockerDecrypter
+
+
+
+
+
+
+
+
+
+AdwCleaner
+
+
+
+
+
+ComboFix
+
+
+
+
+
+RKill
+
+
+
+
+
+Junkware Removal Tool
+
+
+
+
+
+
+
+
+VPNs
+
+
+
+Popular
+
+
+
+
+
+
+
+Best VPNs
+
+
+
+
+
+How to change IP address
+
+
+
+
+
+Access the dark web safely
+
+
+
+
+
+Best VPN for YouTube
+
+
+
+
+
+
+
+
+Virus Removal Guides
+
+
+
+Latest
+Most Viewed
+Ransomware
+
+
+
+
+
+
+
+Remove the Theonlinesearch.com Search Redirect
+
+
+
+
+
+Remove the Smartwebfinder.com Search Redirect
+
+
+
+
+
+How to remove the PBlock+ adware browser extension
+
+
+
+
+
+Remove the Toksearches.xyz Search Redirect
+
+
+
+
+
+
+
+
+
+Remove Security Tool and SecurityTool (Uninstall Guide)
+
+
+
+
+
+How to Remove WinFixer / Virtumonde / Msevents / Trojan.vundo
+
+
+
+
+
+How to remove Antivirus 2009 (Uninstall Instructions)
+
+
+
+
+
+How to remove Google Redirects or the TDSS, TDL3, or Alureon rootkit using TDSSKiller
+
+
+
+
+
+
+
+
+
+Locky Ransomware Information, Help Guide, and FAQ
+
+
+
+
+
+CryptoLocker Ransomware Information Guide and FAQ
+
+
+
+
+
+CryptorBit and HowDecrypt Information Guide and FAQ
+
+
+
+
+
+CryptoDefense and How_Decrypt Ransomware Information Guide and FAQ
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Latest
+Popular
+
+
+
+
+
+
+
+How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11
+
+
+
+
+
+How to use the Windows Registry Editor
+
+
+
+
+
+How to backup and restore the Windows Registry
+
+
+
+
+
+How to open a Windows 11 Command Prompt as Administrator
+
+
+
+
+
+
+
+
+
+How to start Windows in Safe Mode
+
+
+
+
+
+How to remove a Trojan, Virus, Worm, or other Malware
+
+
+
+
+
+How to show hidden files in Windows 7
+
+
+
+
+
+How to see hidden files in Windows
+
+
+
+
+
+
+
+
+Deals
+
+
+
+Categories
+
+
+
+
+
+
+
+eLearning
+
+
+
+
+
+IT Certification Courses
+
+
+
+
+
+Gear + Gadgets
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+
+Forums
+More
+
+Startup Database
+Uninstall Database
+Glossary
+Chat on Discord
+Send us a Tip!
+Welcome Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeNewsSecurityAndroid game dev’s Google Drive misconfig highlights cloud security risks
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Android game dev’s Google Drive misconfig highlights cloud security risks
+
+
+By Bill Toulas
+
+
+December 31, 2023
+10:09 AM
+4
+
+
+
+
+Japanese game developer Ateam has proven that a simple Google Drive configuration mistake can result in the potential but unlikely exposure of sensitive information for nearly one million people over a period of six years and eight months.
+The Japanese firm is a mobile games and content creator, encompassing Ateam Entertainment, which has multiple games on Google Play like War of Legions, Dark Summoner, Hatsune Miku – Tap Wonder, and tools like Memory Clear | Game Boost Master, and Good Night's Sleep Alarm.
+Earlier this month, Ateam informed users of its apps and services, employees, and business partners that on November 21, 2023, it discovered that it had incorrectly set a Google Drive cloud storage instance to "Anyone on the internet with the link can view" since March 2017.
+The insecurely configured Google Drive instance contained 1,369 files with personal information on Ateam customers, Ateam business partners, former and current employees, and even interns and people who applied for a position at the company.
+Ateam has confirmed that 935,779 individuals had their data exposed, with 98.9% being customers. For Ateam Entertainment specifically, 735,710 people have been exposed.
+
+Analysis of exposed individuals (Ateam)
+The data exposed by this misconfiguration varies depending on the type of relationship each individual had with the company and may include the following:
+Full names
+Email addresses
+Phone numbers
+Customer management numbers
+Terminal (device) identification numbers
+The company says it has seen no concrete evidence of threat actors having stolen the exposed information but urges people to remain vigilant for unsolicited and suspicious communications.
+Secure your cloud services
+Setting Google Drive to "Anyone with the link can view" makes it viewable only to those with the exact URL, typically reserved for collaboration between people working with non-sensitive data.
+If an employee, or someone else with the link, mistakenly exposed it publicly, it could get indexed by search engines and become broadly accessible.
+While it's unlikely that anyone found an exposed Google Drive URL on their own, this notification demonstrates a need for companies to properly secure their cloud services to prevent data from being mistakenly exposed.
+It is very common for threat actors and researchers to find exposed cloud services, such as databases and storage buckets, and download the data contained in them.
+While researchers usually responsibly disclose the exposed data, if threat actors find it, it can lead to bigger problems as they use it to extort companies or sell it to other hackers to use in their own attacks.
+In 2017, security researcher Chris Vickery found misconfigured Amazon S3 buckets exposing databases containing 1.8 billion social and forum posts made by users worldwide.
+Ten days later, the same researcher discovered another misconfigured S3 bucket that exposed what appeared to be classified information from INSCOM.
+While those breaches were responsibly disclosed, other cloud service misconfigurations have led to the data being leaked or sold on hacker forums.
+Misconfigured Amazon S3 buckets have become a big enough problem that researchers have released tools that scan for exposed buckets.
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has also released guidance for companies on how to properly secure cloud services.
+
+Related Articles:
+Victoria court recordings exposed in reported ransomware attackThe biggest cybersecurity and cyberattack stories of 2023EasyPark discloses data breach that may impact millions of usersKroll reveals FTX customer info exposed in August data breachPanasonic discloses data breach after December 2022 cyberattack
+
+
+
+
+
+
+
+
+Android
+Ateam
+Ateam Entertainment
+Data Breach
+Games
+Google Drive
+Japan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bill Toulas   
+Bill Toulas is a tech writer and infosec news reporter with over a decade of experience working on various online publications, covering open-source, Linux, malware, data breach incidents, and hacks.
+
+
+
+ Previous Article 
+Next Article 
+
+
+Comments
+
+
+ 
+
+
+
+
+Eddiehsyr  - 1 day ago 
+
+ 
+ 
+
+
+Somebody needs to tell these people about a category of security service known as an "API based CASB".
+
+
+
+
+
+ 
+
+
+
+
+h_b_s  - 1 day ago 
+
+ 
+ 
+
+
+I hesitate to draw conclusions from my own college experience because it may not be entirely typical. However, if it is then the majority of programmers coming out of coding boot camps, junior colleges and undergraduate programs aren't taught secure coding practices. Even basic programming logic was optional in some programs - it should be a hard requirement for all of them. Programmers aren't learning the basic skills to write secure systems, nor do the hordes of self taught coders have the skills. The tools they use are usually designed for convenience rather than having well thought out secured defaults. That's before it gets to the point where management may have de-prioritized security and privacy in service of greed over selling that data. Long winded way to say that the computer industry is almost universally ill equipped to deal with the modern computing landscape.
+
+
+
+
+
+ 
+
+
+
+
+GT500  - 22 hours ago 
+
+ 
+ 
+
+
+Misconfigured Google Drive, misconfigured Amazon bucket, misconfigured FTP... I mean, what's next? Misconfigured AI spilling all your company secrets?
+
+
+
+
+
+ 
+
+
+
+
+XSp  - 20 hours ago 
+
+ 
+ 
+
+
+"Android game dev’s Google Drive misconfig highlights cloud security risks"
+more like
+"Android game dev’s Google Drive misconfig highlights complete incompetence when it comes to basic security measures from the game dev"
+
+
+
+
+
+Post a Comment Community Rules
+
+You need to login in order to post a comment
+Not a member yet? Register Now
+
+
+
+You may also like:
+
+
+
+
+
+
+
+
+
+
+
+Popular Stories
+
+
+
+
+
+
+The biggest cybersecurity and cyberattack stories of 2023
+
+
+
+
+
+
+
+The law enforcement operations targeting cybercrime in 2023
+
+
+
+
+
+
+
+
+
+
+Latest Downloads
+
+
+
+
+Malwarebytes Anti-Malware
+Version: 4.6.7.301
+5M+ Downloads
+
+
+
+
+Windows Repair (All In One)
+Version: 4.14.1
+2M+ Downloads
+
+
+
+
+McAfee Consumer Products Removal tool
+Version: NA
+440,344 Downloads
+
+
+
+
+AdwCleaner
+Version: 8.4.0.0
+56M+ Downloads
+
+
+
+
+Everything Desktop Search
+Version: 1.4.1.1017
+24,641 Downloads
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow us:
+
+
+
+
+
+
+
+
+
+Main Sections
+
+News
+VPN Buyer Guides
+Downloads
+Virus Removal Guides
+Tutorials
+Startup Database
+Uninstall Database
+Glossary
+
+
+
+Community
+
+Forums
+Forum Rules
+Chat
+
+
+
+Useful Resources
+
+Welcome Guide
+Sitemap
+
+
+
+Company
+
+About BleepingComputer
+Contact Us
+Send us a Tip!
+Advertising
+Write for BleepingComputer
+Social & Feeds
+Changelog
+
+
+
+
+
+
+
+
+Terms of Use -  Privacy Policy - Ethics Statement - Affiliate Disclosure
+
+
+Copyright @ 2003 - 2024  Bleeping Computer® LLC  - All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+
+Login
+
+
+Username
+
+
+
+Password
+
+
+
+
+
+Remember Me
+
+
+
+Sign in anonymously
+
+
+
+
+
+ Sign in with Twitter
+
+Not a member yet? Register Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Reporter
+
+Help us understand the problem. What is going on with this comment?
+
+
+
+
+Spam
+
+
+Abusive or Harmful
+
+
+Inappropriate content
+
+
+Strong language
+
+
+Other
+
+
+
+
+
+Read our posting guidelinese to learn what content is prohibited.
+
+
+
+Submitting...
+SUBMIT
+
+
+
+
+
+
+
+
+
+
+

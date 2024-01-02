@@ -10,7 +10,7 @@ login
 
 
  Coding with ChatGPT
-1 point by ITMike 5 minutes ago  | hide | past | favorite | discuss 
+1 point by ITMike 9 minutes ago  | hide | past | favorite | discuss 
 
 How many of us coders out there have used ChatGPT to produce a code snippet or function or even a full coding script? My experience is it’s good if you need a code pattern template and hate syntax. 
  

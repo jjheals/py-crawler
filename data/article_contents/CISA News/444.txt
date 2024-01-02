@@ -1,0 +1,781 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Readout from CISA’s 2023 Fourth Quarter Cybersecurity Advisory Committee Meeting   | CISA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+ 
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+ A .gov website belongs to an official government organization in the United States.
+              
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+ A lock (LockA locked padlock) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cybersecurity & Infrastructure Security Agency
+ America's Cyber Defense Agency
+
+
+
+Search
+
+
+
+ 
+
+
+Menu
+
+
+
+
+
+
+Close
+
+
+ 
+
+
+
+
+Topics
+
+
+
+Topics
+
+
+
+
+
+Cybersecurity Best Practices
+
+
+
+
+
+
+Cyber Threats and Advisories
+
+
+
+
+
+
+Critical Infrastructure Security and Resilience
+
+
+
+
+
+
+Election Security
+
+
+
+
+
+
+Emergency Communications
+
+
+
+
+
+
+Industrial Control Systems
+
+
+
+
+
+
+Information and Communications Technology Supply Chain Security
+
+
+
+
+
+
+Partnerships and Collaboration
+
+
+
+
+
+
+Physical Security
+
+
+
+
+
+
+Risk Management
+
+
+
+
+
+
+        How can we help?
+       
+GovernmentEducational InstitutionsIndustryState, Local, Tribal, and TerritorialIndividuals and FamiliesSmall and Medium BusinessesFind Help LocallyFaith-Based CommunityExecutives
+
+
+
+
+
+Spotlight
+
+
+
+
+Resources & Tools
+
+
+
+Resources & Tools
+
+
+
+
+
+All Resources & Tools
+
+
+
+
+
+
+Services
+
+
+
+
+
+
+Programs
+
+
+
+
+
+
+Resources
+
+
+
+
+
+
+Training
+
+
+
+
+
+
+Groups
+
+
+
+
+
+
+
+
+News & Events
+
+
+
+News & Events
+
+
+
+
+
+News
+
+
+
+
+
+
+Events
+
+
+
+
+
+
+Cybersecurity Alerts & Advisories
+
+
+
+
+
+
+Directives
+
+
+
+
+
+
+Request a CISA Speaker
+
+
+
+
+
+
+Congressional Testimony
+
+
+
+
+
+
+
+
+Careers
+
+
+
+Careers
+
+
+
+
+
+Benefits & Perks
+
+
+
+
+
+
+HireVue Applicant Reasonable Accommodations Process
+
+
+
+
+
+
+Hiring
+
+
+
+
+
+
+Resume & Application Tips
+
+
+
+
+
+
+Students & Recent Graduates
+
+
+
+
+
+
+Veteran and Military Spouses
+
+
+
+
+
+
+Work @ CISA
+
+
+
+
+
+
+
+
+About
+
+
+
+About
+
+
+
+
+
+Culture
+
+
+
+
+
+
+Divisions & Offices
+
+
+
+
+
+
+Regions
+
+
+
+
+
+
+Leadership
+
+
+
+
+
+
+Doing Business with CISA
+
+
+
+
+
+
+Site Links
+
+
+
+
+
+
+Reporting Employee and Contractor Misconduct
+
+
+
+
+
+
+CISA GitHub
+
+
+
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+Report a Cyber Issue
+
+
+
+
+
+America's Cyber Defense Agency
+
+
+
+
+
+
+Breadcrumb
+
+
+Home
+
+
+News & Events
+
+
+News
+
+
+
+
+
+
+
+Share:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Press Release
+
+Readout from CISA’s 2023 Fourth Quarter Cybersecurity Advisory Committee Meeting  
+
+
+
+ReleasedDecember 06, 2023
+
+
+
+ Related topics: 
+
+Organizations and Cyber Safety,                                                                                 Cybersecurity Best Practices,                                                                                 Critical Infrastructure Security and Resilience 
+
+
+
+
+
+
+
+
+
+
+
+
+CARLSBAD, Calif. - Yesterday, the Cybersecurity and Infrastructure Security Agency (CISA) held its fourth and final 2023 quarterly Cybersecurity Advisory Committee (CSAC) meeting.During the meeting the Technical Advisory Council and Building Resilience and Reducing Systemic Risk to Critical Infrastructure subcommittees deliberated and voted on recommendations to forward to CISA Director Jen Easterly.The recommendations voted on today focused on advancing memory safe system languages (MSSL) and separately on efforts to further strengthen operational collaboration. The recommendations supplement those voted on in the September CSAC meeting, resulting in a total of 135 recommendations submitted in 2023. Today’s recommendations will now be submitted to Director Easterly in written form and posted on CISA.gov.“I am so pleased with the Committee’s work this year and look forward to an even more productive 2024 to help strengthen our nation’s cybersecurity,” said CISA Director Jen Easterly. “I’m especially excited to review the recommendations voted on today that will help advance CISA’s cybersecurity mission.”Director Easterly’s responses to the recommendations will be posted on cisa.gov.  Director Easterly also acknowledged the Committee’s new Chair, Ron Green from Mastercard, and Vice Chair, Dave DeWalt from NightDragon. Green follows outgoing inaugural Chair, Tom Fanning from Southern Company.  “I can’t thank Tom enough for the visionary leadership that he has provided to the CSAC. As founding chair of the advisory committee, he set a course for CISA that focused on innovation and process improvement for safer and more secure critical infrastructure. I am so excited to have Ron continue to provide his insight in this new position. I have the utmost confidence that Ron and Dave will continue the amazing work of the CSAC in advancing and strengthening our nation’s cybersecurity posture,” said Easterly. Established in 2021, the Committee was created to provide recommendations to the CISA Director that will help to advance the cybersecurity mission of the agency as well as to strengthen cybersecurity measures across the nation.    The next CISA CSAC meeting will be held virtually in March. Details and information on how to attend will be forthcoming.    The agenda from today’s meeting is available here. More information on CSAC is available here.     About CISA As the nation’s cyber defense agency and national coordinator for critical infrastructure security, the Cybersecurity and Infrastructure Security Agency leads the national effort to understand, manage, and reduce risk to the digital and physical infrastructure Americans rely on every hour of every day.Visit CISA.gov for more information and follow us on Twitter, Facebook, LinkedIn, Instagram. 
+
+
+
+
+
+
+
+
+
+Related Articles
+
+
+
+
+
+
+Dec 20, 2023
+
+Press Release
+
+
+
+CISA Issues Request For Information on Secure by Design Software Whitepaper
+ 
+
+
+
+
+
+
+
+Dec 15, 2023
+
+Press Release
+
+
+
+CISA Releases Key Risk and Vulnerability Findings for Healthcare and Public Health Sector  
+ 
+
+
+
+
+
+
+
+Dec 06, 2023
+
+Press Release
+
+
+
+CISA, NSA, FBI and International Cybersecurity Authorities Publish Guide on The Case for Memory Safe Roadmaps 
+ 
+
+
+
+
+
+
+
+Nov 26, 2023
+
+Press Release
+
+
+
+DHS CISA and UK NCSC Release Joint Guidelines for Secure AI System Development
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+Topics
+
+
+Spotlight
+
+
+Resources & Tools
+
+
+News & Events
+
+
+Careers
+
+
+About
+
+
+
+
+
+
+
+
+
+Cybersecurity & Infrastructure Security Agency
+ 
+
+
+
+Facebook
+
+
+Twitter
+
+
+LinkedIn
+
+
+YouTube
+
+
+Instagram
+
+
+RSS
+
+
+
+CISA Central
+888-282-0870
+Central@cisa.dhs.gov
+
+
+
+
+
+
+
+
+
+
+DHS Seal
+
+CISA.gov
+An official website of the U.S. Department of Homeland Security
+
+
+
+
+About CISA
+
+
+Accessibility
+
+
+Budget and Performance
+
+
+DHS.gov
+
+
+FOIA Requests
+
+
+No FEAR Act
+
+
+Office of Inspector General
+
+
+Privacy Policy
+
+
+Subscribe
+
+
+The White House
+
+
+USA.gov
+
+
+Website Feedback
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,2256 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GitHub - StackExchange/dnscontrol: Synchronize your DNS to multiple providers from a simple DSL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle navigation
+
+
+
+
+
+
+
+
+
+
+          Sign in
+        
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Product
+        
+
+
+
+
+
+
+
+
+
+
+
+
+Actions
+        Automate any workflow
+      
+
+
+
+
+
+
+
+Packages
+        Host and manage packages
+      
+
+
+
+
+
+
+
+Security
+        Find and fix vulnerabilities
+      
+
+
+
+
+
+
+
+Codespaces
+        Instant dev environments
+      
+
+
+
+
+
+
+
+Copilot
+        Write better code with AI
+      
+
+
+
+
+
+
+
+Code review
+        Manage code changes
+      
+
+
+
+
+
+
+
+Issues
+        Plan and track work
+      
+
+
+
+
+
+
+
+Discussions
+        Collaborate outside of code
+      
+
+
+
+
+Explore
+
+
+
+      All features
+
+    
+
+
+
+      Documentation
+
+    
+
+
+
+
+
+      GitHub Skills
+
+    
+
+
+
+
+
+      Blog
+
+    
+
+
+
+
+
+
+
+
+
+        Solutions
+        
+
+
+
+
+
+For
+
+
+
+      Enterprise
+
+    
+
+
+
+      Teams
+
+    
+
+
+
+      Startups
+
+    
+
+
+
+      Education
+
+    
+
+
+
+
+
+
+By Solution
+
+
+
+      CI/CD & Automation
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+
+
+      DevSecOps
+
+    
+
+
+
+
+
+
+Resources
+
+
+
+      Learning Pathways
+
+    
+
+
+
+
+
+      White papers, Ebooks, Webinars
+
+    
+
+
+
+
+
+      Customer Stories
+
+    
+
+
+
+      Partners
+
+    
+
+
+
+
+
+
+
+
+
+        Open Source
+        
+
+
+
+
+
+
+
+
+
+GitHub Sponsors
+        Fund open source developers
+      
+
+
+
+
+
+
+
+
+The ReadME Project
+        GitHub community articles
+      
+
+
+
+
+Repositories
+
+
+
+      Topics
+
+    
+
+
+
+      Trending
+
+    
+
+
+
+      Collections
+
+    
+
+
+
+
+
+
+Pricing
+
+
+
+
+
+
+
+
+
+
+
+
+Search or jump to...
+
+
+
+
+
+
+
+Search code, repositories, users, issues, pull requests...
+
+ 
+
+
+
+
+        Search
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clear
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+              Search syntax tips
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Provide feedback
+      
+
+
+
+
+
+
+
+
+ 
+We read every piece of feedback, and take your input very seriously.
+
+
+Include my email address so I can be contacted
+
+     Cancel
+
+    Submit feedback
+
+
+
+
+
+
+
+
+
+
+        Saved searches
+      
+Use saved searches to filter your results more quickly
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Name
+
+
+
+
+
+
+Query
+
+
+
+            To see all available qualifiers, see our documentation.
+          
+ 
+
+
+
+
+     Cancel
+
+    Create saved search
+
+
+
+
+
+
+
+
+              Sign in
+            
+
+
+              Sign up
+            
+
+
+
+
+
+
+
+
+
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.
+You switched accounts on another tab or window. Reload to refresh your session.
+ 
+
+
+Dismiss alert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        StackExchange
+ 
+/
+
+dnscontrol
+
+Public
+
+
+
+
+
+ 
+
+Notifications
+
+
+
+ 
+
+Fork
+    377
+
+
+
+
+ 
+
+
+          Star
+ 2.8k
+  
+
+
+
+
+
+
+
+
+
+
+        Synchronize your DNS to multiple providers from a simple DSL
+      
+
+
+
+
+
+dnscontrol.org/
+
+
+License
+
+
+
+
+
+     MIT license
+    
+
+
+
+
+
+
+2.8k
+          stars
+ 
+
+
+
+377
+          forks
+ 
+
+
+
+Activity
+ 
+
+
+
+ 
+
+
+          Star
+
+  
+
+
+
+
+
+ 
+
+Notifications
+
+
+
+
+
+
+
+
+
+
+
+
+Code
+
+
+
+
+
+
+
+Issues
+45
+
+
+
+
+
+
+Pull requests
+19
+
+
+
+
+
+
+Actions
+
+
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+Insights
+
+
+
+ 
+
+ 
+
+
+Additional navigation options
+
+
+ 
+
+
+
+
+
+
+
+
+
+          Code
+
+
+
+
+
+
+
+
+
+
+          Issues
+
+
+
+
+
+
+
+
+
+
+          Pull requests
+
+
+
+
+
+
+
+
+
+
+          Actions
+
+
+
+
+
+
+
+
+
+
+          Security
+
+
+
+
+
+
+
+
+
+
+          Insights
+
+
+
+
+
+ 
+
+
+
+
+
+StackExchange/dnscontrol
+
+
+
+
+
+
+
+This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.
+
+
+
+
+
+
+
+
+
+
+
+master
+
+
+
+
+
+Switch branches/tags
+
+
+
+
+
+
+
+
+
+
+Branches
+Tags
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View all branches
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View all tags
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name already in use
+
+
+
+
+
+
+
+
+
+      A tag already exists with the provided branch name. Many Git commands accept both tag and branch names, so creating this branch may cause unexpected behavior. Are you sure you want to create this branch?
+
+
+
+    Cancel
+
+    Create
+
+
+
+
+
+
+
+
+11
+branches
+
+
+
+
+
+90
+tags
+
+
+
+
+
+
+
+ 
+Code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local
+
+
+
+ Codespaces
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  Clone
+
+
+
+
+
+            HTTPS
+ 
+            GitHub CLI
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Use Git or checkout with SVN using the web URL.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Work fast with our official CLI.
+      Learn more about the CLI.
+    
+
+
+
+
+
+
+
+
+    Open with GitHub Desktop
+
+
+
+
+
+
+    Download ZIP
+
+
+
+ 
+Sign In Required
+
+                Please
+                sign in
+                to use Codespaces.
+              
+
+
+
+
+Launching GitHub Desktop
+
+    If nothing happens, download GitHub Desktop and try again.
+  
+
+
+
+
+Launching GitHub Desktop
+
+    If nothing happens, download GitHub Desktop and try again.
+  
+
+
+
+
+Launching Xcode
+
+    If nothing happens, download Xcode and try again.
+  
+
+
+
+
+
+Launching Visual Studio Code
+Your codespace will open once ready.
+There was a problem preparing your codespace, please try again.
+
+
+
+
+
+
+
+
+
+
+
+
+Latest commit
+
+
+
+
+
+
+ 
+
+
+
+
+tlimoncelli
+
+CHORE: Upgrade aws/aws-sdk-go-v2 urfave/cli/v2 gopkg.in/ns1/ns1-go.v2…
+
+
+
+
+        …
+      
+
+
+
+
+        3f27388
+      
+
+Jan 2, 2024
+
+
+
+
+
+CHORE: Upgrade aws/aws-sdk-go-v2 urfave/cli/v2 gopkg.in/ns1/ns1-go.v2…
+
+… golang.org/x/exp
+
+3f27388
+
+
+
+Git stats
+
+
+
+
+
+
+
+2,020
+
+                      commits
+                    
+
+
+
+
+
+
+
+Files
+Permalink
+
+
+
+
+    Failed to load latest commit information.
+
+
+  
+ 
+
+
+Type
+Name
+Latest commit message
+Commit time
+
+
+
+
+
+
+
+
+.github
+
+
+
+CICD: Revert actions/upload-artifact to 3.1.3 (from 4.0.0) (#2736)
+
+
+
+December 18, 2023 15:25
+
+
+
+
+
+
+
+
+
+build
+
+
+
+CICD: Removed the old Azure Pipelines configurations (#2705)
+
+
+
+December 10, 2023 10:27
+
+
+
+
+
+
+
+
+
+commands
+
+
+
+MSDNS: Fix failing DNS integration tests (#2734)
+
+
+
+December 18, 2023 12:39
+
+
+
+
+
+
+
+
+
+docs
+
+
+
+NEW FEATURE: Order changes based on the record dependencies (#2419)
+
+
+
+August 29, 2023 14:00
+
+
+
+
+
+
+
+
+
+documentation
+
+
+
+Docs: Use bullet list in opinion 2 (#2746)
+
+
+
+December 29, 2023 16:23
+
+
+
+
+
+
+
+
+
+integrationTest
+
+
+
+CICD: clean slate at the start, not end, of each testgroup (#2738)
+
+
+
+December 19, 2023 11:16
+
+
+
+
+
+
+
+
+
+models
+
+
+
+AKAMAIEDGEDNS: Fix AKAMAICDN add/modify. Fix integrationTest. (#2722)
+
+
+
+December 13, 2023 16:31
+
+
+
+
+
+
+
+
+
+pkg
+
+
+
+BUG: --full outputs an extra newline when skipping providers (#2730)
+
+
+
+December 18, 2023 12:55
+
+
+
+
+
+
+
+
+
+providers
+
+
+
+MSDNS: Fix failing DNS integration tests (#2734)
+
+
+
+December 18, 2023 12:39
+
+
+
+
+
+
+
+
+
+.editorconfig
+
+
+
+Add Shell Completion script generation
+
+
+
+October 15, 2023 11:12
+
+
+
+
+
+
+
+
+
+.gitattributes
+
+
+
+NEW PROVIDER: MSDNS (#1005)
+
+
+
+December 28, 2020 16:07
+
+
+
+
+
+
+
+
+
+.gitbook.yaml
+
+
+
+DOCS: Migrated documentation website to Gitbook (#1809)
+
+
+
+January 20, 2023 07:56
+
+
+
+
+
+
+
+
+
+.gitignore
+
+
+
+CICD: GoReleaser generates TypeScript file (#2704)
+
+
+
+December 10, 2023 10:34
+
+
+
+
+
+
+
+
+
+.goreleaser.yml
+
+
+
+CICD: GoReleaser generates TypeScript file (#2704)
+
+
+
+December 10, 2023 10:34
+
+
+
+
+
+
+
+
+
+.prettierrc
+
+
+
+Format helpers.js (#205)
+
+
+
+September 15, 2017 13:12
+
+
+
+
+
+
+
+
+
+Dockerfile
+
+
+
+Build(deps): Bump alpine from 3.18.4 to 3.18.5 (#2671)
+
+
+
+December 1, 2023 12:04
+
+
+
+
+
+
+
+
+
+LICENSE
+
+
+
+migrate code for github
+
+
+
+August 22, 2016 18:31
+
+
+
+
+
+
+
+
+
+OWNERS
+
+
+
+AZURE_PRIVATE_DNS: Rename module to conform to Go styleguide (#2697)
+
+
+
+December 6, 2023 17:29
+
+
+
+
+
+
+
+
+
+README.md
+
+
+
+DOCS: Rename build filenames (#2681)
+
+
+
+December 5, 2023 08:46
+
+
+
+
+
+
+
+
+
+SECURITY.md
+
+
+
+DOCS: Fix many small typos (#1794)
+
+
+
+October 30, 2022 13:56
+
+
+
+
+
+
+
+
+
+go.mod
+
+
+
+CHORE: Upgrade aws/aws-sdk-go-v2 urfave/cli/v2 gopkg.in/ns1/ns1-go.v2…
+
+
+
+January 2, 2024 10:41
+
+
+
+
+
+
+
+
+
+go.sum
+
+
+
+CHORE: Upgrade aws/aws-sdk-go-v2 urfave/cli/v2 gopkg.in/ns1/ns1-go.v2…
+
+
+
+January 2, 2024 10:41
+
+
+
+
+
+
+
+
+
+main.go
+
+
+
+Update version in go.mod (#2382)
+
+
+
+May 20, 2023 13:21
+
+
+
+
+
+
+
+
+
+package-lock.json
+
+
+
+NEW FEATURE: diff2: A better "diff" mechanism (#1852)
+
+
+
+December 11, 2022 17:28
+
+
+
+
+
+
+
+
+
+staticcheck.conf
+
+
+
+CHORE: Satisfy Staticcheck and remove unused code (#2331)
+
+
+
+May 8, 2023 16:49
+
+
+
+
+    View code
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DNSControl
+An Example
+Benefits
+Installation
+Via GitHub Actions (GHA)
+Deprecation warnings (updated 2023-02-18)
+More info at our website
+
+
+
+
+
+README.md
+
+
+
+
+DNSControl
+
+
+
+
+DNSControl is a system
+for maintaining DNS zones.  It has two parts:
+a domain specific language (DSL) for describing DNS zones plus
+software that processes the DSL and pushes the resulting zones to
+DNS providers such as Route53, Cloudflare, and Gandi.  It can send
+the same DNS records to multiple providers.  It even generates
+the most beautiful BIND zone files ever.  It runs anywhere Go runs (Linux, macOS,
+Windows). The provider model is extensible, so more providers can be added.
+Currently supported DNS providers:
+
+Akamai Edge DNS
+AutoDNS
+AWS Route 53
+AXFR+DDNS
+Azure DNS
+Azure Private DNS
+BIND
+Cloudflare
+ClouDNS
+deSEC
+DigitalOcean
+DNS Made Easy
+DNSimple
+Domainnameshop (Domeneshop)
+Exoscale
+Gandi
+Gcore
+Google DNS
+Hetzner
+HEXONET
+hosting.de
+Hurricane Electric DNS
+INWX
+Linode
+Loopia
+LuaDNS
+Microsoft Windows Server DNS Server
+Mythic Beasts
+Namecheap
+Name.com
+Netcup
+Netlify
+NS1
+Oracle Cloud
+OVH
+Packetframe
+Porkbun
+PowerDNS
+RWTH DNS-Admin
+SoftLayer
+TransIP
+Vultr
+
+Currently supported Domain Registrars:
+
+AWS Route 53
+CSC Global
+DNSOVERHTTPS
+easyname
+Gandi
+HEXONET
+hosting.de
+Internet.bs
+INWX
+Namecheap
+Name.com
+OpenSRS
+OVH
+
+At Stack Overflow, we use this system to manage hundreds of domains
+and subdomains across multiple registrars and DNS providers.
+You can think of it as a DNS compiler.  The configuration files are
+written in a DSL that looks a lot like JavaScript.  It is compiled
+to an intermediate representation (IR).  Compiler back-ends use the
+IR to update your DNS zones on services such as Route53, Cloudflare,
+and Gandi, or systems such as BIND.
+An Example
+dnsconfig.js:
+// define our registrar and providers
+var REG_NAMECOM = NewRegistrar("name.com");
+var r53 = NewDnsProvider("r53")
+
+D("example.com", REG_NAMECOM, DnsProvider(r53),
+  A("@", "1.2.3.4"),
+  CNAME("www","@"),
+  MX("@",5,"mail.myserver.com."),
+  A("test", "5.6.7.8")
+)
+Running dnscontrol preview will talk to the providers (here name.com as registrar and route 53 as the dns host), and determine what changes need to be made.
+Running dnscontrol push will make those changes with the provider and my dns records will be correctly updated.
+The easiest way to run DNSControl is to use the Docker container:
+docker run --rm -it -v "$(pwd):/dns"  ghcr.io/stackexchange/dnscontrol preview
+
+See Getting Started page on documentation site to get started!
+Benefits
+
+Less error-prone than editing a BIND zone file.
+More reproducible  than clicking buttons on a web portal.
+Easily switch between DNS providers:  The DNSControl language is
+vendor-agnostic.  If you use it to maintain your DNS zone records,
+you can switch between DNS providers easily. In fact, DNSControl
+will upload your DNS records to multiple providers, which means you
+can test one while switching to another. We've switched providers 3
+times in three years and we've never lost a DNS record.
+Adopt CI/CD principles to DNS!  At StackOverflow we maintain our
+DNSControl configurations in Git and use our CI system to roll out
+changes.  Keeping DNS information in a VCS means we have full
+history.  Using CI enables us to include unit-tests and
+system-tests.  Remember when you forgot to include a "." at the end
+of an MX record?  We haven't had that problem since we included a
+test to make sure Tom doesn't make that mistake... again.
+Adopt PR-based updates.  Allow developers to send updates as PRs,
+which you can review before you approve.
+Variables save time!  Assign an IP address to a constant and use the
+variable name throughout the file. Need to change the IP address
+globally? Just change the variable and "recompile."
+Macros!  Define your SPF records, MX records, or other repeated data
+once and re-use them for all domains.
+Control Cloudflare from a single source of truth.  Enable/disable
+Cloudflare proxying (the "orange cloud" button) directly from your
+DNSControl files.
+Keep similar domains in sync with transforms and other features.  If
+one domain is supposed to be a filtered version of another, this is
+easy to set up.
+It is extendable!  All the DNS providers are written as plugins.
+Writing new plugins is very easy.
+
+Installation
+DNSControl can be installed via packages for macOS, Linux and Windows, or from source code. See the official instructions.
+Via GitHub Actions (GHA)
+See dnscontrol-action or gacts/install-dnscontrol.
+Deprecation warnings (updated 2023-02-18)
+
+32-bit binaries will no longer be distributed after September 10, 2023. There is a proposal to stop shipping 32-bit binaries (packages and containers).  If no objections are raised by Sept 10, 2023, new releases will not include them. See #2461 for details.
+Call for new volunteer maintainers for NAMEDOTCOM and SOFTLAYER. These providers have no maintainer. Maintainers respond to PRs and fix bugs in a timely manner, and try to stay on top of protocol changes.
+ACME/Let's Encrypt support is frozen and will be removed after December 31, 2022.  The get-certs command (renews certs via Let's Encrypt) has no maintainer. There are other projects that do a better job. If you don't use this feature, please do not start. If you do use this feature, please plan on migrating to something else.  See discussion in issues/1400
+get-zones syntax changes in v3.16 Starting in v3.16, the command line arguments for dnscontrol get-zones changes. For backwards compatibility change provider to -. See documentation for details.
+
+More info at our website
+The website: https://docs.dnscontrol.org/
+The getting started guide: https://docs.dnscontrol.org/getting-started/getting-started
+
+
+
+
+
+
+
+
+
+
+About
+
+        Synchronize your DNS to multiple providers from a simple DSL
+      
+
+
+
+
+
+dnscontrol.org/
+
+
+Topics
+
+
+
+  go
+
+
+  dns
+
+
+  workflow
+
+
+  infrastructure-as-code
+
+
+  dnscontrol
+
+
+
+Resources
+
+
+
+
+
+        Readme
+ 
+License
+
+
+
+
+
+     MIT license
+    
+
+Security policy
+
+
+
+
+
+        Security policy
+      
+
+
+
+
+
+
+
+
+Activity
+ 
+Stars
+
+
+
+
+
+2.8k
+      stars
+ 
+Watchers
+
+
+
+
+
+51
+      watching
+ 
+Forks
+
+
+
+
+
+377
+      forks
+ 
+
+
+          Report repository
+ 
+
+
+
+
+
+
+
+    Releases
+      74
+
+
+
+
+
+
+
+v4.7.3
+
+          Latest
+ 
+Dec 13, 2023
+
+ 
+
+        + 73 releases
+
+
+
+
+
+
+
+    Packages
+      1
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Contributors
+      208
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      + 194 contributors
+
+
+
+
+
+Languages
+
+
+
+
+
+
+
+
+
+
+
+
+
+Go
+91.5%
+
+
+
+
+
+
+
+JavaScript
+6.6%
+
+
+
+
+
+
+
+Dogescript
+1.8%
+
+
+
+
+
+
+
+Other
+0.1%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Footer
+
+
+
+
+
+
+
+
+        © 2024 GitHub, Inc.
+      
+
+
+Footer navigation
+
+
+Terms
+
+
+Privacy
+
+
+Security
+
+
+Status
+
+
+Docs
+
+
+Contact
+
+
+
+
+      Manage cookies
+    
+
+
+
+
+
+      Do not share my personal information
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    You can’t perform that action at this time.
+  
+
+
+
+
+
+
+
+
+
+
+
+

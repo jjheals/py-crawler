@@ -478,14 +478,14 @@ be abstract over whether or not their methods are asynchronous. This concept was
 “keyword generics” and has been rebranded to “effects.” Such proposals have been very controversial
 in the community. I’ll also note that it’s been 16 months since the “Keyword Generics Initiative”
 was launched, and as of yet I have seen no concrete design proposal for how such
-a system would really work, only vague code samples to demonstrate syntax.Beyond the dependence on shipping an “effects system” to achieve the same affordances as the poll
-next design, Yosh requires a piling-on of additional features. For object safety, async methods need
-to be made object safe, and to avoid allocating in the loop, the compiler needs to desugar async
-iterator trait objects in a special way. For pinning, Yosh proposes a new pinned trait really as a
-lead in to a new “effect” that would someday need to be added. When will all of these features ship
-that are needed to reach parity with the API that already exists? How many more years will users be
-forced to wait to get this highly desirable API, on the basis of slowly evolving proposals for more
-and more language features?I’ve written publicly that I have concerns about the idea of “keyword generics” as a sensible way to
+a system would really work, only vague code samples to demonstrate syntax.Beyond the dependence on shipping an “effects system,” to achieve the same affordances as the poll
+next design it would also requires a piling-on of additional features. For object safety, async
+methods need to be made object safe, and to avoid allocating in the loop, the compiler needs to
+desugar async iterator trait objects in a special way. For pinning, Yosh proposes a new pinned trait
+really as a lead in to a new “effect” that would someday need to be added. When will all of these
+features ship that are needed to reach parity with the API that already exists? How many more years
+will users be forced to wait to get this highly desirable API, on the basis of slowly evolving
+proposals for more and more language features?I’ve written publicly that I have concerns about the idea of “keyword generics” as a sensible way to
 extend Rust, but I am not saying here that such systems should not ever be pursued. It’s within the
 realm of possibility that a design that resolves users’ concern could be developed, and such a
 system could prove to be net positive and someday implemented. If that’s what people want to spend
