@@ -2,6 +2,10 @@
 
 ## Description
 
+At the simplest level, crawling and pre-parsing RSS feeds allows us to create a single index of the content for each individual article. Analysts can then search this index for information on a particular topic more efficiently; moreover, we can use machine learning techniques, e.g. latent dirichlet allocation (LDA), K-means classification, random forests, etc., to compare the content and context of each individual article to find similar articles. This could be used to return similar articles to analysts at query time, identify strong trends in reporting, or even to provide updates on trends via some notification. Lastly, this database could be coupled with a generative pre-trained transformer (GPT) model to create shorter summaries of individual or groups of articles to give analysts a quick overview of events and trends.
+
+## Purpose
+
 The goal with py-crawler is to efficiently gather meaningful information from desired sources to enable better information correlation, analysis, and faster querying for specific information when needed. By collecting the content of articles from various sources and feeds, py-crawler can then use natural language processing (NLP) to find related articles, even if those relations are subtle. This results in better information correlation across platforms and increases the general scope of information gathering. Additionally, py-crawler can use pre-saved data to answer queries from users looking for specific information. With its index, py-crawler can search for queried terms and tell the user where to look for more information, as well as provide more related sources of information by using NLP and other methods. 
 
 ## Methodology
