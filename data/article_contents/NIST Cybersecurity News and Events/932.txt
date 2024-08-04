@@ -1,0 +1,851 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Additive Construction – The Path to Standardization II | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/events/2024/08/additive-construction-path-standardization-ii
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standard Reference Instruments (SRIs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Leadership
+
+
+Organization Structure
+
+
+Budget & Planning
+
+
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Student programs
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EVENTS
+
+
+Additive Construction – The Path to Standardization II
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read the Code of Conduct for NIST Conferences.
+
+
+
+
+
+
+
+
+              August 20 - 21, 2024
+
+
+
+
+National Cybersecurity Center of Excellence (NCCoE)
+9700 Great Seneca Highway
+Rockville, MD 20850
+
+
+Register Here
+
+
+Registration fee: $114/personRegistration fee includes AM Break, Lunch and PM Break, as well as a shuttle to and from NCCoE.Registration deadline extended to August 14, 2024 at 5:00pm EDT.
+
+
+Registration Contact
+
+
+
+Sabina Mohan
+
+sabina.mohan@nist.gov
+
+
+    (301) 975-2002
+  
+
+
+
+
+
+Technical Contact
+
+
+
+Shawn Platt
+
+shawn.platt@nist.gov
+
+
+    (301) 975-5865
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  Christina Robinson/NIST
+
+        
+
+
+
+The National Institute of Standards and Technology (NIST) Engineering Laboratory (EL) Materials and Structural Systems Division (MSSD) studies the durability and service life of infrastructure materials (polymer, concrete, engineered composites) for resilience infrastructure applications. One of the key research focuses is the development of Additive Construction methods, materials, and measurement requirements. Additive construction by extrusion (ACE) has the potential to revolutionize construction by complimenting the existing workforce, eliminating the need to construct formwork, and enabling architectural or structural designs that cannot be achieved by standard practices. As ACE has progressed over the past few years, the development of standards has not kept pace, and the need has become essential to promote the industry and ensure safe structures.   NIST has the unique opportunity to aide in the development of the measurement science tools and scientific knowledge base to support the industry’s needs of performance-based standards for 3-D printed concrete structures. This objective will be aided by supporting the implementation of all aspects of structural design and related testing standards and engineering guidelines. To do so, a stakeholder’s workshop in collaboration with The Engineer Research and Development Center – Construction Engineering Research Laboratory (ERDC-CERL), was held September 26th and 27th 2023, where discussions focused on the industry needs relative to the structural aspects of additively constructed structures. The workshop also served as a launch event for a new consortium, the Additive Construction by Extrusion (ACE) Consortium, which provides connections between NIST and other stakeholders to continue needed work in this field. As the Path Continues, a second workshop is being held August 20th and 21st 2024 to review the industries progress over the last year and develop prospective agendas moving forward.  The event, Additive Construction – The Path to Standardization Continues, will bring together industry stakeholders to discuss gaps in the current standard documents and how the industry can fill these gaps. Building on previous engagements; Roadmap for Advanced Technologies for the Digitalization of the Construction Industry and Additive Construction – The Path to Standardization, the new workshop will include presentations, discussions, and breakout sessions directed towards the current state and desired future state for the additive construction industry, R&D needs, timelines, and action items. Topics will focus on the materials and testing methods related to additive construction and the needs of the industry with respect to engineering design, standards, and guidelines. Participation will be through application for attendance from industry, government, and research organizations to participate in the workshop along with representation from several ASTM and ACI technical committees. The workshop discussions will contribute to the continuing development of a roadmap for standardization of printing and testing methods. The consortium, Additive Construction by Extrusion (ACE) Consortium, is active on the Federal Register: https://www.federalregister.gov/documents/2023/09/12/2023-19647/additive-construction-by-extrusion-ace-consortium. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Lodging Information
+  
+
+
+Lodging InformationSheraton Rockville HotelAddress: 920 King Farm Boulevard Rockville, MD 20850Room Rate: $119 per person per night, plus taxes(Rate includes roundrip shuttle transportation to and from NCCoE from August 20-21, 2024. More information to come) >>Click here to book your room<< Last Day to book: August 16, 2024
+
+
+
+
+
+
+
+
+
+    Security Instructions
+  
+
+
+*Visitor Access Requirement:For Non-US Citizens:  Please have your valid passport for photo identification.For US Permanent Residents: Please have your green card for photo identification.For US Citizens: Please have your state-issued driver's license. Regarding Real-ID requirements, all states are in compliance or have an extension through May 2025.NIST also accepts other forms of federally issued identification in lieu of a state-issued driver's license, such as a valid passport, passport card, DOD's Common Access Card (CAC), Veterans ID, Federal Agency HSPD-12 IDs, and Military Dependents ID.
+
+
+
+
+
+
+
+Buildings and Construction, Building codes and standards, Building materials, Energy efficiency, Indoor air quality, Structural engineering, Thermal comfort, Environment, Marine science, Sustainability, Information technology, Computational science, Cyber-physical systems, Cybersecurity, Cybersecurity education and workforce development, Risk management, Securing emerging technologies, Internet of Things (IoT), Software research, Manufacturing, Additive manufacturing, Manufacturing quality assurance, Monitoring, diagnostics and prognostics, Process improvement, Product data, Robotics in manufacturing, Agility and adaptability, Collaborative robots, Sensing and perception, Systems engineering, Systems integration, Materials, Composites, Concrete / cement, Materials characterization, Composition and structure, Mechanical properties, Thermal properties, Mathematics and statistics, Modeling and simulation research, Numerical methods and software, Metrology, Amount of substance, Flow metrology and rheology, Force metrology, Thermometry metrology, Physics, Thermodynamics, Resilience, Disaster and failure studies, Earthquake risk reduction, Resilient materials, Windstorm impact reduction, Standards, Accreditation, Calibration services, Documentary standards, Reference data, Reference instruments, Reference materials and Standards education
+
+
+
+
+
+
+
+
+
+Read the Code of Conduct for NIST Conferences.
+
+
+
+
+
+
+
+
+              August 20 - 21, 2024
+                
+
+
+
+National Cybersecurity Center of Excellence (NCCoE)
+9700 Great Seneca Highway
+Rockville, MD 20850
+
+
+Register Here
+
+
+Registration fee: $114/personRegistration fee includes AM Break, Lunch and PM Break, as well as a shuttle to and from NCCoE.Registration deadline extended to August 14, 2024 at 5:00pm EDT.
+
+
+Registration Contact
+
+
+
+Sabina Mohan
+
+sabina.mohan@nist.gov
+
+
+    (301) 975-2002
+  
+
+
+
+
+
+Technical Contact
+
+
+
+Shawn Platt
+
+shawn.platt@nist.gov
+
+
+    (301) 975-5865
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  Created May 28, 2024, Updated July 29, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

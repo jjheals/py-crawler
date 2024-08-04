@@ -1,0 +1,1845 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GitHub - launchscout/live-templates: The live-template element connects a template to a state provider
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle navigation
+
+
+
+
+
+
+
+
+
+
+          Sign in
+        
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Product
+        
+
+
+
+
+
+
+
+
+
+
+
+
+Actions
+        Automate any workflow
+      
+
+
+
+
+
+
+
+Packages
+        Host and manage packages
+      
+
+
+
+
+
+
+
+Security
+        Find and fix vulnerabilities
+      
+
+
+
+
+
+
+
+Codespaces
+        Instant dev environments
+      
+
+
+
+
+
+
+
+Copilot
+        Write better code with AI
+      
+
+
+
+
+
+
+
+Code review
+        Manage code changes
+      
+
+
+
+
+
+
+
+Issues
+        Plan and track work
+      
+
+
+
+
+
+
+
+Discussions
+        Collaborate outside of code
+      
+
+
+
+
+Explore
+
+
+
+      All features
+
+    
+
+
+
+      Documentation
+
+    
+
+
+
+
+
+      GitHub Skills
+
+    
+
+
+
+
+
+      Blog
+
+    
+
+
+
+
+
+
+
+
+
+        Solutions
+        
+
+
+
+
+
+For
+
+
+
+      Enterprise
+
+    
+
+
+
+      Teams
+
+    
+
+
+
+      Startups
+
+    
+
+
+
+      Education
+
+    
+
+
+
+
+
+
+By Solution
+
+
+
+      CI/CD & Automation
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+
+
+      DevSecOps
+
+    
+
+
+
+
+
+
+Resources
+
+
+
+      Learning Pathways
+
+    
+
+
+
+
+
+      White papers, Ebooks, Webinars
+
+    
+
+
+
+
+
+      Customer Stories
+
+    
+
+
+
+      Partners
+
+    
+
+
+
+
+
+
+
+
+
+        Open Source
+        
+
+
+
+
+
+
+
+
+
+GitHub Sponsors
+        Fund open source developers
+      
+
+
+
+
+
+
+
+
+The ReadME Project
+        GitHub community articles
+      
+
+
+
+
+Repositories
+
+
+
+      Topics
+
+    
+
+
+
+      Trending
+
+    
+
+
+
+      Collections
+
+    
+
+
+
+
+
+
+Pricing
+
+
+
+
+
+
+
+
+
+
+
+
+Search or jump to...
+
+
+
+
+
+
+
+Search code, repositories, users, issues, pull requests...
+
+ 
+
+
+
+
+        Search
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clear
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+              Search syntax tips
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Provide feedback
+      
+
+
+
+
+
+
+
+
+ 
+We read every piece of feedback, and take your input very seriously.
+
+
+Include my email address so I can be contacted
+
+     Cancel
+
+    Submit feedback
+
+
+
+
+
+
+
+
+
+
+        Saved searches
+      
+Use saved searches to filter your results more quickly
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Name
+
+
+
+
+
+
+Query
+
+
+
+            To see all available qualifiers, see our documentation.
+          
+ 
+
+
+
+
+     Cancel
+
+    Create saved search
+
+
+
+
+
+
+
+
+              Sign in
+            
+
+
+              Sign up
+            
+
+
+
+
+
+
+
+
+
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.
+You switched accounts on another tab or window. Reload to refresh your session.
+ 
+
+
+Dismiss alert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        launchscout
+ 
+/
+
+live-templates
+
+Public
+
+
+
+
+
+ 
+
+Notifications
+
+
+
+ 
+
+Fork
+    0
+
+
+
+
+ 
+
+
+          Star
+ 1
+  
+
+
+
+
+
+
+
+
+
+
+        The live-template element connects a template to a state provider
+      
+License
+
+
+
+
+
+     MIT license
+    
+
+
+
+
+
+
+1
+          star
+ 
+
+
+
+0
+          forks
+ 
+
+
+
+Activity
+ 
+
+
+
+ 
+
+
+          Star
+
+  
+
+
+
+
+
+ 
+
+Notifications
+
+
+
+
+
+
+
+
+
+
+
+
+Code
+
+
+
+
+
+
+
+Issues
+0
+
+
+
+
+
+
+Pull requests
+0
+
+
+
+
+
+
+Actions
+
+
+
+
+
+
+
+Projects
+0
+
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+Insights
+
+
+
+ 
+
+ 
+
+
+Additional navigation options
+
+
+ 
+
+
+
+
+
+
+
+
+
+          Code
+
+
+
+
+
+
+
+
+
+
+          Issues
+
+
+
+
+
+
+
+
+
+
+          Pull requests
+
+
+
+
+
+
+
+
+
+
+          Actions
+
+
+
+
+
+
+
+
+
+
+          Projects
+
+
+
+
+
+
+
+
+
+
+          Security
+
+
+
+
+
+
+
+
+
+
+          Insights
+
+
+
+
+
+ 
+
+
+
+
+
+launchscout/live-templates
+
+
+
+
+
+
+
+This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.
+
+
+
+
+
+
+
+
+
+
+
+main
+
+
+
+
+
+Switch branches/tags
+
+
+
+
+
+
+
+
+
+
+Branches
+Tags
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View all branches
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View all tags
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name already in use
+
+
+
+
+
+
+
+
+
+      A tag already exists with the provided branch name. Many Git commands accept both tag and branch names, so creating this branch may cause unexpected behavior. Are you sure you want to create this branch?
+
+
+
+    Cancel
+
+    Create
+
+
+
+
+
+
+
+
+1
+branch
+
+
+
+
+
+0
+tags
+
+
+
+
+
+
+
+ 
+Code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local
+
+
+
+ Codespaces
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  Clone
+
+
+
+
+
+            HTTPS
+ 
+            GitHub CLI
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Use Git or checkout with SVN using the web URL.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Work fast with our official CLI.
+      Learn more about the CLI.
+    
+
+
+
+
+
+
+
+
+    Open with GitHub Desktop
+
+
+
+
+
+
+    Download ZIP
+
+
+
+ 
+Sign In Required
+
+                Please
+                sign in
+                to use Codespaces.
+              
+
+
+
+
+Launching GitHub Desktop
+
+    If nothing happens, download GitHub Desktop and try again.
+  
+
+
+
+
+Launching GitHub Desktop
+
+    If nothing happens, download GitHub Desktop and try again.
+  
+
+
+
+
+Launching Xcode
+
+    If nothing happens, download Xcode and try again.
+  
+
+
+
+
+
+Launching Visual Studio Code
+Your codespace will open once ready.
+There was a problem preparing your codespace, please try again.
+
+
+
+
+
+
+
+
+
+
+
+
+Latest commit
+
+
+
+
+
+
+
+
+
+Chris Nelson
+
+lil more READMEing
+
+
+
+
+        …
+      
+
+
+
+
+        576d4a5
+      
+
+Jan 1, 2024
+
+
+
+
+
+lil more READMEing
+
+
+576d4a5
+
+
+
+Git stats
+
+
+
+
+
+
+
+11
+
+                      commits
+                    
+
+
+
+
+
+
+
+Files
+Permalink
+
+
+
+
+    Failed to load latest commit information.
+
+
+  
+ 
+
+
+Type
+Name
+Latest commit message
+Commit time
+
+
+
+
+
+
+
+
+.github/workflows
+
+
+
+no gh pages (yet)
+
+
+
+December 30, 2023 23:02
+
+
+
+
+
+
+
+
+
+demo
+
+
+
+initial commit, tests pass
+
+
+
+December 24, 2023 19:54
+
+
+
+
+
+
+
+
+
+src
+
+
+
+initial commit, tests pass
+
+
+
+December 24, 2023 19:54
+
+
+
+
+
+
+
+
+
+test
+
+
+
+initial commit, tests pass
+
+
+
+December 24, 2023 19:54
+
+
+
+
+
+
+
+
+
+.editorconfig
+
+
+
+initial commit, tests pass
+
+
+
+December 24, 2023 19:54
+
+
+
+
+
+
+
+
+
+.gitignore
+
+
+
+initial commit, tests pass
+
+
+
+December 24, 2023 19:54
+
+
+
+
+
+
+
+
+
+LICENSE
+
+
+
+initial commit, tests pass
+
+
+
+December 24, 2023 19:54
+
+
+
+
+
+
+
+
+
+README.md
+
+
+
+lil more READMEing
+
+
+
+January 1, 2024 17:55
+
+
+
+
+
+
+
+
+
+example.html
+
+
+
+WIP example.html loads with npx live-server .
+
+
+
+December 30, 2023 15:27
+
+
+
+
+
+
+
+
+
+index.html
+
+
+
+deployed example works
+
+
+
+December 31, 2023 16:03
+
+
+
+
+
+
+
+
+
+index.js
+
+
+
+initial commit, tests pass
+
+
+
+December 24, 2023 19:54
+
+
+
+
+
+
+
+
+
+package-lock.json
+
+
+
+better docs and npm start
+
+
+
+December 31, 2023 19:31
+
+
+
+
+
+
+
+
+
+package.json
+
+
+
+better docs and npm start
+
+
+
+December 31, 2023 19:31
+
+
+
+
+
+
+
+
+
+web-dev-server.config.mjs
+
+
+
+WIP example.html loads with npx live-server .
+
+
+
+December 30, 2023 15:27
+
+
+
+
+
+
+
+
+
+web-test-runner.config.mjs
+
+
+
+initial commit, tests pass
+
+
+
+December 24, 2023 19:54
+
+
+
+
+    View code
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<live-template>
+Getting started
+How it works
+Installation
+Usage
+Template syntax
+Sending events
+Status
+
+
+
+
+
+README.md
+
+
+
+
+<live-template>
+The <live-template> element provides a connected, or "live" template that connects to a stateful backend application provided by Livesate. After connecting to a LiveState channel, it will:
+
+render the initial state
+subscribe to state updates and re-render on changes
+push events to a Livestate channel which may then compute a new state
+
+Getting started
+Live templates are primarily designed to add dynamic functionality to a static html website. The provide a similar experience to technologies like LiveView, but with no opinions on back end hosting environment: (eg, it doesn't matter where your html is served).
+The easiest way to start is to open an html file and add a <live-template> element. Here's an example of what this looks like:
+<live-template url="wss://live-template-example.fly.dev/live_state" topic="todo:all">
+  <ul>
+    <li :each={{todo in todos}}>{{todo}}</li>
+  </ul>
+
+  <form onsubmit={{send('add-todo')}}>
+    <label>Todo item</label>
+    <input name="todo" />
+    <button>Add todo</button>
+  </form>
+</live-template>
+In this example, the template will connect to a LiveState channel at the specified url and topic. In this case the channel will send an initial state with a single item, and will handle the add-todo event to add items to the list, which will then be pushed down as a state update. live-template will convert the form submit event to a custom event of the specified name using the form data as a payload (see below).
+The channel code looks like this:
+defmodule LiveTemplatesExampleWeb.TodoChannel do
+  @moduledoc false
+
+  use LiveState.Channel, web_module: LiveTemplatesExampleWeb
+
+  @impl true
+  def init(_channel, _params, _socket) do
+    {:ok, %{todos: ["Add an item"]}}
+  end
+
+  @impl true
+  def handle_event("add-todo", %{"todo" => todo}, %{todos: todos} = state) do
+    {:noreply, Map.put(state, :todos, todos ++ [todo])}
+  end
+
+end
+This example is included in the index.html file in this repo and is also deployed as a codepen. Locally, you can npm start to serve it up using a simple http server. Note that no transformation or build is occuring. Instead, an import map is used to resolve all the dependencies. Big shout out to jspm for making this easy!
+How it works
+The <live-template> element connects to a LiveState backend. LiveState is built on the same excellent technology stack that powers LiveView: Phoenix Channels, Phoenix, Elixir, and Erlang. This allows us to host the persistent conversational state of every user connected to a LiveTemplate application in a way that scales efficiently across millions of connected users.
+Installation
+You can install locally using npm:
+npm install live-template
+
+You can also use live-template without any build tool at all by using an import map. See index.html for a working example.
+Usage
+Add a <live-template> element. Required attributes are:
+
+url: a WebSocket (ws: or wss:) url to connect to
+topic: the topic of the phoenix channel providing the state
+
+Template syntax
+The template syntax is provided by the templize library. Expressions are surrounded by {{}}. See templize docs for all supported expressions and features.
+Sending events
+To send events to a LiveState backend, the send() function is provided and able to be called from event handlers in the template. It expects an event name as an argument. It will convert DOM events as follows:
+
+submit and input events will send the FormData and prevent the default event behaviour.
+click events will send the dataset of the element (any data- attributes).
+(more to come)
+
+Status
+live-templates should be considered alpha quality. Template implementation uses templize which itself tracks the W3C work to standardize template instantiation. Because this work is ongoing, future syntax and implementation is subject to change.
+
+
+
+
+
+
+
+
+
+
+About
+
+        The live-template element connects a template to a state provider
+      
+Resources
+
+
+
+
+
+        Readme
+ 
+License
+
+
+
+
+
+     MIT license
+    
+
+
+
+
+
+
+
+
+Activity
+ 
+Stars
+
+
+
+
+
+1
+      star
+ 
+Watchers
+
+
+
+
+
+2
+      watching
+ 
+Forks
+
+
+
+
+
+0
+      forks
+ 
+
+
+          Report repository
+ 
+
+
+
+
+
+
+
+    Releases
+
+No releases published
+
+
+
+
+
+
+    Packages
+      0
+
+
+        No packages published 
+
+
+
+
+
+
+
+
+
+
+
+Languages
+
+
+
+
+
+
+
+
+
+
+
+JavaScript
+61.2%
+
+
+
+
+
+
+
+HTML
+38.8%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Footer
+
+
+
+
+
+
+
+
+        © 2024 GitHub, Inc.
+      
+
+
+Footer navigation
+
+
+Terms
+
+
+Privacy
+
+
+Security
+
+
+Status
+
+
+Docs
+
+
+Contact
+
+
+
+
+      Manage cookies
+    
+
+
+
+
+
+      Do not share my personal information
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    You can’t perform that action at this time.
+  
+
+
+
+
+
+
+
+
+
+
+
+

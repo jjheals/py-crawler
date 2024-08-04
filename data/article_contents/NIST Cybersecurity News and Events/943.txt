@@ -1,0 +1,747 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST Awards $3.6 Million for Community-Based Cybersecurity Workforce Development | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2024/04/nist-awards-36-million-community-based-cybersecurity-workforce-development
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standard Reference Instruments (SRIs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Leadership
+
+
+Organization Structure
+
+
+Budget & Planning
+
+
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Student programs
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS
+
+
+
+NIST Awards $3.6 Million for Community-Based Cybersecurity Workforce Development
+
+
+April 3, 2024
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  fizkes/Shutterstock
+
+        
+
+
+GAITHERSBURG, Md. — The U.S. Department of Commerce’s National Institute of Standards and Technology (NIST) has awarded cooperative agreements totaling nearly $3.6 million aimed at building the workforce needed to safeguard enterprises from cybersecurity risks. The grants of roughly $200,000 each will go to 18 education and community organizations in 15 states that are working to address the nation’s shortage of skilled cybersecurity employees.The cooperative agreements will be overseen by NICE, a NIST-led partnership between government, academia and the private sector focused on cybersecurity education, training and workforce development.“Our economic and national security depend on a highly skilled workforce capable of defending against ever-increasing cyber threats,” said Under Secretary of Commerce for Standards and Technology and NIST Director Laurie E. Locascio. “By investing in our cybersecurity workforce, we are not just filling a critical gap. We are creating a future where Americans have access to the training they need to secure high-quality, good-paying jobs.”The NICE-funded CyberSeek tool, which analyzes data about the cybersecurity job market, found that there were nearly 450,000 cybersecurity job openings in the U.S. between January 2023 and January 2024. Only 82 workers were available to fill every 100 cybersecurity job openings in the U.S. during this time.The organizations receiving the awards will build Regional Alliances and Multistakeholder Partnerships to Stimulate (RAMPS) cybersecurity education and workforce development. These RAMPS projects will align the workforce needs of local business and nonprofit organizations with the goals of the NICE Workforce Framework for Cybersecurity.NIST is currently accepting applications for an additional 15 RAMPS awards of up to $200,000 each. The application deadline is Friday, May 24, 2024. More information is available on the NIST website.“The RAMPS program provides access to cybersecurity careers for individuals from diverse backgrounds, experiences and life circumstances,” said NICE Director Rodney Petersen. “It shines a spotlight on local communities that are working together to create career pathways to good jobs for all Americans and contributes to local and regional economic development by addressing the workforce needs of local businesses.”Many of the RAMPS projects promote curriculum development or education and training at the high school, collegiate or professional levels. Others support work-based learning experiences in the form of internships, apprenticeships or projects. Still others support workshops, bootcamps, competitions and hackathons.The award recipients, areas served, and amounts awarded are:Benedict CollegeSouth Carolina and the surrounding Southeastern region$200,000Board of Regents, Nevada System of Higher Education on behalf of University of Nevada, Las VegasLas Vegas-Henderson-Paradise region$199,635Bowling Green State UniversityOhio$199,376CyberUpGreater St. Louis area$200,000Cyber Bytes FoundationStafford County, Virginia$189,042.35Digital Promise GlobalEast Alabama$198,852Energy Sector Security Consortium Inc.Oregon and Southwest Washington$200,000George Mason UniversityDistrict of Columbia; Alexandria, Virginia; and Fairfax, Virginia$199,901Greater Phoenix Chamber FoundationPhoenix/Tucson$200,000Kaua‘i Economic Development BoardHawai‘i$200,000NPower Inc.New Jersey/New York$200,000RTriad Enterprises Inc.North Carolina$200,000San Diego Workforce PartnershipSan Diego County$199,820Strategic Ohio Council for Higher Education (SOCHE)Cincinnati-Dayton region$200,000Texas Tech UniversityWest Texas region$199,349The University of South Florida Board of TrusteesFlorida$200,000WeReachGateway Cities of Massachusetts$199,998.70Women’s Society of CyberjutsuLas Vegas and the greater Nevada area$200,000
+
+
+
+
+
+Information technology, Cybersecurity and Cybersecurity education and workforce development
+
+
+
+
+
+
+
+
+Media Contact
+
+
+
+
+Rich Press
+
+richard.press@nist.gov
+
+
+    (301) 975-0501
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsInformation Technology LaboratoryApplied Cybersecurity DivisionNICE
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released April 3, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

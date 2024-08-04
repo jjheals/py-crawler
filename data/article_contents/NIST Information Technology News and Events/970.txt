@@ -1,0 +1,719 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+U.S. AI Safety Institute and European AI Office Hold Technical Dialogue | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2024/07/us-ai-safety-institute-and-european-ai-office-hold-technical-dialogue
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standard Reference Instruments (SRIs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Leadership
+
+
+Organization Structure
+
+
+Budget & Planning
+
+
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Student programs
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UPDATES
+
+
+
+U.S. AI Safety Institute and European AI Office Hold Technical Dialogue
+
+
+July 12, 2024
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+On July 11, 2024, U.S. Under Secretary of Commerce for Standards and Technology Laurie E. Locascio and Director General of the European Commission’s DG Connect Roberto Viola, initiated a technical dialogue between the European AI Office (EUAIO) and the U.S. AI Safety Institute (USAISI). The dialogue, held at the Department of Commerce in Washington, D.C., aims to deepen bilateral collaboration on AI and foster scientific information exchange between the E.U. and the U.S. It was included as part of the sixth ministerial meeting of the U.S.-E.U. Trade and Technology Council.USAISI Director Elizabeth Kelly and EUAIO Director Lucilla Sioli led the technical discussion on best practices, key risks and other core questions related to AI. The dialogue focused on three key topics: watermarking and content authentication of synthetic content; government compute infrastructure; and AI for societal good. In this respect, the dialogue focused on weather modelling, which is key to enable simulations and forecasts and anticipate environmental disasters. The conversations featured a session on watermarking that included academics and civil society representatives. The government discussions brought together experts from the U.S. Department of Energy, National Science Foundation, National Oceanic and Atmospheric Administration, and the Department of State as well as experts from the European AI Office, the Emerging and Enabling Technologies department of DG Connect, the European Commission's Joint Research Centre, and the European Centre for Medium-Range Weather Forecasts. During the discussion, the EUAIO and USAISI expressed a shared interest to explore best practices and tools for watermarking and content provenance, promote these tools within their respective actions and further scientific and technical exchange on AI safety and trust to address risks arising from synthetic content. Both institutions reiterated the shared ambition to develop an international network among key partners to accelerate the advancement of the science of AI safety as articulated at the AI Seoul Summit. “This dialogue between the AI Safety Institute and EU AI Office highlights the strength of our partnership to facilitate the exchange of the latest scientific approaches and techniques from our experts in order to promote safe and trustworthy AI internationally,” said Laurie E. Locascio, Under Secretary of Commerce for Standards and Technology and director of the National Institute of Standards and Technology (NIST).“Our EU-US cooperation strengthens our mutual trust and paves the way for an international network among key partners for a truly global impact on trustworthy AI for societal good,” said Roberto Viola, Director-General of the European Commission’s Directorate-General for Communications Networks, Content and Technology (DG Connect).
+
+
+
+
+
+Information technology and Artificial intelligence
+
+
+
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsInformation Technology Laboratory
+
+
+
+
+
+
+
+
+
+Related Links
+
+
+U.S. Artificial Intelligence Safety Institute
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released July 12, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,35 @@
+
+
+ Ask HN: How do they build browser based multiplayer io games? | Hacker News
+
+Hacker News
+new | past | comments | ask | show | jobs | submit 
+login
+
+
+
+
+ Ask HN: How do they build browser based multiplayer io games?
+1 point by bnormative 26 minutes ago  | hide | past | favorite | 1 comment 
+
+there are lots of games like www.voxiom.io, www.diep.io or www.agar.io where you play multiplayer games within the browser and they are sometimes even built in a 3d environment.How do they actually build these games ? Is it really based on html/css ? 
+ 
+  
+ 
+curious_curios 19 minutes ago  
+[–] 
+
+Yep, it’s based on html/css/javascript usually. With things like WebGL you have a full 3D rendering engine in the browser. They’ll often use WebRTC or web sockets for game updates from the server/other players.There’s a list of HTML game engines if you want to dig deeper: https://html5gameengine.com/
+ 
+reply
+
+
+
+
+
+
+
+Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact
+Search:  
+
+

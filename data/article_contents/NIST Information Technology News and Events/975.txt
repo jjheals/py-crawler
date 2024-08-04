@@ -1,0 +1,735 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+U.S. Secretary of Commerce Gina Raimondo Releases Strategic Vision on AI Safety, Announces Plan for Global Cooperation Among AI Safety Institutes | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2024/05/us-secretary-commerce-gina-raimondo-releases-strategic-vision-ai-safety
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standard Reference Instruments (SRIs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Leadership
+
+
+Organization Structure
+
+
+Budget & Planning
+
+
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Student programs
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS
+
+
+
+U.S. Secretary of Commerce Gina Raimondo Releases Strategic Vision on AI Safety, Announces Plan for Global Cooperation Among AI Safety Institutes
+
+
+Raimondo announces plans for global network of AI Safety Institutes and future convening in the San Francisco area, where the U.S. AI Safety Institute recently established a presence.
+
+
+May 21, 2024
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Today, as the AI Seoul Summit begins, U.S. Secretary of Commerce Gina Raimondo released a strategic vision for the U.S. Artificial Intelligence Safety Institute (AISI), describing the department’s approach to AI safety under President Biden’s leadership. At President Biden’s direction, the National Institute of Standards and Technology (NIST) within the Department of Commerce launched the AISI, building on NIST’s long-standing work on AI. In addition to releasing a strategic vision, Raimondo also shared the department’s plans to work with a global scientific network for AI safety through meaningful engagement with AI Safety Institutes and other government-backed scientific offices, and to convene the institutes later this year in the San Francisco area, where the AISI recently established a presence.Commerce Department AI Safety Institute Strategic VisionThe strategic vision released today, available here, outlines the steps that the AISI plans to take to advance the science of AI safety and facilitate safe and responsible AI innovation. At the direction of President Biden, NIST established the AISI and has since built an executive leadership team that brings together some of the brightest minds in academia, industry and government.The strategic vision describes the AISI’s philosophy, mission and strategic goals.  Rooted in two core principles — first, that beneficial AI depends on AI safety; and second, that AI safety depends on science — the AISI aims to address key challenges, including a lack of standardized metrics for frontier AI, underdeveloped testing and validation methods, limited national and global coordination on AI safety issues, and more. The AISI will focus on three key goals: Advance the science of AI safety;Articulate, demonstrate, and disseminate the practices of AI safety; andSupport institutions, communities, and coordination around AI safety.  Read the full Department of Commerce release.
+
+
+
+
+
+Information technology and Artificial intelligence
+
+
+
+
+
+
+
+
+Media Contact
+
+
+
+
+Rich Press
+
+richard.press@nist.gov
+
+
+    (301) 975-0501
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsInformation Technology Laboratory
+
+
+
+
+
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released May 21, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1387 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GitHub - Nutlope/llamacoder: Open source Claude Artifacts – built with Llama 3.1 405B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation Menu
+
+Toggle navigation
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+            Sign in
+          
+
+
+
+
+
+
+
+
+        Product
+        
+
+
+
+
+
+
+
+
+
+
+
+
+Actions
+        Automate any workflow
+      
+
+
+
+
+
+
+
+Packages
+        Host and manage packages
+      
+
+
+
+
+
+
+
+Security
+        Find and fix vulnerabilities
+      
+
+
+
+
+
+
+
+Codespaces
+        Instant dev environments
+      
+
+
+
+
+
+
+
+GitHub Copilot
+        Write better code with AI
+      
+
+
+
+
+
+
+
+Code review
+        Manage code changes
+      
+
+
+
+
+
+
+
+Issues
+        Plan and track work
+      
+
+
+
+
+
+
+
+Discussions
+        Collaborate outside of code
+      
+
+
+
+
+Explore
+
+
+
+      All features
+
+    
+
+
+
+      Documentation
+
+    
+
+
+
+
+
+      GitHub Skills
+
+    
+
+
+
+
+
+      Blog
+
+    
+
+
+
+
+
+
+
+
+
+        Solutions
+        
+
+
+
+
+
+By size
+
+
+
+      Enterprise
+
+    
+
+
+
+      Teams
+
+    
+
+
+
+      Startups
+
+    
+
+
+
+
+By industry
+
+
+
+      Healthcare
+
+    
+
+
+
+      Financial services
+
+    
+
+
+
+      Manufacturing
+
+    
+
+
+
+
+By use case
+
+
+
+      CI/CD & Automation
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+      DevSecOps
+
+    
+
+
+
+
+
+
+
+        Resources
+        
+
+
+
+
+
+Topics
+
+
+
+      AI
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+      Security
+
+    
+
+
+
+      Software Development
+
+    
+
+
+
+
+Explore
+
+
+
+      Learning Pathways
+
+    
+
+
+
+
+
+      White papers, Ebooks, Webinars
+
+    
+
+
+
+
+
+      Customer Stories
+
+    
+
+
+
+      Partners
+
+    
+
+
+
+
+
+
+
+
+
+        Open Source
+        
+
+
+
+
+
+
+
+
+
+GitHub Sponsors
+        Fund open source developers
+      
+
+
+
+
+
+
+
+
+The ReadME Project
+        GitHub community articles
+      
+
+
+
+
+Repositories
+
+
+
+      Topics
+
+    
+
+
+
+      Trending
+
+    
+
+
+
+      Collections
+
+    
+
+
+
+
+
+
+
+        Enterprise
+        
+
+
+
+
+
+
+
+
+
+
+
+
+Enterprise platform
+        AI-powered developer platform
+      
+
+
+
+
+Available add-ons
+
+
+
+
+
+
+
+Advanced Security
+        Enterprise-grade security features
+      
+
+
+
+
+
+
+
+GitHub Copilot
+        Enterprise-grade AI features
+      
+
+
+
+
+
+
+
+Premium Support
+        Enterprise-grade 24/7 support
+      
+
+
+
+
+
+
+Pricing
+
+
+
+
+
+
+
+
+
+
+
+
+Search or jump to...
+
+
+
+
+
+
+
+Search code, repositories, users, issues, pull requests...
+
+ 
+
+
+
+
+        Search
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clear
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+              Search syntax tips
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Provide feedback
+      
+
+
+
+
+
+
+
+
+
+ 
+We read every piece of feedback, and take your input very seriously.
+
+
+Include my email address so I can be contacted
+
+
+     Cancel
+
+    Submit feedback
+
+
+
+
+
+
+
+
+
+
+        Saved searches
+      
+Use saved searches to filter your results more quickly
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Name
+
+
+
+
+
+
+Query
+
+
+
+            To see all available qualifiers, see our documentation.
+          
+ 
+
+
+
+
+
+     Cancel
+
+    Create saved search
+
+
+
+
+
+
+
+
+                Sign in
+              
+
+
+                Sign up
+              
+
+
+
+
+
+
+
+
+
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.
+You switched accounts on another tab or window. Reload to refresh your session.
+ 
+
+
+Dismiss alert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Nutlope
+ 
+/
+
+llamacoder
+
+Public
+
+
+
+
+
+ 
+
+Notifications
+ You must be signed in to change notification settings
+
+
+ 
+
+Fork
+    112
+
+
+
+
+ 
+
+
+          Star
+ 767
+  
+
+
+
+
+
+
+
+
+
+
+        Open source Claude Artifacts – built with Llama 3.1 405B
+      
+
+
+
+
+
+www.llamacoder.io/
+
+
+
+
+
+
+
+767
+          stars
+ 
+
+
+
+112
+          forks
+ 
+
+
+
+Branches
+ 
+
+
+
+Tags
+ 
+
+
+
+Activity
+ 
+
+
+
+ 
+
+
+          Star
+
+  
+
+
+
+
+
+ 
+
+Notifications
+ You must be signed in to change notification settings
+
+
+
+
+
+
+
+
+
+
+
+
+
+Code
+
+
+
+
+
+
+
+Issues
+4
+
+
+
+
+
+
+Pull requests
+1
+
+
+
+
+
+
+Actions
+
+
+
+
+
+
+
+Projects
+0
+
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+Insights
+
+
+
+ 
+
+ 
+
+
+Additional navigation options
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+          Code
+
+
+
+
+
+
+
+
+
+
+          Issues
+
+
+
+
+
+
+
+
+
+
+          Pull requests
+
+
+
+
+
+
+
+
+
+
+          Actions
+
+
+
+
+
+
+
+
+
+
+          Projects
+
+
+
+
+
+
+
+
+
+
+          Security
+
+
+
+
+
+
+
+
+
+
+          Insights
+
+
+
+
+
+ 
+
+
+
+
+
+Nutlope/llamacoder
+
+
+
+
+
+
+
+This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    mainBranchesTagsGo to fileCodeFolders and filesNameNameLast commit messageLast commit dateLatest commit History29 Commitsappapp  componentscomponents  hookshooks  publicpublic  utilsutils  .eslintrc.json.eslintrc.json  .example.env.example.env  .gitignore.gitignore  .prettierrc.prettierrc  README.mdREADME.md  next.config.mjsnext.config.mjs  package-lock.jsonpackage-lock.json  package.jsonpackage.json  postcss.config.mjspostcss.config.mjs  tailwind.config.tstailwind.config.ts  tsconfig.jsontsconfig.json  View all filesRepository files navigationREADME
+
+Llama Coder
+
+  An open source Claude Artifacts – generate small apps with one prompt. Powered by Llama 3 405B & Together.ai.
+
+Tech stack
+
+Llama 3.1 405B from Meta for the LLM
+Together AI for LLM inference
+Sandpack for the code sandbox
+Next.js app router with Tailwind
+Helicone for observability
+Plausible for website analytics
+
+Cloning & running
+
+Clone the repo: git clone https://github.com/Nutlope/llamacoder
+Create a .env file and add your Together AI API key: TOGETHER_API_KEY=
+Run npm install and npm run dev to install dependencies and run locally
+
+Future Tasks
+
+ Make it generate more consistent apps by only importing from a component library like shadcn
+ Look into a way to export the app or deploy it in a single click
+ New route for updateCode that only sends the latest generated code + the modify request
+ Save previous versions so people can go back and forth between the generated ones
+ Support different kinds of apps/languages & scripts with Python, maybe w/ E2B
+ Fix bug where if a user edits the code, then does a change, it doesn't use the edited code
+ Apply code diffs directly instead of asking the model to generate the code from scratch
+ Add the ability to upload things like a screenshot to it for it to start from that
+ Try multiple shot prompting in weaker models or finetuning a smaller model
+
+   
+
+
+
+
+
+
+
+
+About
+
+        Open source Claude Artifacts – built with Llama 3.1 405B
+      
+
+
+
+
+
+www.llamacoder.io/
+
+
+Resources
+
+
+
+
+
+        Readme
+ 
+
+
+
+
+
+
+
+Activity
+ 
+Stars
+
+
+
+
+
+767
+      stars
+ 
+Watchers
+
+
+
+
+
+5
+      watching
+ 
+Forks
+
+
+
+
+
+112
+      forks
+ 
+
+
+          Report repository
+ 
+
+
+
+
+
+
+
+    Releases
+
+No releases published
+
+
+
+
+
+
+    Packages
+      0
+
+
+        No packages published 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Contributors
+      2
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+Languages
+
+
+
+
+
+
+
+
+
+
+
+
+TypeScript
+94.7%
+
+
+
+
+
+
+
+CSS
+4.6%
+
+
+
+
+
+
+
+JavaScript
+0.7%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Footer
+
+
+
+
+
+
+
+
+        © 2024 GitHub, Inc.
+      
+
+
+Footer navigation
+
+
+Terms
+
+
+Privacy
+
+
+Security
+
+
+Status
+
+
+Docs
+
+
+Contact
+
+
+
+
+      Manage cookies
+    
+
+
+
+
+
+      Do not share my personal information
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    You can’t perform that action at this time.
+  
+
+
+
+
+
+
+
+
+
+
+
+

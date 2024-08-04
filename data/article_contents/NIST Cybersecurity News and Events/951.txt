@@ -1,0 +1,788 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NICE Webinar: Expanding Cybersecurity Learning and Workforce Opportunities for Rural Americans | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/events/nice-webinar-expanding-cybersecurity-learning-and-workforce-opportunities-rural
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standard Reference Instruments (SRIs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Leadership
+
+
+Organization Structure
+
+
+Budget & Planning
+
+
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Student programs
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EVENTS
+
+
+NICE Webinar: Expanding Cybersecurity Learning and Workforce Opportunities for Rural Americans
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read the Code of Conduct for NIST Conferences.
+
+
+
+
+
+
+Virtual Event
+
+
+
+
+              February 21, 2024
+                    2:00 - 3:00pm EST
+          
+
+
+
+Registration is closed.If you have an accommodation request, please contact the NICE Program Office at nice [at] nist.gov (nice[at]nist[dot]gov) or (240) 457-2638 no later than three business days prior to the event.Recording Note: Portions of the event may be recorded and audience Q&A or comments may be captured. The recorded event may be edited and rebroadcast or otherwise made publicly available by NIST.  By registering for -- or attending -- this event, you acknowledge and consent to being recorded.
+
+
+
+
+
+
+
+
+
+
+
+NICE Webinar: Expanding Cybersecurity Learning and Workforce Opportunities for Rural Americans
+
+
+
+The presentation slides are available here.Download the Continuing Education Units form. Speakers: 
+
+
+Credit:
+          
+  Ann Manby
+
+        
+
+Ann ManbyChief Workforce Development OfficerCenter for Workforce Inclusion 
+
+
+Credit:
+          
+  Dr. Mark R. Hagerott
+
+        
+
+Dr. Mark R. HagerottChancellorNorth Dakota University System 
+
+
+Credit:
+          
+  Dr. Chris Sanders
+
+        
+
+Dr. Chris SandersFounder and Executive DirectorRural Tech Fund 
+
+
+Credit:
+          
+  Rodney Petersen
+
+        
+
+Rodney PetersenDirectorNICE(Moderator)Synopsis: As we seek to attract underrepresented communities for the cybersecurity workforce, a demographic that is often overlooked and underserved are Americans who live in the rural and remote areas of the United States.  While rural America has become more economically diverse and access to information technology has improved in recent years, learners in rural areas still experience challenges as compared to their urban counterparts.  The challenges include limited broadband access, limited access to quality education and training, sparse job opportunities, lack of economic diversity, and transportation or community barriers*.  However, as rural broadband access improves, access to online learning content becomes ubiquitous, and remote work or telework becomes more prevalent, it seems that rural Americans represent an untapped resource for addressing the cybersecurity workforce needs of employers.  This webinar will explore promising practices and policies for expanding access and opportunity for rural Americans to pursue cybersecurity careers.*Source: Navigating Challenges Faced by Rural American job Seekers: A Comprehensive Guide (Center for Workforce Inclusion, August 22, 2023)Resources:Navigating Challenges Faced by Rural American Job SeekersRural Technology FundTime for a Digital-Cyber Land Grant System
+
+
+
+
+
+
+
+
+
+Cybersecurity and Cybersecurity education and workforce development
+
+
+
+
+
+
+
+
+
+Read the Code of Conduct for NIST Conferences.
+
+
+
+
+
+
+Virtual Event
+
+
+
+
+              February 21, 2024
+                    2:00 - 3:00pm EST
+          
+
+
+
+Registration is closed.If you have an accommodation request, please contact the NICE Program Office at nice [at] nist.gov (nice[at]nist[dot]gov) or (240) 457-2638 no later than three business days prior to the event.Recording Note: Portions of the event may be recorded and audience Q&A or comments may be captured. The recorded event may be edited and rebroadcast or otherwise made publicly available by NIST.  By registering for -- or attending -- this event, you acknowledge and consent to being recorded.
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsInformation Technology LaboratoryApplied Cybersecurity DivisionNICE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Created January 16, 2024, Updated March 15, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

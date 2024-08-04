@@ -1,0 +1,749 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST Leader Presents at Control System Cyber Security Association International Symposium | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2024/06/nist-leader-presents-control-system-cyber-security-association
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standard Reference Instruments (SRIs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Leadership
+
+
+Organization Structure
+
+
+Budget & Planning
+
+
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Student programs
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UPDATES
+
+
+
+NIST Leader Presents at Control System Cyber Security Association International Symposium
+
+
+June 1, 2024
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  CTL
+
+        
+
+
+
+In a June 2024 presentation, NIST Networked Control Systems Group Leader, Keith Stouffer, presented at the Control System Cyber Security Association International Symposium on Navigating the Labyrinth: Your Guide to ICS/OT Cybersecurity Standards and Regulations. Over 400 attendees participated in the Symposium. Control System Cyber Security Association International, with over 35,000 members worldwide, is a not-for-profit workforce development organization supporting professionals of all levels charged with securing control systems.Mr. Stouffer summarized key NIST Industrial Control Systems (ICS)/Operational Technology (OT) cybersecurity publications, as described below.NIST SP 800-82 Guide to Operational Technology (OT) Security Revision 3: This NIST Special Publication provides guidance on how to improve the security of OT systems while addressing their unique performance, reliability, and safety requirements. Its previous version has had over three million downloads and 2,200 citations. NIST’s new version includes updates on:Threats and vulnerabilitiesOT risk managementOT securitySecurity capabilities for OTAlignment with OT security standards, guidelines, and NIST’s Cybersecurity Framework Version 1.1Security control baselines for low-, moderate-, and high-impact OT systemsCybersecurity Framework Version 1.1 Manufacturing Profile: NISTIR 8183 Revision 1: This profile adapts the NIST Cybersecurity Framework to manufacturing. It offers cybersecurity practices which best fit manufacturers’ needs, while minimizing negative impacts to system performance. NIST’s cybersecurity for OT testbed evaluated the profile, measuring the impacts of cybersecurity practices, including those for 42 technical capabilities. The profile can be implemented using the following guides:Manufacturing in General: Provided in NIST IR 8183A Cybersecurity Framework Manufacturing Profile Low Impact Level Example Implementations Guide: Volume 1 – General Implementation Guidance.Process-Based Manufacturing: Involves a use case for a fictional company. producing chemicals in NIST IR 8183A Cybersecurity Framework Manufacturing Profile Low Impact Level Example Implementations Guide: Volume 2 – Process-based Manufacturing System Use Case.Discrete Manufacturing: Involves a use case for a fictional company, producing finished goods in NIST IR 8183A Cybersecurity Framework Manufacturing Profile Low Impact Level Example Implementations Guide: Volume 3 – Discrete-based Manufacturing System Use Case.Mr. Stouffer also discussed future updates including revising both NIST SP 800-82 and the Cybersecurity Framework Manufacturing Profile to align with the recently released NIST Cybersecurity Framework 2.0 published in February 2024.
+
+
+
+
+
+Advanced communications, Information technology, Artificial intelligence, Cyber-physical systems, Cybersecurity, Internet of Things (IoT), Infrastructure, Manufacturing, Standards and Documentary standards
+
+
+
+
+
+
+
+
+Technical Contact
+
+
+
+
+Keith A. Stouffer
+
+keith.stouffer@nist.gov
+
+
+    (301) 975-3877
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsCommunications Technology LaboratorySmart Connected Systems DivisionNetworked Control Systems Group
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released June 1, 2024, Updated July 15, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

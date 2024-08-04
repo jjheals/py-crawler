@@ -1,0 +1,850 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Workshop on Whole Community Public Safety and Resilience in Smart Cities | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/events/2024/08/workshop-whole-community-public-safety-and-resilience-smart-cities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standard Reference Instruments (SRIs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Leadership
+
+
+Organization Structure
+
+
+Budget & Planning
+
+
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Student programs
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EVENTS
+
+
+Workshop on Whole Community Public Safety and Resilience in Smart Cities
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read the Code of Conduct for NIST Conferences.
+
+
+
+
+
+
+workshop
+
+
+
+
+              August 27 - 28, 2024
+
+
+
+
+George H.W. Bush School of Government and Public Policy
+1620 L St NW
+Washington, DC 20036
+
+
+Register Here
+
+
+Registration will close on August 23, 2024 at 5:00pm EDT
+
+
+Registration Contact
+
+
+
+Sabina Mohan
+
+sabina.mohan@nist.gov
+
+
+    (301) 975-2002
+  
+
+
+Jennifer Gerlock
+
+jennifer.gerlock@nist.gov
+
+
+
+
+
+
+Technical Contact
+
+
+
+William Dunaway
+
+michael.dunaway@nist.gov
+
+
+    (301) 975-6325
+  
+
+
+Wenqi Wendy Guo
+
+wenqi.guo@nist.gov
+
+
+    (301) 975-5855
+  
+
+
+
+
+
+
+
+
+The Smart Connected Systems Division of NIST is launching a research project to define technology applications, analyses, key performance indicators, and decision systems for public safety planning to more effectively respond to and recover from large-scale disasters and emergencies. The project will develop an AI-enhanced information sharing and analysis capability to enable collaborative decision-making between civil authorities, emergency managers, and a community’s population., This multi-agency, cross-disciplinary capability will allow communities, cities, and regions to respond to and recover from large-scale disasters and emergencies more effectively and evaluate alternative approaches to managing local risks and potential disaster impacts.NIST will host this Workshop on August 27th and 28that the George H.W. Bush School of Government and Public Policy in Washington DC to explore the concept and preliminary design for a technology application—a cyber-physical-social system—directed at enhancing public safety, health, and community resilience for Smart Cities and Communities. 
+
+
+
+
+
+
+
+
+
+
+
+    Lodging Information
+  
+
+
+Capital Hilton Hotel1001 16th Street NWWashington, DC 20036 CLICK HERE to book your room.Rate: Government Per Diem, $176 per night (excluding taxes)Rooms are available at this rate from 8/26/2024 – 8/29/2024 and should be booked by August 12, 2024.
+
+
+
+
+
+
+
+Environment, Sustainability, Information technology, Artificial intelligence, Cyber-physical systems, Smart cities, Cybersecurity, Trustworthy platforms, Internet of Things (IoT), Public safety, Public safety communications research, Resilience, Community resilience, Disaster and failure studies and Resilience economics
+
+
+
+
+
+
+
+
+
+Read the Code of Conduct for NIST Conferences.
+
+
+
+
+
+
+workshop
+
+
+
+
+              August 27 - 28, 2024
+
+
+
+
+George H.W. Bush School of Government and Public Policy
+1620 L St NW
+Washington, DC 20036
+
+
+Register Here
+
+
+Registration will close on August 23, 2024 at 5:00pm EDT
+
+
+Registration Contact
+
+
+
+Sabina Mohan
+
+sabina.mohan@nist.gov
+
+
+    (301) 975-2002
+  
+
+
+Jennifer Gerlock
+
+jennifer.gerlock@nist.gov
+
+
+
+
+
+
+Technical Contact
+
+
+
+William Dunaway
+
+michael.dunaway@nist.gov
+
+
+    (301) 975-6325
+  
+
+
+Wenqi Wendy Guo
+
+wenqi.guo@nist.gov
+
+
+    (301) 975-5855
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  Created July 29, 2024, Updated August 1, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

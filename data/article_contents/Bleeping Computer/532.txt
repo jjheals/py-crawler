@@ -1,0 +1,863 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Chrome bug breaks drag and drop from Downloads bubble
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+
+Featured
+Latest
+
+
+
+
+
+
+
+Hackers abuse free TryCloudflare to deliver remote access malware
+
+
+
+
+
+StackExchange abused to spread malicious PyPi packages as answers
+
+
+
+
+
+Microsoft says massive Azure outage was caused by DDoS attack
+
+
+
+
+
+FBI warns of scammers posing as crypto exchange employees
+
+
+
+
+
+
+
+
+
+Linux kernel impacted by new SLUBStick cross-cache attack
+
+
+
+
+
+Hackers breach ISP to poison software updates with malware
+
+
+
+
+
+Aspiring IT professionals can start with this $80 Microsoft course bundle
+
+
+
+
+
+US sues TikTok for violating children privacy protection laws
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Latest
+Popular
+
+
+
+
+
+
+
+How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11
+
+
+
+
+
+How to use the Windows Registry Editor
+
+
+
+
+
+How to backup and restore the Windows Registry
+
+
+
+
+
+How to open a Windows 11 Command Prompt as Administrator
+
+
+
+
+
+
+
+
+
+How to start Windows in Safe Mode
+
+
+
+
+
+How to remove a Trojan, Virus, Worm, or other Malware
+
+
+
+
+
+How to show hidden files in Windows 7
+
+
+
+
+
+How to see hidden files in Windows
+
+
+
+
+
+
+
+
+Virus Removal Guides
+
+
+
+Latest
+Most Viewed
+Ransomware
+
+
+
+
+
+
+
+Remove the Theonlinesearch.com Search Redirect
+
+
+
+
+
+Remove the Smartwebfinder.com Search Redirect
+
+
+
+
+
+How to remove the PBlock+ adware browser extension
+
+
+
+
+
+Remove the Toksearches.xyz Search Redirect
+
+
+
+
+
+
+
+
+
+Remove Security Tool and SecurityTool (Uninstall Guide)
+
+
+
+
+
+How to Remove WinFixer / Virtumonde / Msevents / Trojan.vundo
+
+
+
+
+
+How to remove Antivirus 2009 (Uninstall Instructions)
+
+
+
+
+
+How to remove Google Redirects or the TDSS, TDL3, or Alureon rootkit using TDSSKiller
+
+
+
+
+
+
+
+
+
+Locky Ransomware Information, Help Guide, and FAQ
+
+
+
+
+
+CryptoLocker Ransomware Information Guide and FAQ
+
+
+
+
+
+CryptorBit and HowDecrypt Information Guide and FAQ
+
+
+
+
+
+CryptoDefense and How_Decrypt Ransomware Information Guide and FAQ
+
+
+
+
+
+
+
+
+Downloads
+
+
+
+Latest
+Most Downloaded
+
+
+
+
+
+
+
+Qualys BrowserCheck
+
+
+
+
+
+STOPDecrypter
+
+
+
+
+
+AuroraDecrypter
+
+
+
+
+
+FilesLockerDecrypter
+
+
+
+
+
+
+
+
+
+AdwCleaner
+
+
+
+
+
+ComboFix
+
+
+
+
+
+RKill
+
+
+
+
+
+Junkware Removal Tool
+
+
+
+
+
+
+
+
+Deals
+
+
+
+Categories
+
+
+
+
+
+
+
+eLearning
+
+
+
+
+
+IT Certification Courses
+
+
+
+
+
+Gear + Gadgets
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+
+VPNs
+
+
+
+Popular
+
+
+
+
+
+
+
+Best VPNs
+
+
+
+
+
+How to change IP address
+
+
+
+
+
+Access the dark web safely
+
+
+
+
+
+Best VPN for YouTube
+
+
+
+
+
+
+
+
+Forums
+More
+
+Startup Database
+Uninstall Database
+Glossary
+Chat on Discord
+Send us a Tip!
+Welcome Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeNewsGoogleGoogle Chrome bug breaks drag and drop from Downloads bubble
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Chrome bug breaks drag and drop from Downloads bubble
+
+
+By Mayank Parmar
+
+
+
+
+August 2, 2024
+04:10 PM
+0
+
+
+
+
+
+A recent Google Chrome update has broken the drag-and-drop feature in the Downloads bubble that previously allowed you to drag and drop downloaded files onto any website or tab in the browser.
+Google Chrome's downloads menu originally appeared in a bar at the bottom of the browser, but this changed last year when it was replaced with a downloads bubble, which appears within the toolbar.
+
+Google Chrome download bubbleSource: BleepingComputer
+As first reported by BleepingComputer, hundreds of users are now saying that the drag-and-drop feature no longer works after recent Google Chrome updates.
+"Specifically files can't be dragged into another chrome window, or be used to open a new chrome window (opening the file with chrome)," reads a post in the Google support forums.
+"Dragging onto local desktop or into other programs seems to work fine. The downloads page, also works fine. Only the downloads bubble. I was able to recreate the issue by updating chrome, my current version is: 127.0.6533.73 (Official Build) (64-bit)."
+In a Chromium issue found by BleepingComputer, Google Chrome engineers say reports about this bug began on July 29th and affect versions 127.0.6533.73 and 126.0.6478.185.
+Google determined it was caused by a new performance-enhancing feature, 'UIPumpImprovementsWin,' which was rolled out to 50% of the Chrome Stable users on Sunday night.
+A fix has been created by rolling back the UIPumpImprovementsWin change, which should be rolled out to users soon.
+
+Related Articles:
+Google Chrome reduced cookie requests to improve performanceGoogle fixes Chrome Password Manager bug that hides credentialsGoogle Chrome now asks for passwords to scan protected archivesGoogle rolls back decision to kill third-party cookies in ChromeGoogle Chrome to let Isolated Web App access sensitive USB devices
+
+
+
+
+
+
+
+
+
+
+
+Bug
+Chromium
+Downloads
+Google
+Google Chrome
+Web Browser
+Windows
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mayank Parmar   
+Mayank Parmar is an technology entrepreneur who is currently pursuing an MBA. At BleepingComputer, he covers technology news with a strong focus on Microsoft and Windows-related stories. He is always poking under the hood of Windows, looking for the latest secrets to reveal.
+
+
+
+
+ Previous Article 
+Next Article 
+
+
+
+Post a Comment Community Rules
+
+You need to login in order to post a comment
+
+Not a member yet? Register Now
+
+
+
+You may also like:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Popular Stories
+
+
+
+
+
+
+Google Chrome warns uBlock Origin may soon be disabled
+
+
+
+
+
+
+
+Hackers breach ISP to poison software updates with malware
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow us:
+
+
+
+
+
+
+
+
+
+Main Sections
+
+News
+VPN Buyer Guides
+SysAdmin Software Guides
+Downloads
+Virus Removal Guides
+Tutorials
+Startup Database
+Uninstall Database
+Glossary
+
+
+
+Community
+
+Forums
+Forum Rules
+Chat
+
+
+
+Useful Resources
+
+Welcome Guide
+Sitemap
+
+
+
+Company
+
+About BleepingComputer
+Contact Us
+Send us a Tip!
+Advertising
+Write for BleepingComputer
+Social & Feeds
+Changelog
+
+
+
+
+
+
+
+
+Terms of Use -  Privacy Policy - Ethics Statement - Affiliate Disclosure
+
+
+Copyright @ 2003 - 2024  Bleeping Computer® LLC  - All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+
+Login
+
+
+Username
+
+
+
+Password
+
+
+
+
+
+Remember Me
+
+
+
+Sign in anonymously
+
+
+
+
+
+ Sign in with Twitter
+
+Not a member yet? Register Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Reporter
+
+Help us understand the problem. What is going on with this comment?
+
+
+
+
+Spam
+
+
+Abusive or Harmful
+
+
+Inappropriate content
+
+
+Strong language
+
+
+Other
+
+
+
+
+
+Read our posting guidelinese to learn what content is prohibited.
+
+
+
+Submitting...
+SUBMIT
+
+
+
+
+
+
+
+
+
+
+

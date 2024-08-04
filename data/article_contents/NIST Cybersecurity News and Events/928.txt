@@ -1,0 +1,750 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST Launches Collaborative Research Effort on Digital Identity to Support Secure Delivery of Public Benefits | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2024/06/nist-launches-collaborative-research-effort-digital-identity-support-secure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standard Reference Instruments (SRIs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Leadership
+
+
+Organization Structure
+
+
+Budget & Planning
+
+
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Student programs
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS
+
+
+
+NIST Launches Collaborative Research Effort on Digital Identity to Support Secure Delivery of Public Benefits
+
+
+The collaboration aims to support secure, equitable access to vital public benefits.
+
+
+June 10, 2024
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  N. Hanacek, B. Hayes/NIST
+
+        
+
+
+GAITHERSBURG, Md. — The U.S. Department of Commerce’s National Institute of Standards and Technology (NIST) has launched a collaborative project to adapt NIST’s digital identity guidelines to support public benefits programs, such as those designed to help beneficiaries pay for food, housing, medical and other basic living expenses. Through a cooperative research and development agreement, NIST will work with the Digital Benefits Network (DBN) at Georgetown University’s Beeck Center for Social Impact + Innovation and the nonprofit Center for Democracy & Technology (CDT) to develop resources that help providers balance security, privacy, equity and usability.“To improve benefits delivery to the U.S. public, it is vital that agencies balance access and security,” said Under Secretary of Commerce for Standards and Technology and NIST Director Laurie E. Locascio. “Different populations have different needs, barriers and circumstances that must be considered, and this collaboration will bring together a diverse set of communities to do just that.”In response to heightened fraud and related cybersecurity threats during the COVID-19 pandemic, some benefits-administering agencies began to integrate new safeguards such as individual digital accounts and identity verification, also known as identity proofing, into online applications. However, the use of certain approaches, like those reliant upon facial recognition or data brokers, has raised questions about privacy and data security, due process issues, and potential biases in systems that disproportionately impact communities of color and marginalized groups. Simultaneously, adoption of more effective, evidence-based methods of identity verification has lagged, despite recommendations from NIST (Question A4) and the Government Accountability Office.  “As we at the Beeck Center work to identify and establish human-centered solutions that help government services work better for everyone, especially the most vulnerable and underserved populations, we are proud to partner with the National Institute of Standards and Technology and Center for Democracy and Technology on this project,” said Beeck Center Executive Director Lynn Overmann. “By empowering state agencies with stronger implementation resources, it has the potential to increase security and privacy in benefits applications and systems, while also making the process more equitable for applicants and beneficiaries.”  “It’s essential that identity management solutions are developed carefully and with a focus on equity, privacy and security,” said President and CEO Alexandra Reeve Givens of the Center for Democracy & Technology. “People should be able to access public benefits programs without facing unfair technical barriers or compromising their privacy. And they need to be able to trust that agencies’ systems will work effectively, fairly and securely. CDT is excited to work with two national leaders in NIST and the Digital Benefits Network at the Beeck Center to help agencies build solutions that serve all their constituents, especially the most vulnerable.”The collaboration will rely on NIST’s established process of extensive community engagement to gather input from a variety of voices, including federal partners, state benefit program administrators, state IT and cybersecurity leaders, digital identity experts, technologists, advocates, and those with direct experience navigating the U.S. public benefit landscape. In this way it will leverage expertise in public benefits policy and delivery, including contemporary practices and community resources related to the use of data, design and technology to administer and deliver services. The result will be voluntary resources for public sector organizations that administer public benefits, including a profile of NIST’s Digital Identity Guidelines (Special Publication 800-63) that will help practitioners and public sector leaders evaluate what degree of authentication and types of identity proofing practices are needed for delivery of their specific benefits.NIST, DBN and CDT will host public workshops and working sessions to encourage community dialogue, gather input, and foster a deeper understanding of the applicability of digital identity risk management in the public benefits ecosystem.Sign up to be kept informed of upcoming events through the Beeck Center website.Learn more about the overall project on the NIST website. 
+
+
+
+
+
+Information technology, Cybersecurity and Identity and access management
+
+
+
+
+
+
+
+
+Media Contact
+
+
+
+
+Chad Boutin
+
+charles.boutin@nist.gov
+
+
+    (301) 975-4261
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsInformation Technology LaboratoryApplied Cybersecurity DivisionCybersecurity and Privacy Applications Group
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released June 10, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

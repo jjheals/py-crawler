@@ -1,0 +1,777 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST Has Significant Presence at IEEE Industrial Cyber-Physical Systems (ICPS) Conference | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2024/06/nist-has-significant-presence-ieee-industrial-cyber-physical-systems-icps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standard Reference Instruments (SRIs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Leadership
+
+
+Organization Structure
+
+
+Budget & Planning
+
+
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Student programs
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UPDATES
+
+
+
+NIST Has Significant Presence at IEEE Industrial Cyber-Physical Systems (ICPS) Conference
+
+
+June 1, 2024
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  CTL
+
+        
+
+
+
+In May 2024, NIST researchers were invited to provide several presentations at the 7th IEEE International Conference on Industrial Cyber-Physical Systems (ICPS) in St. Louis, MO. The ICPS is held annually, and brings together industry experts, researchers, and academics to present and discuss innovative solutions, research results, and initiatives related to cyber-physical systems and their applications. Dr. David Wollman, Deputy Division Chief of NIST’s Smart Connected Systems Division, gave one of ICPS’s Industry Forum keynote presentations, providing an overview titled “Cyber-Physical Systems and Industrial Internet of Things Program Initiatives at NIST.” His talk covered NIST efforts across a broad range of CPS/IoT areas from devices and systems to operational technology (OT) infrastructures to at-scale integrated smart cities and communities, and he provided insight into CPS and IoT terminology and future directions. Dr. Mohamed Kashef (Hany) presented two papers, “On the Impact of TIG Welding Interference on Industrial Wi-Fi Networks: Modeling of Empirical Data and Analytical Studying of Coexistence” and “An Analytical Evaluation for Software-based TSN in Industrial Wi-Fi Networks.” In the first paper, he described measurements of a Tungsten Inert Gas (TIG) welding station in a NIST machine shop, with significant interference power in the 2.4 GHz band commonly used by the IEEE 802.11 networks. He also presented a modeling procedure for non-communications industrial wireless interference to recreate the signal in a lab environment and analytically study its impact on operational industrial wireless Wi-Fi communications systems. In the second paper, Dr. Kashef (Hany) presented NIST work on wireless time-sensitive networking (WTSN), including time-critical traffic streams’ scheduling to coexist with the best-effort traffic over the same Wi-Fi network. In addition, Kang Lee presented a paper titled “Hardware-In-The-Loop (HIL) Simulation-based Interoperability Testing Method of Smart Sensors in Smart Grids” including the testing method and evaluation of smart sensors and IEC 61850-0-2 merging units for monitoring, protection, and control applications in the electric power grid.
+
+
+
+
+
+Advanced communications, Wireless (RF), Energy, Electric power / smart grid, Information technology, Cyber-physical systems, Smart cities, Cybersecurity, Internet of Things (IoT), Networking, Infrastructure, Standards and Documentary standards
+
+
+
+
+
+
+
+
+Technical Contact
+
+
+
+
+David A. Wollman
+
+david.wollman@nist.gov
+
+
+    (301) 975-2433
+  
+
+
+Mohamed Hany (Kashef)
+
+mohamed.hany@nist.gov
+
+
+    (301) 975-3458
+  
+
+
+Kang B Lee
+
+kang.lee@nist.gov
+
+
+    (301) 975-6604
+  
+
+
+Richard Candell
+
+richard.candell@nist.gov
+
+
+    (301) 975-4287
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsCommunications Technology LaboratorySmart Connected Systems DivisionIoT Devices and Infrastructures GroupNetworked Control Systems Group
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released June 1, 2024, Updated July 15, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

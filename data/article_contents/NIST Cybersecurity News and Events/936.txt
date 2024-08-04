@@ -1,0 +1,755 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST Awards Over $1.2 Million to Small Businesses to Advance Cybersecurity, Biopharmaceuticals, Semiconductors and More | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2024/05/nist-awards-over-12-million-small-businesses-advance-cybersecurity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standard Reference Instruments (SRIs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Leadership
+
+
+Organization Structure
+
+
+Budget & Planning
+
+
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Student programs
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS
+
+
+
+NIST Awards Over $1.2 Million to Small Businesses to Advance Cybersecurity, Biopharmaceuticals, Semiconductors and More
+
+
+May 15, 2024
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  Shutterstock
+
+        
+
+
+GAITHERSBURG, Md. — The U.S. Department of Commerce’s National Institute of Standards and Technology (NIST) has awarded more than $1.2 million to 12 small businesses in eight states under the Small Business Innovation Research (SBIR) Program. The awards will fund research and development of new products relating to cybersecurity, quantum computing, health care, semiconductor manufacturing and other critical areas.The award-winning projects were competitively selected from proposals submitted in response to a call for innovative projects that address technical needs related to NIST’s research areas.These are all Phase I SBIR awards, which are meant to establish the merit, feasibility and commercial potential of the proposed research and development projects. After completing their Phase I projects, awardees are eligible to apply for Phase II funding of up to $400,000 to continue their efforts. 2024 Phase I SBIR AwardeesAMAG Consulting LLC (Schenectady, New York) — $100,000Advanced SEM simulation software for the semiconductor industry — a graphical user interface for software that simulates the interaction of electron beams with solid materials in scanning electron microscopy and that will help solve critical problems in the measurement of very small components in semiconductors and other devices.Applied Imaging Solutions LLC (Quincy, Massachusetts) — $99,759Hyperspectral imaging with AI/deep learning for online monitoring of NISTCHO viability and cell culture metabolites in real-time — to advance the safe and efficient adoption of contactless AI/deep learning sensing systems for fine control of bioreactor environments, which is an important need in the fast-growing biopharmaceutical industry.Calimetrix LLC (Madison, Wisconsin) — $105,284Multimodality quantitative phantom for magnetic resonance imaging and computed tomography measurements of steatotic liver disease — to develop an imaging test object, or “phantom,” of the human liver, to promote accurate and comparable measurements of liver fat concentration using MRI, CT scans and other methods, with the goal of improving clinical outcomes for patients.Dapple Security Inc. (Centennial, Colorado) — $100,000Evaluating biometrics for a cryptographic application — to evaluate the security of a novel authenticator for passwordless login access that uses an innovative combination of biometrics and cryptography.EMode Photonix LLC (Boulder, Colorado) — $100,000Quantum waveguide infrared photodetector — a new type of room-temperature photodetector that can be integrated with chip-scale components to enhance the efficiency of gas and chemical detection and make high-precision measurement technologies more accessible and cost-effective.HighRI Optics Inc. (Oakland, California) — $99,995Binary pseudo-random array (BPRA) for the enhancement of optical imagers — to demonstrate the feasibility of a product that enhances the performance of high-end imaging systems through the use of accurate calibration and advanced image processing techniques.Icarus Quantum (Boulder, Colorado) — $100,000Noise-free excitation of semiconductor quantum dots — a novel method to enhance the efficiency and compactness of quantum dot technologies for generating quantum light, which is crucial in quantum networking and computing.MyExposome Inc. (Philadelphia, Pennsylvania) — $98,800Using silicone wristbands as personal monitors of PFAS exposures — to conduct fundamental research needed to enable silicone wristbands that monitor personal exposure to perfluorinated compounds, or PFAS, which have been associated with increased risk of cancer and other health risks.NUTS Technologies Inc. (Glencoe, Illinois) — $99,990Easing transitions to new cryptography with structured data folding with transmutations (SDFT) — SDFT provides a framework for efficiently updating encryption algorithms in response to changing threats. This project will extend the SDFT framework to handle NIST’s newly standardized post-quantum cryptography algorithms. ObjectSecurity LLC (San Diego, California) — $106,403Operational Technology Artificial Intelligence — NIST Compliance Tool (OTAI-NCT) — a new tool that streamlines and automates cybersecurity analysis and maps vulnerabilities directly to NIST standards, making it easier for industry to address risks without modifying physical devices.Tiami LLC (Elk Grove, California) — $100,000Zero-trust cybersecure cellular vehicle-to-anything (v2x) for autonomous vehicles — a cybersecurity architecture that safeguards real-time data exchange between vehicles and their surroundings with the goal of protecting vehicles from cyberattacks while enhancing road safety.Universal Schedule and Booking LLC (Harpers Ferry, West Virginia) — $106,500Home-by-home residential building energy-load profile optimization for rapid decarbonization using scalable and personalized sensor-independent efficiency and emissions guides for households — proof of concept for a machine learning-based tool for energy-efficiency modeling in residential homes that will help homeowners reduce energy consumption and use renewable energy.
+
+
+
+
+
+Electronics, Semiconductors, Health, Cybersecurity, Manufacturing and Nanofabrication / manufacturing
+
+
+
+
+
+
+
+
+Media Contact
+
+
+
+
+Rich Press
+
+richard.press@nist.gov
+
+
+    (301) 975-0501
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersInnovation & Industry ServicesInnovation & Industry ServicesTechnology Partnerships OfficeTechnology Partnerships Office - HQ
+
+
+
+
+
+
+
+
+
+
+
+Related News
+
+
+NIST Awards Nearly $3 Million to Small Businesses to Advance Semiconductor Manufacturing, Drug Development and More
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released May 15, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,35 @@
+
+
+ Ask HN: Google, MS and a 5-yo Outlook/GDrive bug causing repeat 30-sec. freezes? | Hacker News
+
+Hacker News
+new | past | comments | ask | show | jobs | submit 
+login
+
+
+
+
+ Ask HN: Google, MS and a 5-yo Outlook/GDrive bug causing repeat 30-sec. freezes?
+1 point by MollyRealized 5 minutes ago  | hide | past | favorite | 1 comment 
+
+Gmail inserts this code by GDrive links:img src="//ssl.gstatic.com/ui/v1/icons/common/x_8px.png"Exactly like that -- no https, or file, or http.Outlook sees that as a Windows File Sharing link, tries Port 445.  Google ignores it (doesn't deny it) and Outlook hangs for 30+ seconds every time you mouse over the message.People have had to go through byzantine Outlook macros or teach users how to edit messages to remove the broken image link.This is an extremely old bug that evidently no one at Google or Microsoft has "blinked first" regarding.https://superuser.com/questions/1421061/how-can-i-prevent-outlook-from-hanging-when-receiving-google-drive-linkshttps://www.slipstick.com/problems/outlook-web-bugs-and-messages-hang/For those of us in a corporate environment who receive these links, it is excruciating when people reply, and reply to that, and reply to that, and suddenly your inbox is full of messages causing a 30-second lag every time your cursor even gets near them. 
+ 
+  
+ 
+MollyRealized 1 minute ago  
+[–] 
+
+So I was wondering if there were any Google or Microsoft employees who might quietly do hundreds if not thousands of corporate workers a good deed to start 2024 off right ... wishful look
+ 
+reply
+
+
+
+
+
+
+
+Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact
+Search:  
+
+

@@ -1,0 +1,526 @@
+
+
+
+
+
+
+
+
+
+
+Predictions Scorecard, 2024 January 01 – Rodney Brooks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rodney Brooks
+Robots, AI, and other stuff
+
+
+
+Blog
+MIT
+Robust.AI
+ 
+
+
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+
+  Recent Posts 
+
+Predictions Scorecard, 2024 January 01
+
+
+Autonomous Vehicles 2023, Part III
+
+
+Three Things That LLMs Have Made Us Rethink
+
+
+Autonomous Vehicles 2023, Part II
+
+
+Autonomous Vehicles 2023, Part I
+
+
+Categories 
+Dated Predictions
+
+Essays
+
+Quick Takes
+
+Reviews
+
+Whimsy
+
+
+Archives 
+January 2024
+December 2023
+October 2023
+March 2023
+January 2023
+November 2022
+May 2022
+January 2022
+February 2021
+January 2021
+December 2020
+August 2020
+May 2020
+April 2020
+January 2020
+May 2019
+March 2019
+January 2019
+July 2018
+April 2018
+March 2018
+February 2018
+January 2018
+December 2017
+September 2017
+August 2017
+June 2017
+May 2017
+April 2017
+March 2017
+February 2017
+January 2017
+
+SubscribeReceive email notifications:Leave This Blank:Leave This Blank Too:Do Not Change This:Your email: 
+ 
+
+
+
+
+
+
+Post: Predictions Scorecard, 2024 January 01 
+
+
+January 1, 2024 — Dated Predictions
+Predictions Scorecard, 2024 January 01 
+
+
+
+
+
+rodneybrooks.com/predictions-scorecard-2024-january-01/
+
+
+[You can follow me on social media: @rodneyabrooks.bsky.social]
+This is my sixth annual update on how my dated predictions from January 1st, 2018 concerning (1) self driving cars, (2) robotics, AI , and machine learning, and (3) human space travel, have held up. I promised then to review them at the start of the year every year until 2050 (right after my 95th birthday), thirty two years in total. The idea is to hold my self accountable for those predictions. How right or wrong was I?
+The acronyms I used for predictions in my original post were as follows.
+NET year means it will not happen before that year (No Earlier Than)
+BY year means I predict that it will happen by that year.
+NIML, Not In My Lifetime, i.e., not before 2050.
+As time passes mentioned years I color then as accurate, too pessimistic, or too optimistic.
+I only change the text in the fourth column of the prediction tables, to say what actually happened.  This year I have removed most of the old comments from the prediction tables to make them shorter; you can go back to last year’s update to see previous comments.  And I highlight any new dates, as in 20240103 for January 3rd, 2024.
+Overview of changes this year
+First, remember that a lot of good things happened in the world this year, and here are 66 of them. The world is getting better in terms of global health, clean energy, economic and social justice, and conservation. There is much more to life than LLMs.
+There has been a lot of activity in both self driving cars (Cruise and Waymo human assisted deployments) and in AI (the arrival of the indisputable next big thing, ChatGPT and friends).  The human spaceflight endeavor has crawled along and largely stretched out dates that were probably too optimistic in the first place.
+Self Driving Cars
+There are no self driving cars deployed (despite what companies have tried to project to make it seem it has happened), and arguably the prospects for self driving taxi services being deployed at scale took a beating.
+First a reminder of why I made predictions in this field.
+Back in 2017 the hubris about the coming of self driving cars was at a similar level to the hubris in 2023 about ChatGPT being a step towards AGI (Artificial General Intelligence) being just around the corner.  Here is the same version of a slide that I showed last year:
+
+This was a snapshot of predictions for when level 4 or level 5 self driving cars would be available from various car manufactures (e.g., Tesla or Ford), automobile subsystem providers (e.g., Continental or NVIDIA) and ride service companies (e.g., Uber).
+The dates in parentheses are when the prediction on that line was made. The dates in blue are the year that was predicted for delivery. I have highlighted the dates that have already passed in pink. None of them were delivered then or now. 2023 did not appear in anyone’s prediction. Next up, 2024 for Jaguar and Land-Rover (it won’t happen…). The orange arrows are for companies that I noticed retracted their statements or pushed them out further sometime after this snap shot.  But in my original predictions on January 1st, 2018, I was reacting to these predictions, not one of which I thought would come to pass by the predicted dates.  I’m batting 17 out of 17, with only six predictions left.
+(Not Really) Deployed Autonomous Ride Services, 2023
+In the last year both Waymo and Cruise launched  “driverless” ride services in San Francisco, They had both previously had empty vehicles cruising the streets, and had limited availability for certain people to ride in them, for free, as though they were a ride service. Then during 2023 both companies made them available to people (on a waiting list) who signed up for an app which let you pay for rides, 24 hours per day. I took almost forty rides in Cruise vehicles under these programs. In a series of short blog posts I describe, in reverse order of writing, those experiences, what it was like in my last ride where I thought for a moment I was going to be in a terrible accident, and a little history of self driving technology.
+I was by no means the only one watching their safety, and it took some good reporters to uncover some of the problems. The CEO of Cruise pushed back that the pushback against his company really wasn’t fair, and was just “anti-robot bias”. I have spent my whole professional life developing robots and my companies have built more of them than anyone else, but I can assure you that as a driver in San Francisco during the day I was getting pretty frustrated with driverless Cruise and Waymo vehicles doing stupid things that I saw and experienced every day. On my second to last commute home from my robot company office in 2023, on December 20th, an empty Waymo with lights not flashing blocked an entrance to an intersection, and I had to temporarily move into on coming traffic to continue on my way.
+But things were worse. There were a number of accidents with people inside Cruise vehicles. It seemed like when a Cruise was in an intersection and a car was heading right for it, the vehicle would stop dead. I, and others, speculated that this was based on the idea that if the self driving car was not moving when there was an accident then it could not be blamed for causing the accident.
+On my last ride in a Cruise this almost happened to me, and I did for a moment fear for my life.  See the description of this October 19th 2023 event in this short blog post. And see a video here of the same sort of thing happening in August, where a bad collision did occur and the Cruise occupant ended up in hospital.
+An event in early October finally caught up with Cruise. A pedestrian had been hit by another vehicle and was thrown into the path of a Cruise vehicle, which was unable to stop in time before driving over the person. What Cruise did not reveal at the time was that the Cruise vehicle then decided to pull over and drove twenty feet with the person trapped underneath the car and dragged the person along. At last report the person was still in hospital.
+There were conflicting reports on whether Cruise initially withheld from investigators the part of a video recording that shows that dragging of the pedestrian. But by late October the California Department of Motor Vehicles suspended Cruise from all driverless operations
+GM had bought Cruise for a reported $1 billion in 2016. By November 14th this year, there were rumblings that GM was stepping in, pushing changes in safety, and would reduce its support for Cruise, having given it an additional $8.2 billion since 2017, with $1.9 billion just in 2023.  It also bought out Softbank’s shares in Cruise for $3.4 billion in 2022. On November 16th, Cruise suspended a share buy-back program for Cruise employees, which let them cash out on their stock options. The company said it needed to revalue the shares. That was an ominous sign. By November 19th the CEO (and co-founder) of Cruise, Kyle Vogt, stepped down.
+GM did indeed pull back on November 29th.
+G.M.’s chief financial officer, Paul Jacobson, said spending at Cruise would fall by “hundreds of millions of dollars” in 2024, and would probably fall further as the company reviewed the division’s operations.
+GM also stopped work on a new custom vehicle, without conventional controls, intended for Cruise to use in large scale taxi services.
+After earlier layoffs of temporary workers who maintained their fleet, in mid-December Cruise had large scale layoffs. First, “nine key leaders” were fired as a byproduct of ongoing safety reviews. And then 900 of their 3800 employees were laid off.
+As of the end of the year 2023, none of Cruise’s 950 “autonomous” vehicles, even when driven by humans, venture anywhere on roads in the United States.
+Now lets backtrack about three weeks. The kicker is that although Cruise had made it sound like their vehicles were completely self driving there had been people at the ready to steer them through difficult situations remotely. They were not operating in the way they presented themselves. The CEO had argued that they were safer than human drivers. But they had human drivers to handle situations their “robot”s could not.
+In a NYTimes story about the whole mess on November 3rd, I noticed a detail that I had not previously seen.
+Half of Cruise’s 400 cars were in San Francisco when the driverless operations were stopped. Those vehicles were supported by a vast operations staff, with 1.5 workers per vehicle. The workers intervened to assist the company’s vehicles every 2.5 to five miles, according to two people familiar with is operations. In other words, they frequently had to do something to remotely control a car after receiving a cellular signal that it was having problems.
+Whoa!  Driverless means that there is no human involved in the actual driving. Here the story says that there is an army of people, 1.5 persons per car, who intercede remotely every 2.5 to 5 miles of travel.  I thought I had been taking Cruise vehicles that were driving themselves.
+In fact, everyone I talked to in San Francisco thought that the Cruise and Waymo vehicles were fully autonomous as they were so bad in certain ways. I would routinely see vehicles stopped and blocking traffic for 30 minutes. Or three vehicles together blocking an intersection with no visible progress to untangling themselves. And the SF Fire Department was very frustrated with Cruise vehicles wandering into active fire areas, then stopping with their wheels on a fire hose, refusing to move on.
+On November 4th then CEO Kyle Vogt posted a statement:
+Cruise CEO here. Some relevant context follows.
+Cruise AVs are being remotely assisted (RA) 2-4% of the time on average, in complex urban environments. This is low enough already that there isn’t a huge cost benefit to optimizing much further, especially given how useful it is to have humans review things in certain situations.
+The stat quoted by nyt is how frequently the AVs initiate an RA session. Of those, many are resolved by the AV itself before the human even looks at things, since we often have the AV initiate proactively and before it is certain it will need help. Many sessions are quick confirmation requests (it is ok to proceed?) that are resolved in seconds. There are some that take longer and involve guiding the AV through tricky situations. Again, in aggregate this is 2-4% of time in driverless mode.
+In terms of staffing, we are intentionally over staffed given our small fleet size in order to handle localized bursts of RA demand. With a larger fleet we expect to handle bursts with a smaller ratio of RA operators to AVs. Lastly, I believe the staffing numbers quoted by nyt include several other functions involved in operating fleets of AVs beyond remote assistance (people who clean, charge, maintain, etc.) which are also something that improve significantly with scale and over time.
+Cruise was not doing autonomous driving after all. They were routinely relying on remote human interventions.  But they were doing even that badly judging by all the failures I and others routinely saw.
+Why is fully autonomous driving important?
+In one word: economics.  The whole point of driverless cars has, for over a decade, been to produce a taxi service where human drivers are not needed.  The business model, the model all the car companies have been going after, is that the cars can drive themselves so no human needs to be paid as part of a taxi service.
+We were told by the companies that their vehicles were safer than human driven vehicles, but in fact they routinely needed humans to monitor and to control them.  At one level I’m shocked, shocked, I tell you.  At another level I am embarrassed that they fooled me.  I had thought they were driving with no person monitoring them.
+The reason I posted my predictions and talk about them every year was to try to overcome the hype that fools people about how far along technology is. The hucksters beat me in this case.
+There is one other company in the US providing so-called autonomous taxi rides. I don’t know whether or not to believe them. I just don’t know. Fool me once…
+And here is an interesting tweet:
+
+ 
+And about that Fully Self Driving for consumer cars
+In December there was a harsh but fair story in Rolling Stone about Tesla’s non-stop hype about its self-driving cars, that is, to put it plainly, a complete lie, and it has been every years since 2014 when the CEO of Tesla has announced that full self driving will be here “this year”. We now have ten years of the same promise, and ten years of it not being true.  [For many people that is “fool me ten times”.]
+There is a reference in that story to a research report from earlier in the year by Noah Goodall at the Virginia Transportation Research Council. He disentangles some of Tesla’s misleading statistics:
+Although Level 2 vehicles were claimed to have a 43% lower crash rate than Level 1 vehicles, their improvement was only 10% after controlling for different rates of freeway driving. Direct comparison with general public driving was impossible due to unclear crash severity thresholds in the manufacturer’s reports, but analysis showed that controlling for driver age would increase reported crash rates by 11%.
+
+
+
+Prediction
+[Self Driving Cars]Date2018 CommentsUpdates
+
+
+
+
+A flying car can be purchased by any US resident if they have enough money.NET 2036There is a real possibility that this will not happen at all by 2050.
+
+
+
+Flying cars reach 0.01% of US total cars.NET 2042That would be about 26,000 flying cars given today's total.
+
+
+Flying cars reach 0.1% of US total cars.NIML
+
+
+First dedicated lane where only cars in truly driverless mode are allowed on a public freeway.
+NET 2021This is a bit like current day HOV lanes. My bet is the left most lane on 101 between SF and Silicon Valley (currently largely the domain of speeding Teslas in any case). People will have to have their hands on the wheel until the car is in the dedicated lane.
+
+
+Such a dedicated lane where the cars communicate and drive with reduced spacing at higher speed than people are allowed to driveNET 202420240101 This didn't happen in 2023 so I can call it now. But there are no plans anywhere for infrastructure to communicate with cars, though some startups are finally starting to look at this idea--it was investigated and prototyped by academia 20 years ago.
+
+
+First driverless "taxi" service in a major US city, with dedicated pick up and drop off points, and restrictions on weather and time of day.NET 2021The pick up and drop off points will not be parking spots, but like bus stops they will be marked and restricted for that purpose only.20240101 People may think this happened in San Francisco in 2023, but it didn't. Cruise has now admitted that there were humans in the loop intervening a few percent of the time. THIS IS NOT DRIVERLESS. Without a clear statement from Waymo to the contrary, one must assume the same for them. Smoke and mirrors.
+
+
+Such "taxi" services where the cars are also used with drivers at other times and with extended geography, in 10 major US citiesNET 2025A key predictor here is when the sensors get cheap enough that using the car with a driver and not using those sensors still makes economic sense.
+
+
+Such "taxi" service as above in 50 of the 100 biggest US cities.NET 2028It will be a very slow start and roll out. The designated pick up and drop off points may be used by multiple vendors, with communication between them in order to schedule cars in and out.
+
+
+
+Dedicated driverless package delivery vehicles in very restricted geographies of a major US city.NET 2023The geographies will have to be where the roads are wide enough for other drivers to get around stopped vehicles.
+
+
+
+A (profitable) parking garage where certain brands of cars can be left and picked up at the entrance and they will go park themselves in a human free environment.NET 2023The economic incentive is much higher parking density, and it will require communication between the cars and the garage infrastructure.
+
+
+A driverless "taxi" service in a major US city with arbitrary pick and drop off locations, even in a restricted geographical area.
+NET 2032This is what Uber, Lyft, and conventional taxi services can do today.20240101 Looked like it was getting close until the dirty laundry came out.
+
+
+Driverless taxi services operating on all streets in Cambridgeport, MA, and Greenwich Village, NY. NET 2035Unless parking and human drivers are banned from those areas before then.
+
+
+A major city bans parking and cars with drivers from a non-trivial portion of a city so that driverless cars have free reign in that area.NET 2027
+BY 2031This will be the starting point for a turning of the tide towards driverless cars.
+
+
+The majority of US cities have the majority of their downtown under such rules.NET 2045
+
+
+Electric cars hit 30% of US car sales.NET 202720240101 This one looked pessimistic last year, but now looks at risk. There was a considerable slow down in the second derivative of adoption this year in the US.
+
+
+Electric car sales in the US make up essentially 100% of the sales.NET 2038
+
+
+
+Individually owned cars can go underground onto a pallet and be whisked underground to another location in a city at more than 100mph.NIMLThere might be some small demonstration projects, but they will be just that, not real, viable mass market services.
+
+
+
+First time that a car equipped with some version of a solution for the trolley problem is involved in an accident where it is practically invoked.NIMLRecall that a variation of this was a key plot aspect in the movie "I, Robot", where a robot had rescued the Will Smith character after a car accident at the expense of letting a young girl die.
+
+
+
+
+Electric Cars
+I bought my first electric car this year.  I love it.
+But it also made me realize how hard it is for many people to own an electric car. I have my own garage under my house. I charge my car in there.  A large portion of car owners in my city, San Francisco, have no private parking space. How does charging work for them?  They need to go to a public recharge station. And wait to charge. Having an electric car is an incredible time tax on people who do not have their own parking spot with access to electricity.  I had not fully appreciated how this will slow down adoption of electric cars until I owned one myself and could reflect on my own level of privilege in this regard.
+Manufacturers have cut back on their sales forecasts for electric vehicles over the next couple of years, and are even reducing production. Ford did this after reporting that it lost $36,000 on every EV it sold in Q3.
+See an analysis of why the scaling is hard just from a supply chain point of view.
+Year over year electric car sales in Q3 were up by 49.8%.  Overall car sales were up significantly so the overall percentage is not that big and this report says that the electric sales rate in the US by year are:
+2021: 3.2%
+2022: 5.8%
+2023: 7.2%
+So this says my estimate of 30% electric sales by 2027 is very much at risk, as that requires two more full doublings of percentage just as manufacturers are slowing things down.  I was abused heavily on Twitter for being so pessimistic back in 2018. Right now I think my prediction was accurate or even optimistic.
+At year end there was a well researched article in the Wall Street Journal. Electric vehicle purchase rates are geographically lumpy, and the rate of increase has slowed in many places.
+Flying Cars
+When I made my predictions about flying cars back in 2018, flying cars were cars that could drive on roads and that could also fly. Now the common meaning has changed to largely be eVTOL’s, electric Vertical Take Off and Landing vehicles, that sit statically on the ground when not flying.  I.e., electric helicopters. And people talk about them as taxis that will whisk people around through the three dimensional airspace avoiding clogged roads. And them being everywhere.
+Spoiler alert.  Not going to happen.
+Late in 2022, soon after Larry Page pulled the plug on his twelve year old eVTOL company I did an analysis of the lack of videos showing any practical looking flights of any potential eVTOL solution, despite companies have multi-billion dollar valuations. If practical eVTOL solutions are around the corner certainly there should be videos of them working. There aren’t.
+Late in 2023, one of the “sky high” valuation companies participated in an unveiling of a taxi service in NYC, with breathless commentary, and even a breathless speech from the Mayor of NYC.  They’re coming, they’re coming, we are all going to live in a new world of flying taxis.
+Here is the video, from November 14, 2023, of a Joby eVTOL taxi flight in NYC.  It is titled: “First-ever electric air taxi flight takes off in NYC”.
+Except that it has no passengers, and it just flies a slow loop out over the water and back. It has “Experimental” painted on the front door.
+Not the four passengers and 200mph speed that co-founder JoeBen Bevirt speaks about in the video.  It is not an operational flight path at all. You can see that the passenger seats are all empty at the 19 second mark, whereas the pilots legs are clearly visible.
+In a video from about a month prior titled “Flying Joby’s Electric Air Taxi with a Pilot On Board”, shot in Marina, California, the company says that they have now flown their vehicle with four different test pilots.  And the video shows it off very much as a test flight, with no passengers onboard.
+There is no mention of automating out the pilot, which was one of the key fantasies of eVTOL taxis.
+Also note the size of this vehicle.  There are many fossil fuel powered helicopters that are much smaller.  This is not going to be a personally owned vehicle for the masses.
+Don’t hold your breath. They are not here. They are not coming soon.
+Robotics, AI, and Machine Learning
+Prolog
+It is worth reading this story, with the increasing number of CEOs in Silicon Valley ending up in jail for overhyping their businesses to the point of fraud. Many, many, more walk that line, some for multiple companies at the same time. From the story:
+“Governance got a bit loosey-goosey during the bubble,” said Healy Jones, vice president of financial strategy at Kruze Consulting, a provider of financial services for start-ups. Lately, Mr. Jones said, he has noticed venture firms doing more due diligence on potential investments, but “they probably shouldn’t get a gold star for fulfilling their job description.”
+This is what happens when everyone is entitled to their own alternate facts. Current icons, young brash worshipped CEOs, are not immune to forcing their own alternate facts upon, first, eager investors, and second, people willing to set aside critical judgement when promised a magical rosy future.
+It is far easier to make stuff up than refute it. It has happened with self driving cars, and flying taxis. It is rampant in the humanoid robotics and AI spaces.
+Summary
+I only made three comments in the table this year, and only one of them is directly about a predicted milestone being hit.  And, as you might guess, they are all about Generative AI and Large Language Models. No question that 2023 was the year when those topics hit the general consciousness of the scientific, cultural, and political worlds.  I’ve officially been an AI researcher since 1976, and before that I was a high school and undergraduate hobbyist, but this is the first year I have heard politicians throughout the world say the words “Artificial Intelligence”.  And when they have said those words no one has been surprised, and everyone sort of thinks they know what they are talking about.
+I had not bothered to predict a rosy future for humanoid robots, as when I made my predictions I had been working in that space for over twenty five years and had built both research humanoids and thousands of humanoid robots that were deployed in factories. The extraordinarily difficult challenges, requiring fundamental research breakthroughs, were clear to me. There are plenty of naive entrepreneurs saying that work will be changed by humanoid robots within a handful of years. They are wrong. My lack of predictions about humanoid robots were based on my expectations that they will not play any significant role for at least another 25 years.
+Here are some humanoid robots that I and the teams I have led have built: Cog (large team of graduate students), Kismet (Cynthia Breazeal, in the picture), Domo (Aaron Edsinger and Jeff Weber), and then Baxters (Rethink Robotics).
+
+
+
+
+
+
+   
+ 
+The prediction that happened this year
+I had predicted that the “next big thing” in AI, beyond deep learning, would show up no earlier than 2023, but certainly by 2027. I also said in the table of predictions in my January 1st, 2018, that for sure someone was already working on that next big thing, and that papers were most likely already published about it.  I just didn’t know what it would be; but I was quite sure that of the hundreds or thousands of AI projects that groups of people were already successfully working hard on, one would turn out to be that next big thing that everyone hopes is just around the corner.  I was right about both 2023 being when it might show up, and that there were already papers about it before 2018.
+Why was I successful in those predictions?  Because it always happens that way and I just found the common thread in all “next big things” in AI, and their time constants.
+The next big thing, Generative AI and Large Language Models started to enter the general AI consciousness last December, and indeed I talked about it a little in last year’s prediction update.  I said that it was neither the savior nor the destroyer of mankind, as different camps had started to proclaim right at the end of 2022, and that both sides should calm down.  I also said that perhaps the next big thing would be neuro-symbolic Artificial Intelligence.
+By March of 2023, it was clear that the next big thing had arrived in AI, and that it was Large Language Models.  The key innovation had been published before 2018, in 2017, in fact.
+Vaswani, Ashish; Shazeer, Noam; Parmar, Niki; Uszkoreit, Jakob; Jones, Llion; Gomez, Aidan N; Kaiser, Łukasz; Polosukhin, Illia (2017). “Attention is All you Need”. Advances in Neural Information Processing Systems. Curran Associates, Inc. 30.
+So I am going to claim victory on that particular prediction, with the bracketed years (OK, so I was a little lucky…) and that a major paper for the next big thing had already been published by the beginning of 2018 (OK, so I was even luckier…).
+
+
+
+Prediction
+[AI and ML]Date2018 CommentsUpdates
+
+
+
+
+Academic rumblings about the limits of Deep LearningBY 2017Oh, this is already happening... the pace will pick up.
+
+
+The technical press starts reporting about limits of Deep Learning, and limits of reinforcement learning of game play.BY 2018
+
+
+The popular press starts having stories that the era of Deep Learning is over.BY 2020
+
+
+VCs figure out that for an investment to pay off there needs to be something more than "X + Deep Learning".NET 2021I am being a little cynical here, and of course there will be no way to know when things change exactly.
+
+
+Emergence of the generally agreed upon "next big thing" in AI beyond deep learning.NET 2023BY 2027Whatever this turns out to be, it will be something that someone is already working on, and there are already published papers about it. There will be many claims on this title earlier than 2023, but none of them will pan out.20240101 It definitely showed up in 2023. It was in the public mind in December 2022, but was not yet the big thing that it became during 2023. A year ago I thought it would perhaps be neuro-symbolic AI, but clearly it is LLMs, and ChatGPT and its cousins. And, as I predicted in 2018 it was something already being worked on as the "attention is all you need" paper, the key set of ideas, was published in 2017.
+
+
+The press, and researchers, generally mature beyond the so-called "Turing Test" and Asimov's three laws as valid measures of progress in AI and ML.NET 2022I wish, I really wish.20230101 The Turing Test was missing from all the breathless press coverage of ChatGPT and friends in 2022. Their performance, though not consistent, pushes way past the old comparisons. 20240101 The Turing Test was largely missing from the press in 2024 also, and there was a story in Nature commenting on that. So yes, this has now happened. 
+
+
+Dexterous robot hands generally available.NET 2030
+BY 2040 (I hope!)Despite some impressive lab demonstrations we have not actually seen any improvement in widely deployed robotic hands or end effectors in the last 40 years.
+
+
+A robot that can navigate around just about any US home, with its steps, its clutter, its narrow pathways between furniture, etc.Lab demo: NET 2026
+Expensive product: NET 2030
+Affordable product: NET 2035What is easy for humans is still very, very hard for robots.
+
+
+A robot that can provide physical assistance to the elderly over multiple tasks (e.g., getting into and out of bed, washing, using the toilet, etc.) rather than just  a point solution.NET 2028There may be point solution robots before that. But soon the houses of the elderly will be cluttered with too many robots.
+
+
+A robot that can carry out the last 10 yards of delivery, getting from a vehicle into a house and putting the package inside the front door.Lab demo: NET 2025
+Deployed systems: NET 2028
+
+
+
+A conversational agent that both carries long term context, and does not easily fall into recognizable and repeated patterns.Lab demo: NET 2023Deployed systems: 2025Deployment platforms already exist (e.g., Google Home and Amazon Echo) so it will be a fast track from lab demo to wide spread deployment.20240101 One half of this happened this year. ChatGPT has been connected to microphones and speakers so you can now talk to it. and It does not fall into recognizable patterns. BUT the other half is the half it does not have;  it has no updatable memory apart from its token buffer of what it has just said. Long term context may be long term in coming.
+
+
+An AI system with an ongoing existence (no day is the repeat of another day as it currently is for all AI systems) at the level of a mouse.NET 2030I will need a whole new blog post to explain this...
+
+
+A robot that seems as intelligent, as attentive, and as faithful, as a dog.NET 2048This is so much harder than most people imagine it to be--many think we are already there; I say we are not at all there.
+
+
+A robot that has any real idea about its own existence, or the existence of humans in the way that a six year old understands humans.NIML
+
+
+
+
+ 
+What do I think about Generative AI and Large Language Models?
+On November 28th I gave a talk at MIT as the opening keynote for MIT’s Generative AI Week. Here is the video of my talk, and here is a part of my talk written up as a blog post.
+The title was “Unexpected manna mantra“. I didn’t want to talk about all the wealth or destruction (see salvationists versus doomers) that others talk about, and hence the crossed out “manna” in the title. Instead the talk is about what the existence of these “valuable cultural tools” (due to Alison Gopnik at UC Berkeley) tells us about deeper philosophical questions about how human intelligence works, and how they are following a well worn hype cycle that we have seen again, and again, during the 60+ year history of AI.
+I concluded my talk encouraging people to do good things with LLMs but to not believe the conceit that their existence means we are on the verge of Artificial General Intelligence.
+By the way, there are the initial signs that perhaps LLMs have already passed peak hype. And the ever interesting Cory Doctorow has written a piece on what will be the remnants after the LLM bubble has burst. He says there was lots of useful stuff left after the dot com bubble burst in 2000, but not much beyond the fraud in the case of the burst crypto bubble.
+He tends to be pessimistic about how much will be left to harvest after the LLM bubble is gone. Meanwhile right at year’s end the lawsuits around LLM training are starting to get serious.
+HUMAN SpaceFLIGHT
+Crewed space flight crawled on during 2023. It did not feel like a golden age.
+There were only five crewed orbital flights in 2023, two where Russian Soyuz, two were NASA SpaceX Dragons, and one was a commercial Axiom-2 SpaceX Dragon, with three paying customers. All five flights were to the International Space Station (ISS).
+There were seven crewed suborbital flights, all by Virgin Galactic. Two were company test flights, and five had at least some paying customers on board. This means that Virgin Galactic has now had a total of six flights which involved more than test pilots (the previous such flight was in 2021).
+Blue Origin had a mishap with an uncrewed suborbital vehicle in 2022, and finally flew an uncrewed vehicle again on December 19th, 2023. Perhaps they will be back to crewed flights in 2024.
+This, again, was not the year that space tourism really took off.  In fact many of the paying customers were from space agencies of other countries that do not have their own human launch capability.. A market for getting national astronauts into space is starting to develop. The 14 day Axiom-3 mission scheduled for January 2024 will take three paying customers to the ISS, all of whom are national astronauts, from Italy, Turkey, and Sweden. The Italian astronaut, Walter Villadei, flew one of the suborbital Virgin Galactic flights in 2023.
+The bright spot for space in 2023 was the continued unparalleled (ever) success of SpaceX’s Falcon 9 rockets. They had zero failures,  There with 91 launches of the single booster version, and every one of those boosters were recovered in vertical soft landings (though late in December B1058 that had successfully landed on a floating barge, after its nineteenth launch, was destroyed when it fell over in rough seas being transported back to land). Three of those launches sent people to the ISS. There were 5 launches of Falcon Heavy, the triple booster version. All four attempts to recover the two side boosters were successful, bringing all eight of them back successfully.
+SpaceX Falcons had a total of 31 launches in 2021, 61 in 2022, and now 96 in 2023. There have now been a total of 285 single booster launches with only 2 failures, and nine Falcon Heavy  launches with no failures. SpaceX’s Falcon rocket is in a success class of its own.
+It is worth noting, however, that this large scale successful deployment took time. The first launch of a Falcon 9 took place in June 2010, thirteen and a half years ago. The attempted recovery of that booster failed. By the end of 2013 there had been only seven launches total, with no successful booster recoveries, despite four attempts. The first booster to be recovered (but not reflown) was in December 2015.
+It wasn’t until March 2017 that there was a reflight of a recovered booster (first flown in April 2016).
+
+
+
+Prediction
+[Space]Date2018 CommentsUpdates
+
+
+
+
+Next launch of people (test pilots/engineers) on a sub-orbital flight by a private company.BY 2018
+
+
+A few handfuls of customers, paying for those flights.NET 2020
+
+
+A regular sub weekly cadence of such flights.NET 2022BY 202620240101 There were four flights in 2021, three in 2022, and seven, five with customers on board, in 2023--all of them by Virgin Glactic. Blue Origin did not fly in 2023. At this point 2026 is looking doubtful for regular flights every week.
+
+
+Regular paying customer orbital flights.NET 2027Russia offered paid flights to the ISS, but there were only 8 such flights (7 different tourists). They are now suspended indefinitely. 20240101 There were three paid flights in 2021, and one each in 2022, and 2023, with the latter being the Axiom 2 mission using SpaceX hardware. So not regular yet, and certainly not common.
+
+
+Next launch of people into orbit on a US booster.NET 2019BY 2021BY 2022 (2 different companies)
+Current schedule says 2018.20240101 Both SpaceX and Boeing were scheduled to have crewed flights in 2018. SpaceX pulled it off in 2020, Boeing's Starliner did not fly at all in 2023, but is scheduled to launch with people onboard for the first time in April 2024.
+
+
+Two paying customers go on a loop around the Moon, launch on Falcon Heavy.NET 2020The most recent prediction has been 4th quarter 2018. That is not going to happen.20240101 Starship launched twice in 2023 but didn't get to orbit either time. This is going to be well over six years later than the original  prediction by the CEO of SpaceX.
+
+
+Land cargo on Mars for humans to use at a later date
+NET 2026SpaceX has said by 2022. I think 2026 is optimistic but it might be pushed to happen as a statement that it can be done, rather than for an pressing practical reason.20240101 I was way too optimistic, and bought into the overoptimistic hype of the CEO of SpaceX even though I added four years, doubling his estimated time frame.
+
+
+Humans on Mars make use of cargo previously landed there.NET 2032Sorry, it is just going to take longer than every one expects.
+
+
+First "permanent" human colony on Mars.NET 2036It will be magical for the human race if this happens by then. It will truly inspire us all.
+
+
+
+Point to point transport on Earth in an hour or so (using a BF rocket).NIMLThis will not happen without some major new breakthrough of which we currently have no inkling.
+
+
+
+Regular service of Hyperloop between two cities.NIMLI can't help but be reminded of when Chuck Yeager described the Mercury program as "Spam in a can".
+20240101 Calling this one 26 years early. As of today no-one is still working on this in an operating company.
+
+
+
+
+ 
+Boeing’s Starliner
+First announced in 2010 Boeing’s Starliner was originally scheduled to fly a human crew in 2018. It carried out its second uncrewed flight in May 2022, and is now scheduled to have its first crewed test flight in April 2024.
+Thereafter it is expected to fly with a crew once a year.  After this dismally long development period, that will give the US its second commercial human capable orbital space craft.
+Starship
+Starship is SpaceX’s superheavy two stage rocket, designed to put 150 tons of payload into orbit, but also be able to go to the Moon or Mars. The first stage has 33 Raptor engines, and that stage is to land back on a ship or land as the current Falcon first stages do so successfully. The second stage has a total of six Raptor engines, three optimized to operate in space and three in the atmosphere. The second stage is to return from orbit burning off kinetic energy using a heat shield to re-enter the atmosphere, and then land vertically back at the launch site.
+Over US Thanksgiving in 2021 the CEO of SpaceX urged his workers to abandon their families and come in to work to boost the production rate of Raptor engines. In his email he said:
+What it comes down to is that we face genuine risk of bankruptcy if we cannot achieve a Starship flight rate of at least once every two weeks next year.
+“Next year” was 2022. There were zero flights in 2022, certainly not one every two weeks. There were two flights total in 2023, and both of those had both stages for the first time. Both flights in 2023 ended up with both stages blowing up. SpaceX has become renowned for moving fast and blowing stuff up.  But the US’s plan for returning people to the surface of the Moon in 2025 is now very unlikely. That plan requires 15 successful launches of Starship to operate flawlessly for that single mission.
+The return to the Lunar surface is going to be significantly delayed, and revenue producing flights of Starship are going to be way behind schedule.
+Artemis
+The second Artemis mission, using the Orion Capsule, Artemis II, will fly to the Moon with four people aboard, the first crewed Artemis flight. It was scheduled to launch in May 2024, but has been delayed by six months. This will be the first crewed mission beyond low Earth orbit (LEO) since 1972.
+Artemis III was scheduled to launch in 2025 with a return to the surface of the Moon. However that relied on using a Starship (itself refueled in LEO by 14 (yes, fourteen!!) other Starship launches) to land there.  No one any longer believes that schedule, and it is likely delayed a few years, given where Starship is in its development and current capability.
+Blue Origin Orbital Class Engines and Vehicles
+Back in 2022 Blue Origin delivered two BE-4 engines to ULA, a customer, for use in their new Vulcan Centaur rocket, freeing ULA from its reliance on Russian engines. The first launch was supposed to happen in 2023, and in December a launch was delayed until January 2024. It does look like it will fly soon.
+A BE-4 exploded during testing at Blue Origin in June of 2023, but whatever issues were there seem to have been overcome. They are designed to fly 100 times each.
+Blue Origin’s own first orbital class rocket, New Glenn, was also due to fly in 2023, with four BE-4 engines.  It has been delayed until August 2024.
+And finally, hyperloop
+My prediction was that hyperloop was not going to happen in my lifetime, i.e., not by 2050, still twenty six years from now. But I called it today in the table. I was right.
+For those who don’t remember, the hyperloop concept was hyped as much as generative AI is these days. The idea was that small pods would rush down evacuated tubes (often said to be underground, which was the rationale for starting new tunnel boring companies), at hundreds of miles per hour.  With people in them.  Point to point, LA downtown to San Francisco downtown in an hour.
+In 2018 I wrote about what is hard and what is easy, and why, and said:
+Building electric cars and reusable rockets is fairly easy. Building a nuclear fusion reactor, flying cars, self-driving cars, or a Hyperloop system is very hard. What makes the difference?
+And it turns out it was much harder. As of December 31st, 2023, Hyperloop One, started by a member of the billionaire we-can-do-anything-one-of-us-thinks-about-for-five-minutes-before-telling-the-world-about-my-visionary-idea club, has completely shut down.  It is particularly worth reading the brutal last two paragraphs of that story. And the last sentence is generally worth remembering at all times:
+The future, it would seem, is nearly the same as the present.
+As I have said many times:
+Having ideas is easy. Turning them into reality is hard. Turning them into being deployed at scale is even harder.
+Progress inches along. It did with ships, trains, automobiles, airplanes, rockets, and reusable boosters. All of them moved along with many players, inventors, and investors, over at least decades. Big things that involve a lot of kinetic energy, and especially those that also carry people, take somewhere from decades to centuries to develop and deploy at scale.
+Looking Forward
+Get your thick coats now. There may be yet another AI winter, and perhaps even a full scale tech winter, just around the corner. And it is going to be cold.
+
+
+Categories: Dated Predictions 
+
+
+
+Comment on this Cancel reply 
+Your email address will not be published. Required fields are marked *Comment Name * 
+Email * 
+Website 
+ 
+
+ 
+
+
+
+Post navigation
+Previous Previous post: Autonomous Vehicles 2023, Part III
+
+
+
+
+
+
+
+© 2024 Rodney Brooks. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

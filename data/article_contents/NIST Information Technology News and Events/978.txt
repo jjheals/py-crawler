@@ -1,0 +1,848 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Technical Language Processing Community of Interest 2024 Meeting | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/events/2024/09/technical-language-processing-community-interest-2024-meeting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standard Reference Instruments (SRIs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Leadership
+
+
+Organization Structure
+
+
+Budget & Planning
+
+
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Student programs
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EVENTS
+
+
+Technical Language Processing Community of Interest 2024 Meeting
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read the Code of Conduct for NIST Conferences.
+
+
+
+
+
+
+Virtual Event
+
+
+
+
+              September 24 - 25, 2024
+
+
+
+
+Virtual Only
+
+
+Register
+
+
+Registration for this exclusive event is limited. Secure your spot today to be part of this community-focused gathering.Costs: General Attendance: $33.00 USD
+
+
+Registration Contact
+
+
+
+Pauline Truong
+
+pauline.truong@nist.gov
+
+
+    (301) 975-3258
+  
+
+
+
+
+
+Technical Contact
+
+
+
+Michael Sharp
+
+michael.sharp@nist.gov
+
+
+    (301) 975-0476
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  Shutterstock
+
+        
+
+
+
+Join Us for the 2024 TLP COI Meeting and WorkshopThe Technical Language Processing Community of Interest (TLP COI) in collaboration with the National Institute of Standards and Technology (NIST) cordially invites you to participate in the upcoming 2024 TLP COI Meeting and Workshop. This virtual event, spanning two days, aims to foster connections and exchange insights across all facets of the TLP Community: from researchers and developers to practitioners and consumers of TLP.Event FocusIn an ever-evolving landscape where industry, artificial intelligence, and human-centered intelligent automation intersect with communications and language, it's crucial to stay ahead. This year’s meeting will spotlight the current landscape of language processing needs and emerging applications, with a keen focus on risk awareness, accessibility, and longevity.Why Attend?NIST, alongside industry and academic leaders, is proud to host this public forum to explore and learn about the emerging tools that will shape the critical technologies of the future. Our lineup of expert speakers and panelists will delve into a diverse array of topics, covering everything from current tools and best practices in utilizing and creating TLP systems to real-world TLP needs and use cases from industry, government, and academic research.Key HighlightsInsights into current tools and best practices in TLP systemsExploration of emerging applications and use casesRoundtable discussion with expert panelists on measuring impacts and results of TLP use in the fieldJoin Us!!Don't miss out on this opportunity to engage with fellow stakeholders and contribute to the advancement of language processing technologies. Register now to reserve your place at the forefront of TLP innovation.Topics of Interest:Introductory TLPWhat is TLP? How is TLP “practice” different from that of Natural Language Processing? How do they overlap?Current TLP LandscapeWhat is the “State of the Practice” / Best practices in TLP?Risk Awareness Around TLPHow does risk management play a part  in development and applications of TLP?Data Sharing and Resources for TLP What’s currently available? How can we better share data e.g. in a privacy-aware way?Needs, Gaps, and Applications of TLPWhat are current applications and imminent needs for TLP in government, standards, and industry?Metrics and Measurement of TLP How do we quantify impact? How do we qualify results?Special Topics:Exploring LLMs What are possible industrial and technical applications of LLMs? What are some implications of Pre-trained models vs “Model Adaptation“?Humans as observers How do we better close the loop between operators and monitoring systemsSOP or International Standards mining and supportHow can we accelerate model creation and validation from prescriptive and descriptive documentation? 
+
+
+
+
+
+
+
+    Agenda
+  
+
+
+Tentative Itinerary:Tuesday Sep 24, 202410:00 - 10:30 am ESTWelcome and Opening RemarksMeeting Chairperson10:40 - 11:30 am ESTGoals and Perspective: What is TLP?Rachael Sexton11:40 - 12:30 pm EST7 Min. Lightning Talks: TLP Applications in Government and IndustryVarious Speakers12:30 - 1:30 pm ESTBREAK 1:30 - 2:30 pm ESTInvited Talk 1: <TITLE>TBD2:45 - 3:20 pm ESTShort Talk 1: <TITLE>TBD3:30 - 5:00 pm ESTExpert Panel and Discussion: Risk Awareness and TLP Various Speakers Wednesday Sep 25, 202410:00 - 10:30 am ESTOpening RemarksMeeting Chairperson10:40 - 11:30 am ESTInvited Talk 2: <TITLE>TBD11:40 - 12:30 pm ESTExpert Panel and Discussion: Measuring Impacts and Results of TLP Various Speakers12:30 - 1:30 pm ESTBREAK 1:30 - 2:30 pm ESTInvited Talk 3: <TITLE>TBD2:45 - 3:20 pm ESTShort Talk 2: <TITLE>TBD3:30 - 4:00 pm ESTShort Talk 3: <TITLE>TBD4:10 - 4:40 pm ESTShort Talk 3: <TITLE>TBD4:45 - 5:00 pm ESTClosing RemarksMeeting Chairperson 
+
+
+
+
+
+
+
+Information technology, Data and informatics, Manufacturing, Process improvement, Manufacturing quality assurance, Standards, Reference data and Reference materials
+
+
+
+
+
+
+
+
+
+Read the Code of Conduct for NIST Conferences.
+
+
+
+
+
+
+Virtual Event
+
+
+
+
+              September 24 - 25, 2024
+                
+
+
+
+Virtual Only
+
+
+Register
+
+
+Registration for this exclusive event is limited. Secure your spot today to be part of this community-focused gathering.Costs: General Attendance: $33.00 USD
+
+
+Registration Contact
+
+
+
+Pauline Truong
+
+pauline.truong@nist.gov
+
+
+    (301) 975-3258
+  
+
+
+
+
+
+Technical Contact
+
+
+
+Michael Sharp
+
+michael.sharp@nist.gov
+
+
+    (301) 975-0476
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsCommunications Technology LaboratorySmart Connected Systems Division
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Created April 25, 2024, Updated June 13, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

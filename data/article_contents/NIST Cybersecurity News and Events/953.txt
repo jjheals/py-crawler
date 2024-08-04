@@ -1,0 +1,832 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST Secure Software Development Framework for Generative AI and for Dual Use Foundation Models Virtual Workshop | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/events/nist-secure-software-development-framework-generative-ai-and-dual-use-foundation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standard Reference Instruments (SRIs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Leadership
+
+
+Organization Structure
+
+
+Budget & Planning
+
+
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Student programs
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EVENTS
+
+
+NIST Secure Software Development Framework for Generative AI and for Dual Use Foundation Models Virtual Workshop
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read the Code of Conduct for NIST Conferences.
+
+
+
+
+
+
+
+
+              January 17, 2024
+                    9:00am - 1:00pm EST
+          
+
+
+
+Virtual Only
+
+
+Registration Contact
+
+
+
+Crissy Robinson
+
+christina.robinson@nist.gov
+
+
+    (202) 507-0683
+  
+
+
+
+
+
+Technical Contact
+
+
+
+Kevin Stine
+
+kevin.stine@nist.gov
+
+
+    (301) 975-4483
+  
+
+
+
+
+
+
+
+
+
+
+
+
+NIST is hosting a workshop on Wednesday, January 17, 2024, from 9:00 AM - 1:00 PM EST to bring together industry, academia, and government to discuss secure software development practices for AI models. Attendees will gain insight into major cybersecurity challenges specific to developing and using AI models—as well as recommended practices for addressing those challenges. Feedback from various communities will inform NIST’s creation of SSDF companion resources to support both AI model producers and the organizations which are adopting and incorporating those AI models within their own software and services. 
+Background
+The October 2023, Executive Order 14110, Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence, tasked NIST with “developing a companion resource to the SSDF to incorporate secure development practices for generative AI and for dual-use foundation models.” NIST’s SSDF version 1.1 describes a set of fundamental, sound practices for general secure software development. The SSDF focuses on outcomes, not tools and techniques, so it can be used for any type of software development, including AI models.
+To provide software producers and acquirers with more information on secure development for AI models, NIST is considering the development of one or more SSDF companion resources on generative AI models and dual-use foundation models. These companion resources would be similar in concept and content to the Profiles for the NIST Cybersecurity Framework, Privacy Framework, and AI Risk Management Framework. 
+During the workshop, NIST is seeking feedback on several topics to help inform the development of future SSDF Profiles, including:
+
+What changes, if any, need to be made to SSDF version 1.1 to accommodate secure development practices for generative AI and dual-use foundation models?
+What AI-specific considerations should NIST capture in its companion resource?
+What else should be captured in the SSDF Profiles?
+Is there an alternative to an SSDF Profile that would be more effective at accomplishing the EO 14110 requirement, while also providing flexibility and technology neutrality for software producers?
+What secure development resources specific to AI models do you find most valuable?
+What is unique about developing code for generative AI and dual-use foundation models?
+
+Questions about the workshop or NIST’s SSDF work? Contact us via ssdf [at] nist.gov (ssdf[at]nist[dot]gov).
+ 
+ 
+
+
+
+
+
+
+
+    Agenda
+  
+
+
+ TimesSpeakersSession Name/Information9:00 AM – 9:15 AMMichael Ogata, NISTKevin Stine, NISTIntroduction and Overview9:15 AMMartin Stanley, NISTSession 1 - Secure Software Development Challenges with Large Language Models (LLMs) and Generative AI Systems This session will discuss major cybersecurity challenges in the development and use of LLMs, dual-use foundation models, and generative AI systems. Attendees will identify and consider the biggest challenges are and the potential impacts of not adequately addressing them.9:15 AM – 9:30 AMJonathan Spring, CISA CISA Presentation for NIST Secure Software Development Workshop for Generative AI9:30 AM – 9:45 AMDave Schulker, CERTUsing System Theoretic Process Analysis to Advance Safety in LLM-enabled Software Systems9:45 AM – 10:00 AMHenry Young, BSACybersecurity for Generative AI: Leveraging Existing Tools and Identifying New Challenges10:00 AM – 10:15 AMMartin Stanley, NISTJonathan Spring, CISADave Schulker, CERTHenry Young, BSAQ&A10:15 AMApostol Vassilev, NISTSession 2 - Secure Development of LLMs and Generative AI Systems This session will explore recommended security practices for the development of LLMs, such as dual-use foundation models with billions of parameters. The focus will be on security practices that are specific to the LLM development lifecycle, rather than on practices generally used for all other types of software development. Attendees will share and gain a better understanding of the practices in use and the gaps that remain to be addressed by users of LLMs.10:15 AM – 10:30 AMNick Hamilton, OpenAISecuring Large Language Model Development and Deployment: Navigating the Complexities of LLM Secure Development Practices to Align with the NIST Secure Development Framework10:30 AM – 10:45 AMMark Ryland, AWSSecure Development of GenAI Systems: An AWS Perspective10:45 AM – 11:00 AMMihai Maruseac, GoogleSecure AI Development @ Google11:00 AM – 11:15 AMApostol Vassilev, NISTNick Hamilton, OpenAIMark Ryland, AWSMihai Maruseac, GoogleQ&A11:15 AM – 11:30 AMMichael Ogata, NISTBreak11:30 AMHarold Booth, NISTSession 3 - Secure Use of LLMs and Generative AI Systems This session will explore recommended security practices for reuse of existing LLMs and generative AI systems as components of traditional software deployed within an organization. It will focus on security practices that are specific to LLMs and generative AI models as components integrated into other software and the specific security challenges they bring rather than on practices generally used for any traditional software reuse. Attendees will discuss recommendations and considerations for enhancing their existing secure software development practices, as well as additional security controls they may need to employ.11:30 AM – 11:45 AMKarthi Natesan Ramamurthy, IBMFoundation Models and their Use in Software Systems -Trust and Governance11:45 AM – 12:00 PMDavid Beveridge, HiddenLayerSecure Use of LLMs and GEN AI Systems12:00 PM – 12:15 AMVivek Sharma, MicrosoftNIST Secure Use of LLMs and Generative AI System12:15 PM – 12:30 PMHarold Booth, NISTKarthi Natesan Ramamurthy, IBMDavid Beveridge, HiddenLayerVivek Sharma, MicrosoftQ&A12:30 PM –12:45 PMMichael Ogata, NISTClosing and Next Steps1:00 PM Adjourn 
+
+
+
+
+
+
+
+Information technology, Artificial intelligence, Cybersecurity, Trustworthy platforms and Software research
+
+
+
+
+
+
+
+
+
+Read the Code of Conduct for NIST Conferences.
+
+
+
+
+
+
+
+
+              January 17, 2024
+                    9:00am - 1:00pm EST
+          
+
+
+
+Virtual Only
+
+
+Registration Contact
+
+
+
+Crissy Robinson
+
+christina.robinson@nist.gov
+
+
+    (202) 507-0683
+  
+
+
+
+
+
+Technical Contact
+
+
+
+Kevin Stine
+
+kevin.stine@nist.gov
+
+
+    (301) 975-4483
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsInformation Technology LaboratoryApplied Cybersecurity Division
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Created January 4, 2024, Updated February 1, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

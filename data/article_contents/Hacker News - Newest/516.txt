@@ -1,0 +1,683 @@
+
+
+
+
+Exploring Generative AI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refactoring
+Agile
+Architecture
+About
+Thoughtworks
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Topics
+Architecture
+Refactoring
+Agile
+Delivery
+Microservices
+Data
+Testing
+DSL
+
+
+about me
+About
+Books
+FAQ
+
+
+content
+Videos
+Content Index
+Board Games
+Photography
+
+
+Thoughtworks
+Insights
+Careers
+Products
+
+
+follow
+Twitter
+RSS
+Mastodon
+
+
+
+
+
+Exploring Generative AI
+
+
+
+
+Birgitta BÃ¶ckeler
+
+
+
+Generative AI
+
+
+
+Generative AI and particularly LLMs (Large Language Models) have exploded 
+    into the public consciousness. Like many software developers I am intrigued 
+    by the possibilities, but unsure what exactly it will mean for our profession 
+    in the long run. I have now taken on a role in Thoughtworks to coordinate our 
+    work on how this technology will affect software delivery practices. 
+    I'll be posting various memos here to describe what my colleagues and I are 
+    learning and thinking.
+
+Earlier Memos
+
+The toolchain (26 July 2023) 
+▶
+
+
+The toolchain
+
+
+Letâs start with the toolchain. Whenever there is a new area with still evolving patterns and technology, I try to develop a mental model of how things fit together. It helps deal with the wave of information coming at me. What types of problems are being solved in the space? What are the common types of puzzle pieces needed to solve those problems? How are things fitting together?
+How to categorise the tools
+The following are the dimensions of my current mental model of tools that use LLMs (Large Language Models) to support with coding.
+Assisted tasks
+
+Finding information faster, and in context
+Generating code
+âReasoningâ about code (Explaining code, or problems in the code)
+Transforming code into something else (e.g. documentation text or diagram)
+
+These are the types of tasks I see most commonly tackled when it comes to coding assistance, although there is a lot more if I would expand the scope to other tasks in the software delivery lifecycle.
+Interaction modes
+Iâve seen three main types of interaction modes:
+
+Chat interfaces
+In-line assistance, i.e. typing in a code editor
+CLI
+
+Prompt composition
+The quality of the prompt obviously has a big impact on the usefulness on the tools, in combination with the suitability of the LLM used in the backend. Prompt engineering does not have to be left purely to the user though, many tools apply prompting techniques for you in a backend.
+
+User creates the prompt from scratch
+Tool composes prompt from user input and additional context (e.g. open files, a set of reusable context snippets, or additional questions to the user)
+
+Properties of the model
+
+What the model was trained with
+    
+Was it trained specifically with code, and coding tasks? Which languages?
+When was it trained, i.e. how current is the information
+
+
+Size of the model (itâs still very debated in which way this matters though, and what a âgoodâ size is for a specific task like coding)
+Size of the context window supported by the model, which is basically the number of tokens it can take as the prompt
+What filters have been added to the model, or the backend where it is hosted
+
+Origin and hosting
+
+Commercial products, with LLM APIs hosted by a the product company
+Open source tools, connecting to LLM API services
+Self-built tools, connecting to LLM API services
+Self-built tools connecting to fine-tuned, self-hosted LLM API
+
+Examples
+Here are some common examples of tools in the space, and how they fit into this model. (The list is not an endorsement of these tools, or dismissal of other tools, itâs just supposed to help illustrate the dimensions.)
+
+
+
+Tool
+Tasks
+Interaction
+Prompt composition
+Model
+Origin / Hosting
+
+
+
+
+GitHub Copilot
+Code generation
+In-line assistance
+Composed by IDE extension
+Trained with code, vulnerability filters
+Commercial
+
+
+GitHub Copilot Chat
+All of them
+Chat
+Composed of user chat + open files
+Trained with code
+Commercial
+
+
+ChatGPT
+All of them
+Chat
+All done by user
+Trained with code
+Commercial
+
+
+GPT Engineer
+Code generation
+CLI
+Prompt composed based on user input
+Choice of OpenAI models
+Open Source, connecting to OpenAI API
+
+
+âTeam AIsâ
+All of them
+Web UI
+Prompt composed based on user input and use case
+Most commonly with OpenAIâs GPT models
+Maintained by a team for their use cases, connecting to OpenAI APIs
+
+
+Metaâs CodeCompose
+Code generation
+In-line assistance
+Composed by editor extension
+Model fine-tuned on internal use cases and codebases
+Self-hosted
+
+
+
+What are people using today, and whatâs next?
+Today, people are most commonly using combinations of direct chat interaction (e.g. via ChatGPT or Copilot Chat) with coding assistance in the code editor (e.g. via GitHub Copilot or Tabnine). In-line assistance in the context of an editor is probably the most mature and effective way to use LLMs for coding assistance today, compared to other approaches. It supports the developer in their natural workflow with small steps. Smaller steps make it easier to follow along and review the quality more diligently, and itâs easy to just move on in the cases where it does not work.
+There is a lot of experimentation going on in the open source world with tooling that provides prompt composition to generate larger pieces of code (e.g. GPT Engineer, Aider). Iâve seen similar usage of small prompt composition applications tuned by teams for their specific use cases, e.g. by combining a reusable architecture and tech stack definition with user stories to generate task plans or test code, similar to what my colleague Xu Hao is describing here. Prompt composition applications like this are most commonly used with OpenAIâs models today, as they are most easily available and relatively powerful. Experiments are moving more and more towards open source models and the big hyperscalers hosted models though, as people are looking for more control over their data.
+As a next step forward, beyond advanced prompt composition, people are putting lots of hopes for future improvements into the model component. Do larger models, or smaller but more specifically trained models work better for coding assistance? Will models with larger context windows enable us to feed them with more code to reason about the quality and architecture of larger parts of our codebases? At what scale does it pay off to fine-tune a model with your organizationâs code? What will happen in the space of open source models? Questions for a future memo.
+Thanks to Kiran Prakash for his input
+
+
+
+
+
+
+Median - A tale in three functions (27 July 2023) 
+▶
+
+
+Median - A tale in three functions
+
+
+This is a little story of generating a median function, and how it illustrates the usefulness and limitations of LLM-assisted coding.
+I needed to calculate the median of a list of numbers in a Typescript codebase. Instead of what I would usually do, which is start an internet search for âmedian function javascriptâ, I tried to get GitHub Copilot to assist me.
+// calculate the median of a list of numbers
+
+Copilot first generated a proper method signature for me:
+public static median(values:number[]): number {
+
+And then suggested three different implementations of that function.
+Suggestion 1
+public static median(values:number[]): number {
+    if(values.length === 0) return 0;
+
+    values.sort((a,b) => a-b);
+
+    var half = Math.floor(values.length / 2);
+
+    if (values.length % 2)
+    return values[half];
+
+    return (values[half - 1] + values[half]) / 2.0;
+}
+
+This implementation works fine. However, the input parameter values is being changed with the sort function. When showing some colleagues this example, I got mixed responses - one said âthatâs pretty bad, something we would usually forget to write a test about, and then it can become an error thatâs really hard to debugâ. Another said, âitâs not necessarily always a bad thing, it dependsâ. I was wondering if this would be something that a static code analysis tool in the IDE would mark as a problem, but neither ESLint nor Sonar flagged it.
+Suggestion 2
+function median2(values: number[]) {
+    const sorted = values.slice().sort((a, b) => a - b);
+    const middle = Math.floor(sorted.length / 2);
+    if (sorted.length % 2 === 0) {
+        return (sorted[middle - 1] + sorted[middle]) / 2;
+    } else {
+        return sorted[middle];
+    }
+}
+
+This one works, and does not have the problem of changing the input parameter, as slice() returns a copy of the input array.
+Suggestion 3
+function median3(values: number[]) {
+    const sorted = values.slice().sort((a, b) => a - b);
+    const middle = Math.floor(sorted.length / 2);
+    return sorted[middle];
+}
+
+At first sight, this looks better than the others - itâs shorter, and has zero cyclomatic complexity, we tend to think of that as âmore elegantâ. The test I wrote for it also worked, great!
+But I later realised that it is important to test it with both an even and an uneven number of values - the test I had written used an uneven length input, but this implementation fails for the case of an even length. This example is great to illustrate that it is still important to understand what we are doing, to be able to write reasonable tests for the code that got generated. We need to know how median works to write tests that cover the full functionality.
+Isnât this the same though as copying from the internet?
+A use case like this is a perfect example for one of the benefits people see in this âautocomplete on steroidsâ: You donât have to leave your flow and tool chain to get answers to questions like this. And otherwise weâd copy & paste it from somewhere anyway, and would then have to review that code thoroughly as well, and write the tests. So itâs the same risk - right?
+The only difference is that with Copilot, we donât know the source of the code. In the case of StackOverflow e.g., we have an additional data point about the quality of a snippet: The number of upvotes.
+Incidentally, âSuggestion 1â is almost exactly the code suggested by the most highest voted response to a StackOverflow question on the topic, in spite of the little flaw. The mutation of the input parameter is called out by a user in the comments though.
+Generate the tests, or the code? Or both?
+What about the other way around then, what if I had asked Copilot to generate the tests for me first? I tried that with Copilot Chat, and it gave me a very nice set of tests, including one that fails for âSuggestion 3â with an even length.
+it("should return the median of an array of odd length", () => { ... }
+
+it("should return the median of an array of even length", () => { ... }
+
+it("should return the median of an array with negative numbers", () => { ... }
+
+it("should return the median of an array with duplicate values", () => { ... }
+
+In this particular case of a very common and small function like median, I would even consider using generated code for both the tests and the function. The tests were quite readable and it was easy for me to reason about their coverage, plus they would have helped me remember that I need to look at both even and uneven lengths of input. However, for other more complex functions with more custom code I would consider writing the tests myself, as a means of quality control. Especially with larger functions, I would want to think through my test cases in a structured way from scratch, instead of getting partial scenarios from a tool, and then having to fill in the missing ones.
+Could the tool itself help me fix the flaws with the generated code?
+I asked Copilot Chat to refactor âSuggestion 1â in a way that it does not change the input parameter, and it gave me a reasonable fix. The question implies though that I already know what I want to improve in the code.
+I also asked ChatGPT what is wrong or could be improved with âSuggestion 3â, more broadly. It did tell me that it does not work for an even length of input.
+Conclusions
+
+You have to know what youâre doing, to judge the generated suggestions. In this case, I needed an understanding of how median calculation works, to be able to write reasonable tests for the generated code.
+The tool itself might have the answer to whatâs wrong or could be improved in the generated code - is that a path to make it better in the future, or are we doomed to have circular conversation with our AI tools?
+Iâve been skeptical about generating tests as well as implementations, for quality control reasons. But, generating tests could give me ideas for test scenarios I missed, even if I discard the code afterwards. And depending on the complexity of the function, I might consider using generated tests as well, if itâs easy to reason about the scenarios.
+
+Thanks to Aleksei Bekh-Ivanov and Erik Doernenburg for their insights
+
+
+
+
+
+
+In-line assistance - when is it more useful? (01 August 2023) 
+▶
+
+
+In-line assistance - when is it more useful?
+
+
+The most widely used form of coding assistance in Thoughtworks at the moment is in-line code generation in the IDE, where an IDE extension generates suggestions for the developer as they are typing in the IDE.
+The short answer to the question, âIs this useful?â is: âSometimes it is, sometimes it isnât.â Â¯_(ã)_/Â¯ You will find a wide range of developer opinions on the internet, from âthis made me so much fasterâ all the way to âI switched it off, it was uselessâ. That is because the usefulness of these tools depends on the circumstances. And the judgment of usefulness depends on how high your expectations are.
+What do I mean by âusefulâ?
+For the purposes of this memo, Iâm defining âusefulâ as âthe generated suggestions are helping me solve problems faster and at comparable quality than without the toolâ. That includes not only the writing of the code, but also the review and tweaking of the generated suggestions, and dealing with rework later, should there be quality issues.
+Factors that impact usefulness of suggestions
+Note: This is mostly based on experiences with GitHub Copilot.
+More prevalent tech stacks
+Safer waters: The more prevalent the tech stack, the more discussions and code examples will have been part of the training data for the model. This means that the generated suggestions are more likely to be useful for languages like Java or Javascript than for a newer or less discussed language like Lua.
+However: My colleague Erik Doernenburg wrote about his experience of âTaking Copilot to difficult terrainâ with Rust. His conclusion: âOverall, though, even for a not-so-common programming language like Rust, with a codebase that uses more complicated data structures I found Copilot helpful.â
+Simpler and more commonplace problems
+Safer waters: This one is a bit hard to define. What does âsimplerâ mean, what does âcommonplaceâ mean? Iâll use some examples to illustrate.
+
+
+Common problems: In a previous memo, I discussed an example of generating a median function. I would consider that a very commonplace problem and therefore a good use case for generation.
+
+Common solution patterns applied to our context: For example, I have used it successfully to implement problems that needed list processing, like a chain of mapping, grouping, and sorting of lists.
+
+Boilerplate: Create boilerplate setups like an ExpressJS server, or a React component, or a database connection and query execution.
+
+Repetitive patterns: It helps speed up typing of things that have very common and repetitive patterns, like creating a new constructor or a data structure, or a repetition of a test setup in a test suite. I traditionally use a lot of copy and paste for these things, and Copilot can speed that up.
+
+When a colleague who had been working with Copilot for over 2 months was pairing with somebody who did not have a license yet, he âfound having to write repetitive code by hand excruciatingâ. This autocomplete-on-steroids effect can be less useful though for developers who are already very good at using IDE features, shortcuts, and things like multiple cursor mode. And beware that when coding assistants reduce the pain of repetitive code, we might be less motivated to refactor.
+However: You can use a coding assistant to explore some ideas when you are getting started with more complex problems, even if you discard the suggestion afterwards.
+Smaller size of the suggestions
+Safer waters: The smaller the generated suggestion, the less review effort is needed, the easier the developer can follow along with what is being suggested.
+The larger the suggestion, the more time you will have to spend to understand it, and the more likely it is that you will have to change it to fit your context. Larger snippets also tempt us to go in larger steps, which increases the risk of missing test coverage, or introducing things that are unnecessary.
+However: I suspect a lot of interplay of this factor with the others. Small steps particularly help when you already have an idea of how to solve the problem. So when you do not have a plan yet because you are less experienced, or the problem is more complex, then a larger snippet might help you get started with that plan.
+More experienced developer(s)
+Safer waters: Experience still matters. The more experienced the developer, the more likely they are to be able to judge the quality of the suggestions, and to be able to use them effectively. As GitHub themselves put it: âItâs good at stuff you forgot.â This study even found that âin some cases, tasks took junior developers 7 to 10 percent longer with the tools than without themâ.
+However: Most of the observations I have collected so far have been made by more experienced developers. So this is one where I am currently least sure about the trade-offs at play. My hypothesis is that the safer the waters are from the other factors mentioned above, the less likely it is that the tools would lead less experienced developers down the wrong path, and the higher the chance that it will give them a leg up. Pair programming and other forms of code review further mitigate the risks.
+Higher margin for errors
+I already touched on the importance of being able to judge the quality and correctness of suggestions. As has been widely reported, Large Language Models can âhallucinateâ information, or in this case, code. When you are working on a problem or a use case that has a higher impact when you get it wrong, you need to be particularly vigilant about reviewing the suggestions. For example, when I was recently working on securing cookies in a web application, Copilot suggested a value for the Content-Security-Policy HTTP header. As I have low experience in this area, and this was a security related use case, I did not just want to accept Copilotâs suggestions, but went to a trusted online source for research instead.
+In conclusion
+There are safer waters for coding assistance, but as you can see from this discussion, there are multiple factors at play and interplay that determine the usefulness. Using coding assistance tools effectively is a skill that is not simply learned from a training course or a blog post. Itâs important to use them for a period of time, experiment in and outside of the safe waters, and build up a feeling for when this tooling is useful for you, and when to just move on and do it yourself.
+Thanks to James Emmott, Joern Dinkla, Marco Pierobon, Paolo Carrasco, Paul Sobocinski and Serj Krasnov for their insights and feedback
+
+
+
+
+
+
+In-line assistance - how can it get in the way? (03 August 2023) 
+▶
+
+
+In-line assistance - how can it get in the way?
+
+
+In the previous memo, I talked about the circumstances under which coding assistance can be useful. This memo is two in one: Here are two ways where weâve noticed the tools can get in the way.
+Amplification of bad or outdated practices
+One of the strengths of coding assistants right in the IDE is that they can use snippets of the surrounding codebase to enhance the prompt with additional context. We have found that having the right files open in the editor to enhance the prompt is quite a big factor in improving the usefulness of suggestions.
+However, the tools cannot distinguish good code from bad code. They will inject anything into the context that seems relevant. (According to this reverse engineering effort, GitHub Copilot will look for open files with the same programming language, and use some heuristic to find similar snippets to add to the prompt.) As a result, the coding assistant can become that developer on the team who keeps copying code from the bad examples in the codebase.
+We also found that after refactoring an interface, or introducing new patterns into the codebase, the assistant can get stuck in the old ways. For example, the team might want to introduce a new pattern like âstart using the Factory pattern for dependency injectionâ, but the tool keeps suggesting the current way of dependency injection because that is still prevalent all over the codebase and in the open files. We call this a poisoned context, and we donât really have a good way to mitigate this yet.
+In conclusion
+The AIâs eagerness to improve the prompting context with our codebase can be a blessing and a curse. That is one of many reasons why it is so important for developers to not start trusting the generated code too much, but still review and think for themselves.
+Review fatigue and complacency
+Using a coding assistant means having to do small code reviews over and over again. Usually when we code, our flow is much more about actively writing code, and implementing the solution plan in our head. This is now sprinkled with reading and reviewing code, which is cognitively different, and also something most of us enjoy less than actively producing code. This can lead to review fatigue, and a feeling that the flow is more disrupted than enhanced by the assistant. Some developers might switch off the tool for a while to take a break from that. Or, if we donât deal with the fatigue, we might get sloppy and complacent with the review of the code.
+Review complacency can also be the result of a bunch of cognitive biases:
+
+
+Automation Bias is our tendency âto favor suggestions from automated systems and to ignore contradictory information made without automation, even if it is correct.â Once we have had good experience and success with GenAI assistants, we might start trusting them too much.
+Iâve also often feel a twisted version of Sunk Cost Fallacy at work when Iâm working with an AI coding assistant. Sunk cost fallacy is defined as âa greater tendency to continue an endeavor once an investment in money, effort, or time has been madeâ. In this case, we are not really investing time ourselves, on the contrary, weâre saving time. But once we have that multi-line code suggestion from the tool, it can feel more rational to spend 20 minutes on making that suggestion work than to spend 5 minutes on writing the code ourselves once we see the suggestion is not quite right.
+Once we have seen a code suggestion, itâs hard to unsee it, and we have a harder time thinking about other solutions. That is because of the Anchoring Effect, which happens when âan individualâs decisions are influenced by a particular reference point or âanchorââ. so while coding assistantsâ suggestions can be great for brainstorming when we donât know how to solve something yet, awareness of the Anchoring Effect is important when the brainstorm is not fruitful, and we need to reset our brain for a fresh start.
+
+In conclusion
+Sometimes itâs ok to take a break from the assistant. And we have to be careful not to become that person who drives their car into a lake just because the navigation system tells them to.
+Thanks to the âEnsembling with Copilotâ group around Paul Sobocinski in Thoughtworks Canada, who described the âcontext poisoningâ effect and the review fatigue to me: Eren, Geet, Nenad, Om, Rishi, Janice, Vivian, Yada and Zack
+Thanks to Bruno, Chris, Gabriel, Javier and Roselma for their review comments on this memo
+
+
+
+
+
+
+Coding assistants do not replace pair programming (10 August 2023) 
+▶
+
+
+Coding assistants do not replace pair programming
+
+
+As previous memos have hopefully shown, I find GenAI-powered coding assistants a very useful addition to the developer toolchain. They can clearly speed up writing of code under certain circumstances, they can help us get unstuck, and remember and look things up faster. So far, all memos have mainly been about in-line assistance in the IDE, but if we add chatbot interfaces to that, thereâs even more potential for useful assistance. Especially powerful are chat interfaces integrated into the IDE, enhanced with additional context of the codebase that we donât have to spell out in our prompts.
+However, while I see the potential, I honestly get quite frustrated when people talk about coding assistants as a replacement for pair programming (GitHub even calls their Copilot product âyour AI pair programmerâ). At Thoughtworks, we have long been strong proponents for pair programming and pairing in general to make teams more effective. It is part of our âSensible Default Practicesâ that we use as a starting point for our projects.
+The framing of coding assistants as pair programmers is a disservice to the practice, and reinforces the widespread simplified understanding and misconception of what the benefits of pairing are. I went back to a set of slides I use to talk about pairing, and the comprehensive article published right here on this site, and I crammed all the benefits I mention there into one slide:
+
+The area where coding assistants can have the most obvious impact here is the first one, â1 plus 1 is greater than 2â. They can help us get unstuck, they can make onboarding better, and they can help the tactical work faster, so we can focus more on the strategic, i.e. the design of the overall solution. They also help with knowledge sharing in the sense of âHow does this technology work?â.
+Pair programming however is also about the type of knowledge sharing that creates collective code ownership, and a shared knowledge of the history of the codebase. Itâs about sharing the tacit knowledge that is not written down anywhere, and therefore also not available to a Large Language Model. Pairing is also about improving team flow, avoiding waste, and making Continuous Integration easier. It helps us practice collaboration skills like communication, empathy, and giving and receiving feedback. And it provides precious opportunities to bond with one another in remote-first teams.
+Conclusion
+Coding assistants can cover only a small part of the goals and benefits of pair programming. That is because pairing is a practice that helps improve the team as a whole, not just an individual coder. When done well, the increased level of communication and collaboration improves flow and collective code ownership. I would even argue that the risks of LLM-assisted coding are best mitigated by using those tools in a pair (see âHow it can get in the wayâ in a previous memo).
+Use coding assistants to make pairs better, not to replace pairing.
+
+
+
+
+
+
+TDD with GitHub Copilot (17 August 2023) 
+▶
+
+
+TDD with GitHub Copilot
+by Paul Sobocinski
+
+
+Will the advent of AI coding assistants such as GitHub Copilot mean that we wonât need tests? Will TDD become obsolete? To answer this, letâs examine two ways TDD helps software development: providing good feedback, and a means to âdivide and conquerâ when solving problems.
+TDD for good feedback
+Good feedback is fast and accurate. In both regards, nothing beats starting with a well-written unit test. Not manual testing, not documentation, not code review, and yes, not even Generative AI. In fact, LLMs provide irrelevant information and even hallucinate. TDD is especially needed when using AI coding assistants. For the same reasons we need fast and accurate feedback on the code we write, we need fast and accurate feedback on the code our AI coding assistant writes.
+TDD to divide-and-conquer problems
+Problem-solving via divide-and-conquer means that smaller problems can be solved sooner than larger ones. This enables Continuous Integration, Trunk-Based Development, and ultimately Continuous Delivery. But do we really need all this if AI assistants do the coding for us?
+Yes. LLMs rarely provide the exact functionality we need after a single prompt. So iterative development is not going away yet. Also, LLMs appear to âelicit reasoningâ (see linked study) when they solve problems incrementally via chain-of-thought prompting. LLM-based AI coding assistants perform best when they divide-and-conquer problems, and TDD is how we do that for software development.
+TDD tips for GitHub Copilot
+At Thoughtworks, we have been using GitHub Copilot with TDD since the start of the year. Our goal has been to experiment with, evaluate, and evolve a series of effective practices around use of the tool.
+0. Getting started
+
+Starting with a blank test file doesnât mean starting with a blank context. We often start from a user story with some rough notes. We also talk through a starting point with our pairing partner.
+This is all context that Copilot doesnât âseeâ until we put it in an open file (e.g. the top of our test file). Copilot can work with typos, point-form, poor grammar â you name it. But it canât work with a blank file.
+Some examples of starting context that have worked for us:
+
+ASCII art mockup
+Acceptance Criteria
+Guiding Assumptions such as:
+    
+âNo GUI neededâ
+âUse Object Oriented Programmingâ (vs. Functional Programming)
+
+
+
+Copilot uses open files for context, so keeping both the test and the implementation file open (e.g. side-by-side) greatly improves Copilotâs code completion ability.
+1. Red
+
+We begin by writing a descriptive test example name. The more descriptive the name, the better the performance of Copilotâs code completion.
+We find that a Given-When-Then structure helps in three ways. First, it reminds us to provide business context. Second, it allows for Copilot to provide rich and expressive naming recommendations for test examples. Third, it reveals Copilotâs âunderstandingâ of the problem from the top-of-file context (described in the prior section).
+For example, if we are working on backend code, and Copilot is code-completing our test example name to be, âgiven the userâ¦ clicks the buy buttonâ, this tells us that we should update the top-of-file context to specify, âassume no GUIâ or, âthis test suite interfaces with the API endpoints of a Python Flask appâ.
+More âgotchasâ to watch out for:
+
+Copilot may code-complete multiple tests at a time. These tests are often useless (we delete them).
+As we add more tests, Copilot will code-complete multiple lines instead of one line at-a-time. It will often infer the correct âarrangeâ and âactâ steps from the test names.
+    
+
+Hereâs the gotcha: it infers the correct âassertâ step less often, so weâre especially careful here that the new test is correctly failing before moving onto the âgreenâ step.
+
+
+
+2. Green
+
+Now weâre ready for Copilot to help with the implementation. An already existing, expressive and readable test suite maximizes Copilotâs potential at this step.
+Having said that, Copilot often fails to take âbaby stepsâ. For example, when adding a new method, the âbaby stepâ means returning a hard-coded value that passes the test. To date, we havenât been able to coax Copilot to take this approach.
+Backfilling tests
+Instead of taking âbaby stepsâ, Copilot jumps ahead and provides functionality that, while often relevant, is not yet tested. As a workaround, we âbackfillâ the missing tests. While this diverges from the standard TDD flow, we have yet to see any serious issues with our workaround.
+Delete and regenerate
+For implementation code that needs updating, the most effective way to involve Copilot is to delete the implementation and have it regenerate the code from scratch. If this fails, deleting the method contents and writing out the step-by-step approach using code comments may help. Failing that, the best way forward may be to simply turn off Copilot momentarily and code out the solution manually.
+3. Refactor
+
+Refactoring in TDD means making incremental changes that improve the maintainability and extensibility of the codebase, all performed while preserving behavior (and a working codebase).
+For this, weâve found Copilotâs ability limited. Consider two scenarios:
+
+
+âI know the refactor move I want to tryâ: IDE refactor shortcuts and features such as multi-cursor select get us where we want to go faster than Copilot.
+
+âI donât know which refactor move to takeâ: Copilot code completion cannot guide us through a refactor. However, Copilot Chat can make code improvement suggestions right in the IDE. We have started exploring that feature, and see the promise for making useful suggestions in a small, localized scope. But we have not had much success yet for larger-scale refactoring suggestions (i.e. beyond a single method/function).
+
+Sometimes we know the refactor move but we donât know the syntax needed to carry it out. For example, creating a test mock that would allow us to inject a dependency. For these situations, Copilot can help provide an in-line answer when prompted via a code comment. This saves us from context-switching to documentation or web search.
+Conclusion
+The common saying, âgarbage in, garbage outâ applies to both Data Engineering as well as Generative AI and LLMs. Stated differently: higher quality inputs allow for the capability of LLMs to be better leveraged. In our case, TDD maintains a high level of code quality. This high quality input leads to better Copilot performance than is otherwise possible.
+We therefore recommend using Copilot with TDD, and we hope that you find the above tips helpful for doing so.
+Thanks to the âEnsembling with Copilotâ team started at Thoughtworks Canada; they are the primary source of the findings covered in this memo: Om, Vivian, Nenad, Rishi, Zack, Eren, Janice, Yada, Geet, and Matthew.
+
+
+
+
+
+
+How is GenAI different from other code generators? (19 September 2023) 
+▶
+
+
+How is GenAI different from other code generators?
+
+
+At the beginning of my career, I worked a lot in the space of Model-Driven Development (MDD). We would come up with a modeling language to represent our domain or application, and then describe our requirements with that language, either graphically or textually (customized UML, or DSLs). Then we would build code generators to translate those models into code, and leave designated areas in the code that would be implemented and customized by developers.
+That style of code generation never quite took off though, except for some areas of embedded development. I think thatâs because it sits at an awkward level of abstraction that in most cases doesnât deliver a better cost-benefit ratio than other levels of abstraction, like frameworks or platforms.
+Whatâs different about code generation with GenAI?
+One of the key decisions we continuously take in our software engineering work is choosing the right abstraction levels to strike a good balance between implementation effort and the level of customizability and control we need for our use case. As an industry, we keep trying to raise the abstraction level to reduce implementation efforts and become more efficient. But there is a kind of invisible force field for that, limited by the level of control we need. Take the example of Low Code platforms: They raise the abstraction level and reduce development efforts, but as a result are most suitable for certain types of simple and straightforward applications. As soon as we need to do something more custom and complex, we hit the force field and have to take the abstraction level down again.
+
+GenAI unlocks a whole new area of potential because it is not another attempt at smashing that force field. Instead, it can make us humans more effective on all the abstraction levels, without having to formally define structured languages and translators like compilers or code generators.
+
+The higher up the abstraction level we go to apply GenAI, the lower the overall effort becomes to build a piece of software. To go back to the Low Code example, there are some impressive examples in that space which show how you can build full applications with just a few prompts. This comes with the same limitations of the Low Code abstraction level though, in terms of the use cases you can cover. If your use case hits that force field, and you need more control - youâll have to go back to a lower abstraction level, and also back to smaller promptable units.
+Do we need to rethink our abstraction levels?
+One approach I take when I speculate about the potential of GenAI for software engineering is to think about the distance in abstraction between our natural language prompts, and our target abstraction levels. Googleâs AppSheet demo that I linked above uses a very high level prompt (âI need to create an app that will help my team track travel requests [â¦] fill a form [â¦] requests should be sent to managers [â¦]â) to create a functioning Low Code application. How many target levels down could we push with a prompt like that to get the same results, e.g. with Spring and React framework code? Or, how much more detailed (and less abstract) would the prompt have to be to achieve the same result in Spring and React?
+If we want to better leverage GenAIâs potential for software engineering, maybe we need to rethink our conventional abstraction levels altogether, to build more âpromptableâ distances for GenAI to bridge.
+Thanks to John Hearn, John King, Kevin Bralten, Mike Mason and Paul Sobocinski for their insightful review comments on this memo
+
+
+
+
+
+
+
+Latest Memo: How to tackle unreliability of coding assistants
+29 November 2023
+
+
+One of the trade-offs to the usefulness of coding assistants is their unreliability. The underlying models are quite generic and based on a huge amount of training data, relevant and irrelevant to the task at hand. Also, Large Language Models make things up, they âhallucinateâ as itâs commonly called. (Side note: There is a lot of discourse about the term âhallucinationâ, about how it is not actually the right psychology metaphor to describe this, but also about using psychology terms in the first place, as it anthropomorphizes the models.)
+That unreliability creates two main risks: It can affect the quality of my code negatively, and it can waste my time. Given these risks, quickly and effectively assessing my confidence in the coding assistantâs input is crucial.
+How I determine my confidence in the assistantâs input
+The following are some of the questions that typically go through my head when I try to gauge the reliability and risk of using a suggestion. This applies to âauto completeâ suggestions while typing code as well as to answers from the chat.
+Do I have a quick feedback loop?
+The quicker I can find out if the answer or the generated information works, the lower the risk that the assistant is wasting my time.
+
+Can my IDE help me with the feedback loop? Do I have syntax highlighting, compiler or transpiler integration, linting plugins?
+Do I have a test, or a quick way to run the suggested code manually? In one case, I was using the coding assistant chat to help me research how to best display a collapsible JSON data structure in a HTML page. The chat told me about an HTML element I had never heard about, so I was not sure if it existed. But it was easy enough to put it into an HTML file and load that in the browser, to confirm. To give a counterexample, the feedback loop for verifying a piece of infrastructure code I have never heard about is usually a lot longer.
+
+Do I have a reliable feedback loop?
+As well as the speed of the feedback loop for the AI input, I also reflect on the reliability of that feedback loop.
+
+If I have a test, how confident am I in that test?
+Did I write the test myself, or did I also generate it with the AI assistant?
+If the AI generated the test(s), how confident am I in my ability to review the efficacy of those tests? If the functionality Iâm writing is relatively simple and routine, and in a language Iâm familiar with, then Iâm of course a lot more confident than with a more complex or larger piece of functionality.
+Am I pairing with somebody while using the assistant? They will give additional input and review for the AI input, and increase my confidence.
+If Iâm unsure of my test coverage, I can even use the assistant itself to raise my confidence, and ask it for more edge cases to test. This is how I could have found the crucial missing test scenario for the median function I described in a previous memo.
+
+What is the margin of error?
+I also reflect on what my margin of error is for what Iâm doing. The lower the margin for error, the more critical I will be of the AI input.
+
+When Iâm introducing a new pattern, I consider that a larger blast radius for the overall design of the codebase. Other developers on the team will pick up that pattern, and the coding assistant will reproduce that pattern across the team as well, once it is in the code. For example, I have noticed that in CSS, GitHub Copilot suggests flexbox layout to me a lot. Choosing a layouting approach is a big decision though, so I would want to consult with a frontend expert and other members of my team before I use this.
+Anything related to security has of course a low margin of error. For example, I was working on a web application and needed to set a âContent-Security-Policyâ header. I didnât know anything about this particular header, and I first asked Copilot chat. But because of the subject matter, I did not want to rely on its answer, and instead went to a trusted source of security information on the internet.
+How long-lived will this code be? If Iâm working on a prototype, or a throwaway piece of code, Iâm more likely to use the AI input without much questioning than if Iâm working on a production system.
+
+Do I need very recent information?
+The more recent and the more specific (e.g. to a version of a framework) I need the answer to be, the higher the risk that it is wrong, because the probability is higher that the information Iâm looking for is not available or not distinguishable to the AI. For this assessment itâs also good to know if the AI tool at hand has access to more information than just the training data. If Iâm using a chat, I want to be aware if it has the ability to take online searches into account, or if it is limited to the training data.
+Give the assistant a timebox
+To mitigate the risk of wasting my time, one approach I take is to give it a kind of ultimatum. If the suggestion doesnât bring me value with little additional effort, I move on. If an input is not helping me quick enough, I always assume the worst about the assistant, rather than giving it the benefit of the doubt and spending 20 more minutes on making it work.
+The example that comes to mind is when I was using an AI chat to help me generate a mermaid.js class diagram. Iâm not very familiar with the mermaid.js syntax, and I kept trying to make the suggestion work, and thought I had maybe included it in my markdown file in the wrong way. Turns out, the syntax was totally wrong, which I found out when I finally went to the online documentation after 10 minutes or so.
+Make up a persona for the assistant
+When preparing this memo, I started wondering if making up a persona for the assistant could help with how to use it responsibly, and with as little waste of time as possible. Maybe anthropomorphizing the AI could actually help in this case?
+Thinking about the types of unreliabilities, Iâd imagine the AI persona with these traits:
+
+eager to help
+stubborn
+very well-read, but inexperienced (for Dungeons and Dragons fans: high intelligence, low wisdom)
+wonât admit when it doesnât âknowâ something
+
+I tried a few prompts with an image generator, asking it for variations of eager beavers and stubborn donkeys. Hereâs the one I liked the best (âeager stubborn donkey happy books computer; cartoon, vector based, flat areas of colorâ in Midjourney):
+
+You could even come up with a fun name for your persona, and talk about it on the team. âDusty was an annoying know-it-all during that session, we had to turn them off for a bitâ, or âIâm glad Dusty was there, I got that task done before lunchâ. But the one thing you should never say is âDusty caused that incident!â, because Dusty is basically underage, they donât have a license to commit. We are kind of the parents who are ultimately responsible for the commits, and âparents are liable for their childrenâ.
+Conclusion
+The list of situation assessments might seem like a lot to apply every single time youâre using a coding assistant. But I believe weâre all going to get better at it the more we use these tools. We make quick assessments with multiple dimensions like this all the time when we are coding, based on our experience. Iâve found that Iâve gotten better at deciding when to use and trust the assistant the more times I ran into the situations mentioned above - the more I touch the hot stove, so to say.
+You might also think, âIf the AI assistants are unreliable, than why would I use them in the first place?â. There is a mindset shift we have to make when using Generative AI tools in general. We cannot use them with the same expectations we have for âregularâ software. GitHub Copilot is not a traditional code generator that gives you 100% what you need. But in 40-60% of situations, it can get you 40-80% of the way there, which is still useful. When you adjust these expectations, and give yourself some time to understand the behaviours and quirks of the eager donkey, youâll get more out of AI coding assistants.
+Thanks to Brandon Cook, JÃ¶rn Dinkla, Paul Sobocinski and Ryder Dain for their feedback and input.
+This memo was written with GitHub Copilot active, in markdown files. It helps with ideas and turns of phrase, and sometimes when Iâm stuck, but suggestions very rarely end up as they were in the final text. I use ChatGPT as a thesaurus, and to find a good name for a donkey.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Topics
+Architecture
+Refactoring
+Agile
+Delivery
+Microservices
+Data
+Testing
+DSL
+
+
+about me
+About
+Books
+FAQ
+
+
+content
+Videos
+Content Index
+Board Games
+Photography
+
+
+Thoughtworks
+Insights
+Careers
+Products
+
+
+follow
+Twitter
+RSS
+Mastodon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Â© Martin Fowler | Privacy Policy | Disclosures
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

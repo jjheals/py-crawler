@@ -1,0 +1,775 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hawaii MEP Tours the CTL Operational Technology Cybersecurity Laboratory | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2024/07/hawaii-mep-tours-ctl-operational-technology-cybersecurity-laboratory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standard Reference Instruments (SRIs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Leadership
+
+
+Organization Structure
+
+
+Budget & Planning
+
+
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Student programs
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UPDATES
+
+
+
+Hawaii MEP Tours the CTL Operational Technology Cybersecurity Laboratory
+
+
+July 1, 2024
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  CTL
+
+        
+
+
+NIST researchers from the Communications Technology Laboratory's Smart Connected Systems Division recently hosted representatives from the Hawaii Technology Development Corporation (HTDC), one of 51 NIST Manufacturing Extension Partnership (MEP) centers located throughout the United States and Puerto Rico. The delegation was interested in CTL’s research and publications regarding cybersecurity for securing manufacturing environments, and artificial intelligence and machine learning (AI/ML) for smart manufacturing.NIST researchers Timothy Zimmerman, Dr. M. Sharp, Michael Pease, and CheeYee Tang presented their findings on cybersecurity for operational technology (OT), focusing on applying NIST Guidance from NIST Special Publication (SP) 800-82r3 to various environments including manufacturing, continuous processes, and SCADA systems, all simulated within the laboratory. Additionally, they discussed their research on the increasing integration of AI/ML technologies in these settings.Many questions were asked by the participants during the presentation, resulting in a lively discussion regarding how they can use NIST guidance to help their local Hawaiian manufacturers and MEP in general. Positive feedback was received from NIST MEP and HTDC in the post-tour follow-up. Many of the representatives in the tour group expressed interest in the work and publications produced by the projects and requested more information on the presentation.Front-and-center of the tour was the Cybersecurity for Operational Technology laboratory and its three testbeds, representing three common types of OT control systems: discrete manufacturing systems, distributed control systems (DCS), and Supervisory Control and Data Acquisition (SCADA). The discrete manufacturing testbed is a collaboration between the Cybersecurity for OT project and the Industrial Artificial Intelligence Management and Metrology (IAIMM) project (both within CTL), enabling experiments and research data for both projects to be generated from the same testbed.The DCS testbed is an improved version of the original “Process Control Testbed” described in NIST IR 8188, which emulates a chemical manufacturing process with components distributed over a large area, similar to an oil refinery.The water system testbed emulates the operations of water utilities commonly found in cities and towns in the U.S. The testbed contains a SCADA system that uses devices common to the industry and provides a critical environment for cybersecurity research in the water sector.The Manufacturing Extension Partnership (MEP) is part of the Commerce Department’s National Institute of Standards and Technology (NIST). The MEP National Network, whose mission is to strengthen and empower U.S. manufacturers, comprises the National Institute of Standards and Technology’s Manufacturing Extension Partnership (NIST MEP), the 51 MEP Centers located in all 50 states and Puerto Rico, the MEP Advisory Board, MEP Center boards, and the Foundation for Manufacturing Excellence, as well as over 1,440 trusted advisors and experts at approximately 460 MEP service locations, providing any U.S. manufacturer with access to resources they need to succeed. You can find more information about the NIST MEP at: https://www.nist.gov/mep.The Cybersecurity for Operational Technologies project delivers cybersecurity implementation methodologies, best practices, metrics, and tools to enable OT owners and operators to implement cybersecurity capabilities while addressing the demanding performance, reliability, and safety requirements of OT systems. Our research provides OT owners and operators with a clear and effective roadmap for managing cybersecurity within their resource constraints, thereby reducing risk, and improving their overall cybersecurity posture. You can find more information regarding NIST's research and publications on cybersecurity for Operational Technology at: https://csrc.nist.gov/projects/operational-technology-security.The Industrial Artificial Intelligence Management and Metrology (IAIMM) project develops and deploys measurement science to advance adoption and management of Artificial Intelligence (AI) systems in industrial environments to improve the productivity, resiliency, security, and the sustainability of manufacturing operations and supply chains. Our project aims to facilitate trust-based adoption of artificial intelligence in industrial tools like condition monitoring systems, while effectively capturing and conveying the value of using AI in these tools and their impacts through intuitive, risk-aware metrics and procedures. We enable better, more effective use of AI in industrial tools by developing deployment and evaluation best practices. You can find more information regarding NIST's research and publications on industrial artificial intelligence at: https://www.nist.gov/programs-projects/industrial-artificial-intelligence-management-and-metrology-iaimm.
+
+
+
+
+
+Advanced communications, Wireless (RF), Information technology, Artificial intelligence, Applied AI, Cyber-physical systems, Cybersecurity, Internet of Things (IoT), Networking, Manufacturing, Manufacturing systems design and analysis, Monitoring, diagnostics and prognostics, Process measurement and control, Systems engineering, Systems integration, Standards and Frameworks
+
+
+
+
+
+
+
+
+Technical Contact
+
+
+
+
+Timothy Zimmerman
+
+timothy.zimmerman@nist.gov
+
+
+    (301) 975-3329
+  
+
+
+Michael Sharp
+
+michael.sharp@nist.gov
+
+
+    (301) 975-0476
+  
+
+
+CheeYee Tang
+
+cheeyee.tang@nist.gov
+
+
+    (301) 975-3417
+  
+
+
+Michael Pease
+
+michael.pease@nist.gov
+
+
+    (301) 975-8959
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsCommunications Technology LaboratorySmart Connected Systems DivisionNetworked Control Systems GroupSmart Connected Manufacturing Systems Group
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released July 1, 2024, Updated July 31, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

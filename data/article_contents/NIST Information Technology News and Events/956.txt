@@ -1,0 +1,747 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST Researcher Provides Insights on Interoperability Testing Methods of Smart Sensors at 2024 Sensor Converge | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2024/07/nist-researcher-provides-insights-interoperability-testing-methods-smart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standard Reference Instruments (SRIs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Leadership
+
+
+Organization Structure
+
+
+Budget & Planning
+
+
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Student programs
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UPDATES
+
+
+
+NIST Researcher Provides Insights on Interoperability Testing Methods of Smart Sensors at 2024 Sensor Converge
+
+
+July 1, 2024
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  CTL
+
+        
+
+
+NIST researcher Dr. Eugene Song provided a presentation of interoperability testing methods of smart sensors in Internet of Things (IoT)/Industrial IoT (IIoT) applications at the 2024 Sensor Converge – North America’s largest electronics event for design engineers – held on June 24-26, 2024, in Santa Clara, CA.Sensors are ubiquitous and play a key role in IoT/IIoT applications. IoT sensors are connected to Internet/Ethernet to exchange sensor data with IoT applications, and made smarter or more intelligent using Artificial Intelligence (AI) technologies for self-description, self-identification, self-testing, and event-notification. Dr. Song presented capabilities of smart sensors including sensing, signal condition and conversion, data processing using AI algorithms, metadata, time synchronization, and network communication. He also overviewed interoperability challenges of smart sensors in IoT/IIoT applications, including:Heterogeneity: Wirelines and wireless connectivity.Proprietary and standardized communication protocols.Sensors provided by different vendors and manufacturers.Lack of robust standards and standards harmonization.Lack of interoperability tests and plugfests.Lack of methodologies of interoperability modeling, testing, measurement and assessment, and software tools used to automatically measure and assess interoperability.Then, he explained and analyzed the IEEE interoperability definition, and addressed an extension to the IEEE interoperability definition based on the standardized communication protocols in order to easily test, measure, and assess interoperability of smart sensors. Next, Song discussed what is interoperability testing, and pointed out that interoperability testing is an effective solution to overcome interoperability challenges and achieve and assure interoperability. After that, he presented two interoperability testing methods: device-to-device (D2D) and hardware-in-the-loop (HIL) simulation-based testing methods for smart sensors. Then, he presented two D2D test cases of IEEE C37.118 phasor measurement unit (PMU)-based, and IEEE 1451.0- and 1451.5-802.11-based smart sensors, and one HIL simulation-based test case of IEC 61850-9-2 merging unit (MU)-based smart sensors for real-time monitoring, protection, and control of electric power grids.Finally, Song concluded by stating that interoperability testing and certification can be an effective solution to achieve and assure interoperability of smart sensors in IoT/IIoT applications, and that the presented interoperability testing methods and test cases not only test how to exchange the information, but also test how to use the information based on the standardized communication protocols. Smart sensor users, manufacturers, and interoperability testing laboratories can use these testing methods to develop interoperability testing systems to help achieve interoperability and, ultimately, plug-and-play interoperability of smart sensors.
+
+
+
+
+
+Advanced communications, Wireless (RF), Electronics, Sensors, Information technology, Cyber-physical systems, Internet of Things (IoT), Interoperability testing, Infrastructure, Standards, Conformity assessment and Documentary standards
+
+
+
+
+
+
+
+
+Technical Contact
+
+
+
+
+Eugene Song
+
+eugene.song@nist.gov
+
+
+    (301) 975-6542
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsCommunications Technology LaboratorySmart Connected Systems DivisionIoT Devices and Infrastructures Group
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released July 1, 2024, Updated July 31, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

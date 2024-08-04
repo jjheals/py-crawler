@@ -1,0 +1,748 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Department of Commerce Announces New Guidance, Tools 270 Days Following President Biden’s Executive Order on AI | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2024/07/department-commerce-announces-new-guidance-tools-270-days-following
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standard Reference Instruments (SRIs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Leadership
+
+
+Organization Structure
+
+
+Budget & Planning
+
+
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Student programs
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS
+
+
+
+Department of Commerce Announces New Guidance, Tools 270 Days Following President Biden’s Executive Order on AI
+
+
+For the first time, Commerce makes public new NIST draft guidance from U.S. AI Safety Institute to help AI developers evaluate and mitigate risks stemming from generative AI and dual-use foundation models.
+
+
+July 26, 2024
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  NicoElNino/Shutterstock
+
+        
+
+
+The U.S. Department of Commerce announced today, on the 270-day mark since President Biden’s Executive Order (EO) on the Safe, Secure and Trustworthy Development of AI, the release of new guidance and software to help improve the safety, security and trustworthiness of artificial intelligence (AI) systems.The department’s National Institute of Standards and Technology (NIST) released three final guidance documents that were first released in April for public comment, as well as a draft guidance document from the U.S. AI Safety Institute that is intended to help mitigate risks. NIST is also releasing a software package designed to measure how adversarial attacks can degrade the performance of an AI system. In addition, Commerce’s U.S. Patent and Trademark Office (USPTO) issued a guidance update on patent subject matter eligibility to address innovation in critical and emerging technologies, including AI.“For all its potentially transformational benefits, generative AI also brings risks that are significantly different from those we see with traditional software. These guidance documents and testing platform will inform software creators about these unique risks and help them develop ways to mitigate those risks while supporting innovation.” —Laurie E. Locascio, Under Secretary of Commerce for Standards and Technology and NIST Director Read the full Department of Commerce news release.Read the White House fact sheet on administration-wide actions on AI.Background: NIST Delivers 5 Products in Response to 2023 Executive Order on AIThe NIST releases cover varied aspects of AI technology. Two of them appear today for the first time: One is the initial public draft of a guidance document from the U.S. AI Safety Institute, and is intended to help software developers mitigate the risks stemming from generative AI and dual-use foundation models — AI systems that can be used for either beneficial or harmful purposes. The other is a testing platform designed to help AI system users and developers measure how certain types of attacks can degrade the performance of an AI system. Of the remaining three releases, two are guidance documents designed to help manage the risks of generative AI — the technology that enables many chatbots as well as text-based image and video creation tools — and serve as companion resources to NIST’s AI Risk Management Framework (AI RMF) and Secure Software Development Framework (SSDF). The third proposes a plan for U.S. stakeholders to work with others around the globe on AI standards. These three publications previously appeared April 29 in draft form for public comment, and NIST is now releasing their final versions. The two releases NIST is announcing today for the first time are: Preventing Misuse of Dual-Use Foundation ModelsAI foundation models are powerful tools that are useful across a broad range of tasks and are sometimes called “dual-use” because of their potential for both benefit and harm. NIST’s AI Safety Institute has released the initial public draft of its guidelines on Managing Misuse Risk for Dual-Use Foundation Models (NIST AI 800-1), which outlines voluntary best practices for how foundation model developers can protect their systems from being misused to cause deliberate harm to individuals, public safety and national security.The draft guidance offers seven key approaches for mitigating the risks that models will be misused, along with recommendations for how to implement them and how to be transparent about their implementation. Together, these practices can help prevent models from enabling harm through activities like developing biological weapons, carrying out offensive cyber operations, and generating child sexual abuse material and nonconsensual intimate imagery. NIST is accepting comments from the public on the draft Managing the Risk of Misuse for Dual-Use Foundation Models until Sept. 9, 2024, at 11:59 p.m. Eastern Time. Comments can be submitted to NISTAI800-1 [at] nist.gov (NISTAI800-1[at]nist[dot]gov). Testing How AI System Models Respond to AttacksOne of the vulnerabilities of an AI system is the model at its core. By exposing a model to large amounts of training data, it learns to make decisions. But if adversaries poison the training data with inaccuracies — for example, by introducing data that can cause the model to misidentify stop signs as speed limit signs — the model can make incorrect, potentially disastrous decisions. Testing the effects of adversarial attacks on machine learning models is one of the goals of Dioptra, a new software package aimed at helping AI developers and customers determine how well their AI software stands up to a variety of adversarial attacks.   The open-source software, available for free download, could help the community, including government agencies and small to medium-sized businesses, conduct evaluations to assess AI developers’ claims about their systems’ performance. This software responds to Executive Order section 4.1 (ii) (B), which requires NIST to help with model testing. Dioptra does this by allowing a user to determine what sorts of attacks would make the model perform less effectively and quantifying the performance reduction so that the user can learn how often and under what circumstances the system would fail.  Augmenting today’s two initial releases are three finalized documents: Mitigating the Risks of Generative AIThe AI RMF Generative AI Profile (NIST AI 600-1) can help organizations identify unique risks posed by generative AI and proposes actions for generative AI risk management that best aligns with their goals and priorities. The guidance is intended to be a companion resource for users of NIST’s AI RMF. It centers on a list of 12 risks and just over 200 actions that developers can take to manage them. The 12 risks include a lowered barrier to entry for cybersecurity attacks, the production of mis- and disinformation or hate speech and other harmful content, and generative AI systems confabulating or “hallucinating” output. After describing each risk, the document presents a matrix of actions that developers can take to mitigate it, mapped to the AI RMF. Reducing Threats to the Data Used to Train AI SystemsThe second finalized publication, Secure Software Development Practices for Generative AI and Dual-Use Foundation Models (NIST Special Publication (SP) 800-218A), is designed to be used alongside the Secure Software Development Framework (SP 800-218). While the SSDF is broadly concerned with software coding practices, the companion resource expands the SSDF in part to address a major concern with generative AI systems: They can be compromised with malicious training data that adversely affect the AI system’s performance.In addition to covering aspects of the training and use of AI systems, this guidance document identifies potential risk factors and strategies to address them. Among other recommendations, it suggests analyzing training data for signs of poisoning, bias, homogeneity and tampering.Global Engagement on AI Standards AI systems are transforming society not only within the U.S., but around the world. A Plan for Global Engagement on AI Standards (NIST AI 100-5), today’s third finalized publication, is designed to drive the worldwide development and implementation of AI-related consensus standards, cooperation and coordination, and information sharing.The guidance is informed by priorities outlined in the NIST-developed Plan for Federal Engagement in AI Standards and Related Tools and is tied to the National Standards Strategy for Critical and Emerging Technology. This publication suggests that a broader range of multidisciplinary stakeholders from many countries participate in the standards development process. 
+
+
+
+
+
+Information technology, Artificial intelligence, AI measurement and evaluation and Trustworthy and responsible AI
+
+
+
+
+
+
+
+
+Media Contact
+
+
+
+
+Chad Boutin
+
+charles.boutin@nist.gov
+
+
+    (301) 975-4261
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsInformation Technology Laboratory
+
+
+
+
+
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released July 26, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

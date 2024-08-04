@@ -1,0 +1,747 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST to Host Technical Language Processing Virtual Workshop on 24-25 September 2024 | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2024/07/nist-host-technical-language-processing-virtual-workshop-24-25-september
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standard Reference Instruments (SRIs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Leadership
+
+
+Organization Structure
+
+
+Budget & Planning
+
+
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Student programs
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UPDATES
+
+
+
+NIST to Host Technical Language Processing Virtual Workshop on 24-25 September 2024
+
+
+July 1, 2024
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  CTL
+
+        
+
+
+NIST will hold a virtual workshop on Technical Language Processing on 24-25 September 2024. Online registration is $33.00 USD and is available via the workshop webpage. The two-day virtual event brings together industry, government, and academic stakeholders through the NIST Technical Language Processing Community of Interest (TLP COI), and it offers a valuable platform to connect, share insights, and explore the evolving landscape of TLP.The workshop will include presentations and roundtable discussions to share experiences and results of TLP in various fields and explore the latest tools and methodologies in TLP applications with real-world examples from industry, government, and academic research. Event topics include Current Tools and Best Practices; Emerging Applications and Use Cases; and Methods and Philosophies for Quantifying Impacts.Featured speakers include: Faez Ahmaed (Massachusetts Institute of Technology); Fazel Ansari (Institute of Management Science); Peter Chung (University of Maryland); and Rachael Sexton (NIST). Panelists include: Jamie Coble (University of Tennessee Knoxville); Joshua Gen (Logistics Management Institute); Nate Hertlein (Air Force Research Laboratory); Melinda Hodkiewicz (University of Western Australia); Manjish Naik (John Bean Technologies Corporation); and Roberto Sala (Università degli studi di Bergamo).In an era where industry, artificial intelligence, and human-centered intelligent automation converge, staying ahead in communications and language processing is crucial. This year’s TLP COI meeting and workshop will emphasize:Risk Awareness: Understanding and managing risks in TLP development and applications.Accessibility: Making TLP tools and resources more accessible.Longevity: Ensuring the sustainable development of TLP technologies.Additional Key Topics include:Introductory TLP: Exploring the fundamentals and differentiating TLP from Natural Language Processing.Current TLP Landscape: State of the practice and best practices.Risk Awareness: Integrating risk management in TLP development.Data Sharing and Resources: Privacy-aware data sharing and available resources.Needs, Gaps, and Applications: Identifying imminent needs and applications in various sectors.Metrics and Measurement: Quantifying and qualifying the impact of TLP.Exploring LLMs: Industrial and technical applications of large language models (LLMs).Humans as Observers: Enhancing the interaction between operators and monitoring systems.Standards Mining and Support: Accelerating model creation and validation from documentation.For any inquiries about the workshop, please reach out to Dr. M. Sharp at michael.sharp [at] nist.gov (michael[dot]sharp[at]nist[dot]gov).
+
+
+
+
+
+Advanced communications, Information technology, Artificial intelligence, Applied AI, Machine learning, Trustworthy and responsible AI, Cyber-physical systems, Data and informatics, Human language technology, Natural language processing, Internet of Things (IoT), Manufacturing, Manufacturing systems design and analysis, Monitoring, diagnostics and prognostics, Process measurement and control, Systems engineering and Systems integration
+
+
+
+
+
+
+
+
+Technical Contact
+
+
+
+
+Michael Sharp
+
+michael.sharp@nist.gov
+
+
+    (301) 975-0476
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsCommunications Technology LaboratorySmart Connected Systems DivisionSmart Connected Manufacturing Systems Group
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released July 1, 2024, Updated July 31, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

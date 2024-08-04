@@ -1,0 +1,899 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hackers breach ISP to poison software updates with malware
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+
+Featured
+Latest
+
+
+
+
+
+
+
+Hackers abuse free TryCloudflare to deliver remote access malware
+
+
+
+
+
+StackExchange abused to spread malicious PyPi packages as answers
+
+
+
+
+
+Microsoft says massive Azure outage was caused by DDoS attack
+
+
+
+
+
+FBI warns of scammers posing as crypto exchange employees
+
+
+
+
+
+
+
+
+
+Linux kernel impacted by new SLUBStick cross-cache attack
+
+
+
+
+
+Hackers breach ISP to poison software updates with malware
+
+
+
+
+
+Aspiring IT professionals can start with this $80 Microsoft course bundle
+
+
+
+
+
+US sues TikTok for violating children privacy protection laws
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Latest
+Popular
+
+
+
+
+
+
+
+How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11
+
+
+
+
+
+How to use the Windows Registry Editor
+
+
+
+
+
+How to backup and restore the Windows Registry
+
+
+
+
+
+How to open a Windows 11 Command Prompt as Administrator
+
+
+
+
+
+
+
+
+
+How to start Windows in Safe Mode
+
+
+
+
+
+How to remove a Trojan, Virus, Worm, or other Malware
+
+
+
+
+
+How to show hidden files in Windows 7
+
+
+
+
+
+How to see hidden files in Windows
+
+
+
+
+
+
+
+
+Virus Removal Guides
+
+
+
+Latest
+Most Viewed
+Ransomware
+
+
+
+
+
+
+
+Remove the Theonlinesearch.com Search Redirect
+
+
+
+
+
+Remove the Smartwebfinder.com Search Redirect
+
+
+
+
+
+How to remove the PBlock+ adware browser extension
+
+
+
+
+
+Remove the Toksearches.xyz Search Redirect
+
+
+
+
+
+
+
+
+
+Remove Security Tool and SecurityTool (Uninstall Guide)
+
+
+
+
+
+How to Remove WinFixer / Virtumonde / Msevents / Trojan.vundo
+
+
+
+
+
+How to remove Antivirus 2009 (Uninstall Instructions)
+
+
+
+
+
+How to remove Google Redirects or the TDSS, TDL3, or Alureon rootkit using TDSSKiller
+
+
+
+
+
+
+
+
+
+Locky Ransomware Information, Help Guide, and FAQ
+
+
+
+
+
+CryptoLocker Ransomware Information Guide and FAQ
+
+
+
+
+
+CryptorBit and HowDecrypt Information Guide and FAQ
+
+
+
+
+
+CryptoDefense and How_Decrypt Ransomware Information Guide and FAQ
+
+
+
+
+
+
+
+
+Downloads
+
+
+
+Latest
+Most Downloaded
+
+
+
+
+
+
+
+Qualys BrowserCheck
+
+
+
+
+
+STOPDecrypter
+
+
+
+
+
+AuroraDecrypter
+
+
+
+
+
+FilesLockerDecrypter
+
+
+
+
+
+
+
+
+
+AdwCleaner
+
+
+
+
+
+ComboFix
+
+
+
+
+
+RKill
+
+
+
+
+
+Junkware Removal Tool
+
+
+
+
+
+
+
+
+Deals
+
+
+
+Categories
+
+
+
+
+
+
+
+eLearning
+
+
+
+
+
+IT Certification Courses
+
+
+
+
+
+Gear + Gadgets
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+
+VPNs
+
+
+
+Popular
+
+
+
+
+
+
+
+Best VPNs
+
+
+
+
+
+How to change IP address
+
+
+
+
+
+Access the dark web safely
+
+
+
+
+
+Best VPN for YouTube
+
+
+
+
+
+
+
+
+Forums
+More
+
+Startup Database
+Uninstall Database
+Glossary
+Chat on Discord
+Send us a Tip!
+Welcome Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeNewsSecurityHackers breach ISP to poison software updates with malware
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hackers breach ISP to poison software updates with malware
+
+
+By Sergiu Gatlan
+
+
+
+
+August 3, 2024
+10:12 AM
+1
+
+
+
+
+
+A Chinese hacking group tracked as StormBamboo has compromised an undisclosed internet service provider (ISP) to poison automatic software updates with malware.
+Also tracked as Evasive Panda, Daggerfly, and StormCloud, this cyber-espionage group has been active since at least 2012, targeting organizations across mainland China, Hong Kong, Macao, Nigeria, and various Southeast and East Asian countries.
+On Friday, Volexity threat researchers revealed that the Chinese cyber-espionage gang had exploited insecure HTTP software update mechanisms that didn't validate digital signatures to deploy malware payloads on victims' Windows and macOS devices.
+"When these applications went to retrieve their updates, instead of installing the intended update, they would install malware, including but not limited to MACMA and POCOSTICK (aka MGBot)," cybersecurity company Volexity explained in a report published on Friday.
+To do that, the attackers intercepted and modified victims' DNS requests and poisoned them with malicious IP addresses. This delivered the malware to the targets' systems from StormBamboo's command-and-control servers without requiring user interaction.
+For instance, they took advantage of 5KPlayer requests to update the youtube-dl dependency to push a backdoored installer hosted on their C2 servers.
+​After compromising the target's systems, the threat actors installed a malicious Google Chrome extension (ReloadText), which allowed them to harvest and steal browser cookies and mail data.
+
+StormBamboo attack flow (Volexity)
+"Volexity observed StormBamboo targeting multiple software vendors, who use insecure update workflows, using varying levels of complexity in their steps for pushing malware," the researchers added.
+"Volexity notified and worked with the ISP, who investigated various key devices providing traffic-routing services on their network. As the ISP rebooted and took various components of the network offline, the DNS poisoning immediately stopped."
+In April 2023, ESET threat researchers also observed the hacking group deploying the Pocostick (MGBot) Windows backdoor by abusing the automatic update mechanism for the Tencent QQ messaging application in attacks targeting international NGOs (non-governmental organizations).
+Almost a year later, in July 2024, Symantec's threat hunting team spotted the Chinese hackers targeting an American NGO in China and multiple organizations in Taiwan with new Macma macOS backdoor and Nightdoor Windows malware versions.
+In both cases, although the attackers' skill was evident, the researchers believed it was either a supply chain attack or an adversary-in-the-middle (AITM) attack but weren't able to pin down the exact attack method.
+
+Related Articles:
+Chinese hackers deploy new Macma macOS backdoor versionHackers use F5 BIG-IP malware to stealthily steal data for yearsUNC3886 hackers use Linux rootkits to hide on VMware ESXi VMsChinese hackers breached 20,000 FortiGate systems worldwideChinese hacking groups team up in cyber espionage campaign
+
+
+
+
+
+
+
+
+
+
+
+China
+Cyber-espionage
+Evasive Panda
+Software Update
+StormBamboo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sergiu Gatlan   
+Sergiu is a news reporter who has covered the latest cybersecurity and technology developments for over a decade. Email or Twitter DMs for tips.
+
+
+
+
+ Previous Article 
+Next Article 
+
+
+
+Comments
+
+
+
+  
+
+
+
+
+
+
+Elastoer  - 10 hours ago 
+
+
+ 
+ 
+
+
+
+Another day, another breach…
+
+This is beginning to sound like a broken record. What will it take for these breached IT companies to wake up and tighten their security?
+
+
+
+
+
+
+Post a Comment Community Rules
+
+You need to login in order to post a comment
+
+Not a member yet? Register Now
+
+
+
+You may also like:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Popular Stories
+
+
+
+
+
+
+Google Chrome warns uBlock Origin may soon be disabled
+
+
+
+
+
+
+
+CrowdStrike sued by investors over massive global IT outage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow us:
+
+
+
+
+
+
+
+
+
+Main Sections
+
+News
+VPN Buyer Guides
+SysAdmin Software Guides
+Downloads
+Virus Removal Guides
+Tutorials
+Startup Database
+Uninstall Database
+Glossary
+
+
+
+Community
+
+Forums
+Forum Rules
+Chat
+
+
+
+Useful Resources
+
+Welcome Guide
+Sitemap
+
+
+
+Company
+
+About BleepingComputer
+Contact Us
+Send us a Tip!
+Advertising
+Write for BleepingComputer
+Social & Feeds
+Changelog
+
+
+
+
+
+
+
+
+Terms of Use -  Privacy Policy - Ethics Statement - Affiliate Disclosure
+
+
+Copyright @ 2003 - 2024  Bleeping Computer® LLC  - All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+
+Login
+
+
+Username
+
+
+
+Password
+
+
+
+
+
+Remember Me
+
+
+
+Sign in anonymously
+
+
+
+
+
+ Sign in with Twitter
+
+Not a member yet? Register Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Reporter
+
+Help us understand the problem. What is going on with this comment?
+
+
+
+
+Spam
+
+
+Abusive or Harmful
+
+
+Inappropriate content
+
+
+Strong language
+
+
+Other
+
+
+
+
+
+Read our posting guidelinese to learn what content is prohibited.
+
+
+
+Submitting...
+SUBMIT
+
+
+
+
+
+
+
+
+
+
+

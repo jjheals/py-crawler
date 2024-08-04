@@ -30,46 +30,48 @@ The [jsons/](jsons/) dictionary contains various json files with data structures
 [articles.json](jsons/articles.json) contains a list of dictionaries (serialized into json format for storage) where each dictionary corresponds to an RSS_Article object (see [RSS.py](../rss_feed/RSS.py) for more context). The index for each dictionary (for each article) represents that article's ID for the rest of the data structures. This saves storage space and improves efficiency by allowing an arbitrary number of articles to be stored and referenced with a single integer.
 
 The format of articles.json is as follows: 
-
-    [ 
-        {
-            "article_title" : "article 1 title",
-            "article_link" : "https://feed.com/article1",
-            "article_pub_date": "Sat, 25 Dec 2023 15:16:54 -0500",
-            "article_num_terms": 1000,
-            "article_outlinks" : [
-                                    "https://.../",
-                                    "https://.../",
-                                    ...
-                                ]
-            },
-        ...
-    ]
-
+```json
+[ 
+    {
+        "article_title" : "article 1 title",
+        "article_link" : "https://feed.com/article1",
+        "article_pub_date": "Sat, 25 Dec 2023 15:16:54 -0500",
+        "article_num_terms": 1000,
+        "article_outlinks" : [
+                                "https://.../",
+                                "https://.../",
+                                ...
+                            ]
+        },
+    ...
+]
+```
 
 #### index.json
 
 [index.json](jsons/index.json) is an inverted index of all the terms seen in all parsed articles (all articles in [articles.json](####articles.json)) in the following format: 
-
-    { 
-        "term1" : { 
-                    "x" : term1/x,
-                    "y" : term1/y,
-                    ...
-                },
-        "term2" : { 
-                    "i" : term2/i,
-                    "j" : term2/j,
-                    "x" : term2/x,
-                    ...
-                },
-        ...
-    }
-
-    Where: 
-        termX       => (str) an arbitrary term in the index, i.e. any term seen in at least one article
-        x,y,i,j,... => ((str) int) article IDs, i.e. indices in articles.json, for articles containing at least one occurance of the respective term
-        termX/P     => (int) the number of times that termX appears in article P (where P is an arbitrary article ID as described above)
+```json
+{ 
+    "term1" : { 
+                "x" : term1/x,
+                "y" : term1/y,
+                ...
+            },
+    "term2" : { 
+                "i" : term2/i,
+                "j" : term2/j,
+                "x" : term2/x,
+                ...
+            },
+    ...
+}
+```
+Where: 
+| Variable | Dtype | Description | 
+| -------- | ----- | ----------- | 
+| termX | str | an arbitrary term in the index, i.e. any term seen in at least one article | 
+| x,y,i,j, ... | str | article IDs, i.e. indices in articles.json, for articles containing at least one occurance of the respective term | 
+termX/P | int | the number of times that termX appears in article P (where P is an arbitrary article ID as described above) | 
 
 The structure of the index can be thought of a 2-tiered dictionary, where the outer dictionary contains keys with the terms and the inner dictionary contains keys as integers (in string format, i.e. wrapped in " ") representing article IDs, and the terminating values (the innermost values, i.e. the values of the inner dictionary) represent the number of times that the outer key (term) appears in the inner key (article). 
 

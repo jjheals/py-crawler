@@ -1,0 +1,770 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST Researchers Give Webinar on Manufacturing Cybersecurity Project to Manufacturing Sector Community of Interest | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2024/04/nist-researchers-give-webinar-manufacturing-cybersecurity-project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standard Reference Instruments (SRIs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Leadership
+
+
+Organization Structure
+
+
+Budget & Planning
+
+
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Student programs
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UPDATES
+
+
+
+NIST Researchers Give Webinar on Manufacturing Cybersecurity Project to Manufacturing Sector Community of Interest
+
+
+April 1, 2024
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  CTL
+
+        
+
+
+
+NIST researchers Timothy Zimmerman, Michael Pease, and Michael Powell, with MITRE staff, hosted a  webinar with over 100 participants regarding their project, Responding to and Recovering from a Cyber Attack: Cybersecurity for the Manufacturing Sector. The NIST team is currently in the process of demonstrating an approach for responding to and recovering from cyber events on manufacturing sector operational technology (OT) environments. Industry partners on the project include: Amazon Web Services, Cisco, Dragos, Garland Technology, Inductive Automation, Qcor, Rockwell Automation, Siemens, TDI Technologies, and Tenable.Constant threats of destructive malware, insider threats, and even operator errors require manufacturers to be able to respond to and quickly recover from a cyber event that impacts OT, industrial control systems, and plant operations. The project will demonstrate approaches for responding to and recovering from several cyber events similar to those within the manufacturing sector by leveraging common cybersecurity capabilities: event reporting, log review, event analysis, and incident handling and response.The project is in the build phase and is currently being implemented in the National Cybersecurity Center of Excellence (NCCoE) manufacturing laboratory, located in Rockville, Maryland, USA. The lab contains a discrete manufacturing workcell that emulates a common manufacturing process, including an automated assembly process, robotic arm for machine-tending, industrial networking, and supporting equipment typically utilized to support OT environments.The result will be a freely available NIST Cybersecurity Practice Guide that includes a reference design and a detailed description of the practical steps needed to implement the solution based on the NIST Cybersecurity Framework and industry standards and best practices.
+
+
+
+
+
+Advanced communications, Information technology, Cyber-physical systems, Cybersecurity, Cybersecurity education and workforce development, Risk management, Securing emerging technologies, Trustworthy networks, Trustworthy platforms, Internet of Things (IoT), Manufacturing, Process measurement and control, Supply chain, Systems engineering and Systems integration
+
+
+
+
+
+
+
+
+Technical Contact
+
+
+
+
+Timothy Zimmerman
+
+timothy.zimmerman@nist.gov
+
+
+    (301) 975-3329
+  
+
+
+Michael Pease
+
+michael.pease@nist.gov
+
+
+    (301) 975-8959
+  
+
+
+Michael Powell
+
+michael.powell@nist.gov
+
+
+    (301) 975-0310
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsCommunications Technology LaboratorySmart Connected Systems DivisionNetworked Control Systems GroupInformation Technology LaboratoryApplied Cybersecurity DivisionNational Cybersecurity Center of Excellence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released April 1, 2024, Updated May 24, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

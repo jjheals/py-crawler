@@ -1,0 +1,879 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fake AI editor ads on Facebook push password-stealing malware
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+
+Featured
+Latest
+
+
+
+
+
+
+
+Hackers abuse free TryCloudflare to deliver remote access malware
+
+
+
+
+
+StackExchange abused to spread malicious PyPi packages as answers
+
+
+
+
+
+Microsoft says massive Azure outage was caused by DDoS attack
+
+
+
+
+
+FBI warns of scammers posing as crypto exchange employees
+
+
+
+
+
+
+
+
+
+Linux kernel impacted by new SLUBStick cross-cache attack
+
+
+
+
+
+Hackers breach ISP to poison software updates with malware
+
+
+
+
+
+Aspiring IT professionals can start with this $80 Microsoft course bundle
+
+
+
+
+
+US sues TikTok for violating children privacy protection laws
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Latest
+Popular
+
+
+
+
+
+
+
+How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11
+
+
+
+
+
+How to use the Windows Registry Editor
+
+
+
+
+
+How to backup and restore the Windows Registry
+
+
+
+
+
+How to open a Windows 11 Command Prompt as Administrator
+
+
+
+
+
+
+
+
+
+How to start Windows in Safe Mode
+
+
+
+
+
+How to remove a Trojan, Virus, Worm, or other Malware
+
+
+
+
+
+How to show hidden files in Windows 7
+
+
+
+
+
+How to see hidden files in Windows
+
+
+
+
+
+
+
+
+Virus Removal Guides
+
+
+
+Latest
+Most Viewed
+Ransomware
+
+
+
+
+
+
+
+Remove the Theonlinesearch.com Search Redirect
+
+
+
+
+
+Remove the Smartwebfinder.com Search Redirect
+
+
+
+
+
+How to remove the PBlock+ adware browser extension
+
+
+
+
+
+Remove the Toksearches.xyz Search Redirect
+
+
+
+
+
+
+
+
+
+Remove Security Tool and SecurityTool (Uninstall Guide)
+
+
+
+
+
+How to Remove WinFixer / Virtumonde / Msevents / Trojan.vundo
+
+
+
+
+
+How to remove Antivirus 2009 (Uninstall Instructions)
+
+
+
+
+
+How to remove Google Redirects or the TDSS, TDL3, or Alureon rootkit using TDSSKiller
+
+
+
+
+
+
+
+
+
+Locky Ransomware Information, Help Guide, and FAQ
+
+
+
+
+
+CryptoLocker Ransomware Information Guide and FAQ
+
+
+
+
+
+CryptorBit and HowDecrypt Information Guide and FAQ
+
+
+
+
+
+CryptoDefense and How_Decrypt Ransomware Information Guide and FAQ
+
+
+
+
+
+
+
+
+Downloads
+
+
+
+Latest
+Most Downloaded
+
+
+
+
+
+
+
+Qualys BrowserCheck
+
+
+
+
+
+STOPDecrypter
+
+
+
+
+
+AuroraDecrypter
+
+
+
+
+
+FilesLockerDecrypter
+
+
+
+
+
+
+
+
+
+AdwCleaner
+
+
+
+
+
+ComboFix
+
+
+
+
+
+RKill
+
+
+
+
+
+Junkware Removal Tool
+
+
+
+
+
+
+
+
+Deals
+
+
+
+Categories
+
+
+
+
+
+
+
+eLearning
+
+
+
+
+
+IT Certification Courses
+
+
+
+
+
+Gear + Gadgets
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+
+VPNs
+
+
+
+Popular
+
+
+
+
+
+
+
+Best VPNs
+
+
+
+
+
+How to change IP address
+
+
+
+
+
+Access the dark web safely
+
+
+
+
+
+Best VPN for YouTube
+
+
+
+
+
+
+
+
+Forums
+More
+
+Startup Database
+Uninstall Database
+Glossary
+Chat on Discord
+Send us a Tip!
+Welcome Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeNewsSecurityFake AI editor ads on Facebook push password-stealing malware
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fake AI editor ads on Facebook push password-stealing malware
+
+
+By Sergiu Gatlan
+
+
+August 2, 2024
+02:32 PM
+1
+
+
+
+
+Image: Midjourney​A Facebook malvertising campaign targets users searching for AI image editing tools and steals their credentials by tricking them into installing fake apps that mimic legitimate software.
+The attackers exploit the popularity of AI-driven image-generation tools by creating malicious websites that closely resemble legitimate services and trick potential victims into infecting themselves with information stealer malware, as Trend Micro researchers who analyzed the campaign found.
+The attacks start with phishing messages sent to Facebook page owners or administrators, which will send them to fake account protection pages designed to trick them into providing their login information.
+After stealing their credentials, the threat actors hijack their accounts, take control of their pages, publish malicious social media posts, and promote them via paid advertising.
+"We discovered a malvertising campaign involving a threat actor that steals social media pages (typically related to photography), changing their names to make them seem connected to popular AI photo editors," said Trend Micro threat researcher Jaromir Horejsi.
+"The threat actor then creates malicious posts with links to fake websites made to resemble the actual website of the legitimate photo editor. To increase traffic, the perpetrator then boosts the malicious posts via paid ads."
+
+Fake AI photo editor website (Trend Micro)
+​Facebook users who click the URL promoted in the malicious ad are sent to a fake web page impersonating legitimate AI photo editing and generating software, where they are prompted to download and install a software package.
+However, instead of AI image editing software, the victims install the legitimate ITarian remote desktop tool configured to launch a downloader that automatically deploys the Lumma Stealer malware.
+The malware then quietly infiltrates their system, allowing the attackers to collect and exfiltrate sensitive information like credentials, cryptocurrency wallet files, browser data, and password manager databases.
+This data is later sold to other cybercriminals or used by the attackers to compromise the victims' online accounts, steal their money, and promote further scams.
+
+Attack flow (Trend Micro)
+"Users should enable multi-factor authentication (MFA) on all social media accounts to add an extra layer of protection against unauthorized access," Horejsi advised.
+"Organizations should educate their employees on the dangers of phishing attacks and how to recognize suspicious messages and links. Users should always verify the legitimacy of links, especially those asking for personal information or login credentials."
+In April, a similar Facebook malvertising campaign promoted a malicious page impersonating Midjourney to target almost 1.2 million users with the Rilide Stealer Chrome browser extension.
+
+Related Articles:
+Google ads push fake Google Authenticator site installing malwareFake CrowdStrike repair manual pushes new infostealer malwareInfostealer malware logs used to identify child abuse website membersNew Unfurling Hemlock threat actor floods systems with malwareFake Google Chrome errors trick you into running malicious PowerShell scripts
+
+
+
+
+
+
+
+
+AI
+Data Theft
+Facebook
+Info Stealer
+Information Stealer
+Malvertising
+Malware
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sergiu Gatlan   
+Sergiu is a news reporter who has covered the latest cybersecurity and technology developments for over a decade. Email or Twitter DMs for tips.
+
+
+
+ Previous Article 
+Next Article 
+
+
+Comments
+
+
+ 
+
+
+
+
+b1k3rdude  - 10 hours ago 
+
+ 
+ 
+
+
+And this is WHY we need browser/network ad-blockers.
+
+
+
+
+
+Post a Comment Community Rules
+
+You need to login in order to post a comment
+Not a member yet? Register Now
+
+
+
+You may also like:
+
+
+
+
+
+
+
+
+
+
+
+Popular Stories
+
+
+
+
+
+
+Google Chrome warns uBlock Origin may soon be disabled
+
+
+
+
+
+
+
+Hackers breach ISP to poison software updates with malware
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow us:
+
+
+
+
+
+
+
+
+
+Main Sections
+
+News
+VPN Buyer Guides
+SysAdmin Software Guides
+Downloads
+Virus Removal Guides
+Tutorials
+Startup Database
+Uninstall Database
+Glossary
+
+
+
+Community
+
+Forums
+Forum Rules
+Chat
+
+
+
+Useful Resources
+
+Welcome Guide
+Sitemap
+
+
+
+Company
+
+About BleepingComputer
+Contact Us
+Send us a Tip!
+Advertising
+Write for BleepingComputer
+Social & Feeds
+Changelog
+
+
+
+
+
+
+
+
+Terms of Use -  Privacy Policy - Ethics Statement - Affiliate Disclosure
+
+
+Copyright @ 2003 - 2024  Bleeping Computer® LLC  - All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+
+Login
+
+
+Username
+
+
+
+Password
+
+
+
+
+
+Remember Me
+
+
+
+Sign in anonymously
+
+
+
+
+
+ Sign in with Twitter
+
+Not a member yet? Register Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Reporter
+
+Help us understand the problem. What is going on with this comment?
+
+
+
+
+Spam
+
+
+Abusive or Harmful
+
+
+Inappropriate content
+
+
+Strong language
+
+
+Other
+
+
+
+
+
+Read our posting guidelinese to learn what content is prohibited.
+
+
+
+Submitting...
+SUBMIT
+
+
+
+
+
+
+
+
+
+
+

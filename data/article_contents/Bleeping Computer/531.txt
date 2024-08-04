@@ -1,0 +1,902 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+US sues TikTok for violating children privacy protection laws
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+
+Featured
+Latest
+
+
+
+
+
+
+
+Hackers abuse free TryCloudflare to deliver remote access malware
+
+
+
+
+
+StackExchange abused to spread malicious PyPi packages as answers
+
+
+
+
+
+Microsoft says massive Azure outage was caused by DDoS attack
+
+
+
+
+
+FBI warns of scammers posing as crypto exchange employees
+
+
+
+
+
+
+
+
+
+Linux kernel impacted by new SLUBStick cross-cache attack
+
+
+
+
+
+Hackers breach ISP to poison software updates with malware
+
+
+
+
+
+Aspiring IT professionals can start with this $80 Microsoft course bundle
+
+
+
+
+
+US sues TikTok for violating children privacy protection laws
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Latest
+Popular
+
+
+
+
+
+
+
+How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11
+
+
+
+
+
+How to use the Windows Registry Editor
+
+
+
+
+
+How to backup and restore the Windows Registry
+
+
+
+
+
+How to open a Windows 11 Command Prompt as Administrator
+
+
+
+
+
+
+
+
+
+How to start Windows in Safe Mode
+
+
+
+
+
+How to remove a Trojan, Virus, Worm, or other Malware
+
+
+
+
+
+How to show hidden files in Windows 7
+
+
+
+
+
+How to see hidden files in Windows
+
+
+
+
+
+
+
+
+Virus Removal Guides
+
+
+
+Latest
+Most Viewed
+Ransomware
+
+
+
+
+
+
+
+Remove the Theonlinesearch.com Search Redirect
+
+
+
+
+
+Remove the Smartwebfinder.com Search Redirect
+
+
+
+
+
+How to remove the PBlock+ adware browser extension
+
+
+
+
+
+Remove the Toksearches.xyz Search Redirect
+
+
+
+
+
+
+
+
+
+Remove Security Tool and SecurityTool (Uninstall Guide)
+
+
+
+
+
+How to Remove WinFixer / Virtumonde / Msevents / Trojan.vundo
+
+
+
+
+
+How to remove Antivirus 2009 (Uninstall Instructions)
+
+
+
+
+
+How to remove Google Redirects or the TDSS, TDL3, or Alureon rootkit using TDSSKiller
+
+
+
+
+
+
+
+
+
+Locky Ransomware Information, Help Guide, and FAQ
+
+
+
+
+
+CryptoLocker Ransomware Information Guide and FAQ
+
+
+
+
+
+CryptorBit and HowDecrypt Information Guide and FAQ
+
+
+
+
+
+CryptoDefense and How_Decrypt Ransomware Information Guide and FAQ
+
+
+
+
+
+
+
+
+Downloads
+
+
+
+Latest
+Most Downloaded
+
+
+
+
+
+
+
+Qualys BrowserCheck
+
+
+
+
+
+STOPDecrypter
+
+
+
+
+
+AuroraDecrypter
+
+
+
+
+
+FilesLockerDecrypter
+
+
+
+
+
+
+
+
+
+AdwCleaner
+
+
+
+
+
+ComboFix
+
+
+
+
+
+RKill
+
+
+
+
+
+Junkware Removal Tool
+
+
+
+
+
+
+
+
+Deals
+
+
+
+Categories
+
+
+
+
+
+
+
+eLearning
+
+
+
+
+
+IT Certification Courses
+
+
+
+
+
+Gear + Gadgets
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+
+VPNs
+
+
+
+Popular
+
+
+
+
+
+
+
+Best VPNs
+
+
+
+
+
+How to change IP address
+
+
+
+
+
+Access the dark web safely
+
+
+
+
+
+Best VPN for YouTube
+
+
+
+
+
+
+
+
+Forums
+More
+
+Startup Database
+Uninstall Database
+Glossary
+Chat on Discord
+Send us a Tip!
+Welcome Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeNewsSecurityUS sues TikTok for violating children privacy protection laws
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+US sues TikTok for violating children privacy protection laws
+
+
+By Sergiu Gatlan
+
+
+
+
+August 2, 2024
+04:49 PM
+1
+
+
+
+
+
+Image: Midjourney​The U.S. Department of Justice has filed a lawsuit against popular social media platform TikTok and its parent company, ByteDance, alleging widespread violations of children's privacy laws.
+This lawsuit alleges that TikTok collected personal information from children under 13 without parental consent, violating the Children's Online Privacy Protection Act (COPPA). 
+Since 2019, TikTok has also allowed children to create TikTok accounts outside "Kids Mode" (a version of the app dedicated to children under 13) and failed to implement policies and processes that would help identify and disable/delete children-created accounts. 
+The Justice Department argues that this practice exposed millions of young users to "extensive data collection" and privacy risks, allowing them to access adult content and interact with adult users.
+The lawsuit, filed in the U.S. District Court for the District of Columbia, asserts that TikTok and ByteDance were aware of these violations yet continued to engage in illegal data collection practices.
+Failures to delete collected data
+The DOJ's investigation into TikTok's data collection practices also revealed that the company failed to delete personal information when parents requested it, a requirement under COPPA. 
+Additionally, the complaint alleges that TikTok misled parents and users about its data collection policies, failing to provide adequate notice about what data was being collected and how it was being used.
+"For example, in a 2018 exchange, a high-level employee of Defendants explicitly acknowledged that Defendants had 'actual knowledge' of children on TikTok upon receiving the first parental request, and yet did not delete children's accounts upon receiving the request. In the exchange, the former CEO of TikTok Inc. communicated about underage users on TikTok with the executive responsible for child safety issues in the United States," the complaint [PDF] reads.
+"For years, Defendants have knowingly allowed children under 13 to create and use TikTok accounts without their parents' knowledge or consent, have collected extensive data from those children, and have failed to comply with parents' requests to delete their children's accounts and personal information."
+The Justice Department now seeks civil penalties and injunctive relief against TikTok and ByteDance to prevent further violations. The TikTok Android app has over 1 billion downloads, while the iOS version has been rated 17.2 million times.
+"The Department is deeply concerned that TikTok has continued to collect and retain children's personal information despite a court order barring such conduct," Acting Associate Attorney General Benjamin C. Mizer said today. "With this action, the Department seeks to ensure that TikTok honors its obligation to protect children's privacy rights and parents' efforts to protect their children."
+TikTok proud of its "efforts to protect children"
+In response to the lawsuit, TikTok stated that it disagrees with the "allegations, many of which relate to past events and practices that are factually inaccurate or have been addressed."
+"We are proud of our efforts to protect children, and we will continue to update and improve the platform," it added.
+In September, the Irish Data Protection Commission (DPC) fined TikTok $368 million (€345 million) for violating the privacy of children between the ages of 13 and 17 while processing their data, according to multiple articles of the European Union's General Data Protection Regulation (GDPR).
+The DPC also found that the company employed "dark patterns" during registration and posting videos, subtly guiding users to select options that compromised their privacy.
+In January 2023, TikTok was also fined $5.4 million (€5 million) by France's data protection authority (CNIL) for insufficiently informing users about how it uses cookies and making it difficult to opt out.
+
+Related Articles:
+CrowdStrike sued by investors over massive global IT outageCISA and FBI: DDoS attacks won’t impact US election integrityX begins training Grok AI with your posts, here's how to disableKaspersky offers free security software for six months in U.S. goodbyeKaspersky is shutting down its business in the United States
+
+
+
+
+
+
+
+
+
+
+
+Children
+COPPA
+Lawsuits
+Privacy
+TikTok
+USA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sergiu Gatlan   
+Sergiu is a news reporter who has covered the latest cybersecurity and technology developments for over a decade. Email or Twitter DMs for tips.
+
+
+
+
+ Previous Article 
+Next Article 
+
+
+
+Comments
+
+
+
+  
+
+
+
+
+
+
+Elastoer  - 9 hours ago 
+
+
+ 
+ 
+
+
+
+Services such as TikTok don't care where the data comes from. All they care about is collecting the data. In the modern world, customer data is worth its weight in gold.
+
+
+
+
+
+
+Post a Comment Community Rules
+
+You need to login in order to post a comment
+
+Not a member yet? Register Now
+
+
+
+You may also like:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Popular Stories
+
+
+
+
+
+
+Google Chrome warns uBlock Origin may soon be disabled
+
+
+
+
+
+
+
+Hackers breach ISP to poison software updates with malware
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow us:
+
+
+
+
+
+
+
+
+
+Main Sections
+
+News
+VPN Buyer Guides
+SysAdmin Software Guides
+Downloads
+Virus Removal Guides
+Tutorials
+Startup Database
+Uninstall Database
+Glossary
+
+
+
+Community
+
+Forums
+Forum Rules
+Chat
+
+
+
+Useful Resources
+
+Welcome Guide
+Sitemap
+
+
+
+Company
+
+About BleepingComputer
+Contact Us
+Send us a Tip!
+Advertising
+Write for BleepingComputer
+Social & Feeds
+Changelog
+
+
+
+
+
+
+
+
+Terms of Use -  Privacy Policy - Ethics Statement - Affiliate Disclosure
+
+
+Copyright @ 2003 - 2024  Bleeping Computer® LLC  - All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+
+Login
+
+
+Username
+
+
+
+Password
+
+
+
+
+
+Remember Me
+
+
+
+Sign in anonymously
+
+
+
+
+
+ Sign in with Twitter
+
+Not a member yet? Register Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Reporter
+
+Help us understand the problem. What is going on with this comment?
+
+
+
+
+Spam
+
+
+Abusive or Harmful
+
+
+Inappropriate content
+
+
+Strong language
+
+
+Other
+
+
+
+
+
+Read our posting guidelinese to learn what content is prohibited.
+
+
+
+Submitting...
+SUBMIT
+
+
+
+
+
+
+
+
+
+
+

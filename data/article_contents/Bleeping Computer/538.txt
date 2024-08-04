@@ -1,0 +1,875 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Twilio kills off Authy for desktop, forcibly logs out all users
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+
+Featured
+Latest
+
+
+
+
+
+
+
+Hackers abuse free TryCloudflare to deliver remote access malware
+
+
+
+
+
+StackExchange abused to spread malicious PyPi packages as answers
+
+
+
+
+
+Microsoft says massive Azure outage was caused by DDoS attack
+
+
+
+
+
+FBI warns of scammers posing as crypto exchange employees
+
+
+
+
+
+
+
+
+
+Linux kernel impacted by new SLUBStick cross-cache attack
+
+
+
+
+
+Hackers breach ISP to poison software updates with malware
+
+
+
+
+
+Aspiring IT professionals can start with this $80 Microsoft course bundle
+
+
+
+
+
+US sues TikTok for violating children privacy protection laws
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Latest
+Popular
+
+
+
+
+
+
+
+How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11
+
+
+
+
+
+How to use the Windows Registry Editor
+
+
+
+
+
+How to backup and restore the Windows Registry
+
+
+
+
+
+How to open a Windows 11 Command Prompt as Administrator
+
+
+
+
+
+
+
+
+
+How to start Windows in Safe Mode
+
+
+
+
+
+How to remove a Trojan, Virus, Worm, or other Malware
+
+
+
+
+
+How to show hidden files in Windows 7
+
+
+
+
+
+How to see hidden files in Windows
+
+
+
+
+
+
+
+
+Virus Removal Guides
+
+
+
+Latest
+Most Viewed
+Ransomware
+
+
+
+
+
+
+
+Remove the Theonlinesearch.com Search Redirect
+
+
+
+
+
+Remove the Smartwebfinder.com Search Redirect
+
+
+
+
+
+How to remove the PBlock+ adware browser extension
+
+
+
+
+
+Remove the Toksearches.xyz Search Redirect
+
+
+
+
+
+
+
+
+
+Remove Security Tool and SecurityTool (Uninstall Guide)
+
+
+
+
+
+How to Remove WinFixer / Virtumonde / Msevents / Trojan.vundo
+
+
+
+
+
+How to remove Antivirus 2009 (Uninstall Instructions)
+
+
+
+
+
+How to remove Google Redirects or the TDSS, TDL3, or Alureon rootkit using TDSSKiller
+
+
+
+
+
+
+
+
+
+Locky Ransomware Information, Help Guide, and FAQ
+
+
+
+
+
+CryptoLocker Ransomware Information Guide and FAQ
+
+
+
+
+
+CryptorBit and HowDecrypt Information Guide and FAQ
+
+
+
+
+
+CryptoDefense and How_Decrypt Ransomware Information Guide and FAQ
+
+
+
+
+
+
+
+
+Downloads
+
+
+
+Latest
+Most Downloaded
+
+
+
+
+
+
+
+Qualys BrowserCheck
+
+
+
+
+
+STOPDecrypter
+
+
+
+
+
+AuroraDecrypter
+
+
+
+
+
+FilesLockerDecrypter
+
+
+
+
+
+
+
+
+
+AdwCleaner
+
+
+
+
+
+ComboFix
+
+
+
+
+
+RKill
+
+
+
+
+
+Junkware Removal Tool
+
+
+
+
+
+
+
+
+Deals
+
+
+
+Categories
+
+
+
+
+
+
+
+eLearning
+
+
+
+
+
+IT Certification Courses
+
+
+
+
+
+Gear + Gadgets
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+
+VPNs
+
+
+
+Popular
+
+
+
+
+
+
+
+Best VPNs
+
+
+
+
+
+How to change IP address
+
+
+
+
+
+Access the dark web safely
+
+
+
+
+
+Best VPN for YouTube
+
+
+
+
+
+
+
+
+Forums
+More
+
+Startup Database
+Uninstall Database
+Glossary
+Chat on Discord
+Send us a Tip!
+Welcome Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeNewsSecurityTwilio kills off Authy for desktop, forcibly logs out all users
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Twilio kills off Authy for desktop, forcibly logs out all users
+
+
+By Lawrence Abrams
+
+
+August 1, 2024
+05:06 PM
+1
+
+
+
+
+Twilio has finally killed off its Authy for Desktop application, forcibly logging users out of the desktop application.
+In January, Twilio announced that the Authy desktop apps for Windows, macOS, and Linux would reach the end of life on March 19, 2024, and will ultimately be discontinued in August 2024.
+While the desktop apps continued to work past March, when opened, they showed an alert warning that the program had reached end of life and that users should switch to the mobile versions immediately.
+
+Authy for desktop warningsSource: BleepingComputer
+This ended about thirteen days ago when Twilio forcibly logged all desktop devices out of their Authy accounts and no longer allowed them to log back in with their phone numbers.
+
+Authy for desktop users forcibly logged outSource: BleepingComputer
+Those who have continued to use Authy for Desktop, even after all the warnings, have found that their 2FA accounts are gone unless they had previously synced them with a mobile device.
+However, those who synced their desktop apps with the mobile versions have discovered that some of their tokens did not correctly synchronize, making their associate accounts inaccessible.
+In June, threat actors found an unsecured Authy API that could be used to verify if a phone number was associated with a valid account.
+The threat actors fed millions of phone numbers into the API, allowing them to build profiles of 33 million phone numbers on Authy, which were then leaked on a hacking forum.
+Twilio fixed the bug by securing the API and releasing an updated mobile app version. Some believe that Authy desktop users cannot log in because the desktop app has not been updated with the new fix for the API.
+However, in June, Authy released version 3.0, stating it would be the final desktop release, so we will unlikely see another one.
+Update 8/1/24: Twilio told BleepingComputer that users were logged out as part of the planned end-of-life plans for Authy desktop apps as described here.
+
+Related Articles:
+Hackers abused API to verify millions of Authy MFA phone numbersBanks in Singapore to phase out one-time passwords in 3 monthsScathing report on Medibank cyberattack highlights unenforced MFAHow to meet evolving MFA demands in the current threat landscape
+
+
+
+
+
+
+
+
+Authy
+Multi-Factor Authentication
+One-time Passcode
+One-time Password
+Twilio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lawrence Abrams   
+Lawrence Abrams is the owner and Editor in Chief of BleepingComputer.com. Lawrence's area of expertise includes Windows, malware removal, and computer forensics. Lawrence Abrams is a co-author of the Winternals Defragmentation, Recovery, and Administration Field Guide and the technical editor for Rootkits for Dummies.
+
+
+
+ Previous Article 
+Next Article 
+
+
+Comments
+
+
+ 
+
+
+
+
+kriston  - 1 day ago 
+
+ 
+ 
+
+
+The desktop app never worked correctly on Linux desktops and the Windows app was rather unreliable.
+
+
+
+
+
+Post a Comment Community Rules
+
+You need to login in order to post a comment
+Not a member yet? Register Now
+
+
+
+You may also like:
+
+
+
+
+
+
+
+
+
+
+
+Popular Stories
+
+
+
+
+
+
+Google Chrome warns uBlock Origin may soon be disabled
+
+
+
+
+
+
+
+Hackers breach ISP to poison software updates with malware
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow us:
+
+
+
+
+
+
+
+
+
+Main Sections
+
+News
+VPN Buyer Guides
+SysAdmin Software Guides
+Downloads
+Virus Removal Guides
+Tutorials
+Startup Database
+Uninstall Database
+Glossary
+
+
+
+Community
+
+Forums
+Forum Rules
+Chat
+
+
+
+Useful Resources
+
+Welcome Guide
+Sitemap
+
+
+
+Company
+
+About BleepingComputer
+Contact Us
+Send us a Tip!
+Advertising
+Write for BleepingComputer
+Social & Feeds
+Changelog
+
+
+
+
+
+
+
+
+Terms of Use -  Privacy Policy - Ethics Statement - Affiliate Disclosure
+
+
+Copyright @ 2003 - 2024  Bleeping Computer® LLC  - All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+
+Login
+
+
+Username
+
+
+
+Password
+
+
+
+
+
+Remember Me
+
+
+
+Sign in anonymously
+
+
+
+
+
+ Sign in with Twitter
+
+Not a member yet? Register Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Reporter
+
+Help us understand the problem. What is going on with this comment?
+
+
+
+
+Spam
+
+
+Abusive or Harmful
+
+
+Inappropriate content
+
+
+Strong language
+
+
+Other
+
+
+
+
+
+Read our posting guidelinese to learn what content is prohibited.
+
+
+
+Submitting...
+SUBMIT
+
+
+
+
+
+
+
+
+
+
+

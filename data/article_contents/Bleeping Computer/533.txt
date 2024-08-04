@@ -1,0 +1,1269 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Chrome warns uBlock Origin may soon be disabled
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+
+Featured
+Latest
+
+
+
+
+
+
+
+Hackers abuse free TryCloudflare to deliver remote access malware
+
+
+
+
+
+StackExchange abused to spread malicious PyPi packages as answers
+
+
+
+
+
+Microsoft says massive Azure outage was caused by DDoS attack
+
+
+
+
+
+FBI warns of scammers posing as crypto exchange employees
+
+
+
+
+
+
+
+
+
+Linux kernel impacted by new SLUBStick cross-cache attack
+
+
+
+
+
+Hackers breach ISP to poison software updates with malware
+
+
+
+
+
+Aspiring IT professionals can start with this $80 Microsoft course bundle
+
+
+
+
+
+US sues TikTok for violating children privacy protection laws
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Latest
+Popular
+
+
+
+
+
+
+
+How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11
+
+
+
+
+
+How to use the Windows Registry Editor
+
+
+
+
+
+How to backup and restore the Windows Registry
+
+
+
+
+
+How to open a Windows 11 Command Prompt as Administrator
+
+
+
+
+
+
+
+
+
+How to start Windows in Safe Mode
+
+
+
+
+
+How to remove a Trojan, Virus, Worm, or other Malware
+
+
+
+
+
+How to show hidden files in Windows 7
+
+
+
+
+
+How to see hidden files in Windows
+
+
+
+
+
+
+
+
+Virus Removal Guides
+
+
+
+Latest
+Most Viewed
+Ransomware
+
+
+
+
+
+
+
+Remove the Theonlinesearch.com Search Redirect
+
+
+
+
+
+Remove the Smartwebfinder.com Search Redirect
+
+
+
+
+
+How to remove the PBlock+ adware browser extension
+
+
+
+
+
+Remove the Toksearches.xyz Search Redirect
+
+
+
+
+
+
+
+
+
+Remove Security Tool and SecurityTool (Uninstall Guide)
+
+
+
+
+
+How to Remove WinFixer / Virtumonde / Msevents / Trojan.vundo
+
+
+
+
+
+How to remove Antivirus 2009 (Uninstall Instructions)
+
+
+
+
+
+How to remove Google Redirects or the TDSS, TDL3, or Alureon rootkit using TDSSKiller
+
+
+
+
+
+
+
+
+
+Locky Ransomware Information, Help Guide, and FAQ
+
+
+
+
+
+CryptoLocker Ransomware Information Guide and FAQ
+
+
+
+
+
+CryptorBit and HowDecrypt Information Guide and FAQ
+
+
+
+
+
+CryptoDefense and How_Decrypt Ransomware Information Guide and FAQ
+
+
+
+
+
+
+
+
+Downloads
+
+
+
+Latest
+Most Downloaded
+
+
+
+
+
+
+
+Qualys BrowserCheck
+
+
+
+
+
+STOPDecrypter
+
+
+
+
+
+AuroraDecrypter
+
+
+
+
+
+FilesLockerDecrypter
+
+
+
+
+
+
+
+
+
+AdwCleaner
+
+
+
+
+
+ComboFix
+
+
+
+
+
+RKill
+
+
+
+
+
+Junkware Removal Tool
+
+
+
+
+
+
+
+
+Deals
+
+
+
+Categories
+
+
+
+
+
+
+
+eLearning
+
+
+
+
+
+IT Certification Courses
+
+
+
+
+
+Gear + Gadgets
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+
+VPNs
+
+
+
+Popular
+
+
+
+
+
+
+
+Best VPNs
+
+
+
+
+
+How to change IP address
+
+
+
+
+
+Access the dark web safely
+
+
+
+
+
+Best VPN for YouTube
+
+
+
+
+
+
+
+
+Forums
+More
+
+Startup Database
+Uninstall Database
+Glossary
+Chat on Discord
+Send us a Tip!
+Welcome Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeNewsGoogleGoogle Chrome warns uBlock Origin may soon be disabled
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Chrome warns uBlock Origin may soon be disabled
+
+
+By Sergiu Gatlan
+
+
+August 2, 2024
+04:05 PM
+20
+
+
+
+
+Google Chrome is now encouraging uBlock Origin users who have updated to the latest version to switch to other ad blockers before Manifest v2 extensions are disabled.
+As uBlock Origin lead developer and maintainer Raymond Hill explained on Friday, this is the result of Google deprecating support for the Manifest v2 (MV2) extensions platform in favor of Manifest v3 (MV3).
+"uBO is a Manifest v2 extension, hence the warning in your Google Chrome browser. There is no Manifest v3 version of uBO, hence the browser will suggest alternative extensions as a replacement for uBO," Hill explained.
+"uBO Lite (uBOL) is a pared-down version of uBO with a best effort at converting filter lists used by uBO into a Manifest v3-compliant approach, with a focus on reliability and efficiency as has been the case with uBO since first published in June 2014."
+Google Chrome users are also warned to remove or replace the uBlock Origin ad blocker with similar extensions.
+A "Find alternative" link also sends them to this Chrome Web Store page, which advises them to switch to uBO Lite, Adblock Plus, Stands AdBlocker, or Ghostery.
+
+Google Chrome uBlock Origin MV3 warning (BleepingComputer)
+​Warning showing up next to all MV3 extensions
+However, uBlock Origin users aren't the only ones seeing this warning banner, as it's now displayed on the chrome://extensions page for all MV2 extensions after updating to Chrome version 127. Users in the Chrome Beta, Dev, and Canary channels have been seeing these warnings since June 3, 2024.
+Over the coming months, Google will disable extensions that have remained on the MV2 platform and ask users to choose an MV3 alternative.
+While users will still be able to re-enable their MV2 extensions temporarily, this option will eventually be removed.
+"This will be followed gradually in the coming months by the disabling of those extensions. Users will be directed to the Chrome Web Store, where they will be recommended Manifest V3 alternatives for their disabled extension," Google explains in the MV2 deprecation timeline.
+"For a short time after the extensions are disabled, users will still be able to turn their Manifest V2 extensions back on, but over time, this toggle will go away as well."
+The company adds that these changes will be rolled out to all users in the Chrome Stable channel over the coming months, with the goal of completing the transition to the MV3 standard by the start of 2025.
+Enterprise MV2 deprecation starting in June 2025
+Enterprises using the ExtensionManifestV2Availability policy, which enables them to control Manifest v2 extension availability on Linux, Mac, Windows, and ChromeOS, will be exempt from any browser changes until June 2025, when the Chrome MV2 deprecation enterprise rollout begins.
+Google announced the rollout of the Manifest V3 extensions platform with the release of Chrome 88 in December 2020.
+This new framework also introduced major technical challenges for extension developers, especially for those requiring greater control over web browser functions such as ad blockers, forcing them to create new extensions with limited capabilities (like Hill's uBlock Origin Lite).
+uBlock Origin's developer has also created a FAQ explaining the differences between the Manifest V2 extension and the new Lite Manifest V3 version.
+
+Related Articles:
+Google Chrome bug breaks drag and drop from Downloads bubbleGoogle Chrome adds app-bound encryption to block infostealer malwareGoogle fixes Chrome Password Manager bug that hides credentialsGoogle Chrome now asks for passwords to scan protected archivesGet a VPN, DNS, and ad blocker for 5 years for $59.99 in this AdGuard deal
+
+
+
+
+
+
+
+
+Ad Blocker
+Chrome Extension Manifest V3
+Google Chrome
+uBlock Origin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sergiu Gatlan   
+Sergiu is a news reporter who has covered the latest cybersecurity and technology developments for over a decade. Email or Twitter DMs for tips.
+
+
+
+ Previous Article 
+Next Article 
+
+
+Comments
+
+
+ 
+
+
+
+
+deltasierra  - 1 day ago 
+
+ 
+ 
+
+
+Looks like Microsoft is either following the same schedule (since it's a decision of the Chromium project) or possibly allowing for slightly more time, especially for enterprises.https://learn.microsoft.com/en-us/microsoft-edge/extensions-chromium/developer-guide/manifest-v3
+Hard to tell as some aspects are still TBD (to be determined).
+
+
+
+
+
+ 
+
+
+
+
+GT500  - 1 day ago 
+
+ 
+ 
+
+
+Vivaldi is maintaining Manifest V2 support for now, although I don't think they have committed to any specific long-term plans beyond supporting it as long as they think it's feasible.
+
+
+
+
+
+ 
+
+
+
+
+Rapture68  - 1 day ago 
+
+ 
+ 
+
+
+Not only uBlock Origin but also LastPass is on the list, they don’t say much about Google Chrome. I will not use Google Chrome anymore. I use Edge but we’ll see if they keep these apps, otherwise I’ll switch back to Firefox again. 
+Guess many will switch to Firefox instead. 
+
+
+
+
+
+ 
+
+
+
+
+JL2210  - 1 day ago 
+
+ 
+ 
+
+
+This change prompted me to switch to Firefox on both desktop and mobile. uBlock Origin is a must-have
+
+
+
+
+
+ 
+
+
+
+
+Val121510  - 1 day ago 
+
+ 
+ 
+
+
+Looks like the day I switch from chrome to Firefox is approaching. Ublock is the one thing that is non-negotiable thing that can't be missing from my browser. 
+I've tried to switch to Firefox a while back but I had a few issues, it doesn't have all of the extensions I need and doesn't have a good alternative with similar functionality. 
+Examples are tab groups, which apparently they're trying to add, tab suspenders exist but I can't use ctrl, shift or alt for the hotkeys and I haven't been able to figure out any working hotkey combos, and there is no way to remove the existing hotkeys that interfere with this, and no extension saves the current timestamp of the YouTube video you're watching, this is my biggest use case scenario as I like having lots of YouTube tabs open, but regularly watch a bit and then stop and do something else. I also need a program that saves all open tabs, doesn't work too well on Firefox as it doesn't let you save suspended tabs. 
+The biggest issue is the password manager, I want to be able to sync passwords across my PC browser, my phone browser and also my phone's auto fill. Firefox has options for android auto fill but it doesn't work great and doesn't use existing saved passwords for within apps. 
+
+
+
+
+
+ 
+
+
+
+
+richardnpaul  - 1 day ago 
+
+ 
+ 
+
+
+"Examples are tab groups, which apparently they're trying to add, tab suspenders exist but I can't use ctrl, shift or alt for the hotkeys and I haven't been able to figure out any working hotkey combos, and there is no way to remove the existing hotkeys that interfere with this, and no extension saves the current timestamp of the YouTube video you're watching, this is my biggest use case scenario as I like having lots of YouTube tabs open, but regularly watch a bit and then stop and do something else. I also need a program that saves all open tabs, doesn't work too well on Firefox as it doesn't let you save suspended tabs. 
+The biggest issue is the password manager, I want to be able to sync passwords across my PC browser, my phone browser and also my phone's auto fill. Firefox has options for android auto fill but it doesn't work great and doesn't use existing saved passwords for within apps. "
+Look at panorama tab groups in Firefox's addons, this came from the original code for panorama which was Firefox's tab grouping feature introduced in v4, tab grouping originated in Firefox long before it appeared in Chrome. There are lots of other extensions that offer tab grouping in Firefox.
+I don't know about YouTube, but usually I come back to it and it's where I left off. Of course you have to change the defaults so that Firefox keeps your session. There are extensions for saving your session and versions it. I can't recall what I'm using right now.
+On the password manager front you'd be better served with something like Bitwarden, which is free for almost all the features but things like saving and auto copying 2FA codes require you to pay $10 per year for the premium subscription (yes that's per year so less than a dollar a month). Firefox for Android does have extensions and Bitwarden is one of those that are available though I just tend to use the Mobile app for filling passwords in any browser. 
+
+
+
+
+
+ 
+
+
+
+
+danwat1234  - 1 day ago 
+
+ 
+ 
+
+
+But what if we disable Chrome browser updates to not go beyond version 127? Will manifest V2 continue to work indefinitely on these older versions of Chrome?
+
+
+
+
+
+ 
+
+
+
+
+Windows10User  - 1 day ago 
+
+ 
+ 
+
+
+That's a horrible idea. Security issues on browers appear all the time, your browser should be the first thing you update.
+If you're annoyed at this change, switch browsers. Firefox is a good option while if you want to remain on Chormium, Brave and Vivaldi are supporting MV2 for the foreseeable future.
+
+
+
+
+
+ 
+
+
+
+
+eric79x  - 1 day ago 
+
+ 
+ 
+
+
+"That's a horrible idea. Security issues on browers appear all the time, your browser should be the first thing you update.
+If you're annoyed at this change, switch browsers. Firefox is a good option while if you want to remain on Chormium, Brave and Vivaldi are supporting MV2 for the foreseeable future."
+THANK YOU. I have been trying to find out if of what all other Chromium based browsers this will affect. 
+
+
+
+
+
+ 
+
+
+
+
+Sssred  - 1 day ago 
+
+ 
+ 
+
+
+At this point just not gonna use Chrome, and use opera instead.
+
+
+
+
+
+ 
+
+
+
+
+Windows10User  - 1 day ago 
+
+ 
+ 
+
+
+Oprea is based on Chromium so is still affected by the change 
+
+
+
+
+
+ 
+
+
+
+
+Winston2021  - 3 hours ago 
+
+ 
+ 
+
+
+"Oprea is based on Chromium so is still affected by the change "
+Basing so many browsers on Chromium is almost as dumb as running the world with PCs relying on a single cloud security firm's product.
+BTW, I'm sure they wouldn't misuse this:
+How the CIA made Google
+Jan 22, 2015
+INSURGE INTELLIGENCE, a new crowd-funded investigative journalism project, breaks the exclusive story of how the United States intelligence community funded, nurtured and incubated Google as part of a drive to dominate the world through control of information. Seed-funded by the NSA and CIA, Google was merely the first among a plethora of private sector start-ups co-opted by US intelligence to retain ‘information superiority.’
+
+
+
+
+
+ 
+
+
+
+
+eric79x  - 1 day ago 
+
+ 
+ 
+
+
+I have seen articles like this for months. NONE of them even mention Chromium, Edge, or any other browser based on Chromium.
+I am guessing they are baking this change into Chromium? 
+Sergiu Gatlan can you look into this? If they're baking this change into Chromium, this will affect every Chromium based browser, like Edge, Brave, Opera, Vivaldi, and lots of other lesser known browsers. 
+
+
+
+
+
+ 
+
+
+
+
+eric79x  - 1 day ago 
+
+ 
+ 
+
+
+And one more thing. Why are we letting google control browser standards? Chrome is junk, but people still cling so hard to it.
+"too big to fail" at this point?
+This is stupid. We keep letting one, or a small handful, of these companies dictate how everything is on the web, and just tech in general.
+We just accept it and do as we're told. "You WILL have advertisement!"
+"You WILL give us all your data and personal info, so we can attempt to manipulate you with it." "You WILL not change your phone battery" "You WILL not be able to upgrade RAM in your laptop."
+kinda starting to see the appeal of the Amish style.... 
+
+
+
+
+
+ 
+
+
+
+
+ORLOX  - 19 hours ago 
+
+ 
+ 
+
+
+<p>So... On pc you can use Firefox or whatever it doesn&#39;t really matter. But what do i use on mobile? I&#39;m currently using Kiwi, which is the only mobile browser that i have found that supports any extension. But it is chromium based, so i can&#39;t use it forever.</p>
+
+
+
+
+
+ 
+
+
+
+
+SuperSapien64  - 16 hours ago 
+
+ 
+ 
+
+
+Its always a good idea to have at least two web browsers installed on your device just in case.
+But I hope this means that Firefox will see an increase in users.
+
+
+
+
+
+ 
+
+
+
+
+b1k3rdude  - 10 hours ago 
+
+ 
+ 
+
+
+I switched to Thorium as my secondary browser, from Chromium a little while back. But as it uses the same code base, it might be long beforeit too is effected. So will look at alternative ad-blockers or browsers when that happens.
+FF is still the main weapon of choice.
+
+
+
+
+
+ 
+
+
+
+
+Elastoer  - 9 hours ago 
+
+ 
+ 
+
+
+I use an OS-level ad blocker, which blocks ads regardless of what browser I use.
+
+
+
+
+
+ 
+
+
+
+
+ORLOX  - 2 hours ago 
+
+ 
+ 
+
+
+"I use an OS-level ad blocker, which blocks ads regardless of what browser I use."
+Share the name, pal.
+
+
+
+
+
+ 
+
+
+
+
+BryanP1968  - 2 hours ago 
+
+ 
+ 
+
+
+Which OS level ad blocker do you use?
+
+
+
+
+
+Post a Comment Community Rules
+
+You need to login in order to post a comment
+Not a member yet? Register Now
+
+
+
+You may also like:
+
+
+
+
+
+
+
+
+
+
+
+Popular Stories
+
+
+
+
+
+
+Hackers breach ISP to poison software updates with malware
+
+
+
+
+
+
+
+CrowdStrike sued by investors over massive global IT outage
+
+
+
+
+
+
+
+
+
+
+Latest Downloads
+
+
+
+
+AdwCleaner
+Version: 8.4.2.0
+56M+ Downloads
+
+
+
+
+Malwarebytes Anti-Malware
+Version: 5.1.6.117
+5M+ Downloads
+
+
+
+
+Speccy
+Version: 1.33.075
+54,717 Downloads
+
+
+
+
+PuTTY
+Version: 0.81
+42,385 Downloads
+
+
+
+
+BitDefender Uninstall Tool
+Version: NA
+103,644 Downloads
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow us:
+
+
+
+
+
+
+
+
+
+Main Sections
+
+News
+VPN Buyer Guides
+SysAdmin Software Guides
+Downloads
+Virus Removal Guides
+Tutorials
+Startup Database
+Uninstall Database
+Glossary
+
+
+
+Community
+
+Forums
+Forum Rules
+Chat
+
+
+
+Useful Resources
+
+Welcome Guide
+Sitemap
+
+
+
+Company
+
+About BleepingComputer
+Contact Us
+Send us a Tip!
+Advertising
+Write for BleepingComputer
+Social & Feeds
+Changelog
+
+
+
+
+
+
+
+
+Terms of Use -  Privacy Policy - Ethics Statement - Affiliate Disclosure
+
+
+Copyright @ 2003 - 2024  Bleeping Computer® LLC  - All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+
+Login
+
+
+Username
+
+
+
+Password
+
+
+
+
+
+Remember Me
+
+
+
+Sign in anonymously
+
+
+
+
+
+ Sign in with Twitter
+
+Not a member yet? Register Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Reporter
+
+Help us understand the problem. What is going on with this comment?
+
+
+
+
+Spam
+
+
+Abusive or Harmful
+
+
+Inappropriate content
+
+
+Strong language
+
+
+Other
+
+
+
+
+
+Read our posting guidelinese to learn what content is prohibited.
+
+
+
+Submitting...
+SUBMIT
+
+
+
+
+
+
+
+
+
+
+

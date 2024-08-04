@@ -1,0 +1,890 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Linux kernel impacted by new SLUBStick cross-cache attack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+
+Featured
+Latest
+
+
+
+
+
+
+
+Hackers abuse free TryCloudflare to deliver remote access malware
+
+
+
+
+
+StackExchange abused to spread malicious PyPi packages as answers
+
+
+
+
+
+Microsoft says massive Azure outage was caused by DDoS attack
+
+
+
+
+
+FBI warns of scammers posing as crypto exchange employees
+
+
+
+
+
+
+
+
+
+Linux kernel impacted by new SLUBStick cross-cache attack
+
+
+
+
+
+Hackers breach ISP to poison software updates with malware
+
+
+
+
+
+Aspiring IT professionals can start with this $80 Microsoft course bundle
+
+
+
+
+
+US sues TikTok for violating children privacy protection laws
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Latest
+Popular
+
+
+
+
+
+
+
+How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11
+
+
+
+
+
+How to use the Windows Registry Editor
+
+
+
+
+
+How to backup and restore the Windows Registry
+
+
+
+
+
+How to open a Windows 11 Command Prompt as Administrator
+
+
+
+
+
+
+
+
+
+How to start Windows in Safe Mode
+
+
+
+
+
+How to remove a Trojan, Virus, Worm, or other Malware
+
+
+
+
+
+How to show hidden files in Windows 7
+
+
+
+
+
+How to see hidden files in Windows
+
+
+
+
+
+
+
+
+Virus Removal Guides
+
+
+
+Latest
+Most Viewed
+Ransomware
+
+
+
+
+
+
+
+Remove the Theonlinesearch.com Search Redirect
+
+
+
+
+
+Remove the Smartwebfinder.com Search Redirect
+
+
+
+
+
+How to remove the PBlock+ adware browser extension
+
+
+
+
+
+Remove the Toksearches.xyz Search Redirect
+
+
+
+
+
+
+
+
+
+Remove Security Tool and SecurityTool (Uninstall Guide)
+
+
+
+
+
+How to Remove WinFixer / Virtumonde / Msevents / Trojan.vundo
+
+
+
+
+
+How to remove Antivirus 2009 (Uninstall Instructions)
+
+
+
+
+
+How to remove Google Redirects or the TDSS, TDL3, or Alureon rootkit using TDSSKiller
+
+
+
+
+
+
+
+
+
+Locky Ransomware Information, Help Guide, and FAQ
+
+
+
+
+
+CryptoLocker Ransomware Information Guide and FAQ
+
+
+
+
+
+CryptorBit and HowDecrypt Information Guide and FAQ
+
+
+
+
+
+CryptoDefense and How_Decrypt Ransomware Information Guide and FAQ
+
+
+
+
+
+
+
+
+Downloads
+
+
+
+Latest
+Most Downloaded
+
+
+
+
+
+
+
+Qualys BrowserCheck
+
+
+
+
+
+STOPDecrypter
+
+
+
+
+
+AuroraDecrypter
+
+
+
+
+
+FilesLockerDecrypter
+
+
+
+
+
+
+
+
+
+AdwCleaner
+
+
+
+
+
+ComboFix
+
+
+
+
+
+RKill
+
+
+
+
+
+Junkware Removal Tool
+
+
+
+
+
+
+
+
+Deals
+
+
+
+Categories
+
+
+
+
+
+
+
+eLearning
+
+
+
+
+
+IT Certification Courses
+
+
+
+
+
+Gear + Gadgets
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+
+VPNs
+
+
+
+Popular
+
+
+
+
+
+
+
+Best VPNs
+
+
+
+
+
+How to change IP address
+
+
+
+
+
+Access the dark web safely
+
+
+
+
+
+Best VPN for YouTube
+
+
+
+
+
+
+
+
+Forums
+More
+
+Startup Database
+Uninstall Database
+Glossary
+Chat on Discord
+Send us a Tip!
+Welcome Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeNewsSecurityLinux kernel impacted by new SLUBStick cross-cache attack
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Linux kernel impacted by new SLUBStick cross-cache attack
+
+
+By Bill Toulas
+
+
+August 3, 2024
+11:17 AM
+1
+
+
+
+
+A novel Linux Kernel cross-cache attack named SLUBStick has a 99% success in converting a limited heap vulnerability into an arbitrary memory read-and-write capability, letting the researchers elevate privileges or escape containers.
+The discovery comes from a team of researchers from the Graz University of Technology who demonstrated the attack on Linux kernel versions 5.9 and 6.2 (latest) using nine existing CVEs in both 32-bit and 64-bit systems, indicating high versatility.
+Additionally, the attack worked with all modern kernel defenses like Supervisor Mode Execution Prevention (SMEP),  Supervisor Mode Access Prevention (SMAP), and Kernel Address Space Layout Randomization (KASLR) active.
+SLUBStick will be presented in detail at the upcoming Usenix Security Symposium conference later this month. The researchers will showcase privilege escalation and container escape in the latest Linux with state-of-the-art defenses enabled.
+In the meantime, the published technical paper contains all the details about the attack and the potential exploitation scenarios.
+SLUBStick details
+One way the Linux kernel manages memory efficiently and securely is by allocating and de-allocating memory chunks, called "slabs," for different types of data structures.
+Flaws in this memory management process may allow attackers to corrupt or manipulate data structures, called cross-cache attacks. However, these are effective roughly 40% of the time and typically lead to system crashes sooner or later.
+SLUBStick exploits a heap vulnerability, such as a double-free, user-after-free, or out-of-bounds write, to manipulate the memory allocation process.
+
+CVEs successfully used in the researchers' experimentsSource: stefangast.eu
+Next, it uses a timing side channel to determine the exact moment of memory chunk allocation/deallocation, allowing the attacker to predict and control memory reuse.
+Using this timing information raises the success of the cross-change exploitation to 99%, making SLUBStick very practical.
+
+Measured success ratesSource: stefangast.eu
+The conversion of the heap flaw into arbitrary memory read-and-write primitive is done in three steps:
+Free specific memory chunks and wait for the kernel to reuse them.
+Reallocate these chunks in a controlled manner, ensuring they get repurposed for critical data structures like page tables.
+Once reclaimed, the attacker overwrites the page table entries, getting the ability to read and write any memory location.
+
+SLUBStick overviewSource: stefangast.eu
+Real-world impact
+As with most attacks involving a side channel, SLUBStick requires local access on the target machine with code execution capabilities. Furthermore, the attack requires the presence of a heap vulnerability in the Linux kernel, which will then be used to gain read and write access to the memory.
+While this may make the attack appear impractical, it does introduce some benefits to attackers.
+Even for attackers with code execution capabilities, SLUBStick provides the ability to achieve privilege escalation, bypass kernel defenses, perform container escapes, or use it as part of a complex attack chain.
+Privilege escalation can be used to elevate privileges to root, allowing unlimited operations, while container escape can be used to break from sandboxed environments and access the host system.
+Additionally, in the post-exploitation phase, SLUBStick could modify kernel structures or hooks to maintain persistence, making malware harder for defenders to detect.
+
+Tampering with '/etc/passwd' dataSource: stefangast.eu
+Those who want to dive deeper into SLUBStick and experiment with the exploits used by the Graz University researchers can find them in the researcher's GitHub repository.
+
+Related Articles:
+New Play ransomware Linux version targets VMware ESXi VMsRCE bug in widely used Ghostscript library now exploited in attacksLatest Intel CPUs impacted by new Indirector side-channel attackNew regreSSHion OpenSSH RCE bug gives root on Linux serversSnowblind malware abuses Android security feature to bypass security
+
+
+
+
+
+
+
+
+Cross-Cache Attack
+Linux
+Linux Kernel
+Side-channel attack
+SLUBStick
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bill Toulas   
+Bill Toulas is a tech writer and infosec news reporter with over a decade of experience working on various online publications, covering open-source, Linux, malware, data breach incidents, and hacks.
+
+
+
+ Previous Article 
+Next Article 
+
+
+Comments
+
+
+ 
+
+
+
+
+h_b_s  - 13 hours ago 
+
+ 
+ 
+
+
+Er... the 'latest' Linux stable kernel is 6.10.x while the latest Long Term Service (LTS) is 6.6.x. Kernel version 6.2 is over 2 years old.
+The important bit of information provided in the git hub repository, but omitted in the article, is that this is against Ubuntu 22.04 (2 years old - 24.04 is the current LTS) and they apparently didn't bother to check it against other Linux distributions (RHEL, Rocky, Fedora, Debian, etc - important to know), nor the mainline unaltered kernels. Nearly all Linux distros heavily modify the kernel included in their releases. Incomplete and lazy effort. Standard development procedure is to verify if a bug exists in the most current released versions before making a to-do about it.
+
+
+
+
+
+Post a Comment Community Rules
+
+You need to login in order to post a comment
+Not a member yet? Register Now
+
+
+
+You may also like:
+
+
+
+
+
+
+
+
+
+
+
+Popular Stories
+
+
+
+
+
+
+Google Chrome warns uBlock Origin may soon be disabled
+
+
+
+
+
+
+
+Hackers breach ISP to poison software updates with malware
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow us:
+
+
+
+
+
+
+
+
+
+Main Sections
+
+News
+VPN Buyer Guides
+SysAdmin Software Guides
+Downloads
+Virus Removal Guides
+Tutorials
+Startup Database
+Uninstall Database
+Glossary
+
+
+
+Community
+
+Forums
+Forum Rules
+Chat
+
+
+
+Useful Resources
+
+Welcome Guide
+Sitemap
+
+
+
+Company
+
+About BleepingComputer
+Contact Us
+Send us a Tip!
+Advertising
+Write for BleepingComputer
+Social & Feeds
+Changelog
+
+
+
+
+
+
+
+
+Terms of Use -  Privacy Policy - Ethics Statement - Affiliate Disclosure
+
+
+Copyright @ 2003 - 2024  Bleeping Computer® LLC  - All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+
+Login
+
+
+Username
+
+
+
+Password
+
+
+
+
+
+Remember Me
+
+
+
+Sign in anonymously
+
+
+
+
+
+ Sign in with Twitter
+
+Not a member yet? Register Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Reporter
+
+Help us understand the problem. What is going on with this comment?
+
+
+
+
+Spam
+
+
+Abusive or Harmful
+
+
+Inappropriate content
+
+
+Strong language
+
+
+Other
+
+
+
+
+
+Read our posting guidelinese to learn what content is prohibited.
+
+
+
+Submitting...
+SUBMIT
+
+
+
+
+
+
+
+
+
+
+

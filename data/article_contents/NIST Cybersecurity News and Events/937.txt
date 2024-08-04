@@ -1,0 +1,771 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST Finalizes Updated Guidelines for Protecting Sensitive Information | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2024/05/nist-finalizes-updated-guidelines-protecting-sensitive-information
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standard Reference Instruments (SRIs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Leadership
+
+
+Organization Structure
+
+
+Budget & Planning
+
+
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Student programs
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS
+
+
+
+NIST Finalizes Updated Guidelines for Protecting Sensitive Information
+
+
+May 14, 2024
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+To do business with the federal government, contractors and other organizations are required to follow NIST guidelines for protecting the sensitive information they handle.
+NIST has updated these guidelines for consistency and ease of use.
+The final updates were based in part on feedback that users provided on earlier drafts published last year.
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  Shutterstock/ACTS DATA STOCK
+
+        
+
+
+Contractors and other organizations that do business with the federal government now have clearer, more straightforward guidance for protecting the sensitive data they handle. The National Institute of Standards and Technology (NIST) has finalized its updated guidelines for protecting this data, known as controlled unclassified information (CUI), in two publications: Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations (NIST Special Publication [SP] 800-171, Revision 3), and its companion, Assessing Security Requirements for Controlled Unclassified Information (NIST SP 800-171A, Revision 3). These guidelines require organizations to safeguard CUI such as intellectual property and employee health information. Systems that process, store and transmit CUI often support government programs involving critical assets, such as weapons systems and communications systems, which are potential targets for adversaries. The two publications draw on NIST’s source catalog of security and privacy controls (NIST SP 800-53) and assessment procedures (NIST SP 800-53A). Before this update, the wording of these documents did not match the language of the source catalogs, potentially creating ambiguity in the security requirements and uncertainty in security requirement assessments. The update is designed to address these issues and also streamline and harmonize NIST’s portfolio of cybersecurity guidance.“For the sake of our private sector customers, we want our guidance to be clear, unambiguous and tightly coupled with the catalog of controls and assessment procedures used by federal agencies,” said NIST’s Ron Ross, one of the publications’ authors. “This update is a significant step toward that goal.”NIST released draft versions of the guidelines for public comment last year. Ross said that the update acknowledges the community’s interest in making the safeguards available in machine-readable formats, such as JSON and Excel, which would benefit cybersecurity tool developers and implementing organizations. These alternate formats are now available through NIST’s Cybersecurity and Privacy Reference Tool. “Toolmakers often want to import relevant sections of the guidance directly into an electronic form for easier reference and use,” he said. “Providing the guidance in these additional formats will allow them to do that. It will help a wider group of users to understand the requirements and implement them more quickly and efficiently.”Additionally, to assist implementers already using Revision 2, NIST has issued an analysis of changes that details how each requirement has evolved. The companion publication, SP 800-171A, is designed to help users assess the security requirements in SP 800-171 to determine if the requirements have been met. The publication includes a complete set of updated assessment procedures that correspond to the changes to the security requirements as well as new material to illustrate how to conduct security requirement assessments.In the coming months, NIST plans to revise other supporting publications on protecting CUI associated with high-value assets and critical programs. These forthcoming updates will include NIST SP 800-172 (enhanced security requirements) and NIST SP 800-172A (enhanced security requirement assessments). Read more about the release at the NIST Computer Security Resource Center.
+
+
+
+
+
+Information technology and Cybersecurity
+
+
+
+
+
+
+
+
+Media Contact
+
+
+
+
+Chad Boutin
+
+charles.boutin@nist.gov
+
+
+    (301) 975-4261
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsInformation Technology LaboratoryComputer Security DivisionSecurity Engineering and Risk Management Group
+
+
+
+
+
+
+
+
+
+
+
+Related News
+
+
+NIST Revises SP 800-171 Guidelines for Protecting Sensitive Information
+
+
+
+
+Related Links
+
+
+NIST SP 800-171, Revision 3
+NIST SP 800-171A, Revision 3
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released May 14, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

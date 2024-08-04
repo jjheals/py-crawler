@@ -1,0 +1,749 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST Researcher Publishes Paper on Design of Control Systems with Nonlinearities | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2024/05/nist-researcher-publishes-paper-design-control-systems-nonlinearities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standard Reference Instruments (SRIs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Leadership
+
+
+Organization Structure
+
+
+Budget & Planning
+
+
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Student programs
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UPDATES
+
+
+
+NIST Researcher Publishes Paper on Design of Control Systems with Nonlinearities
+
+
+May 1, 2024
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  CTL
+
+        
+
+
+
+In a recent paper titled “Design of Control Systems with Multiple Memoryless Nonlinearities for Inputs Restricted in Magnitude and Slope” published in the International Journal of Control, NIST researcher Van Sy Mai and collaborators from Chulalongkorn University presented a new methodology for designing control systems that integrate a linear time-invariant subsystem with multiple decoupled nonlinearities. It focuses on ensuring system outputs of interest and nonlinearity inputs remain within prescribed bounds for all system inputs or disturbances that happen or are likely to happen in practice, i.e., inputs that are restricted by magnitude, energy, and rate of change. Such design criteria are common in various practical applications, where systems must operate within strict limits to guarantee stability, safety, and quality of service.To overcome challenges due to the complex behavior of nonlinear systems, the research employs the Schauder fixed-point theorem to demonstrate how a design associated with a linear system can effectively address the outlined problem. It then introduces surrogate design criteria, provides solvability conditions for certain nonlinearities common in most practical control systems, and presents numerical methods for solving those criteria for a more general class of nonlinearities.The authors demonstrated how the developed methodology can be applied to design a controller for a load frequency control (LFC) system that includes communication delays and accounts for nonlinearities like dead zones (or unresponsive zones) in the speed governor and generation rate constraints in the steam turbine. Here, the objective of the LFC is to maintain the frequency deviation in the presence of load variations within an acceptable range for all time during operation. They illustrate the effectiveness of the proposed approach by comparing the performance of controllers designed with and without considering the nonlinearities. Their results show that on one hand neglecting nonlinearities in the design process can lead to unsatisfactory performance or even instability of the system. The controller obtained using the developed methodology on the other hand provides satisfactory results, ensuring the system operates within desired parameters even in the presence of nonlinearities. This essentially validates the theoretical concepts presented in the paper through a real-world engineering problem highlighting the importance of considering all aspects of a system, including potential nonlinear behaviors, to achieve a robust and reliable control system design.                                                                                                     In summary, this study addresses the need to maintain system variables within certain tolerances, offering a realistic and practical approach to control system design. It is particularly relevant for engineers monitoring control system performance and has the potential to be applied in various practical scenarios, where systems, especially critical ones, must operate within strict limits, ensuring reliability and stability in real-world applications.
+
+
+
+
+
+Advanced communications, Information technology, Cyber-physical systems, Internet of Things (IoT), Mathematics and statistics, Modeling and simulation research and Numerical methods and software
+
+
+
+
+
+
+
+
+Technical Contact
+
+
+
+
+Van Sy Mai
+
+vansy.mai@nist.gov
+
+
+    (301) 975-5177
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsCommunications Technology LaboratorySmart Connected Systems DivisionTransformational Networks and Services Group
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released May 1, 2024, Updated July 15, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

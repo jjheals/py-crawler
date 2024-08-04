@@ -1,0 +1,887 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cryptonator seized for laundering ransom payments, stolen crypto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+
+Featured
+Latest
+
+
+
+
+
+
+
+Hackers abuse free TryCloudflare to deliver remote access malware
+
+
+
+
+
+StackExchange abused to spread malicious PyPi packages as answers
+
+
+
+
+
+Microsoft says massive Azure outage was caused by DDoS attack
+
+
+
+
+
+FBI warns of scammers posing as crypto exchange employees
+
+
+
+
+
+
+
+
+
+Linux kernel impacted by new SLUBStick cross-cache attack
+
+
+
+
+
+Hackers breach ISP to poison software updates with malware
+
+
+
+
+
+Aspiring IT professionals can start with this $80 Microsoft course bundle
+
+
+
+
+
+US sues TikTok for violating children privacy protection laws
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Latest
+Popular
+
+
+
+
+
+
+
+How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11
+
+
+
+
+
+How to use the Windows Registry Editor
+
+
+
+
+
+How to backup and restore the Windows Registry
+
+
+
+
+
+How to open a Windows 11 Command Prompt as Administrator
+
+
+
+
+
+
+
+
+
+How to start Windows in Safe Mode
+
+
+
+
+
+How to remove a Trojan, Virus, Worm, or other Malware
+
+
+
+
+
+How to show hidden files in Windows 7
+
+
+
+
+
+How to see hidden files in Windows
+
+
+
+
+
+
+
+
+Virus Removal Guides
+
+
+
+Latest
+Most Viewed
+Ransomware
+
+
+
+
+
+
+
+Remove the Theonlinesearch.com Search Redirect
+
+
+
+
+
+Remove the Smartwebfinder.com Search Redirect
+
+
+
+
+
+How to remove the PBlock+ adware browser extension
+
+
+
+
+
+Remove the Toksearches.xyz Search Redirect
+
+
+
+
+
+
+
+
+
+Remove Security Tool and SecurityTool (Uninstall Guide)
+
+
+
+
+
+How to Remove WinFixer / Virtumonde / Msevents / Trojan.vundo
+
+
+
+
+
+How to remove Antivirus 2009 (Uninstall Instructions)
+
+
+
+
+
+How to remove Google Redirects or the TDSS, TDL3, or Alureon rootkit using TDSSKiller
+
+
+
+
+
+
+
+
+
+Locky Ransomware Information, Help Guide, and FAQ
+
+
+
+
+
+CryptoLocker Ransomware Information Guide and FAQ
+
+
+
+
+
+CryptorBit and HowDecrypt Information Guide and FAQ
+
+
+
+
+
+CryptoDefense and How_Decrypt Ransomware Information Guide and FAQ
+
+
+
+
+
+
+
+
+Downloads
+
+
+
+Latest
+Most Downloaded
+
+
+
+
+
+
+
+Qualys BrowserCheck
+
+
+
+
+
+STOPDecrypter
+
+
+
+
+
+AuroraDecrypter
+
+
+
+
+
+FilesLockerDecrypter
+
+
+
+
+
+
+
+
+
+AdwCleaner
+
+
+
+
+
+ComboFix
+
+
+
+
+
+RKill
+
+
+
+
+
+Junkware Removal Tool
+
+
+
+
+
+
+
+
+Deals
+
+
+
+Categories
+
+
+
+
+
+
+
+eLearning
+
+
+
+
+
+IT Certification Courses
+
+
+
+
+
+Gear + Gadgets
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+
+VPNs
+
+
+
+Popular
+
+
+
+
+
+
+
+Best VPNs
+
+
+
+
+
+How to change IP address
+
+
+
+
+
+Access the dark web safely
+
+
+
+
+
+Best VPN for YouTube
+
+
+
+
+
+
+
+
+Forums
+More
+
+Startup Database
+Uninstall Database
+Glossary
+Chat on Discord
+Send us a Tip!
+Welcome Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeNewsCryptoCurrencyCryptonator seized for laundering ransom payments, stolen crypto
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cryptonator seized for laundering ransom payments, stolen crypto
+
+
+By Bill Toulas
+
+
+August 2, 2024
+01:27 PM
+1
+
+
+
+
+U.S. and German law enforcement seized the domain of the crypto wallet platform Cryptonator, used by ransomware gangs, darknet marketplaces, and other illicit services, and indicted its operator.
+The alleged Cryptonator's operator, Roman Boss, has been charged with money laundering and running an unlicensed money service business operation.
+Cryptonator is an online cryptocurrency wallet launched in 2014 that allows users to store crypto and exchange between other cryptocurrencies within their personal wallet.
+Blockchain investigation firm TRM reports that Cryptonator failed to implement anti-money laundering controls, enabling anonymous or pseudonymous users to use the service, including for illicit activity.
+The Cryptonator project's primary domain at "cryptonator.com" has now been seized, displaying the below notice from "seized-domain.s3-us-gov-east-1.amazonaws.com."
+
+Seizure notice on cryptonator.comSource: BleepingComputer
+The law enforcement action involves the U.S. Department of Justice, the FBI, the IRS:CI, the National Cryptocurrency Enforcement Team, the German Federal Criminal Police Office (BKA), and the Attorney General's Office in Frankfurt am Main.
+The Department of Justice complaint against the Cryptonator administrator, Roman Boss, says that between 2014 and 2023, Cryptonator wallet addresses exchanged the following :
+$25,000,000 with darknet markets and fraud shops
+$34,500,000 with scam addresses
+$80,000,000 with high-risk exchanges
+$8,000,000 with addresses associated with ransomware campaigns
+$54,000,000 with addresses associated with hacks and crypto theft operations
+$34,000,000 with illegal cryptocurrency mixers
+$17,000,000 with sanctioned addresses
+Blockchain intelligence firm TRM says wallet transactions were linked to Hydra Market, Blender.io, Finiko, Bitzlato, Garantex, Nobitex, and an unknown terrorist entity.
+The U.S. government previously sanctioned Hydra Market, Bitzlato, Garantex, and Blender.io.
+
+Cryptonator's links to illegal servicesSource: TRM
+The DOJ alleges that Cryptonator only required users to open an account using an email and password, which is insufficient to adhere to know-your-customer (KYC) rules required by the applicable anti-money laundering laws.
+The complaint also accuses Boss of knowingly allowing illicit activity on Cryptonator, presenting evidence of him discussing the addition of cryptocurrency accepted on darknet markets such as Monero and offering API key integrations with those illegal platforms.
+"Tickets also indicate that Cryptonator offers API keys to darknet marketplaces and the like, such as a bullet-proof hosting service, and a shop selling cached credentials for credit card companies," reads the complaint.
+"Based on my training and experience, and in my investigation to date in this case, this is important b ecause it means that Cryptonator is offering its customers the ability to easily access criminal services."
+In addition to penalties for money laundering and operating an unlicensed money service business, the complaint seeks injunctions against Boss, the approval of damage relief, and the seizure of his assets.
+The U.S. DoJ shared the indictment with BleepingComputer, commenting that Boss faces charges for operating a platform that processed over $235 million in illicit funds.
+
+Related Articles:
+FBI warns of scammers posing as crypto exchange employeesCrypto exchange Gemini discloses third-party data breachRussian ransomware gangs account for 69% of all ransom proceedsHuione Guarantee exposed as a $11 billion marketplace for cybercrimeCoinStats says North Korean hackers breached 1,590 crypto wallets
+
+
+
+
+
+
+
+
+Crypto Exchange
+Crypto Wallet
+CryptoCurrency
+Cryptonator
+Legal
+Money Laundering
+Seizure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bill Toulas   
+Bill Toulas is a tech writer and infosec news reporter with over a decade of experience working on various online publications, covering open-source, Linux, malware, data breach incidents, and hacks.
+
+
+
+ Previous Article 
+Next Article 
+
+
+Comments
+
+
+ 
+
+
+
+
+rhasce  - 1 day ago 
+
+ 
+ 
+
+
+mm so fishy! 
+
+
+
+
+
+Post a Comment Community Rules
+
+You need to login in order to post a comment
+Not a member yet? Register Now
+
+
+
+You may also like:
+
+
+
+
+
+
+
+
+
+
+
+Popular Stories
+
+
+
+
+
+
+Google Chrome warns uBlock Origin may soon be disabled
+
+
+
+
+
+
+
+Hackers breach ISP to poison software updates with malware
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow us:
+
+
+
+
+
+
+
+
+
+Main Sections
+
+News
+VPN Buyer Guides
+SysAdmin Software Guides
+Downloads
+Virus Removal Guides
+Tutorials
+Startup Database
+Uninstall Database
+Glossary
+
+
+
+Community
+
+Forums
+Forum Rules
+Chat
+
+
+
+Useful Resources
+
+Welcome Guide
+Sitemap
+
+
+
+Company
+
+About BleepingComputer
+Contact Us
+Send us a Tip!
+Advertising
+Write for BleepingComputer
+Social & Feeds
+Changelog
+
+
+
+
+
+
+
+
+Terms of Use -  Privacy Policy - Ethics Statement - Affiliate Disclosure
+
+
+Copyright @ 2003 - 2024  Bleeping Computer® LLC  - All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+
+Login
+
+
+Username
+
+
+
+Password
+
+
+
+
+
+Remember Me
+
+
+
+Sign in anonymously
+
+
+
+
+
+ Sign in with Twitter
+
+Not a member yet? Register Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Reporter
+
+Help us understand the problem. What is going on with this comment?
+
+
+
+
+Spam
+
+
+Abusive or Harmful
+
+
+Inappropriate content
+
+
+Strong language
+
+
+Other
+
+
+
+
+
+Read our posting guidelinese to learn what content is prohibited.
+
+
+
+Submitting...
+SUBMIT
+
+
+
+
+
+
+
+
+
+
+

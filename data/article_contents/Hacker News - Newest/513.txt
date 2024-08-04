@@ -1,0 +1,4640 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[RTMP] Adding Kick as Stream Service by JustZerooo · Pull Request #10043 · obsproject/obs-studio · GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle navigation
+
+
+
+
+
+
+
+
+
+
+          Sign in
+        
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Product
+        
+
+
+
+
+
+
+
+
+
+
+
+
+Actions
+        Automate any workflow
+      
+
+
+
+
+
+
+
+Packages
+        Host and manage packages
+      
+
+
+
+
+
+
+
+Security
+        Find and fix vulnerabilities
+      
+
+
+
+
+
+
+
+Codespaces
+        Instant dev environments
+      
+
+
+
+
+
+
+
+Copilot
+        Write better code with AI
+      
+
+
+
+
+
+
+
+Code review
+        Manage code changes
+      
+
+
+
+
+
+
+
+Issues
+        Plan and track work
+      
+
+
+
+
+
+
+
+Discussions
+        Collaborate outside of code
+      
+
+
+
+
+Explore
+
+
+
+      All features
+
+    
+
+
+
+      Documentation
+
+    
+
+
+
+
+
+      GitHub Skills
+
+    
+
+
+
+
+
+      Blog
+
+    
+
+
+
+
+
+
+
+
+
+        Solutions
+        
+
+
+
+
+
+For
+
+
+
+      Enterprise
+
+    
+
+
+
+      Teams
+
+    
+
+
+
+      Startups
+
+    
+
+
+
+      Education
+
+    
+
+
+
+
+
+
+By Solution
+
+
+
+      CI/CD & Automation
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+
+
+      DevSecOps
+
+    
+
+
+
+
+
+
+Resources
+
+
+
+      Learning Pathways
+
+    
+
+
+
+
+
+      White papers, Ebooks, Webinars
+
+    
+
+
+
+
+
+      Customer Stories
+
+    
+
+
+
+      Partners
+
+    
+
+
+
+
+
+
+
+
+
+        Open Source
+        
+
+
+
+
+
+
+
+
+
+GitHub Sponsors
+        Fund open source developers
+      
+
+
+
+
+
+
+
+
+The ReadME Project
+        GitHub community articles
+      
+
+
+
+
+Repositories
+
+
+
+      Topics
+
+    
+
+
+
+      Trending
+
+    
+
+
+
+      Collections
+
+    
+
+
+
+
+
+
+Pricing
+
+
+
+
+
+
+
+
+
+
+
+
+Search or jump to...
+
+
+
+
+
+
+
+Search code, repositories, users, issues, pull requests...
+
+ 
+
+
+
+
+        Search
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clear
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+              Search syntax tips
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Provide feedback
+      
+
+
+
+
+
+
+
+
+ 
+We read every piece of feedback, and take your input very seriously.
+
+
+Include my email address so I can be contacted
+
+     Cancel
+
+    Submit feedback
+
+
+
+
+
+
+
+
+
+
+        Saved searches
+      
+Use saved searches to filter your results more quickly
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Name
+
+
+
+
+
+
+Query
+
+
+
+            To see all available qualifiers, see our documentation.
+          
+ 
+
+
+
+
+     Cancel
+
+    Create saved search
+
+
+
+
+
+
+
+
+              Sign in
+            
+
+
+              Sign up
+            
+
+
+
+
+
+
+
+
+
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.
+You switched accounts on another tab or window. Reload to refresh your session.
+ 
+
+
+Dismiss alert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        obsproject
+ 
+/
+
+obs-studio
+
+Public
+
+
+
+
+
+
+
+
+ 
+
+Notifications
+
+
+
+ 
+
+Fork
+    7.5k
+
+
+
+
+ 
+
+
+          Star
+ 53.2k
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Code
+
+
+
+
+
+
+
+Issues
+436
+
+
+
+
+
+
+Pull requests
+203
+
+
+
+
+
+
+Discussions
+
+
+
+
+
+
+
+Actions
+
+
+
+
+
+
+
+Projects
+0
+
+
+
+
+
+
+Wiki
+
+
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+Insights
+
+
+
+ 
+
+ 
+
+
+Additional navigation options
+
+
+ 
+
+
+
+
+
+
+
+
+
+          Code
+
+
+
+
+
+
+
+
+
+
+          Issues
+
+
+
+
+
+
+
+
+
+
+          Pull requests
+
+
+
+
+
+
+
+
+
+
+          Discussions
+
+
+
+
+
+
+
+
+
+
+          Actions
+
+
+
+
+
+
+
+
+
+
+          Projects
+
+
+
+
+
+
+
+
+
+
+          Wiki
+
+
+
+
+
+
+
+
+
+
+          Security
+
+
+
+
+
+
+
+
+
+
+          Insights
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    New issue
+  
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+Have a question about this project? Sign up for a free GitHub account to open an issue and contact its maintainers and the community.
+  
+ 
+Pick a username
+
+
+
+Email Address
+
+
+Password
+
+
+
+
+    Sign up for GitHub
+
+
+By clicking “Sign up for GitHub”, you agree to our terms of service and
+  privacy statement. We’ll occasionally send you account related emails.
+
+    Already on GitHub?
+    Sign in
+    to your account
+  
+
+
+
+
+
+Jump to bottom
+
+
+
+[RTMP] Adding Kick as Stream Service
+#10043
+
+
+
+
+
+
+ Closed
+
+
+
+
+JustZerooo
+
+  wants to merge
+  2
+  commits into
+
+
+  obsproject:master
+
+from
+
+JustZerooo:master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Closed
+
+
+
+
+
+    [RTMP] Adding Kick as Stream Service
+  
+#10043
+
+
+JustZerooo
+
+  wants to merge
+  2
+  commits into
+
+
+  obsproject:master
+
+from
+
+JustZerooo:master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          +21
+        
+
+          −2
+        
+
+
+
+
+
+
+
+
+
+
+      Conversation
+
+      28
+
+
+
+
+
+      Commits
+
+      2
+
+
+
+
+
+  Checks
+
+  14
+
+
+
+
+
+      Files changed
+
+        2
+
+
+
+
+
+ Conversation
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+
+
+
+
+JustZerooo
+
+
+      
+
+      commented
+
+
+        Dec 26, 2023
+
+
+
+
+
+
+
+Description
+Just add kick.com to the aviable rtmp services.
+Motivation and Context
+How Has This Been Tested?
+Yes and it worked.
+Types of changes
+Checklist:
+
+ My code has been run through clang-format.
+ I have read the contributing document.
+ My code is not on the master branch.
+ The code has been tested.
+ All commit messages are properly formatted and commits squashed where appropriate.
+ I have included updates to all appropriate documentation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+
+
+
+
+
+
+ 👍
+2
+ Nu-Illasera and 0n reacted with thumbs up emoji
+ 🚀
+2
+ mkljczk and PhoenixLandPirate reacted with rocket emoji
+
+
+ 
+All reactions
+
+
+
+
+👍
+2 reactions
+
+
+🚀
+2 reactions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ JustZerooo
+  
+
+        added 2 commits
+        
+December 26, 2023 13:09
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+[RTMP] Adding Kick
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fabf610
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+[RTMP] Adding Kick
+
+
+    …
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2b2674e
+
+
+
+
+
+Adding Kick.com as it is meanwhile a good streaming plattform.
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+Member
+
+
+
+
+
+gxalpha
+
+
+      
+
+      commented
+
+
+        Dec 26, 2023
+
+
+
+
+
+
+
+
+
+@JustZerooo to confirm, are you a Kick representative?
+If so, please see the wiki page on service submissions and complete the PR accordingly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+All reactions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+Member
+
+
+
+
+
+Fenrirthviti
+
+
+      
+
+      commented
+
+
+        Dec 26, 2023
+
+
+
+
+
+
+
+
+
+Thank you for the submission, but Kick does not currently meet our requirements to be accepted.
+
+
+
+
+
+
+
+
+
+
+
+
+ 👍
+8
+ PixelHir, colorfulmoth, supleed2, punkmaniac, nea89o, N9199, 13x1, and reflectronic reacted with thumbs up emoji
+ 👎
+33
+ lisbonjoker, elgatov, vimsux, Kyuunex, qxxst, supern64, Rasenkai, Nutjob, mkljczk, Nu-Illasera, and 23 more reacted with thumbs down emoji
+ 😕
+1
+ perdub reacted with confused emoji
+
+
+ 
+All reactions
+
+
+
+
+👍
+8 reactions
+
+
+👎
+33 reactions
+
+
+😕
+1 reaction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Fenrirthviti
+
+
+
+
+          closed this
+
+
+    Dec 26, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+Author
+
+
+
+
+
+JustZerooo
+
+
+      
+
+      commented
+
+
+        Dec 27, 2023
+
+
+
+
+
+
+
+
+
+But other unknown services are supported? Okay!
+
+
+
+
+
+
+
+
+
+
+
+
+ 👍
+10
+ lisbonjoker, spacebanana420, Rasenkai, Nutjob, iycbell, Sightem, oguz-ismail, HeyaGlitz, 0n, and noah427 reacted with thumbs up emoji
+
+
+ 
+All reactions
+
+
+
+
+👍
+10 reactions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+Member
+
+
+
+
+
+Fenrirthviti
+
+
+      
+
+      commented
+
+
+        Dec 27, 2023
+
+
+
+
+
+
+
+
+
+Kick does not meet our requirements because the platform supports and encourages detestable and vile content and creators, and we as a project do not want ourselves associated with it.
+
+
+
+
+
+
+
+
+
+
+
+
+ 👍
+17
+ dev-rain, pos1t1v1ty, Saltyc0der, PixelHir, minirop, supleed2, YukumoHunter, Fabio53443, CuriousTommy, punkmaniac, and 7 more reacted with thumbs up emoji
+ 👎
+55
+ SViN24, BrodieRobertson, fzorb, mkljczk, nj-lc, UNordicc, lisbonjoker, Shadowized, amaanq, qxxst, and 45 more reacted with thumbs down emoji
+ 😄
+6
+ longyap, BrodieRobertson, amaanq, Gitspathe, vxiiduu, and noah427 reacted with laugh emoji
+
+
+ 
+All reactions
+
+
+
+
+👍
+17 reactions
+
+
+👎
+55 reactions
+
+
+😄
+6 reactions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+
+
+
+lisbonjoker
+
+
+      
+
+      commented
+
+
+        Jan 2, 2024
+
+
+
+
+
+
+
+
+
+
+Kick does not meet our requirements because the platform supports and encourages detestable and vile content and creators, and we as a project do not want ourselves associated with it.
+
+Thankfully you are not blocking Kick from being used. It should be up the users choice to use or not use the platform. You are not endorsing them for putting it on the list of preset streaming platforms but rather you are making it easier for users to select it and apply. Many are moving to Kick. That's a poor reason to not add it. Are you endorsing all the sexual websites included in your list? Or the few internacional ones which have content more vile than the ones that you claim happens on Kick?
+I am not against those cam sites but this is a dumb moral crusade.
+You will most likely delete this response but, alas.
+
+
+
+
+
+
+
+
+
+
+
+
+ 👍
+27
+ qxxst, aurilly, BrodieRobertson, Sneethe, spacebanana420, s6fty, AlifianK, Vanguard90, Rasenkai, Nutjob, and 17 more reacted with thumbs up emoji
+
+
+ 
+All reactions
+
+
+
+
+👍
+27 reactions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+
+
+
+qxxst
+
+
+      
+
+      commented
+
+
+        Jan 2, 2024
+
+
+
+
+
+
+
+
+
+
+Kick does not meet our requirements because the platform supports and encourages detestable and vile content and creators, and we as a project do not want ourselves associated with it.
+
+The exact same statement could be said about other platforms that are supported. It is not the responsibility of the streaming application to make these types of decisions on behalf of the user.
+The "association" referenced does not exist. OBS isn't responsible for anything the user does on any platform - the user is. This is clearly stated in Section 11 of the GPL-2.0 license that OBS uses.
+
+THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.
+
+Are you sure this doesn't have anything to do with OBS being sponsored by YouTube and Twitch?
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 👍
+22
+ Jebeded, spacebanana420, pos1t1v1ty, Vanguard90, AlifianK, lisbonjoker, Rasenkai, Nutjob, mkljczk, Nu-Illasera, and 12 more reacted with thumbs up emoji
+ ❤️
+3
+ Nu-Illasera, iycbell, and teodor6140 reacted with heart emoji
+
+
+ 
+All reactions
+
+
+
+
+👍
+22 reactions
+
+
+❤️
+3 reactions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+
+
+
+rabidcopy
+
+
+      
+
+      commented
+
+
+        Jan 2, 2024
+
+
+
+
+
+
+
+
+
+
+Kick does not meet our requirements because the platform supports and encourages detestable and vile content and creators, and we as a project do not want ourselves associated with it.
+
+Have you checked out Twitch's Just Chatting section by chance?
+
+
+
+
+
+
+
+
+
+
+
+
+ 👍
+10
+ lisbonjoker, Nutjob, mkljczk, epstein-suicider, iycbell, bwoff11, Kisaragi-ng, rgmz, 0n, and noah427 reacted with thumbs up emoji
+
+
+ 
+All reactions
+
+
+
+
+👍
+10 reactions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+
+
+
+pos1t1v1ty
+
+
+      
+
+      commented
+
+
+        Jan 2, 2024
+
+•
+
+
+
+
+          edited
+          
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kick does not meet our requirements because the platform supports and encourages detestable and vile content and creators, and we as a project do not want ourselves associated with it.
+
+Thank you for taking a stance against the vile content hosted by Kick.
+
+
+Kick does not meet our requirements because the platform supports and encourages detestable and vile content and creators, and we as a project do not want ourselves associated with it.
+
+Have you checked out Twitch's Just Chatting section by chance?
+
+There's nothing wrong with it. Twitch promotes sexual content/channels to children and this project is perfectly okay with that because it reinforces to young boys that women are worth nothing more than what they charge for their OF subscription and to young girls that they can make money really easily by using this lovely free software. If that was actually considered detestable or vile then the project would obviously remove Twitch from the services.json file.  This project empowers women to take their shirts off and stream on Twitch with only a few clicks!
+
+
+
+
+
+
+
+
+
+
+
+
+ 😄
+2
+ HeyaGlitz and 0n reacted with laugh emoji
+ ❤️
+3
+ Nu-Illasera, vimsux, and Sightem reacted with heart emoji
+
+
+ 
+All reactions
+
+
+
+
+😄
+2 reactions
+
+
+❤️
+3 reactions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+
+
+
+Saltyc0der
+
+
+      
+
+      commented
+
+
+        Jan 2, 2024
+
+
+
+
+
+
+
+
+
+I wouldn't want to associate myself with a site that allows full blown piracy either.
+
+
+
+
+
+
+
+
+
+
+
+
+ 👎
+2
+ Sightem and 0n reacted with thumbs down emoji
+
+
+ 
+All reactions
+
+
+
+
+👎
+2 reactions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+
+
+
+PixelHir
+
+
+      
+
+      commented
+
+
+        Jan 2, 2024
+
+
+
+
+
+
+
+
+
+
+
+Kick does not meet our requirements because the platform supports and encourages detestable and vile content and creators, and we as a project do not want ourselves associated with it.
+
+Have you checked out Twitch's Just Chatting section by chance?
+
+pretty sure there is a difference between sexual content and hateful content connected with gambling (which coincidentally, kick is funded by stake.com, big shock)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+All reactions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+
+
+
+Nu-Illasera
+
+
+      
+
+      commented
+
+
+        Jan 2, 2024
+
+•
+
+
+
+
+          edited
+          
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kick does not meet our requirements because the platform ...
+supports and encourages detestable and vile content and creators, and we as a project do not want ourselves associated with it.
+
+Odd that its exactly what i think of the guy who wrote this, Don't forget to read it with a nasal voice and a lot of : "Eeee , eee" stammering.
+on another hypocritical note, forget twitch, you should see some of the stuff they have for KIDS on youtube, but that's ok to affiliate with (Eventhough i doubt they are even legal if not predatory) .
+
+
+
+
+
+
+
+
+
+
+
+
+ 👍
+1
+ 0n reacted with thumbs up emoji
+
+
+ 
+All reactions
+
+
+
+
+👍
+1 reaction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+
+
+
+epstein-suicider
+
+
+      
+
+      commented
+
+
+        Jan 2, 2024
+
+
+
+
+
+
+
+
+
+
+Kick does not meet our requirements because the platform supports and encourages detestable and vile content and creators, and we as a project do not want ourselves associated with it.
+
+We? Our?
+20 commits    1,706 ++ 212--
+You've made 20 commits, your latest one being 3 years ago and simply adding a code of conduct, and the rest of them either being theme changes or merging pull requests from actual contributors like PatTheMav. Why should I take you seriously?
+
+
+
+
+
+
+
+
+
+
+
+
+ 👍
+13
+ lisbonjoker, PhoenixLandPirate, ddvarpdd, nukeop, Kisaragi-ng, s7relok, NoOverflow, rgmz, HeyaGlitz, 0n, and 3 more reacted with thumbs up emoji
+ 👎
+2
+ nea89o and N9199 reacted with thumbs down emoji
+
+
+ 
+All reactions
+
+
+
+
+👍
+13 reactions
+
+
+👎
+2 reactions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+
+
+
+RyzenDew
+
+
+      
+
+      commented
+
+
+        Jan 2, 2024
+
+
+
+
+
+
+
+
+
+Twitch is a cam girl site at this point and has the same content as kick now .. talk about choosing favourites
+
+
+
+
+
+
+
+
+
+
+
+
+ 👍
+2
+ 0n and l29utp0 reacted with thumbs up emoji
+
+
+ 
+All reactions
+
+
+
+
+👍
+2 reactions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+
+
+
+PhoenixLandPirate
+
+
+      
+
+      commented
+
+
+        Jan 2, 2024
+
+
+
+
+
+
+
+
+
+You're saying that a service which promotes video game streaming is against OBS's morals, but a service which promotes softcore pornography is what you want OBS to be associated with?
+
+
+
+
+
+
+
+
+
+
+
+
+ 👍
+4
+ mkljczk, HeyaGlitz, 0n, and l29utp0 reacted with thumbs up emoji
+
+
+ 
+All reactions
+
+
+
+
+👍
+4 reactions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+
+
+
+l29utp0
+
+
+      
+
+      commented
+
+
+        Jan 2, 2024
+
+
+
+
+
+
+
+
+
+
+Kick does not meet our requirements because the platform supports and encourages detestable and vile content and creators, and we as a project do not want ourselves associated with it.
+
+so you want to associate yourself with the camgirl sites currently present in services.json? you know... lots of human trafficking and exploitation going on in there, ask andrew tate.
+
+
+
+
+
+
+
+
+
+
+
+
+ 👍
+1
+ 0n reacted with thumbs up emoji
+
+
+ 
+All reactions
+
+
+
+
+👍
+1 reaction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+
+
+
+nukeop
+
+
+      
+
+      commented
+
+
+        Jan 2, 2024
+
+
+
+
+
+
+
+
+
+I went to kick.com and it looks like a run of the mill gaming streaming site.
+
+
+
+
+
+
+
+
+
+
+
+
+ 👍
+2
+ 0n and l29utp0 reacted with thumbs up emoji
+
+
+ 
+All reactions
+
+
+
+
+👍
+2 reactions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+
+
+
+farazkaleemmalik
+
+
+      
+
+      commented
+
+
+        Jan 2, 2024
+
+
+
+
+
+
+
+
+
+Lock it. Lock it now. This is the friendliest message I'm going to send, while I look for ways to get OP banned from Github for gross social misconduct. I imagine that "kick viewer" might be enough to get that account tagged as a nazi, who knows how many communities across however many repositories that person just bothered across all of Github.
+
+
+
+
+
+
+
+
+
+
+
+
+ 😄
+2
+ iraizo and Jebeded reacted with laugh emoji
+ ❤️
+3
+ vimsux, iraizo, and l29utp0 reacted with heart emoji
+
+
+ 
+All reactions
+
+
+
+
+😄
+2 reactions
+
+
+❤️
+3 reactions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+
+
+
+l29utp0
+
+
+      
+
+      commented
+
+
+        Jan 2, 2024
+
+
+
+
+
+
+
+
+
+can we get ebussy over here to solve this?
+
+
+
+
+
+
+
+
+
+
+
+
+ ❤️
+2
+ vimsux and Jebeded reacted with heart emoji
+
+
+ 
+All reactions
+
+
+
+
+❤️
+2 reactions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+
+
+
+Nu-Illasera
+
+
+      
+
+      commented
+
+
+        Jan 2, 2024
+
+•
+
+
+
+
+          edited
+          
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHUT IT DOWN BOY,
+the users have violated the github rule of applying common sense and stating facts! (Make sure to ban OP for it, he might use common sense and state facts in other repos)
+edit : reported @Fenrirthviti , reason : casting aspersion on an entire community, direct violation ( discrimination )
+
+Kick does not meet our requirements because the platform supports and encourages detestable and vile content and creators, and we as a project do not want ourselves associated with it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 👍
+2
+ Sightem and l29utp0 reacted with thumbs up emoji
+
+
+ 
+All reactions
+
+
+
+
+👍
+2 reactions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+MSDN-WhiteKnight
+
+
+
+    mentioned this pull request
+    
+Jan 2, 2024
+
+
+
+
+
+      Ongoing drama
+      neodrama/github-drama#2
+ 
+
+
+
+
+
+  Open
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+
+
+
+Fire-
+
+
+      
+
+      commented
+
+
+        Jan 2, 2024
+
+•
+
+
+
+
+          edited
+          
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kick does not meet our requirements because the platform supports and encourages detestable and vile content and creators, and we as a project do not want ourselves associated with it.
+
+just to be clear, the above is more explicitly stated the service submission guidelines:
+
+We reserve the right to reject service submissions on any reason, including but not limited to the promotion of illegal activities (e.g. piracy), harmful behaviour (e.g. harassment, hate speech), or other objectionable content.
+
+Kick fails on the point of "promotion of … harmful behaviour (e.g. harassment, hate speech)"
+
+
+
+
+
+
+
+
+
+
+
+
+ 👎
+1
+ l29utp0 reacted with thumbs down emoji
+
+
+ 
+All reactions
+
+
+
+
+👎
+1 reaction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+
+
+
+sjakk
+
+
+      
+
+      commented
+
+
+        Jan 2, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+All reactions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+
+
+
+HeyaGlitz
+
+
+      
+
+      commented
+
+
+        Jan 2, 2024
+
+
+
+
+
+
+
+
+
+
+Kick fails on the point of "promotion of … harmful behaviour (e.g. harassment, hate speech)"
+
+since we're citing written documents, I'd be useful if you read Kick's TOS which under paragraph 1.4 states that it's not allowed to stream: "nudity or other sexually suggestive content, hate speech, threats or direct attacks on an individual or group, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive of another’s privacy, hateful racially, ethnically, or otherwise objectionable content".
+
+
+
+
+
+
+
+
+
+
+
+
+ 👍
+2
+ 0n and l29utp0 reacted with thumbs up emoji
+
+
+ 
+All reactions
+
+
+
+
+👍
+2 reactions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+
+
+
+Fire-
+
+
+      
+
+      commented
+
+
+        Jan 2, 2024
+
+
+
+
+
+
+
+
+
+yeah, what a service states in its legal terms and what it actually does in practice are not necessarily the same thing
+
+
+
+
+
+
+
+
+
+
+
+
+ 👎
+2
+ 0n and l29utp0 reacted with thumbs down emoji
+
+
+ 
+All reactions
+
+
+
+
+👎
+2 reactions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+
+
+
+HeyaGlitz
+
+
+      
+
+      commented
+
+
+        Jan 2, 2024
+
+
+
+
+
+
+
+
+
+I can't really find any examples of it promoting any hate speech or harassment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+All reactions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+
+
+
+epstein-suicider
+
+
+      
+
+      commented
+
+
+        Jan 2, 2024
+
+
+
+
+
+
+
+
+
+
+yeah, what a service states in its legal terms and what it actually does in practice are not necessarily the same thing
+
+"Prev: Eng, Product, Tools, CX, Safety, and Security over a decade of @Twitch"
+You clearly have a bias mate
+
+
+
+
+
+
+
+
+
+
+
+
+ 😄
+4
+ jfaz1, l29utp0, HeyaGlitz, and liquidsworrds reacted with laugh emoji
+
+
+ 
+All reactions
+
+
+
+
+😄
+4 reactions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+
+
+
+l29utp0
+
+
+      
+
+      commented
+
+
+        Jan 2, 2024
+
+
+
+
+
+
+
+
+
+
+
+yeah, what a service states in its legal terms and what it actually does in practice are not necessarily the same thing
+
+"Prev: Eng, Product, Tools, CX, Safety, and Security over a decade of @Twitch" You clearly have a bias mate
+
+lmao, you can't make this stuff up, simping for his old boss, geez
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+All reactions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+
+
+
+Sightem
+
+
+      
+
+      commented
+
+
+        Jan 2, 2024
+
+
+
+
+
+
+
+
+
+
+
+vile content btw
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 😄
+2
+ jfaz1 and l29utp0 reacted with laugh emoji
+
+
+ 
+All reactions
+
+
+
+
+😄
+2 reactions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+            Copy link
+
+ 
+
+
+
+
+
+
+
+nukeop
+
+
+      
+
+      commented
+
+
+        Jan 2, 2024
+
+
+
+
+
+
+
+
+
+I seriously don't get it. What's this guy's problem with that site?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+All reactions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Sorry, something went wrong.
+  
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+Sign up for free
+to join this conversation on GitHub.
+    Already have an account?
+    Sign in to comment
+
+
+
+
+
+
+
+
+
+
+
+    Reviewers
+  
+
+
+
+    No reviews
+
+
+
+
+
+    Assignees
+  
+
+    No one assigned
+
+
+
+
+    Labels
+  
+
+    None yet
+
+
+
+
+
+    Projects
+  
+
+
+
+    None yet
+
+
+ 
+
+
+
+    Milestone
+  
+
+      No milestone
+
+
+
+
+
+
+
+
+    Development
+  
+Successfully merging this pull request may close these issues.
+None yet
+ 
+
+
+
+
+
+
+      20 participants
+    
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+
+Add this suggestion to a batch that can be applied as a single commit.
+This suggestion is invalid because no changes were made to the code.
+Suggestions cannot be applied while the pull request is closed.
+Suggestions cannot be applied while viewing a subset of changes.
+Only one suggestion per line can be applied in a batch.
+Add this suggestion to a batch that can be applied as a single commit.
+Applying suggestions on deleted lines is not supported.
+You must change the existing code in this line in order to create a valid suggestion.
+Outdated suggestions cannot be applied.
+This suggestion has been applied or marked resolved.
+Suggestions cannot be applied from pending reviews.
+Suggestions cannot be applied on multi-line comments.
+Suggestions cannot be applied while the pull request is queued to merge.
+Suggestion cannot be applied right now. Please check back later.
+
+
+
+
+
+
+
+
+
+
+
+Footer
+
+
+
+
+
+
+
+
+        © 2024 GitHub, Inc.
+      
+
+
+Footer navigation
+
+
+Terms
+
+
+Privacy
+
+
+Security
+
+
+Status
+
+
+Docs
+
+
+Contact
+
+
+
+
+      Manage cookies
+    
+
+
+
+
+
+      Do not share my personal information
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    You can’t perform that action at this time.
+  
+
+
+
+
+
+
+
+
+
+
+
+

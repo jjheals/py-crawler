@@ -1,0 +1,749 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Department of Commerce Announces New Actions to Implement President Biden’s Executive Order on AI | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2024/04/department-commerce-announces-new-actions-implement-president-bidens
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standard Reference Instruments (SRIs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Leadership
+
+
+Organization Structure
+
+
+Budget & Planning
+
+
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Student programs
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS
+
+
+
+Department of Commerce Announces New Actions to Implement President Biden’s Executive Order on AI
+
+
+Announcements include draft guidance documents, a draft plan for international standards, and a new measurement program opening for public comment.
+
+
+April 29, 2024
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The U.S. Department of Commerce announced today, following the 180-day mark since President Biden’s Executive Order (EO) on the Safe, Secure and Trustworthy Development of AI, several new announcements related to the EO. The department’s National Institute of Standards and Technology (NIST) has released four draft publications intended to help improve the safety, security and trustworthiness of artificial intelligence (AI) systems. NIST has also launched a challenge series that will support development of methods to distinguish between content produced by humans and content produced by AI. In addition to NIST’s publications, Commerce’s U.S. Patent and Trademark Office (USPTO) is publishing a request for public comment (RFC) seeking feedback on how AI could affect evaluations of how the level of ordinary skills in the arts are made to determine if an invention is patentable under U.S. law, and earlier this year released guidance on the patentability of AI-assisted inventions.“In the six months since President Biden enacted his historic Executive Order on AI, the Commerce Department has been working hard to research and develop the guidance needed to safely harness the potential of AI, while minimizing the risks associated with it,” said U.S. Secretary of Commerce Gina Raimondo. “The announcements we are making today show our commitment to transparency and feedback from all stakeholders and the tremendous progress we have made in a short amount of time. With these resources and the previous work on AI from the department, we are continuing to support responsible innovation in AI and America’s technological leadership.”The NIST publications cover varied aspects of AI technology: The first two are guidance documents designed to help manage the risks of generative AI — the technology that enables chatbots and text-based image and video creation tools — and serve as companion resources to NIST’s AI Risk Management Framework (AI RMF) and Secure Software Development Framework (SSDF), respectively. A third NIST publication offers approaches for promoting transparency in digital content, which AI can alter; the fourth proposes a plan for developing global AI standards. These publications are initial drafts, which NIST is publishing now to solicit public feedback before submitting final versions later this year.“For all its potentially transformative benefits, generative AI also brings risks that are significantly different from those we see with traditional software. These guidance documents will not only inform software creators about these unique risks, but also help them develop ways to mitigate the risks while supporting innovation.” —Under Secretary of Commerce for Standards and Technology and NIST Director Laurie E. LocascioRead the entire news release on the Department of Commerce website. 
+
+
+
+
+
+Information technology, Artificial intelligence, AI measurement and evaluation and Trustworthy and responsible AI
+
+
+
+
+
+
+
+
+Media Contact
+
+
+
+
+Chad Boutin
+
+charles.boutin@nist.gov
+
+
+    (301) 975-4261
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsInformation Technology LaboratoryInformation Technology Laboratory OfficeOffice of Emerging Technologies
+
+
+
+
+
+
+
+
+
+
+
+Related Links
+
+
+AI RMF Generative AI Profile (NIST AI 600-1)
+Secure Software Development Practices for Generative AI and Dual-Use Foundation Models (NIST Special Publication 800-218A)
+Reducing Risks Posed by Synthetic Content (NIST AI 100-4)
+A Plan for Global Engagement on AI Standards (NIST AI 100-5)
+NIST GenAI
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released April 29, 2024, Updated May 14, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+
+
+ Ask HN: Is it feasible to train my own LLM? | Hacker News
+
+Hacker News
+new | past | comments | ask | show | jobs | submit 
+login
+
+
+
+
+ Ask HN: Is it feasible to train my own LLM?
+3 points by EclipseMantis 12 minutes ago  | hide | past | favorite | discuss 
+
+Hey, HN!
+Long-time lurker; a bit intimidated to post this:I'm an IB diploma candidate (in HS), and writing a research paper is an important part of that curriculum. I am hoping to write my paper on how an LLM's training data impacts its output, comparing one trained on, say, Wikipedia as opposed to Reddit.I have access to some reasonably powerful Nvidia GPUs and plenty of time to train.I'm fairly decent at "technology," as wide of an umbrella as that is -- I use Linux, have messed with things like koboldcpp, etc. -- but my programming abilities are weak; all I've done is 6.00.1x (intro to python) through edX.Does this seem like a reasonable project? I know the results will be bad, but will they be enough to measure differences in some way? 
+ 
+
+
+
+Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact
+Search:  
+
+

@@ -1,0 +1,961 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DuckDuckGo blocked in Indonesia over porn, gambling search results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+
+Featured
+Latest
+
+
+
+
+
+
+
+Hackers abuse free TryCloudflare to deliver remote access malware
+
+
+
+
+
+StackExchange abused to spread malicious PyPi packages as answers
+
+
+
+
+
+Microsoft says massive Azure outage was caused by DDoS attack
+
+
+
+
+
+FBI warns of scammers posing as crypto exchange employees
+
+
+
+
+
+
+
+
+
+Linux kernel impacted by new SLUBStick cross-cache attack
+
+
+
+
+
+Hackers breach ISP to poison software updates with malware
+
+
+
+
+
+Aspiring IT professionals can start with this $80 Microsoft course bundle
+
+
+
+
+
+US sues TikTok for violating children privacy protection laws
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Latest
+Popular
+
+
+
+
+
+
+
+How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11
+
+
+
+
+
+How to use the Windows Registry Editor
+
+
+
+
+
+How to backup and restore the Windows Registry
+
+
+
+
+
+How to open a Windows 11 Command Prompt as Administrator
+
+
+
+
+
+
+
+
+
+How to start Windows in Safe Mode
+
+
+
+
+
+How to remove a Trojan, Virus, Worm, or other Malware
+
+
+
+
+
+How to show hidden files in Windows 7
+
+
+
+
+
+How to see hidden files in Windows
+
+
+
+
+
+
+
+
+Virus Removal Guides
+
+
+
+Latest
+Most Viewed
+Ransomware
+
+
+
+
+
+
+
+Remove the Theonlinesearch.com Search Redirect
+
+
+
+
+
+Remove the Smartwebfinder.com Search Redirect
+
+
+
+
+
+How to remove the PBlock+ adware browser extension
+
+
+
+
+
+Remove the Toksearches.xyz Search Redirect
+
+
+
+
+
+
+
+
+
+Remove Security Tool and SecurityTool (Uninstall Guide)
+
+
+
+
+
+How to Remove WinFixer / Virtumonde / Msevents / Trojan.vundo
+
+
+
+
+
+How to remove Antivirus 2009 (Uninstall Instructions)
+
+
+
+
+
+How to remove Google Redirects or the TDSS, TDL3, or Alureon rootkit using TDSSKiller
+
+
+
+
+
+
+
+
+
+Locky Ransomware Information, Help Guide, and FAQ
+
+
+
+
+
+CryptoLocker Ransomware Information Guide and FAQ
+
+
+
+
+
+CryptorBit and HowDecrypt Information Guide and FAQ
+
+
+
+
+
+CryptoDefense and How_Decrypt Ransomware Information Guide and FAQ
+
+
+
+
+
+
+
+
+Downloads
+
+
+
+Latest
+Most Downloaded
+
+
+
+
+
+
+
+Qualys BrowserCheck
+
+
+
+
+
+STOPDecrypter
+
+
+
+
+
+AuroraDecrypter
+
+
+
+
+
+FilesLockerDecrypter
+
+
+
+
+
+
+
+
+
+AdwCleaner
+
+
+
+
+
+ComboFix
+
+
+
+
+
+RKill
+
+
+
+
+
+Junkware Removal Tool
+
+
+
+
+
+
+
+
+Deals
+
+
+
+Categories
+
+
+
+
+
+
+
+eLearning
+
+
+
+
+
+IT Certification Courses
+
+
+
+
+
+Gear + Gadgets
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+
+VPNs
+
+
+
+Popular
+
+
+
+
+
+
+
+Best VPNs
+
+
+
+
+
+How to change IP address
+
+
+
+
+
+Access the dark web safely
+
+
+
+
+
+Best VPN for YouTube
+
+
+
+
+
+
+
+
+Forums
+More
+
+Startup Database
+Uninstall Database
+Glossary
+Chat on Discord
+Send us a Tip!
+Welcome Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeNewsSecurityDuckDuckGo blocked in Indonesia over porn, gambling search results
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DuckDuckGo blocked in Indonesia over porn, gambling search results
+
+
+By Bill Toulas
+
+
+
+
+August 2, 2024
+12:16 PM
+2
+
+
+
+
+
+Privacy-focused search engine DuckDuckGo has been blocked in Indonesia by its government after citizens reportedly complained about pornographic and online gambling content in its search results.
+The government's choice to block DuckDuckGo isn't surprising considering the cultural and religious context, with Indonesia being a Muslim country where gambling is prohibited and porn is viewed as morally unacceptable.
+In January 2024, Indonesia announced it blocked nearly 600,000 online gambling portals and took action against 5,000 bank accounts that engaged with them.
+The government has previously blocked numerous pornography sites, Reddit, and Vimeo, and imposed temporary or partial restrictions on Tumblr, Telegram, TikTok, Netflix, and Badoo.
+DuckDuckGo has now confirmed to BleepingComputer that Indonesia blocked its search engine in the country and that it has no means to respond to it.
+"We can confirm that DuckDuckGo has been blocked in Indonesia due to their censorship policies. Unfortunately, there is no current path to being unblocked, similar to how we've been blocked in China for about a decade now," DuckDuckGo told BleepingComputer.
+At the same time, Google Search remains accessible in Indonesia, which suggests that either the tech giant has implemented effective self-censorship mechanisms for its local search engine or its size makes blocking too disruptive for internet usage in the country.
+Indonesians have resorted to using VPN software to bypass the government's restrictions. However, the Indonesian government plans to block free VPNs, making gaining access to blocked sites costly.
+Free VPNs next
+Virtual Private Network (VPN) tools are commonly used to bypass censorship imposed by governments and internet service providers.
+When using VPNs, users can make connections from other countries to once again access DuckDuckGo, but free offerings may soon be removed.
+Minister of Communication and Information Budi Arie Setiadi stated that the government intends to restrict access to free VPN tools, as they know these are used to access blocked online gambling portals.
+"Yesterday, Mr. Hokky (Ministry's Director General of Informatics Applications) had a meeting with Mr. Wayan (Ministry's Director General of Postal and Information Technology Operations), and we will shut down free VPNs to reduce access to networks for the general public to curb the spread of online gambling," stated Setiadi on June 31, 2024.
+"I specifically have to include the issue of online gambling to make it clear that this is the darkest side of digitalization."
+The same ministry announcement highlighted the risks of free VPN services, underlining personal data theft, malware infections, and making internet connectivity slow or unreliable.
+
+Related Articles:
+Cloudflare blames recent outage on BGP hijacking incidentOVHcloud blames record-breaking DDoS attack on MikroTik botnet
+
+
+
+
+
+
+
+
+
+
+
+Censorship
+DuckDuckGo
+Gambling
+Indonesia
+Internet
+Porn
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bill Toulas   
+Bill Toulas is a tech writer and infosec news reporter with over a decade of experience working on various online publications, covering open-source, Linux, malware, data breach incidents, and hacks.
+
+
+
+
+ Previous Article 
+Next Article 
+
+
+
+Comments
+
+
+
+  
+
+
+
+
+
+
+thatirish  - 1 day ago 
+
+
+ 
+ 
+
+
+
+The biggest danger to the Internet is overregulation.. Governments hate not being in control of what you see, hear, or think. Our government is no different.
+
+
+
+
+
+  
+
+
+
+
+
+
+ctigga  - 1 day ago 
+
+
+ 
+ 
+
+
+
+Agreed @thatirish. But as long as the government gives the new regulation a nice sounding name.... like "Net Neutrality" or "Inflation Reduction Act", what could go wrong? I mean, neutral treatment of traffic is a good thing...and reducing inflation is good too, right?? :)
+Of course most people fail to read through the 1000+ pages of B.S. packed into those bills and, as usual, the devil is in the details.
+
+
+
+
+
+
+Post a Comment Community Rules
+
+You need to login in order to post a comment
+
+Not a member yet? Register Now
+
+
+
+You may also like:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Popular Stories
+
+
+
+
+
+
+Google Chrome warns uBlock Origin may soon be disabled
+
+
+
+
+
+
+
+Hackers breach ISP to poison software updates with malware
+
+
+
+
+
+
+
+
+
+
+Latest Downloads
+
+
+
+
+AdwCleaner
+Version: 8.4.2.0
+56M+ Downloads
+
+
+
+
+Malwarebytes Anti-Malware
+Version: 5.1.6.117
+5M+ Downloads
+
+
+
+
+Speccy
+Version: 1.33.075
+54,717 Downloads
+
+
+
+
+PuTTY
+Version: 0.81
+42,385 Downloads
+
+
+
+
+BitDefender Uninstall Tool
+Version: NA
+103,644 Downloads
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow us:
+
+
+
+
+
+
+
+
+
+Main Sections
+
+News
+VPN Buyer Guides
+SysAdmin Software Guides
+Downloads
+Virus Removal Guides
+Tutorials
+Startup Database
+Uninstall Database
+Glossary
+
+
+
+Community
+
+Forums
+Forum Rules
+Chat
+
+
+
+Useful Resources
+
+Welcome Guide
+Sitemap
+
+
+
+Company
+
+About BleepingComputer
+Contact Us
+Send us a Tip!
+Advertising
+Write for BleepingComputer
+Social & Feeds
+Changelog
+
+
+
+
+
+
+
+
+Terms of Use -  Privacy Policy - Ethics Statement - Affiliate Disclosure
+
+
+Copyright @ 2003 - 2024  Bleeping Computer® LLC  - All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+
+Login
+
+
+Username
+
+
+
+Password
+
+
+
+
+
+Remember Me
+
+
+
+Sign in anonymously
+
+
+
+
+
+ Sign in with Twitter
+
+Not a member yet? Register Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Reporter
+
+Help us understand the problem. What is going on with this comment?
+
+
+
+
+Spam
+
+
+Abusive or Harmful
+
+
+Inappropriate content
+
+
+Strong language
+
+
+Other
+
+
+
+
+
+Read our posting guidelinese to learn what content is prohibited.
+
+
+
+Submitting...
+SUBMIT
+
+
+
+
+
+
+
+
+
+
+

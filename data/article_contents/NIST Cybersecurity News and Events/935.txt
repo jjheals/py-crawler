@@ -1,0 +1,763 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST Reports First Results From Age Estimation Software Evaluation | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2024/05/nist-reports-first-results-age-estimation-software-evaluation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standard Reference Instruments (SRIs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Leadership
+
+
+Organization Structure
+
+
+Budget & Planning
+
+
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Student programs
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS
+
+
+
+NIST Reports First Results From Age Estimation Software Evaluation
+
+
+May 30, 2024
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Software algorithms that estimate a person’s age from a photo offer a potential way to control access to age-restricted activities without compromising privacy.
+NIST’s new report, its first on the topic in a decade, evaluates the capabilities of six algorithms, finding none that clearly outperforms the others. 
+Moving forward, the agency plans to update its evaluation results every four to six weeks, noting that artificial intelligence is expected to improve age estimation software capabilities.
+
+
+
+
+
+
+
+
+If a person (in this case, a NIST staff member) changes facial expression or wears and then removes eyeglasses, all six of the algorithms NIST evaluated give age estimates that vary around the person’s true age. With frames extracted from a cellphone video, algorithms give age estimates that remain above or below the subject's true age of 58, and that vary by a few years from frame to frame.
+
+
+Credit:
+          
+  P. Grother, N. Hanacek/NIST
+
+        
+
+
+A new study from the National Institute of Standards and Technology (NIST) evaluates the performance of software that estimates a person’s age based on the physical characteristics evident in a photo of their face. Such age estimation and verification (AEV) software might be used as a gatekeeper for activities that have an age restriction, such as purchasing alcohol or accessing mature content online.Age estimation has become an enabling technology in age assurance programs recently included in legislation and regulation both inside and outside the United States. These programs aim to permit only those in certain age groups to access social media chat rooms or to buy certain products both online and in the physical world and can be an important part of efforts to protect children online. The new NIST study, Face Analysis Technology Evaluation: Age Estimation and Verification (NIST IR 8525), evaluates the performance of six algorithms that developers provided voluntarily in response to a September 2023 call for submissions. According to Kayee Hanaoka, one of the study’s authors, the results show algorithms with varying capabilities. “There is a wide range in performance among these algorithms, with room for improvement across the board,” said Hanaoka, a NIST computer scientist. “This is a partial snapshot of the age estimation field as it stood in late 2023, but as AEV performance is closely tied to advancements in artificial intelligence, we expect the field to change rapidly.”The new study is NIST’s first foray into AEV evaluation in a decade and kicks off a new, long-term effort by the agency to perform frequent, regular tests of the technology. NIST last evaluated AEV software in 2014. At the time, Hanaoka said, there was far less interest in the technology, and the evaluation was a one-time effort. That test used a single database of about 6 million photos taken from visa applications and required algorithms only to provide an age estimate on each photo.Times have changed over the ensuing decade. Face analysis software has become sufficiently important that NIST has split its face recognition program into two tracks, one that evaluates algorithms’ ability to identify people (face recognition technology evaluation, or FRTE) and another that evaluates the ability to measure aspects of a face (face analysis technology evaluation, or FATE). The new test is part of the FATE track, which also has evaluations dedicated to detecting photo spoofs and measuring image quality.NIST’s new test expands its photo collection to about 11.5 million photos from four diverse databases, all from U.S. government sources: the visa collection used in 2014, augmented by a set of FBI mug shots, a set of webcam images obtained at border crossings, and a set of immigration application photos of people born in more than 100 countries. The photos from the databases differ in image quality and reflect a variety of ages, genders and regions of origin. All data was anonymized, and the research was reviewed to protect the rights and privacy of the photographed subjects. The test again evaluated algorithms on their accuracy at age estimation, but in response to software developers’ requests, the test also asked the algorithms to specify whether the person in the photo was over the age of 21. The test was a “closed box” study, in which NIST researchers analyzed only the algorithms’ end performance, not their inner workings or how they arrived at their results. NIST makes no recommendations on whether the software is fit for particular use cases.Hanaoka said that the report offers a few initial findings: There is no single standout algorithm, and a given algorithm’s accuracy is influenced by image quality, gender, region of birth, the age of the person in the photograph, and interactions among these factors. The algorithms all have their own sensitivities with certain demographic groups; an algorithm that performs well on certain groups can perform poorly on others. Unsurprisingly, AEV software has improved in the decade since the previous report. When making age estimates on the common database of visa photos (which was used in 2014 as well as in the current study), the algorithms’ mean absolute error has decreased from 4.3 to 3.1 years. Five of the six algorithms outperform the most accurate algorithm submitted in 2014. Error rates were almost always higher for female faces than for males. This was also true for the algorithms evaluated in 2014, but the underlying reasons are unknown.  The testing program is designed to be ongoing, and the study authors are accepting new algorithm submissions on a rolling basis. The team plans to release updates to this first round of results on its website once every four to six weeks, Hanaoka said. “We anticipate rapid change in the AEV software field, and we intend to update and expand our test methods in the near future,” she said. “We plan to ask the algorithms to answer additional questions, such as whether better performance is possible if a prior photo of the same person is available. We also are planning to expand and diversify the databases of photos as well to better cover applications like online safety.” All updates will be available on NIST’s AEV project website, and interested parties can receive status updates by emailing frvt-news+subscribe [at] list.nist.gov (frvt-news+subscribe[at]list[dot]nist[dot]gov).  
+
+
+
+
+
+Information technology, Artificial intelligence, Biometrics, Cybersecurity, Identity and access management and Video analytics
+
+
+
+
+
+
+
+
+Media Contact
+
+
+
+
+Chad Boutin
+
+charles.boutin@nist.gov
+
+
+    (301) 975-4261
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsInformation Technology LaboratoryInformation Access DivisionImage Group
+
+
+
+
+
+
+
+
+
+
+
+Related News
+
+
+What’s Wrong With This Picture? NIST Face Analysis Program Helps to Find Answers
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released May 30, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1029 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CrowdStrike sued by investors over massive global IT outage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+
+Featured
+Latest
+
+
+
+
+
+
+
+Hackers abuse free TryCloudflare to deliver remote access malware
+
+
+
+
+
+StackExchange abused to spread malicious PyPi packages as answers
+
+
+
+
+
+Microsoft says massive Azure outage was caused by DDoS attack
+
+
+
+
+
+FBI warns of scammers posing as crypto exchange employees
+
+
+
+
+
+
+
+
+
+Linux kernel impacted by new SLUBStick cross-cache attack
+
+
+
+
+
+Hackers breach ISP to poison software updates with malware
+
+
+
+
+
+Aspiring IT professionals can start with this $80 Microsoft course bundle
+
+
+
+
+
+US sues TikTok for violating children privacy protection laws
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Latest
+Popular
+
+
+
+
+
+
+
+How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11
+
+
+
+
+
+How to use the Windows Registry Editor
+
+
+
+
+
+How to backup and restore the Windows Registry
+
+
+
+
+
+How to open a Windows 11 Command Prompt as Administrator
+
+
+
+
+
+
+
+
+
+How to start Windows in Safe Mode
+
+
+
+
+
+How to remove a Trojan, Virus, Worm, or other Malware
+
+
+
+
+
+How to show hidden files in Windows 7
+
+
+
+
+
+How to see hidden files in Windows
+
+
+
+
+
+
+
+
+Virus Removal Guides
+
+
+
+Latest
+Most Viewed
+Ransomware
+
+
+
+
+
+
+
+Remove the Theonlinesearch.com Search Redirect
+
+
+
+
+
+Remove the Smartwebfinder.com Search Redirect
+
+
+
+
+
+How to remove the PBlock+ adware browser extension
+
+
+
+
+
+Remove the Toksearches.xyz Search Redirect
+
+
+
+
+
+
+
+
+
+Remove Security Tool and SecurityTool (Uninstall Guide)
+
+
+
+
+
+How to Remove WinFixer / Virtumonde / Msevents / Trojan.vundo
+
+
+
+
+
+How to remove Antivirus 2009 (Uninstall Instructions)
+
+
+
+
+
+How to remove Google Redirects or the TDSS, TDL3, or Alureon rootkit using TDSSKiller
+
+
+
+
+
+
+
+
+
+Locky Ransomware Information, Help Guide, and FAQ
+
+
+
+
+
+CryptoLocker Ransomware Information Guide and FAQ
+
+
+
+
+
+CryptorBit and HowDecrypt Information Guide and FAQ
+
+
+
+
+
+CryptoDefense and How_Decrypt Ransomware Information Guide and FAQ
+
+
+
+
+
+
+
+
+Downloads
+
+
+
+Latest
+Most Downloaded
+
+
+
+
+
+
+
+Qualys BrowserCheck
+
+
+
+
+
+STOPDecrypter
+
+
+
+
+
+AuroraDecrypter
+
+
+
+
+
+FilesLockerDecrypter
+
+
+
+
+
+
+
+
+
+AdwCleaner
+
+
+
+
+
+ComboFix
+
+
+
+
+
+RKill
+
+
+
+
+
+Junkware Removal Tool
+
+
+
+
+
+
+
+
+Deals
+
+
+
+Categories
+
+
+
+
+
+
+
+eLearning
+
+
+
+
+
+IT Certification Courses
+
+
+
+
+
+Gear + Gadgets
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+
+VPNs
+
+
+
+Popular
+
+
+
+
+
+
+
+Best VPNs
+
+
+
+
+
+How to change IP address
+
+
+
+
+
+Access the dark web safely
+
+
+
+
+
+Best VPN for YouTube
+
+
+
+
+
+
+
+
+Forums
+More
+
+Startup Database
+Uninstall Database
+Glossary
+Chat on Discord
+Send us a Tip!
+Welcome Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeNewsLegalCrowdStrike sued by investors over massive global IT outage
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CrowdStrike sued by investors over massive global IT outage
+
+
+By Bill Toulas
+
+
+August 2, 2024
+10:32 AM
+7
+
+
+
+
+Cybersecurity company CrowdStrike has been sued by investors who say it provided false claims about its Falcon platform after a bad security update led to a massive global IT outage causing the stock price to tumble almost 38%.
+The plaintiffs claim that the massive IT outage that occurred on July 19, 2024, proves CrowdStrike's claims that their cybersecurity platform is thoroughly tested and validated are false.
+As a result of this incident and its aftermath, CrowdStrike's stock price has tumbled almost 38% from $343 on July 18 to $214, causing significant financial losses to investors.
+The class action lawsuit submitted by the Plymouth County Retirement Association in the U.S. District Court of Austin, Texas, seeks compensatory damages for these losses.
+A bad update causes a global IT outage
+On July 19, Crowdstrike pushed out a faulty Falcon sensor update to Windows devices running the security software. The update slipped past Crowdstrike's internal tests due to a bug in its content validator and inadequate testing procedures.
+The update was received by 8,500,000 Windows devices, if not more, causing an out-of-bounds memory read when processed by Falcon, leading to the operating system crashing with Blue Screen of Death (BSOD).
+CrowdStrike is widely used in enterprises, including airports, hospitals, government organizations, the media, and financial firms, causing catastrophic, costly, and even dangerous IT outages.
+As restoring systems required staff to remove the faulty update manually, it took days for some companies to resume normal operations, leading to extended outages and delays.
+While most have returned to normal operations, the fallout from the incident continues to unfold on multiple levels, including elevated cybercrime activity, loss of trust, and litigation threats.
+According to the plaintiffs, the faulty Falcon update proved that contrary to CrowdStrike's assurances around the diligence in its procedures and the efficacy and reliability of the Falcon platform, updates were inadequately tested and controlled, and the risk of outages is high.
+The class action alleges that stockholders were defrauded by CrowdStrike's knowingly false statements about the quality of its products and procedures.
+"Because of their positions and access to material, nonpublic information, the Individual Defendants knew or recklessly disregarded that the adverse facts specified herein had not been disclosed to and were being concealed from the investing public and that the positive representations that were being made were false and misleading." – Class action document.
+To reflect the extent of the losses, the lawsuit mentions that the CrowdStrike stock price fell by 11% on the day of the incident, then another 13.5% on July 22, when Congress called CEO George Kurtz for a testimony, and another 10% on July 29 following news that Delta Airlines, one of the impacted entities, hire an attorney to seek damages.
+The plaintiff alleges violations of Sections 10(b) and 20(a) of the Exchange Act and seeks compensation.
+Financial impact
+The IT outage caused by the CrowdStrike Falcon update has caused massive financial losses to impacted organizations, with many of them exploring litigation pathways to get some of it back.
+Delta Airlines CEO Ed Bastian previously stated that the outage forced the cancellation of 2,200 flights for the company, resulting in losses estimated at $500,000,000.
+The firm has already hired a law firm that will seek compensation from CrowdStrike and Microsoft, which is now in the crosshairs despite not being responsible for the incident.
+Market analysts estimate that the outage has caused big enterprises $5.4 billion in losses.
+A report by Guy Carpenter projects the estimated insured losses resulting from the bad Falcon update to be between $300 million and $1 billion, while CyberCube have raised the figure to $1.5 billion.
+
+Related Articles:
+CrowdStrike: 'Content Validator' bug let faulty update pass checksFake CrowdStrike fixes target companies with malware, data wipersCrowdStrike update crashes Windows systems, causes outages worldwideMicrosoft confirms CrowdStrike update also hit Windows 365 PCsGoogle fixes Chrome Password Manager bug that hides credentials
+
+
+
+
+
+
+
+
+Class Action Lawsuit
+CrowdStrike
+Lawsuits
+Legal
+Outage
+Update
+Windows
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bill Toulas   
+Bill Toulas is a tech writer and infosec news reporter with over a decade of experience working on various online publications, covering open-source, Linux, malware, data breach incidents, and hacks.
+
+
+
+ Previous Article 
+Next Article 
+
+
+Comments
+
+
+ 
+
+
+
+
+PXAbstraction  - 2 days ago 
+
+ 
+ 
+
+
+Delta suing Microsoft is dumb and a waste of their time and money. It's the equivalent of suing the maker of the car a drunk driver hit you with.
+
+
+
+
+
+ 
+
+
+
+
+ZeroYourHero  - 1 day ago 
+
+ 
+ 
+
+
+Well, if the car had a plastic frame when it should've had metal one it makes sense. The biggest problem in fixing the CrowdStrike bug was the WinRE environments that couldn't even connect to their own C: drives. If they fail to connect using "safe" drivers then they should fall back to the current ones that the system uses to boot the kernel.
+
+
+
+
+
+ 
+
+
+
+
+GT500  - 1 day ago 
+
+ 
+ 
+
+
+Or you could just use a Linux boot disk... Or use one of the third-party tools to build your own Windows PE disk with all the drivers you think you'll need...
+I think the real issue here is IT teams that don't properly plan for failures and outages. These are tools that an IT team should already have on hand and ready to go, and not things they should be rushing to figure out in a panic when systems are down.
+
+
+
+
+
+ 
+
+
+
+
+deltasierra  - 1 day ago 
+
+ 
+ 
+
+
+"Or you could just use a Linux boot disk... Or use one of the third-party tools to build your own Windows PE disk with all the drivers you think you'll need...
+I think the real issue here is IT teams that don't properly plan for failures and outages. These are tools that an IT team should already have on hand and ready to go, and not things they should be rushing to figure out in a panic when systems are down."
+I agree. A bootable Windows install media thumb drive is an absolutely essentially tool, and adding Linux live ones to the mix is even better. It's too bad it didn't happen in smaller numbers to validate IT's response planning and capabilities. When did IT get so lax? Windows has never been a mission-critical reliable OS, so this shouldn't be surprising.
+As for Delta, I assume the ticket information wasn't affected (not on Windows Servers), so it'd just be a matter of having alternative means to processing boarding passes and other parts of air travel, e.g. security, baggage check, etc.
+Oh, and your fancy "cyber" insurance or other types of insurance don't cover these losses? So many orgs have a false sense of security because they have cyber insurance. I guess no one was paying attention to the carve-outs. Sorry but your best insurance policy is to adequately fund and staff IT to build a cyber-resilient organization.
+
+
+
+
+
+ 
+
+
+
+
+ZeroYourHero  - 1 day ago 
+
+ 
+ 
+
+
+Having said that, I think they're bringing in Microsoft because they have much deeper pockets than CrowdStrike does.
+
+
+
+
+
+ 
+
+
+
+
+DyingCrow  - 1 day ago 
+
+ 
+ 
+
+
+Ouch...
+
+
+
+
+
+ 
+
+
+
+
+Elastoer  - 9 hours ago 
+
+ 
+ 
+
+
+I live under a rock because I did not find out about the cloud strike problem until hours after it had occurred.
+
+
+
+
+
+Post a Comment Community Rules
+
+You need to login in order to post a comment
+Not a member yet? Register Now
+
+
+
+You may also like:
+
+
+
+
+
+
+
+
+
+
+
+Popular Stories
+
+
+
+
+
+
+Google Chrome warns uBlock Origin may soon be disabled
+
+
+
+
+
+
+
+Hackers breach ISP to poison software updates with malware
+
+
+
+
+
+
+
+
+
+
+Latest Downloads
+
+
+
+
+AdwCleaner
+Version: 8.4.2.0
+56M+ Downloads
+
+
+
+
+Malwarebytes Anti-Malware
+Version: 5.1.6.117
+5M+ Downloads
+
+
+
+
+Speccy
+Version: 1.33.075
+54,717 Downloads
+
+
+
+
+PuTTY
+Version: 0.81
+42,385 Downloads
+
+
+
+
+BitDefender Uninstall Tool
+Version: NA
+103,644 Downloads
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow us:
+
+
+
+
+
+
+
+
+
+Main Sections
+
+News
+VPN Buyer Guides
+SysAdmin Software Guides
+Downloads
+Virus Removal Guides
+Tutorials
+Startup Database
+Uninstall Database
+Glossary
+
+
+
+Community
+
+Forums
+Forum Rules
+Chat
+
+
+
+Useful Resources
+
+Welcome Guide
+Sitemap
+
+
+
+Company
+
+About BleepingComputer
+Contact Us
+Send us a Tip!
+Advertising
+Write for BleepingComputer
+Social & Feeds
+Changelog
+
+
+
+
+
+
+
+
+Terms of Use -  Privacy Policy - Ethics Statement - Affiliate Disclosure
+
+
+Copyright @ 2003 - 2024  Bleeping Computer® LLC  - All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+
+Login
+
+
+Username
+
+
+
+Password
+
+
+
+
+
+Remember Me
+
+
+
+Sign in anonymously
+
+
+
+
+
+ Sign in with Twitter
+
+Not a member yet? Register Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Reporter
+
+Help us understand the problem. What is going on with this comment?
+
+
+
+
+Spam
+
+
+Abusive or Harmful
+
+
+Inappropriate content
+
+
+Strong language
+
+
+Other
+
+
+
+
+
+Read our posting guidelinese to learn what content is prohibited.
+
+
+
+Submitting...
+SUBMIT
+
+
+
+
+
+
+
+
+
+
+

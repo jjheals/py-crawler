@@ -1,0 +1,758 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST Hosts Annual Meeting on Future Internet Architecture | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2024/05/nist-hosts-annual-meeting-future-internet-architecture
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standard Reference Instruments (SRIs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Leadership
+
+
+Organization Structure
+
+
+Budget & Planning
+
+
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Student programs
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UPDATES
+
+
+
+NIST Hosts Annual Meeting on Future Internet Architecture
+
+
+May 1, 2024
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  CTL
+
+        
+
+
+
+On 6-7 March 2024, NIST conducted the Named Data Networking (NDN) Community Meeting 2024 as a hybrid event, held at NIST’s National Cybersecurity Center of Excellence in Rockville, MD, and online. The meeting, organized by NIST’s Lotfi Benmohamed and Davide Pesavento and external colleagues, is held annually and brings together researchers in the NDN community, which seeks an evolution from today's host-centric Internet architecture to a data-centric network architecture. Industry participation at this event included C-3 Comm Systems, Dell Technologies, OpenCommons, Operant Networks, Peraton Labs, and Tata Communications.Researchers presented on a range of NDN-related issues, including:Emerging Applications: Researchers discussed the important roles of names in developing applications running over NDN, how to support interoperability of secure web objects that is protocol- and application-independent, and how to leverage NDN principles for providing better foundations for hypermedia applications in the future web.NDN for AI: Researchers demonstrated how a NDN-based data-centric collective communication can be used as the first building block of NDN for AI.Analyzing NDN and MQTT Performance for Industrial IoT (IIoT) Scenarios: Researchers reported that IIoT environments would benefit from a decentralized communication pattern, to support publishers and subscribers in a many-to-many asynchronous data exchange, which NDN provides.Traffic Measurement on the Global NDN Testbed: NIST researchers discussed their traffic measurement work, which resulted in the first non-synthetic dataset of NDN traffic traces, captured directly from the actual routers of the NDN testbed, and made available to the research community.NDN 2024 Community Meeting panel sessions also addressed the following topics:Building an Open-Source Ecosystem Around NDN: This panel brought together experts from industry and academia to discuss the exciting opportunities and unique challenges associated with the transition of NDN from an academic research project to an Open-Source Ecosystem that needs to be nurtured and managed.From Local-First to Fully Decentralized Applications: Panelists discussed challenges in building secure, resilient, easy to use, and deployed codebase with well-defined API to facilitate new generations of decentralized applications.Present and Future of Network Security Framework: As network security remains one of the biggest challenges on the Internet, panelists discussed the scope of today’s network security solutions, and the potential for a comprehensive security framework for future security needs.Recordings of the meeting as well as presentation abstracts are available online.
+
+
+
+
+
+Advanced communications, Information technology, Artificial intelligence, Applied AI, Machine learning, Cloud computing and virtualization, Cyber-physical systems, Data and informatics, Information retrieval, Internet of Things (IoT), Networking, Mobile and wireless networking, Network management and monitoring, Network modeling and analysis, Network security and robustness, Network test and measurement, Next generation networks, Protocol design and standardization, Software defined and virtual networks and Infrastructure
+
+
+
+
+
+
+
+
+Technical Contact
+
+
+
+
+Lotfi Benmohamed
+
+lotfi.benmohamed@nist.gov
+
+
+    (301) 975-3650
+  
+
+
+Davide Pesavento
+
+davide.pesavento@nist.gov
+
+
+    (301) 975-0462
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsCommunications Technology LaboratorySmart Connected Systems DivisionTransformational Networks and Services Group
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released May 1, 2024, Updated July 15, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

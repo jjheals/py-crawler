@@ -1,0 +1,741 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST Launches ARIA, a New Program to Advance Sociotechnical Testing and Evaluation for AI | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2024/05/nist-launches-aria-new-program-advance-sociotechnical-testing-and
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standard Reference Instruments (SRIs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Leadership
+
+
+Organization Structure
+
+
+Budget & Planning
+
+
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Student programs
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS
+
+
+
+NIST Launches ARIA, a New Program to Advance Sociotechnical Testing and Evaluation for AI
+
+
+May 28, 2024
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST’s new Assessing Risks and Impacts of AI (ARIA) program will assess the societal risks and impacts of artificial intelligence systems (i.e., what happens when people interact with AI regularly in realistic settings). 
+The program will help develop ways to quantify how a system functions within societal contexts once it is deployed. 
+ARIA’s results will support the U.S. AI Safety Institute’s testing to help build the foundation for trustworthy AI systems. 
+
+
+
+
+The National Institute of Standards and Technology (NIST) is launching a new testing, evaluation, validation and verification (TEVV) program intended to help improve understanding of artificial intelligence’s capabilities and impacts. Assessing Risks and Impacts of AI (ARIA) aims to help organizations and individuals determine whether a given AI technology will be valid, reliable, safe, secure, private and fair once deployed. The program comes shortly after several recent announcements by NIST around the 180-day mark of the Executive Order on trustworthy AI and the U.S. AI Safety Institute’s unveiling of its strategic vision and international safety network.“In order to fully understand the impacts AI is having and will have on our society, we need to test how AI functions in realistic scenarios — and that’s exactly what we’re doing with this program,” said U.S. Commerce Secretary Gina Raimondo. “With the ARIA program, and other efforts to support Commerce’s responsibilities under President Biden’s Executive Order on AI, NIST and the U.S. AI Safety Institute are pulling every lever when it comes to mitigating the risks and maximizing the benefits of AI.”“The ARIA program is designed to meet real-world needs as the use of AI technology grows,” said Under Secretary of Commerce for Standards and Technology and NIST Director Laurie E. Locascio. “This new effort will support the U.S. AI Safety Institute, expand NIST’s already broad engagement with the research community, and help establish reliable methods for testing and evaluating AI’s functionality in the real world.”ARIA expands on the AI Risk Management Framework, which NIST released in January 2023, and helps to operationalize the framework’s risk measurement function, which recommends that quantitative and qualitative techniques be used to analyze and monitor AI risk and impacts. ARIA will help assess those risks and impacts by developing a new set of methodologies and metrics for quantifying how well a system maintains safe functionality within societal contexts.“Measuring impacts is about more than how well a model functions in a laboratory setting,” said Reva Schwartz, NIST Information Technology Lab’s ARIA program lead. “ARIA will consider AI beyond the model and assess systems in context, including what happens when people interact with AI technology in realistic settings under regular use. This gives a broader, more holistic view of the net effects of these technologies.”The results of ARIA will support and inform NIST’s collective efforts, including through the U.S. AI Safety Institute, to build the foundation for safe, secure and trustworthy AI systems. 
+
+
+
+
+
+Information technology and Artificial intelligence
+
+
+
+
+
+
+
+
+Media Contact
+
+
+
+
+Chad Boutin
+
+charles.boutin@nist.gov
+
+
+    (301) 975-4261
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsInformation Technology LaboratoryInformation Technology Laboratory OfficeOffice of Emerging Technologies
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released May 28, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

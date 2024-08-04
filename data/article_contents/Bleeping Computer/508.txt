@@ -1,0 +1,868 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Xerox says subsidiary XBS U.S. breached after ransomware gang leaks data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+
+Featured
+Latest
+
+
+
+
+
+
+
+New Black Basta decryptor exploits ransomware flaw to recover files
+
+
+
+
+
+Malware abuses Google OAuth endpoint to ‘revive’ cookies, hijack accounts
+
+
+
+
+
+Hospitals ask courts to force cloud storage firm to return stolen data
+
+
+
+
+
+Microsoft disables MSIX protocol handler abused in malware attacks
+
+
+
+
+
+
+
+
+
+Xerox says subsidiary XBS U.S. breached after ransomware gang leaks data
+
+
+
+
+
+ Google Groups is ending support for Usenet to combat spam
+
+
+
+
+
+Victoria court recordings exposed in reported ransomware attack
+
+
+
+
+
+Get started in ethical hacking with $155 off this course bundle deal
+
+
+
+
+
+
+
+
+Downloads
+
+
+
+Latest
+Most Downloaded
+
+
+
+
+
+
+
+Qualys BrowserCheck
+
+
+
+
+
+STOPDecrypter
+
+
+
+
+
+AuroraDecrypter
+
+
+
+
+
+FilesLockerDecrypter
+
+
+
+
+
+
+
+
+
+AdwCleaner
+
+
+
+
+
+ComboFix
+
+
+
+
+
+RKill
+
+
+
+
+
+Junkware Removal Tool
+
+
+
+
+
+
+
+
+VPNs
+
+
+
+Popular
+
+
+
+
+
+
+
+Best VPNs
+
+
+
+
+
+How to change IP address
+
+
+
+
+
+Access the dark web safely
+
+
+
+
+
+Best VPN for YouTube
+
+
+
+
+
+
+
+
+Virus Removal Guides
+
+
+
+Latest
+Most Viewed
+Ransomware
+
+
+
+
+
+
+
+Remove the Theonlinesearch.com Search Redirect
+
+
+
+
+
+Remove the Smartwebfinder.com Search Redirect
+
+
+
+
+
+How to remove the PBlock+ adware browser extension
+
+
+
+
+
+Remove the Toksearches.xyz Search Redirect
+
+
+
+
+
+
+
+
+
+Remove Security Tool and SecurityTool (Uninstall Guide)
+
+
+
+
+
+How to Remove WinFixer / Virtumonde / Msevents / Trojan.vundo
+
+
+
+
+
+How to remove Antivirus 2009 (Uninstall Instructions)
+
+
+
+
+
+How to remove Google Redirects or the TDSS, TDL3, or Alureon rootkit using TDSSKiller
+
+
+
+
+
+
+
+
+
+Locky Ransomware Information, Help Guide, and FAQ
+
+
+
+
+
+CryptoLocker Ransomware Information Guide and FAQ
+
+
+
+
+
+CryptorBit and HowDecrypt Information Guide and FAQ
+
+
+
+
+
+CryptoDefense and How_Decrypt Ransomware Information Guide and FAQ
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Latest
+Popular
+
+
+
+
+
+
+
+How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11
+
+
+
+
+
+How to use the Windows Registry Editor
+
+
+
+
+
+How to backup and restore the Windows Registry
+
+
+
+
+
+How to open a Windows 11 Command Prompt as Administrator
+
+
+
+
+
+
+
+
+
+How to start Windows in Safe Mode
+
+
+
+
+
+How to remove a Trojan, Virus, Worm, or other Malware
+
+
+
+
+
+How to show hidden files in Windows 7
+
+
+
+
+
+How to see hidden files in Windows
+
+
+
+
+
+
+
+
+Deals
+
+
+
+Categories
+
+
+
+
+
+
+
+eLearning
+
+
+
+
+
+IT Certification Courses
+
+
+
+
+
+Gear + Gadgets
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+
+Forums
+More
+
+Startup Database
+Uninstall Database
+Glossary
+Chat on Discord
+Send us a Tip!
+Welcome Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeNewsSecurityXerox says subsidiary XBS U.S. breached after ransomware gang leaks data
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Xerox says subsidiary XBS U.S. breached after ransomware gang leaks data
+
+
+By Bill Toulas
+
+
+
+
+January 2, 2024
+12:29 PM
+0
+
+
+
+
+
+The U.S. division of Xerox Business Solutions (XBS) has been compromised by hackers with a limited amount of personal information possibly exposed, according to a statement by the parent company, Xerox Corporation.
+XBS specializes in document technology and services, providing various products, including printers, copiers, digital printing systems, and associated consultation and supply services.
+INC Ransom ransomware gang added the corporation to its extortion portal on December 29, claiming to have stolen sensitive data and confidential documents from its systems.
+After contacting Xerox about the security incident, the company shared a statement with BleepingComputer over the weekend.
+"Recently, Xerox's subsidiary, Xerox Business Solutions, which was detected and contained by Xerox cybersecurity personnel," Xerox said in a statement shared with BleepingComputer.
+"The event was limited to XBS U.S. We are actively working with third-party cybersecurity experts to conduct a thorough investigation into this incident and are taking necessary steps to further secure the XBS IT environment."
+The company says that the attack has had no impact on the Xerox's or XBS' operations. However, a preliminary investigation has indicated that limited personal information was exposed in the attack.
+The data samples shared on the INC Ransom data leak site include email communications (with content and addresses exposed), payment details, invoices, filled-out request forms, and purchase orders.
+
+Xerox listed on the INC Ransom data leak siteSource: @omvapt
+The threat actors may hold data on multiple XBS clients, partners, and employees, but the extent of the breach remains unknown at this time.
+Xerox assures it will notify all affected individuals confirmed to have been impacted by this incident.
+BleepingComputer has noticed that the Xerox entry has been removed from INC Ransom's leak portal for unknown reasons, usually indicative of resumed negotiations between a victim and the threat actors.
+Xerox had previously suffered a ransomware attack in the summer of 2020, when the Maze ransomware group added the company to its list of victims, threatening to publish over 100GB of stolen data.
+
+Related Articles:
+Integris Health patients get extortion emails after cyberattackVictoria court recordings exposed in reported ransomware attackThe biggest cybersecurity and cyberattack stories of 2023Panasonic discloses data breach after December 2022 cyberattackNissan Australia cyberattack claimed by Akira ransomware gang
+
+
+
+
+
+
+
+
+
+
+
+Cyberattack
+Data Breach
+INC Ransomware
+Ransomware
+XBS US
+Xerox
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bill Toulas   
+Bill Toulas is a tech writer and infosec news reporter with over a decade of experience working on various online publications, covering open-source, Linux, malware, data breach incidents, and hacks.
+
+
+
+
+ Previous Article 
+
+
+
+Post a Comment Community Rules
+
+You need to login in order to post a comment
+
+Not a member yet? Register Now
+
+
+
+You may also like:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Popular Stories
+
+
+
+
+
+
+Android game dev’s Google Drive misconfig highlights cloud security risks
+
+
+
+
+
+
+
+The biggest cybersecurity and cyberattack stories of 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow us:
+
+
+
+
+
+
+
+
+
+Main Sections
+
+News
+VPN Buyer Guides
+Downloads
+Virus Removal Guides
+Tutorials
+Startup Database
+Uninstall Database
+Glossary
+
+
+
+Community
+
+Forums
+Forum Rules
+Chat
+
+
+
+Useful Resources
+
+Welcome Guide
+Sitemap
+
+
+
+Company
+
+About BleepingComputer
+Contact Us
+Send us a Tip!
+Advertising
+Write for BleepingComputer
+Social & Feeds
+Changelog
+
+
+
+
+
+
+
+
+Terms of Use -  Privacy Policy - Ethics Statement - Affiliate Disclosure
+
+
+Copyright @ 2003 - 2024  Bleeping Computer® LLC  - All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+
+Login
+
+
+Username
+
+
+
+Password
+
+
+
+
+
+Remember Me
+
+
+
+Sign in anonymously
+
+
+
+
+
+ Sign in with Twitter
+
+Not a member yet? Register Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Reporter
+
+Help us understand the problem. What is going on with this comment?
+
+
+
+
+Spam
+
+
+Abusive or Harmful
+
+
+Inappropriate content
+
+
+Strong language
+
+
+Other
+
+
+
+
+
+Read our posting guidelinese to learn what content is prohibited.
+
+
+
+Submitting...
+SUBMIT
+
+
+
+
+
+
+
+
+
+
+

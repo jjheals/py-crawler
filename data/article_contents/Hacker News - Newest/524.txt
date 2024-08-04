@@ -1,0 +1,511 @@
+
+
+
+
+The human cost of 2023’s devastating game industry layoffs - Polygon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+clock
+menu
+more-arrow
+no
+yes
+mobile
+
+
+
+
+
+
+
+
+
+
+
+
+
+poly-lt-wire-logo
+
+
+
+
+
+Filed under:
+
+
+
+Feature
+
+
+
+
+Video game company layoffs are creating an industry crisis
+‘People were just an expense. They don’t necessarily care about the human impact’
+
+
+    
+      By
+      
+Nicole Carpenter@sweetpotatoes
+
+
+
+  Nov 21, 2023,  9:00am EST
+
+
+
+
+
+
+
+      / 
+new
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Illustration by William Joel/Polygon | Images: Shutterstock
+
+
+
+
+
+
+
+Share this story
+
+
+
+
+Share this on Facebook
+
+
+
+
+
+
+
+
+
+
+Share this on Reddit
+
+
+
+
+
+
+
+
+Share
+All sharing options
+
+
+
+
+
+
+Share
+All sharing options for:
+Video game company layoffs are creating an industry crisis
+
+
+
+
+
+
+
+
+
+
+
+
+Reddit
+
+
+
+
+
+
+
+Pocket
+
+
+
+
+
+
+
+
+
+Flipboard
+
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+Nicole Carpenter
+        is a senior reporter specializing in investigative features about labor issues in the game industry, as well as the business and culture of games.
+      
+
+
+
+
+Developers at Palia studio Singularity Six were still celebrating a successful early access launch when a surprising announcement was made: The company was laying off around 10% of its workers. Though the game is a cozy life simulator, layoffs were something that was “not so cozy,” as a Singularity Six leader had called parts of game development in a previous meeting, according to two workers.
+Singularity Six is just one of the dozens of game companies that laid off workers in 2023, and its workers are among the thousands of people who lost their jobs this year. Only days after ringing in the new year, layoff announcements started rolling in: Wizards of the Coast canceled multiple projects and laid off a dozen people; game engine maker Unity Technologies cut 300 people; Microsoft laid off a staggering 10,000 people, which impacted both Starfield’s Bethesda Game Studios and Halo Infinite’s 343 Industries. The bad news just kept coming as the year progressed, as studios both big and small axed jobs — Digital Extremes, Epic Games, Telltale Games, BioWare, Bungie, CD Projekt Red, Ascendant Studios, Electronic Arts, Embracer Group and Volition, Amazon’s games division, and too many more. 
+Though there isn’t clear data on how 2023’s disastrous layoffs compare to other years, game developers Polygon spoke to agree: This has been one of the worst years for workers in a long, long time. (Polygon interviewed more than a dozen game developers for this story.) Unofficial trackers suggest more than 7,000 video game workers have been laid off in 2023; for comparison, another community-driven list suggested there were roughly 1,000 in 2022. The nearby tech industry has seen a 716% increase in layoffs announced year over year, too, according to research firm Challenger Gray & Christmas.
+
+
+    Related
+  
+Gaming conglomerate Embracer laid off 900 people as net sales rise, more cuts to come
+
+
+“This is not just one individual company,” video game producer Shayna Moon told Polygon. “This is our entire industry. The current situation is not debatable.”
+“Paired with tight economic conditions, the impact of layoffs has been amplified by reduced hiring and increased job competition,” said International Game Developers Association executive director Dr. Jakin Vela in an interview with Polygon. “This has been one of the most volatile periods in the games industry in the last 15 years.” Vela said that the IGDA is “deeply concerned” about the layoffs.
+But why have there been so many layoffs this year? Studios have provided similar kinds of statements about laying off workers: We’re very sad to see our employees go, but we’ve had to make hard decisions during this economic downturn. Sometimes an executive will blame it on a lack of sales or player numbers, like a dwindling player base for Destiny 2 or poor sales with Immortals of Aveum, which was out for mere weeks before Ascendant Studios laid off half of its staff. Epic Games, which cut its workforce by 800 people, pointed to overspending. “For a while now, we’ve been spending way more money than we earn,” CEO Tim Sweeney said. Regardless of the details that led to this moment, the current picture is clear: Thousands of people have lost their jobs, plunging a massive group of people into instability and flooding the market with lots of qualified, established game developers looking for work.
+ 
+
+
+
+
+
+
+
+
+
+Image: Ascendant Studios/Electronic Arts
+
+
+
+“Many factors have contributed to the significant amount of layoffs developers have faced in 2023,” Vela said. “For example, large investments in games in 2021 and 2022 encouraged expansion at an accelerated yet unsustainable rate.” During that time period, video game companies had benefited from pandemic-driven interest in gaming, driving sales to everything from consoles and games to accessories, increasing profits. 
+Aubrey Quinn, senior vice president of communications for the Entertainment Software Association, agreed: The industry expanded in 2020 and 2021 during the COVID-19 pandemic, adding up to be worth $56.6 billion in 2022, she said. That’s a level of growth that no other entertainment industry has matched. “What we’re seeing now is that the market is stabilizing,” Quinn added.
+“Layoffs suck — I don’t care who you are”
+Vela highlighted that struggling companies have it way easier than the individuals they’re laying off: “Now that investments have slowed down, companies have readjusted their spending to accommodate tighter budgets. Additionally, the industry is facing rising costs due to inflation and increased interest rates. Worse yet, the current economic conditions are most disruptive for individuals who don’t benefit from major tax incentives or breaks that companies may have.”
+The precarity of the industry, coming off several years of massive success, has created a crisis for game developers. In 2022, the industry was trending slightly downward revenue-wise, according to Reuters, but it’s expected to grow again this year. That may come as a relief to executives and stockholders — but the industry’s workers still suffer.
+A lack of transparency leads to far more pain 
+“Layoffs suck — I don’t care who you are,” said Take This clinic director Dr. Raffael Boccamazzo. “Whether you’re the person who’s been laid off, whether you’re the person who has to deliver the news, or whether you’re somebody who still remains at the company with added pressures. They have negative effects [on people].” Often, Boccamazzo said, the negative impacts of layoffs come down to the “perception of justice” in terms of how the layoffs are handled. 
+A company that’s transparent with its employees ahead of layoffs — or one that lets employees know layoffs may be coming, but that the company is trying to mitigate the loss — leaves people in a better position in terms of their mental health. The alternative, said Boccamazzo, is much worse: “You go to work thinking it’s a regular day like anything else, swipe your card, and you can’t get into the building,” he said. “Both result in layoffs, but both have the potential to result in very different mental health outcomes, both in the people who are laid off and the people who remain, because of that perception of justice and dignity.”
+ 
+
+
+
+
+
+
+
+
+
+Image: Epic Games
+
+
+
+For many of the developers Polygon spoke to, the lack of clarity and communication around layoffs has made a bad situation even worse. On Sept. 28, Fortnite and Unreal Engine maker Epic Games announced it was laying off more than 800 employees — 16% of the company. The night prior, current and former Epic Games employees told Polygon, a mystery meeting got added to everyone’s work calendar. There was no information included, except for a directive: Cancel any meetings that conflict with this one, because this one is mandatory. “I jokingly messaged my team and was like, ‘I don’t feel good about this meeting. Is this how we find out we’re all getting fired?’” 
+
+
+    Related
+  
+Fortnite maker Epic Games, worth billions, cuts its staff by 16%
+
+
+Another former employee said they started to panic when they first saw the meeting and its accompanying email; however, other team members didn’t assume it was a layoff, and posited the meeting might be about Epic Games’ ongoing legal battles. “Thursday rolls around — a totally normal day,” the former employee said. “I have my morning meetings, my standup. No one knows what the meeting is about, but everyone thinks it’s fine. There was not a singular whisper from my experience about layoffs.” 
+Right before the meeting began, though, the truth became clear. Epic Games suddenly shut down the entire company’s Slack workspace, which is its primary communication method. Then, the calendar event’s title was changed: It was officially a meeting about layoffs. “I was the only one who received that email,” the worker said. “The people who were with me did not. I just stared at it and started crying.”
+The toll of crunch culture
+Working in the video game industry is notoriously difficult. Some companies demand “crunch” time, where people work even longer hours in the lead-up to a project. The industry has also been grappling with a pervasive culture of sexism and gender discrimination, as well as its overall lack of diversity across gender and racial demographics. The game industry is also typically referred to as a “passion industry,” because people who make games often love the games they make; companies can and do exploit that passion for profit. 
+Doing work in creative and other “passion” industries can feel so personal, because making art is personal. It makes a job feel like more than just a title, but like a defining part of a person. That culture of dedication to the craft of making video games makes it easy for developers to get wrapped up in their work, making a layoff even more demoralizing. 
+“People are getting cut into shark-infested waters”
+“Some people are even questioning their identities,” Boccamazzo said. “There’s so much passion that goes into making games. I’ve been around a lot of creative professions, and I think the passion that goes into making games is unique. It becomes a part of [people’s] identities — they make games, they’re a game dev. And so the loss of the job is not just the loss of a job and financial stability, it’s also a threat to self-identity in a lot of cases.”
+Workers at both Immortals of Aveum developer Ascendant Studios and Palia studio Singularity Six reported crunch hours leading up to the games’ releases — after which point they were unceremoniously laid off. It felt like a betrayal, for some developers, that their company had treated them in such a way so soon after they had completed all that work. It didn’t help, either, that days after laying off nearly half its staff, Ascendant Studios patted itself on the back for its successes during Epic Games’ Unreal Fest, workers said. Loyalty to a company doesn’t make workers immune to layoffs; BioWare, for instance, laid off 20-plus-year veterans earlier this year. (Some of those 50 laid off employees are now suing the company for adequate severance pay, tied to their tenure.) 
+Two Epic Games employees laid off in October found it particularly painful when they saw that, weeks after they were laid off alongside hundreds of others, Epic Games was boasting about its record-breaking player base — 44.7 million players logged into Fortnite on Nov. 4. 
+“Painful would be the word, to see people out there celebrating this product that just screwed you over,” one former Epic Games worker said. “I wasn’t on the Fortnite team, but I can’t imagine having to see a thing you actually worked on, that you were just snatched away from, being praised and celebrated for breaking records. And here you can’t find a job. It speaks to how little the people that are actually doing the work matter.”
+Game developers are on a never-ending job hunt
+As thousands of newly laid off developers are flooding the job market, the competition for remaining jobs has intensified, especially in the generally tumultuous time period after the height of the COVID-19 pandemic. “People are dealing with inflation, we’re dealing with other economic factors,” Moon said. “People are getting cut into shark-infested waters.”
+One game developer who got laid off from Sega earlier this year told Polygon that he has since applied to more than 600 jobs — roughly three per day since he was let go eight months ago. He says there are times he spends all day applying for jobs. “I’ve never been unemployed before,” he said. “It’s a very traumatic experience — and I had it better than a lot of people. I had a cushion. I was given severance.” 
+And that isn’t a unique experience. Other developers told Polygon they’ve submitted dozens to hundreds of applications since getting laid off; applying for work is a full-time job. So many of these job applications go unanswered, while a lucky few get pulled into second- and third-round interviews. Several of the people Polygon spoke to have found new jobs, but the majority are still looking, and they expect to be continuing to apply into next year as hiring slows down for the holidays. One developer told Polygon that they’ve never been looking for a job at the same time as so many of their friends before. 
+
+
+    Related
+  
+Saints Row studio Volition shut down by Embracer
+
+
+“It feels like there’s thousands of us competing for a handful of jobs,” a former Epic Games employee told Polygon. One person laid off from Volition, which shut down its entire studio, said he got a rejection from one job within a speedy 10 minutes. “I was like, Oh,” he said.
+There isn’t comprehensive data on how layoffs are distributed across fields within the video game industry, but community management is one area that appears to have been hit hard. A laid-off community manager who worked for an independent company told Polygon that community management can be seen as entry-level work, underpaid and underappreciated like QA workers often are. “It’s usually seen as a good way to cut costs when layoffs come around,” she said — fewer salaries to pay while still keeping game development on track. Beyond job positions, women and other marginalized people are often disproportionately impacted by layoffs in the tech industry, according to analysis reported by Axios.
+If this is unsustainable, then what’s next?
+Video game workers are paying for the mismanagement of leadership; video game executives aren’t seeing the same hits to their jobs and compensation. For instance, Electronic Arts laid off more than 700 employees in March as $1.3 billion in gross profits were reported in the previous fiscal quarter; even CEO Andrew Wilson said at the time that EA was “operating from a position of strength” as he takes home an estimated $20.7 million in total compensation in 2023. (That number, however, is down from the more than $39 million he received in total compensation in 2021.) Epic Games CEO Tim Sweeney’s salary isn’t public, but he’s estimated to be worth almost $10 billion, according to Bloomberg’s billionaire index, thanks to Epic Games stock. It’s safe to say Sweeney is not living paycheck to paycheck.
+The game industry’s growth over the past few years inevitably had to slow, but during that time, executives clearly incentivized short-term profit over long-term stability and the value of their workers. “A lot of reckless expansion of game monopolies has caught up to [the industry],” former Volition mission designer Alex Cline told Polygon. “Embracer owns a large part of the industry. Tencent owns a large percentage. We have huge consolidation of labor and IP. When you’re trying to get as much money as possible — if that’s ultimately your fundamental goal — then you’ve got to remove some expenses there. People were just an expense. They don’t necessarily care about the human impact.”
+ 
+
+
+
+
+
+
+
+
+
+Photo: Gritchen/MediaNews Group/Orange County Register via Getty Images
+
+
+
+Most of the people Polygon spoke to for this story said that something needs to change. Several pointed to collective action on the part of workers, whether that means unionizing or pulling together to demand change in some other way. Unions can’t prevent layoffs, but they could help workers in securing more transparency at work. And if layoffs do happen, a union can be there — with legal support — to ensure that compensation and severance are adequate. The way forward for the industry, said workers, is to think about people over profit.
+Though the game industry is a relatively young one, the systems in place have a deep chokehold, and change isn’t going to happen overnight. Change is coming — there are many more unions in the industry now, and even more incoming as workers organize themselves. That may not be much help to the people already laid off, but it brings hope for the future.
+“The saddest thing I noticed is people who are younger and haven’t gone through this before who think this is their fault,” one former Singularity Six worker said. “It’s not their fault. They didn’t do anything wrong. There wasn’t anything better they could have done. They didn’t fail in some way. There’s nothing wrong with them — they’re not ugly and they’re not unpopular. This is just investors and other people who depend on investors throwing darts at a board. They just happened to land on those numbers. That’s it.” 
+Correction: This story has been updated to change several instances of Ascendant Games to Ascendant Studios. We’ve also adjusted a sentence to reflect that Ascendant Games’ workers were laid off weeks after the game’s release.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loading comments...
+
+
+
+
+
+
+
+
+
+
+
+
+poly-lt-wire-logo
+
+Chorus
+
+
+
+
+Terms of Use
+Privacy Notice
+Cookie Policy
+Do Not Sell or Share My Personal Info
+Licensing FAQ
+Accessibility
+Platform Status
+
+
+Contact
+Send Us a Tip
+Community Guidelines
+Masthead
+Editorial Ethics and Guidelines
+How to Write for Polygon
+About Us
+
+
+
+Vox MediaVox Media
+Vox Media logo.
+Advertise with us
+Jobs @ Vox Media
+      
+      © 2024 Vox Media, LLC. All Rights Reserved
+      
+      
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share this story
+
+
+
+
+
+
+
+
+
+
+                Reddit
+              
+
+
+
+
+
+
+                Facebook
+              
+
+
+
+
+
+
+
+
+
+
+
+

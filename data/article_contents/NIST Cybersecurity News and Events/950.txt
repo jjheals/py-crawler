@@ -1,0 +1,769 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NIST Offers Guidance on Measuring and Improving Your Company’s Cybersecurity Program | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/news/2024/01/nist-offers-guidance-measuring-and-improving-your-companys-cybersecurity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standard Reference Instruments (SRIs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Leadership
+
+
+Organization Structure
+
+
+Budget & Planning
+
+
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Student programs
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS
+
+
+
+NIST Offers Guidance on Measuring and Improving Your Company’s Cybersecurity Program
+
+
+Draft publication can help with evaluating information security efforts.
+
+
+January 17, 2024
+
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Organizations have requested guidance on measurement programs that will help them make data-driven, risk-based decisions to achieve their information security goals. 
+A draft update to a NIST publication offers guidance on how organizations can measure the effectiveness of their information security programs.
+NIST is soliciting public comments on the draft guidance by March 18, 2024. 
+
+
+
+
+
+
+
+
+
+
+
+Credit:
+          
+  PopTika/Shutterstock
+
+        
+
+
+Imagine you’re the new head of cybersecurity at your company. Your team has made a solid start at mounting defenses to ward off hackers and ransomware attacks. As cybersecurity threats continue to mount, you need to show improvements over time to your CEO and customers. How do you measure your progress and present it using meaningful, numerical details? 
+You might want a road map for creating a practical information security measurement program, and you’ll find it in newly revised draft guidance from the National Institute of Standards and Technology (NIST). The two-volume document, whose overall title is NIST Special Publication (SP) 800-55 Revision 2: Measurement Guide for Information Security, offers guidance on developing an effective program, and a flexible approach for developing information security measures to meet your organization’s performance goals. NIST is calling for public comments on this initial public draft by March 18, 2024. 
+The publication is designed to be used together with any risk management framework, such as NIST’s Cybersecurity Framework or Risk Management Framework. It is intended to help organizations move from general statements about risk level toward a more coherent picture founded on hard data. 
+“Everyone manages risk, but many organizations tend to use qualitative descriptions of their risk level, using ideas like stoplight colors or five-point scales,” said NIST’s Katherine Schroeder, one of the publication’s authors. “Our goal is to help people communicate with data instead of vague concepts.”
+Achieving this goal, according to the authors, involves moving from qualitative descriptions of risk — perhaps using broad categories such as high, medium or low risk level — to quantitative ones that carry less ambiguity and subjectivity. An example of the latter would be a statement that 98% of authorized system user accounts belong to current employees and 2% belong to former employees. 
+The team developed the new draft guidance partly in response to public requests and feedback from a pre-draft call for comment. Much of that feedback cited the increased availability of security-related data together with uncertainty over how to put this data to effective use. While the resulting guidance is not prescriptive, Schroeder said its tailorable approach means it can help a variety of organizations create and then improve an information security measurement program that is right for them. 
+“We want people to be able to figure out the process of what to measure. You don’t necessarily need to crunch every number,” she said. “For example, you might want to figure out whether your organization is responding to incidents appropriately, and you might consider factors such as your response time and impact to the mission or business such as additional staff hours, resources needed, or impact to the bottom line. Then you can present that information in a way that makes sense, even if you’re not a statistician — so that you can figure out how to do better.”
+The two volumes are aimed at different audiences within an organization. The first, written mainly for information security specialists, provides guidance on how an organization can prioritize, select and evaluate specific measures to determine the adequacy of security that is already in place. The second, aimed primarily at the C-suite, outlines how an organization can develop an information security measurement program and offers a multistep workflow for implementing it over time.
+The authors point out that qualitative descriptions are appropriate in certain circumstances, and that some organizations might want to use a mixture of qualitative and quantitative approaches. But focusing on measurement can aid communication within an organization, potentially helping to improve both security and resource allocation. 
+“When technical teams communicate with management about information security, metrics provide a common language, using trends and numbers to bridge gaps in understanding,” the authors write. “Organizations want to be able to assess if controls, policies, and procedures are working effectively, efficiently, and how the organization is impacted. Metrics can be used to help prioritize areas for growth, improvement, or re-focusing resources.”  
+In the Notes to Reviewers, NIST is proposing the establishment of a Community of Interest (CoI) for those interested in information security measurement to work together to share expertise, refine the body of knowledge and resources, and identify opportunities for growth and improvement.
+Individuals and organizations interested in joining the Information Security Measurement CoI or submitting comments on the two-volume draft should email cyber-measures [at] list.nist.gov (cyber-measures[at]list[dot]nist[dot]gov).
+
+
+
+
+
+Information technology, Cybersecurity and Cybersecurity measurement
+
+
+
+
+
+
+
+
+Media Contact
+
+
+
+
+Chad Boutin
+
+charles.boutin@nist.gov
+
+
+    (301) 975-4261
+  
+
+
+
+
+
+
+
+
+Organizations
+
+
+NIST HeadquartersLaboratory ProgramsInformation Technology LaboratoryComputer Security DivisionSecurity Engineering and Risk Management Group
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up for updates from NIST
+
+
+
+Enter Email Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Released January 17, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+

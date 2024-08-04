@@ -1,0 +1,813 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Safeguarding Health Information: Building Assurance through HIPAA Security 2024 | NIST
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+Here’s how you know
+
+
+Here’s how you know
+
+
+
+
+
+
+
+
+
+Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+            
+
+
+
+
+
+
+Secure .gov websites use HTTPS
+
+              A lock (  
+
+Lock
+A locked padlock
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            
+
+
+
+
+
+
+
+
+
+
+https://www.nist.gov/news-events/events/2024/10/safeguarding-health-information-building-assurance-through-hipaa-security
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search NIST
+
+
+
+
+
+
+Menu
+
+
+
+
+
+Close
+
+
+Topics
+
+
+
+
+All Topics
+
+
+Advanced communications
+
+
+Artificial intelligence
+
+
+Bioscience
+
+
+Buildings and construction
+
+
+Chemistry
+
+
+Climate
+
+
+Cybersecurity
+
+
+Electronics
+
+
+Energy
+
+
+
+Environment
+
+
+Fire
+
+
+Forensic science
+
+
+Health
+
+
+Information technology
+
+
+Infrastructure
+
+
+Manufacturing
+
+
+Materials
+
+
+Mathematics and statistics
+
+
+
+Metrology
+
+
+Nanotechnology
+
+
+Neutron research
+
+
+Performance excellence
+
+
+Physics
+
+
+Public safety
+
+
+Resilience
+
+
+Standards
+
+
+Transportation
+
+
+
+
+
+
+
+Publications
+
+
+Labs & Major Programs
+
+
+
+
+Laboratories
+
+
+Communications Technology Laboratory
+
+
+Engineering Laboratory
+
+
+Information Technology Laboratory
+
+
+Material Measurement Laboratory
+
+
+Physical Measurement Laboratory
+
+
+
+
+
+User Facilities
+
+
+NIST Center for Neutron Research
+
+
+CNST NanoFab
+
+
+
+
+Research Test Beds
+
+
+Research Projects
+
+
+Tools & Instruments
+
+
+
+Major Programs
+
+
+Baldrige Performance Excellence Program
+
+
+CHIPS for America Initiative
+
+
+Manufacturing Extension Partnership (MEP)
+
+
+Office of Advanced Manufacturing
+
+
+Special Programs Office
+
+
+Technology Partnerships Office
+
+
+
+
+
+
+
+
+
+Services & Resources
+
+
+
+
+Standards and Measurements
+
+
+Calibration Services
+
+
+Laboratory Accreditation (NVLAP)
+
+
+Quality System
+
+
+Standard Reference Materials (SRMs)
+
+
+Standard Reference Instruments (SRIs)
+
+
+Standards.gov
+
+
+Time Services
+
+
+Office of Weights and Measures
+
+
+
+
+
+Software
+
+
+Data
+
+
+Chemistry WebBook
+
+
+National Vulnerability Database
+
+
+Physical Reference Data
+
+
+Standard Reference Data (SRD)
+
+
+
+
+Storefront
+
+
+License & Patents
+
+
+
+Computer Security Resource Center (CSRC)
+
+
+NIST Research Library
+
+
+
+
+
+
+
+News & Events
+
+
+
+
+News
+
+
+Events
+
+
+Blogs
+
+
+Feature Stories
+
+
+Awards
+
+
+
+Video Gallery
+
+
+Image Gallery
+
+
+Media Contacts
+
+
+
+
+
+
+
+About NIST
+
+
+
+
+About Us
+
+
+Leadership
+
+
+Organization Structure
+
+
+Budget & Planning
+
+
+
+
+Contact Us
+
+
+Visit
+
+
+Careers
+
+
+Student programs
+
+
+
+
+
+Work with NIST
+
+
+History
+
+
+NIST Digital Archives
+
+
+NIST Museum
+
+
+NIST and the Nobel
+
+
+
+
+Educational Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EVENTS
+
+
+Safeguarding Health Information: Building Assurance through HIPAA Security 2024
+
+
+
+
+Share
+
+
+
+
+Facebook
+
+
+
+
+Linkedin
+
+
+
+
+Twitter
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read the Code of Conduct for NIST Conferences.
+
+
+
+
+
+
+conference
+
+
+
+
+              October 23 - 24, 2024
+
+
+
+
+Hubert H. Humphrey Building
+200 Independence Avenue S.W.
+Washington, D.C., 20201			
+
+
+
+Register
+
+
+Registration for in-person attendance closes on October 16, 2024.Registration Fees:The registration fee for in-person is $180.00 and includes all-day beverage service, morning and afternoon snacks, and lunch each day.The virtual registration fee is $50.00.Technical Contact:Jeffrey Marronjeffrey.marron [at] nist.gov (jeffrey[dot]marron[at]nist[dot]gov) 
+
+
+Registration Contact
+
+
+
+Crissy Robinson
+
+christina.robinson@nist.gov
+
+
+    (202) 507-0683
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Department of Health and Human Services (HHS) Office for Civil Rights (OCR) and the National Institute of Standards and Technology (NIST) Information Technology Laboratory (ITL) are pleased to announce the return of the Safeguarding Health Information: Building Assurance through HIPAA Security conference. After a 5-year absence, the conference is returning to Washington D.C. on October 23-24, 2024 at the HHS Headquarters.The conference will explore the current healthcare cybersecurity landscape and the Health Insurance Portability and Accountability Act (HIPAA) Security Rule. This event will highlight the present state of healthcare cybersecurity, and practical strategies, tips and techniques for implementing the HIPAA Security Rule. The Security Rule sets federal standards to protect the confidentiality, integrity and availability of electronic protected health information by requiring HIPAA covered entities and their business associates to implement and maintain administrative, physical and technical safeguards.The conference will offer sessions that explore best practices in managing risks to and the technical assurance of electronic health information. Presentations will cover a variety of topics including managing cybersecurity risk and implementing practical cybersecurity solutions, understanding current cybersecurity threats to the healthcare community, cybersecurity considerations for IoT in healthcare environments, updates from federal healthcare agencies, and more.
+
+
+
+
+
+
+
+    Agenda
+  
+
+
+Will be posted soon.9:00am - 4:00pm ET daily
+
+
+
+
+
+
+
+
+
+    Lodging Information
+  
+
+
+Please see below for a list of nearby hotels:Holiday Inn Washington Capital - National Mall550 C Street SW, Washington, District of Columbia, 20024Distance to HHS: 0.9 milescitizenM Washington DC Capitol hotel550 School St SW, Washington District of Columbia, 20024Distance to HHS HQ: 1.2 milesResidence Inn Washington, DC National Mall333 E ST. SW, Washington, District of Columbia, 20024Distance to HHS HQ: 0.9 milesHyatt Place Washington DC/National Mall400 E Street SW, Washington, D.C. 20024Distance to HHS HQ: 1.0 miles
+
+
+
+
+
+
+
+Information technology, Cybersecurity and Health IT
+
+
+
+
+
+
+
+
+
+Read the Code of Conduct for NIST Conferences.
+
+
+
+
+
+
+conference
+
+
+
+
+              October 23 - 24, 2024
+                
+
+
+
+Hubert H. Humphrey Building
+200 Independence Avenue S.W.
+Washington, D.C., 20201			
+
+
+
+Register
+
+
+Registration for in-person attendance closes on October 16, 2024.Registration Fees:The registration fee for in-person is $180.00 and includes all-day beverage service, morning and afternoon snacks, and lunch each day.The virtual registration fee is $50.00.Technical Contact:Jeffrey Marronjeffrey.marron [at] nist.gov (jeffrey[dot]marron[at]nist[dot]gov) 
+
+
+Registration Contact
+
+
+
+Crissy Robinson
+
+christina.robinson@nist.gov
+
+
+    (202) 507-0683
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  Created June 7, 2024, Updated August 1, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEADQUARTERS
+
+              100 Bureau Drive
+              Gaithersburg, MD 20899
+301-975-2000
+
+
+Webmaster | Contact Us | Our Other Offices
+
+
+
+
+
+
+Twitter
+
+
+Facebook
+
+
+LinkedIn
+
+
+Instagram
+
+
+YouTube
+
+
+Giphy
+
+
+RSS Feed
+
+
+Mailing List
+
+
+
+            How are we doing? Feedback
+
+
+
+
+
+
+
+
+Site Privacy
+
+
+Accessibility
+
+
+Privacy Program
+
+
+Copyrights
+
+
+Vulnerability Disclosure
+
+
+No Fear Act Policy
+
+
+FOIA
+
+
+Environmental Policy
+
+
+Scientific Integrity
+
+
+Information Quality Standards
+
+
+Commerce.gov
+
+
+Science.gov
+
+
+USA.gov
+
+
+Vote.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
